@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "width": 57,
+  "height": 19,
+  "duration": 41.702781,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.515731,
+      "$"
+    ],
+    [
+      1.341225,
+      "\r\n$"
+    ],
+    [
+      2.433863,
+      "n"
+    ],
+    [
+      0.231975,
+      "o"
+    ],
+    [
+      0.278309,
+      "d"
+    ],
+    [
+      0.277732,
+      "e"
+    ],
+    [
+      0.281085,
+      "js "
+    ],
+    [
+      2.842250,
+      "m"
+    ],
+    [
+      0.222199,
+      "ethods-array-objects.js "
+    ],
+    [
+      4.278822,
+      "\r\n"
+    ],
+    [
+      0.330880,
+      "[ 'Mack', 'the', 'Knife' ]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000572,
+      "Mack the Knife"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "Mack-the-Knife"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "Knife\r\n"
+    ],
+    [
+      0.000167,
+      "[ 'Mack', 'the' ]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002186,
+      "$"
+    ],
+    [
+      3.153930,
+      "c"
+    ],
+    [
+      0.093255,
+      "a"
+    ],
+    [
+      0.106601,
+      "t"
+    ],
+    [
+      0.418256,
+      " "
+    ],
+    [
+      2.250878,
+      "m"
+    ],
+    [
+      0.092760,
+      "e"
+    ],
+    [
+      0.102766,
+      "thods-array-objects.js "
+    ],
+    [
+      0.960968,
+      "\r\n"
+    ],
+    [
+      0.001305,
+      "var mack = [];\r\nmack.push(\"Mack\");\r\nmack.push(\"the\", \"Knife\");\r\nconsole.log(mack);\r\n// . [\"Mack\", \"the\", \"Knife\"]\r\nconsole.log(mack.join(\" \"));\r\n// . Mack the Knife\r\nconsole.log(mack.join(\"-\"));\r\n// . Mack-the-Knife \r\nconsole.log(mack.pop());\r\n// . Knife\r\nconsole.log(mack);\r\n// . [\"Mack\", \"the\"]\r\n$"
+    ],
+    [
+      4.453367,
+      "cat methods-array-objects.js "
+    ],
+    [
+      0.314368,
+      "\r\u001b[C\u001b[3@nodejs\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      10.276442,
+      "\r\n"
+    ],
+    [
+      0.064205,
+      "[ 'Mack', 'the', 'Knife' ]"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000563,
+      "Mack the Knife"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "Mack-the-Knife"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "Knife\r\n"
+    ],
+    [
+      0.000165,
+      "[ 'Mack', 'the' ]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001873,
+      "$"
+    ],
+    [
+      6.373472,
+      "exit\r\n"
+    ]
+  ]
+}
