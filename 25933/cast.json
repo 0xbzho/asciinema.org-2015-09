@@ -1,0 +1,2710 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 44,
+  "duration": 88.659526,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.230633,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.044826,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000009,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      0.532567,
+      "."
+    ],
+    [
+      0.048052,
+      "/"
+    ],
+    [
+      0.328272,
+      "r"
+    ],
+    [
+      0.103691,
+      "i"
+    ],
+    [
+      0.119884,
+      "g"
+    ],
+    [
+      0.136320,
+      "g"
+    ],
+    [
+      0.168188,
+      "e"
+    ],
+    [
+      0.072071,
+      "r"
+    ],
+    [
+      0.095957,
+      " "
+    ],
+    [
+      0.463990,
+      "p"
+    ],
+    [
+      0.216044,
+      "r"
+    ],
+    [
+      0.143998,
+      "o"
+    ],
+    [
+      0.128042,
+      "v"
+    ],
+    [
+      0.103884,
+      "i"
+    ],
+    [
+      0.095808,
+      "s"
+    ],
+    [
+      0.112480,
+      "i"
+    ],
+    [
+      0.047670,
+      "o"
+    ],
+    [
+      0.096100,
+      "n"
+    ],
+    [
+      0.688303,
+      "\r\n"
+    ],
+    [
+      0.079973,
+      "\u001b[32mInstalling deis-cli (1.9.1) at /Users/sethgoings/.rigger/80472ea652/bin/deis...\u001b[0m\r\n"
+    ],
+    [
+      0.403199,
+      "  % Total    % Received % Xf"
+    ],
+    [
+      0.000006,
+      "erd  Average Speed   Time    Time    "
+    ],
+    [
+      0.000002,
+      " Tim"
+    ],
+    [
+      0.000002,
+      "e  "
+    ],
+    [
+      0.000002,
+      "Cur"
+    ],
+    [
+      0.000002,
+      "re"
+    ],
+    [
+      0.000002,
+      "nt\r\n"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000009,
+      "                "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000001,
+      " "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "Dlo"
+    ],
+    [
+      0.000001,
+      "ad"
+    ],
+    [
+      0.000002,
+      "  U"
+    ],
+    [
+      0.000001,
+      "plo"
+    ],
+    [
+      0.000001,
+      "ad"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "To"
+    ],
+    [
+      0.000002,
+      "tal "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "Spe"
+    ],
+    [
+      0.000001,
+      "nt"
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      " L"
+    ],
+    [
+      0.000001,
+      "eft"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "Spe"
+    ],
+    [
+      0.000001,
+      "ed"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r  0     0 "
+    ],
+    [
+      0.000003,
+      "   0     0    0     0  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      " 0 "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000001,
+      "0 "
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000004,
+      "--:-- -"
+    ],
+    [
+      0.000002,
+      "-:-"
+    ],
+    [
+      0.000002,
+      "-:--"
+    ],
+    [
+      0.000002,
+      " --:"
+    ],
+    [
+      0.000001,
+      "--"
+    ],
+    [
+      0.000001,
+      ":--"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000001,
+      " 0"
+    ],
+    [
+      0.249565,
+      "\r  0     0    0     0    "
+    ],
+    [
+      0.000007,
+      "0     0      0      0 --:--:-- --:--"
+    ],
+    [
+      0.000003,
+      ":--"
+    ],
+    [
+      0.000003,
+      " --:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      ":--"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "0"
+    ],
+    [
+      0.997142,
+      "\r 16 6"
+    ],
+    [
+      0.000007,
+      "950k   16 1172k    0     0   940k   "
+    ],
+    [
+      0.000005,
+      "   0  0"
+    ],
+    [
+      0.000002,
+      ":00"
+    ],
+    [
+      0.000002,
+      ":0"
+    ],
+    [
+      0.000002,
+      "7  "
+    ],
+    [
+      0.000002,
+      "0:"
+    ],
+    [
+      0.000002,
+      "00:"
+    ],
+    [
+      0.000002,
+      "01"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "0:0"
+    ],
+    [
+      0.000002,
+      "0:"
+    ],
+    [
+      0.000002,
+      "06 "
+    ],
+    [
+      0.000002,
+      " 9"
+    ],
+    [
+      0.000002,
+      "40"
+    ],
+    [
+      0.000002,
+      "k"
+    ],
+    [
+      1.000000,
+      "\r 63 6"
+    ],
+    [
+      0.000012,
+      "950k   63 4435k    0     0  1958k     "
+    ],
+    [
+      0.000009,
+      " 0  0:00:0"
+    ],
+    [
+      0.000003,
+      "3  0:00"
+    ],
+    [
+      0.000018,
+      ":0"
+    ],
+    [
+      0.000010,
+      "2  0:00:01 1958k"
+    ],
+    [
+      0.500482,
+      "\r100 6950k  100 6950k  "
+    ],
+    [
+      0.000007,
+      "  0     0  2514k      0  0:00:02  0:00:02 --:--:-- 2513k\r\n"
+    ],
+    [
+      0.016802,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.040390,
+      " All good.\r\n"
+    ],
+    [
+      0.002625,
+      "Uncompressing Deis CLI"
+    ],
+    [
+      0.422556,
+      "     0% "
+    ],
+    [
+      0.006119,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000014,
+      "   59% "
+    ],
+    [
+      0.003670,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000013,
+      " 100%  "
+    ],
+    [
+      0.039734,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "deis is in the current directory. Please\r\n"
+    ],
+    [
+      0.000015,
+      "move deis to a directory in your search PATH.\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "See http://docs.deis.io/ for documentation.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.013332,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/80472ea652/bin/deis -\u003e /Users/sethgoings/.rigger/80472ea652/1.9.1/deis\u001b[0m\r\n"
+    ],
+    [
+      0.293873,
+      "  % Total    "
+    ],
+    [
+      0.000006,
+      "% Received % Xferd  Average Speed   "
+    ],
+    [
+      0.000003,
+      "Time "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000001,
+      "Tim"
+    ],
+    [
+      0.000001,
+      "e "
+    ],
+    [
+      0.000011,
+      "    Time  Current\r\n"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "    "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000002,
+      "   "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000001,
+      "   "
+    ],
+    [
+      0.000002,
+      " D"
+    ],
+    [
+      0.000002,
+      "load"
+    ],
+    [
+      0.000002,
+      "  U"
+    ],
+    [
+      0.000002,
+      "ploa"
+    ],
+    [
+      0.000001,
+      "d  "
+    ],
+    [
+      0.000001,
+      " T"
+    ],
+    [
+      0.000002,
+      "ota"
+    ],
+    [
+      0.000001,
+      "l "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "Spe"
+    ],
+    [
+      0.000002,
+      "nt  "
+    ],
+    [
+      0.000002,
+      " "
+    ],
+    [
+      0.000002,
+      " Lef"
+    ],
+    [
+      0.000002,
+      "t  "
+    ],
+    [
+      0.000002,
+      "Spee"
+    ],
+    [
+      0.000001,
+      "d\r\n"
+    ],
+    [
+      0.000023,
+      "\r  0     0"
+    ],
+    [
+      0.000004,
+      "    0     0    0     "
+    ],
+    [
+      0.000002,
+      "0  "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "  "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000012,
+      " -"
+    ],
+    [
+      0.000003,
+      "-:--:-- --:--:-- "
+    ],
+    [
+      0.000002,
+      "--:"
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000001,
+      "-"
+    ],
+    [
+      0.000001,
+      "  "
+    ],
+    [
+      0.000004,
+      "  "
+    ],
+    [
+      0.000001,
+      " 0"
+    ],
+    [
+      0.680601,
+      "\r  3 "
+    ],
+    [
+      0.000012,
+      "2982k    3 "
+    ],
+    [
+      0.000026,
+      " 101k"
+    ],
+    [
+      0.000009,
+      "    0     0 "
+    ],
+    [
+      0.000005,
+      "  14"
+    ],
+    [
+      0.000003,
+      "9k "
+    ],
+    [
+      0.000004,
+      "   "
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000004,
+      "0  "
+    ],
+    [
+      0.000003,
+      "0:"
+    ],
+    [
+      0.000004,
+      "00:"
+    ],
+    [
+      0.000007,
+      "19 "
+    ],
+    [
+      0.000003,
+      "--:--"
+    ],
+    [
+      0.000003,
+      ":--"
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      "0:"
+    ],
+    [
+      0.000003,
+      "00:"
+    ],
+    [
+      0.000003,
+      "19"
+    ],
+    [
+      0.000005,
+      "  1"
+    ],
+    [
+      0.000005,
+      "49k"
+    ],
+    [
+      1.000000,
+      "\r 14 2982k  "
+    ],
+    [
+      0.000007,
+      " 14  423k    0     0   250k    "
+    ],
+    [
+      0.000034,
+      "  0"
+    ],
+    [
+      0.000007,
+      "  0:00:11  "
+    ],
+    [
+      0.000004,
+      "0:00"
+    ],
+    [
+      0.000003,
+      ":01 "
+    ],
+    [
+      0.000003,
+      " 0:0"
+    ],
+    [
+      0.000031,
+      "0:10  250k"
+    ],
+    [
+      0.955696,
+      "\r 43 2982k   4"
+    ],
+    [
+      0.000012,
+      "3 1308k    0     0   493k     "
+    ],
+    [
+      0.000006,
+      " 0  0"
+    ],
+    [
+      0.000004,
+      ":00"
+    ],
+    [
+      0.000003,
+      ":06"
+    ],
+    [
+      0.000003,
+      "  "
+    ],
+    [
+      0.000003,
+      "0:0"
+    ],
+    [
+      0.000005,
+      "0:"
+    ],
+    [
+      0.000005,
+      "02  "
+    ],
+    [
+      0.000005,
+      "0:0"
+    ],
+    [
+      0.000004,
+      "0:04"
+    ],
+    [
+      0.000004,
+      "  4"
+    ],
+    [
+      0.000003,
+      "93"
+    ],
+    [
+      0.000003,
+      "k"
+    ],
+    [
+      0.993688,
+      "\r 99 29"
+    ],
+    [
+      0.000006,
+      "82k   99 2973k    0     0   816k    "
+    ],
+    [
+      0.000002,
+      "  0"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000006,
+      " 0:00:03  0:00:03 "
+    ],
+    [
+      0.000002,
+      "--:--"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000002,
+      "-  "
+    ],
+    [
+      0.000002,
+      "81"
+    ],
+    [
+      0.000002,
+      "6k"
+    ],
+    [
+      0.000205,
+      "\r100 2982k  100 2982k   "
+    ],
+    [
+      0.000005,
+      " 0     0   818k   "
+    ],
+    [
+      0.000003,
+      "   0"
+    ],
+    [
+      0.000003,
+      "  0:"
+    ],
+    [
+      0.000003,
+      "00:0"
+    ],
+    [
+      0.000003,
+      "3  0"
+    ],
+    [
+      0.000003,
+      ":00"
+    ],
+    [
+      0.000002,
+      ":03 "
+    ],
+    [
+      0.000002,
+      "--"
+    ],
+    [
+      0.000002,
+      ":--"
+    ],
+    [
+      0.000002,
+      ":-"
+    ],
+    [
+      0.000002,
+      "- "
+    ],
+    [
+      0.000002,
+      " 81"
+    ],
+    [
+      0.000003,
+      "8k"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.012243,
+      "Verifying archive integrity..."
+    ],
+    [
+      0.029667,
+      " All good.\r\n"
+    ],
+    [
+      0.002814,
+      "Uncompressing Deis Control Utility"
+    ],
+    [
+      0.408722,
+      "     0% "
+    ],
+    [
+      0.006317,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000006,
+      "   34% "
+    ],
+    [
+      0.008553,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000016,
+      "   68% "
+    ],
+    [
+      0.003723,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.000024,
+      " 100%  "
+    ],
+    [
+      0.021031,
+      "\r\n"
+    ],
+    [
+      0.273601,
+      "Refreshed deis-builder from v1.9.1\r\n"
+    ],
+    [
+      0.090638,
+      "Refreshed deis-cache from v1.9.1\r\n"
+    ],
+    [
+      0.079346,
+      "Refreshed deis-controller from v1.9.1\r\n"
+    ],
+    [
+      0.121612,
+      "Refreshed deis-database from v1.9.1\r\n"
+    ],
+    [
+      0.130370,
+      "Refreshed deis-logger from v1.9.1\r\n"
+    ],
+    [
+      0.079155,
+      "Refreshed deis-logspout from v1.9.1\r\n"
+    ],
+    [
+      0.090229,
+      "Refreshed deis-publisher from v1.9.1\r\n"
+    ],
+    [
+      0.083372,
+      "Refreshed deis-registry from v1.9.1\r\n"
+    ],
+    [
+      0.086897,
+      "Refreshed deis-router from v1.9.1\r\n"
+    ],
+    [
+      0.087370,
+      "Refreshed deis-store-admin from v1.9.1\r\n"
+    ],
+    [
+      0.125822,
+      "Refreshed deis-store-daemon from v1.9.1\r\n"
+    ],
+    [
+      0.091327,
+      "Refreshed deis-store-gateway from v1.9.1\r\n"
+    ],
+    [
+      0.090171,
+      "Refreshed deis-store-metadata from v1.9.1\r\n"
+    ],
+    [
+      0.095619,
+      "Refreshed deis-store-monitor from v1.9.1\r\n"
+    ],
+    [
+      0.085280,
+      "Refreshed deis-store-volume from v1.9.1\r\n"
+    ],
+    [
+      0.086565,
+      "Refreshed deis-swarm-manager from v1.9.1\r\n"
+    ],
+    [
+      0.105308,
+      "Refreshed deis-swarm-node from v1.9.1\r\n"
+    ],
+    [
+      0.087146,
+      "Refreshed deis-mesos-marathon from v1.9.1\r\n"
+    ],
+    [
+      0.124722,
+      "Refreshed deis-mesos-master from v1.9.1\r\n"
+    ],
+    [
+      0.095004,
+      "Refreshed deis-mesos-slave from v1.9.1\r\n"
+    ],
+    [
+      0.099868,
+      "Refreshed deis-zookeeper from v1.9.1\r\n"
+    ],
+    [
+      0.096715,
+      "Refreshed deis-kube-apiserver from v1.9.1\r\n"
+    ],
+    [
+      0.085946,
+      "Refreshed deis-kube-controller-manager from v1.9.1\r\n"
+    ],
+    [
+      0.093870,
+      "Refreshed deis-kube-kubelet from v1.9.1\r\n"
+    ],
+    [
+      0.110717,
+      "Refreshed deis-kube-proxy from v1.9.1\r\n"
+    ],
+    [
+      0.095763,
+      "Refreshed deis-kube-scheduler from v1.9.1\r\n"
+    ],
+    [
+      0.002631,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "deisctl is in the current directory and unit files are\r\n"
+    ],
+    [
+      0.000024,
+      "in /Users/sethgoings/.deis/units. Please move deisctl to a\r\n"
+    ],
+    [
+      0.000005,
+      "directory in your search PATH.\r\n"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "See http://docs.deis.io/ for documentation.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.015311,
+      "\u001b[32mMoving unit files to /Users/sethgoings/.rigger/80472ea652/units\u001b[0m\r\n"
+    ],
+    [
+      0.015522,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/80472ea652/bin/deisctl -\u003e /Users/sethgoings/.rigger/80472ea652/1.9.1/deisctl\u001b[0m\r\n"
+    ],
+    [
+      0.016085,
+      "\u001b[32mLinking /Users/sethgoings/.rigger/80472ea652/units -\u003e /Users/sethgoings/.rigger/80472ea652/1.9.1/units\u001b[0m\r\n"
+    ],
+    [
+      0.020201,
+      "sed -e \"s,discovery #DISCOVERY_URL,discovery $(curl -s -w '\\n' https://discovery.etcd.io/new?size=$DEIS_NUM_INSTANCES),\" contrib/coreos/user-data.example \u003e contrib/coreos/user-data\r\n"
+    ],
+    [
+      0.361204,
+      "\u001b[32mStarting ssh-agent and adding keys...\u001b[0m\r\n"
+    ],
+    [
+      0.263472,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000111,
+      "  backups:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000053,
+      "  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000041,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000043,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000040,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000046,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000060,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000034,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000039,
+      "  name:                 \"\" =\u003e \"deis-80472ea652-2\"\r\n"
+    ],
+    [
+      0.000022,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000041,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000111,
+      "  size:                 \"\" =\u003e \"8GB\"\r\n"
+    ],
+    [
+      0.000020,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000247,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000046,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.016935,
+      "  user_data:            \"\" =\u003e \"#cloud-config\\n---\\ncoreos:\\n  fleet:\\n    # We have to set the public_ip here so this works on Vagrant -- otherwise, Vagrant VMs\\n    # will all publish the same private IP. This is harmless for cloud providers.\\n    public-ip: $private_ipv4\\n    # allow etcd to slow down at times\\n    etcd_request_timeout: 3.0\\n  units:\\n  - name: etcd.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=etcd2 container\\n      Requires=early-docker.service\\n      After=early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      User=etcd\\n      PermissionsStartOnly=true\\n      Restart=always\\n      RestartSec=10s\\n      LimitNOFILE=40000\\n      EnvironmentFile=/etc/environment\\n      Environment=\\\"ETCD_IMAGE=quay.io/coreos/etcd:v2.1.2\\\"\\n      Environment=\\\"ETCD_ELECTION_TIMEOUT=2000\\\"\\n      Environment=\\\"ETCD_HEARTBEAT_INTERVAL=400\\\"\\n      Environment=\\\"ETCD_HOST_DATA_DIR=/var/lib/etcd2\\\"\\n      Environment=\\\"ETCD_NAME=%m\\\"\\n      Environment=\\\"D"
+    ],
+    [
+      0.000064,
+      "OCKER_HOST=unix:///var/run/early-docker.sock\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker history $ETCD_IMAGE \u003e/dev/null 2\u003e\u00261 || docker pull $ETCD_IMAGE\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker inspect $ETCD_NAME \u003e/dev/null 2\u003e\u00261 \u0026\u0026 docker rm -f $ETCD_NAME || true\\\"\\n      ExecStart=/usr/bin/docker run --net=host --rm \\\\\\n        --volume=${ETCD_HOST_DATA_DIR}:/var/lib/etcd2 \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        -p 4001:4001 -p 2380:2380 -p 2379:2379 -p 7001:7001 \\\\\\n        --name ${ETCD_NAME} \\\\\\n        ${ETCD_IMAGE} \\\\\\n        -name ${ETCD_NAME} \\\\\\n        -data-dir /var/lib/etcd2 \\\\\\n        -advertise-client-urls http://${COREOS_PRIVATE_IPV4}:2379,http://${COREOS_PRIVATE_IPV4}:4001 \\\\\\n        -listen-client-urls http://0.0.0.0:2379,http://0.0.0.0:4001 \\\\\\n        -initial-advertise-peer-urls http://${COREOS_PRIVATE_IPV4}:2380,http://${COREOS_PRIVATE_IPV4}:7001 \\\\\\n        -listen-peer-urls http://0.0.0.0:2380,http://0.0.0.0:7001 \\\\\\n        --heartbeat-interval ${"
+    ],
+    [
+      0.000124,
+      "ETCD_HEARTBEAT_INTERVAL} \\\\\\n        --election-timeout ${ETCD_ELECTION_TIMEOUT} \\\\\\n        --discovery https://discovery.etcd.io/4d65abda03359a5c97dc8603b1ada005\\n      ExecStop=-/usr/bin/docker stop $ETCD_NAME\\n  - name: etcd2.service\\n    mask: true\\n  - name: docker-tcp.socket\\n    command: start\\n    enable: true\\n    content: |\\n      [Unit]\\n      Description=Docker Socket for the API\\n\\n      [Socket]\\n      ListenStream=2375\\n      BindIPv6Only=both\\n      Service=docker.service\\n      [Install]\\n      WantedBy=sockets.target\\n  - name: flanneld.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Network fabric for containers\\n      Documentation=https://github.com/coreos/flannel\\n      Requires=early-docker.service etcd.service\\n      After=etcd.service early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      Type=notify\\n      Restart=always\\n      RestartSec=5\\n      Environment=\\\"TMPDIR=/var/tmp/\\\"\\n      Environment=\\\"DOCKER_HOST=unix:///var/run/"
+    ],
+    [
+      0.000086,
+      "early-docker.sock\\\"\\n      Environment=\\\"FLANNEL_VER=0.5.1\\\"\\n      LimitNOFILE=40000\\n      LimitNPROC=1048576\\n      ExecStartPre=/sbin/modprobe ip_tables\\n      ExecStartPre=/usr/bin/mkdir -p /run/flannel\\n      ExecStartPre=/usr/bin/touch /run/flannel/options.env\\n      ExecStartPre=-/usr/bin/etcdctl mk /coreos.com/network/config '{\\\"Network\\\":\\\"10.244.0.0/16\\\", \\\"SubnetLen\\\": 24, \\\"SubnetMin\\\":\\\"10.244.0.0\\\", \\\"Backend\\\": {\\\"Type\\\": \\\"vxlan\\\"}}'\\n      ExecStart=/usr/libexec/sdnotify-proxy /run/flannel/sd.sock \\\\\\n        /usr/bin/docker run --net=host --privileged=true --rm \\\\\\n        --volume=/run/flannel:/run/flannel \\\\\\n        --env=NOTIFY_SOCKET=/run/flannel/sd.sock \\\\\\n        --env-file=/run/flannel/options.env \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        quay.io/coreos/flannel:${FLANNEL_VER} /opt/bin/flanneld --ip-masq=true\\n\\n      # Update docker options\\n      ExecStartPost=/usr/bin/docker run --net=host --rm -v /run:/run \\\\\\n        quay.io/coreos/flannel:${"
+    ],
+    [
+      0.000054,
+      "FLANNEL_VER} \\\\\\n        /opt/bin/mk-docker-opts.sh -d /run/flannel_docker_opts.env -i\\n  - name: stop-update-engine.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=stop update-engine\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/systemctl stop update-engine.service\\n      ExecStartPost=/usr/bin/systemctl mask update-engine.service\\n  - name: graceful-deis-shutdown.service\\n    content: |\\n      [Unit]\\n      Description=Clean up\\n      DefaultDependencies=no\\n      After=fleet.service etcd.service docker.service docker.socket deis-store-admin.service deis-store-daemon.service deis-store-volume.service deis-store-monitor.service\\n      Requires=fleet.service etcd.service deis-store-admin.service deis-store-daemon.service deis-store-volume.service docker.service docker.socket deis-store-monitor.service\\n\\n      [Install]\\n      WantedBy=shutdown.target halt.target reboot.target\\n\\n      [Service]\\n      ExecStop=/opt/bin/graceful-shutdown.sh --really\\n      Type="
+    ],
+    [
+      0.000080,
+      "oneshot\\n      TimeoutSec=1200\\n      RemainAfterExit=yes\\n  - name: install-deisctl.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Install deisctl utility\\n      ConditionPathExists=!/opt/bin/deisctl\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/sh -c 'curl -sSL --retry 5 --retry-delay 2 http://deis.io/deisctl/install.sh | sh -s 1.9.1'\\n  - name: debug-etcd.service\\n    content: |\\n      [Unit]\\n      Description=etcd debugging service\\n\\n      [Service]\\n      ExecStartPre=/usr/bin/curl -sSL -o /opt/bin/jq http://stedolan.github.io/jq/download/linux64/jq\\n      ExecStartPre=/usr/bin/chmod +x /opt/bin/jq\\n      ExecStart=/usr/bin/bash -c \\\"while true; do curl -sL http://127.0.0.1:4001/v2/stats/self | /opt/bin/jq . ; sleep 1 ; done\\\"\\n  - name: increase-nf_conntrack-connections.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Increase the number of connections in nf_conntrack. default is 65536\\n\\n      [Service]\\n      Type=oneshot\\n"
+    ],
+    [
+      0.000050,
+      "      ExecStartPre=/usr/sbin/modprobe nf_conntrack\\n      ExecStart=/bin/sh -c \\\"sysctl -w net.netfilter.nf_conntrack_max=262144\\\"\\n  - name: fleet.service\\n    command: start\\nwrite_files:\\n  - path: /etc/deis-release\\n    content: |\\n      DEIS_RELEASE=v1.9.1\\n  - path: /etc/motd\\n    content: \\\" \\\\e[31m* *    \\\\e[34m*   \\\\e[32m*****    \\\\e[39mddddd   eeeeeee iiiiiii   ssss\\\\n\\\\e[31m*   *  \\\\e[34m* *  \\\\e[32m*   *     \\\\e[39md   d   e    e    i     s    s\\\\n \\\\e[31m* *  \\\\e[34m***** \\\\e[32m*****     \\\\e[39md    d  e         i    s\\\\n\\\\e[32m*****  \\\\e[31m* *    \\\\e[34m*       \\\\e[39md     d e         i     s\\\\n\\\\e[32m*   * \\\\e[31m*   *  \\\\e[34m* *      \\\\e[39md     d eee       i      sss\\\\n\\\\e[32m*****  \\\\e[31m* *  \\\\e[34m*****     \\\\e[39md     d e         i         s\\\\n  \\\\e[34m*   \\\\e[32m*****  \\\\e[31m* *      \\\\e[39md    d  e         i          s\\\\n \\\\e[34m* *  \\\\e[32m*   * \\\\e[31m*   *     \\\\e[39md   d   e    e    i    s    s\\\\n\\\\e[34m***** \\\\e[32m*****  \\\\e[31m* *     \\\\e[39mddddd   eeeeeee iiiiiii  sss"
+    ],
+    [
+      0.000056,
+      "s\\\\n\\\\n\\\\e[39mWelcome to Deis\\\\t\\\\t\\\\tPowered by Core\\\\e[38;5;45mO\\\\e[38;5;206mS\\\\e[39m\\\\n\\\"\\n  - path: /etc/profile.d/nse-function.sh\\n    permissions: '0755'\\n    content: |\\n      function nse() {\\n        docker exec -it $1 bash\\n      }\\n  - path: /etc/systemd/system/docker.service.d/50-insecure-registry.conf\\n    content: |\\n      [Unit]\\n      Requires=flanneld.service\\n      After=flanneld.service\\n\\n      [Service]\\n      EnvironmentFile=/etc/environment_proxy\\n      Environment=\\\"DOCKER_OPTS=--insecure-registry 10.0.0.0/8 --insecure-registry 172.16.0.0/12 --insecure-registry 192.168.0.0/16 --insecure-registry 100.64.0.0/10\\\"\\n  - path: /run/deis/bin/get_image\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # usage: get_image \u003ccomponent_path\u003e\\n      IMAGE=`etcdctl get $1/image 2\u003e/dev/null`\\n\\n      # if no image was set in etcd, we use the default plus the release string\\n      if [ $? -ne 0 ]; then\\n        RELEASE=`etcdctl get /deis/platform/version 2\u003e/dev/null`\\n\\n        # if n"
+    ],
+    [
+      0.000080,
+      "o release was set in etcd, use the default provisioned with the server\\n        if [ $? -ne 0 ]; then\\n          source /etc/deis-release\\n          RELEASE=$DEIS_RELEASE\\n        fi\\n\\n        IMAGE=$1:$RELEASE\\n      fi\\n\\n      # remove leading slash\\n      echo ${IMAGE#/}\\n  - path: /run/deis/bin/preseed\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      COMPONENTS=(builder cache controller database logger logspout publisher registry router store-daemon store-gateway store-metadata store-monitor)\\n      for c in \\\"${COMPONENTS[@]}\\\"; do\\n        image=`/run/deis/bin/get_image /deis/$c`\\n        docker history $image \u003e/dev/null 2\u003e\u00261 || docker pull $image\\n      done\\n  - path: /opt/bin/deis-debug-logs\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      echo '--- VERSIONS ---'\\n      source /etc/os-release\\n      echo $PRETTY_NAME\\n      source /etc/deis-release\\n      echo \\\"Deis $DEIS_RELEASE\\\"\\n      etcd -version\\n      fleet -version\\n      printf \\\"\\\\n\\\"\\n\\n      ech"
+    ],
+    [
+      0.000119,
+      "o '--- SYSTEM STATUS ---'\\n      journalctl -n 50 -u etcd --no-pager\\n      journalctl -n 50 -u fleet --no-pager\\n      printf \\\"\\\\n\\\"\\n\\n      echo '--- DEIS STATUS ---'\\n      deisctl list\\n      etcdctl ls --recursive /deis\\n      printf \\\"\\\\n\\\"\\n  - path: /home/core/.toolboxrc\\n    owner: core\\n    content: |\\n      TOOLBOX_DOCKER_IMAGE=alpine\\n      TOOLBOX_DOCKER_TAG=3.1\\n      TOOLBOX_USER=root\\n  - path: /etc/environment_proxy\\n    owner: core\\n    content: |\\n      HTTP_PROXY=\\n      HTTPS_PROXY=\\n      ALL_PROXY=\\n      NO_PROXY=\\n      http_proxy=\\n      https_proxy=\\n      all_proxy=\\n      no_proxy=\\n  - path: /etc/systemd/coredump.conf\\n    content: |\\n      [Coredump]\\n      Storage=none\\n  - path: /opt/bin/graceful-shutdown.sh\\n    permissions: '0755'\\n    content: |\\n      #!/usr/bin/bash\\n      if [ \\\"$1\\\" != '--really' ]; then\\n        echo \\\"command must be run as: $0 --really\\\"\\n        exit 1\\n      fi\\n      # procedure requires the store-admin\\n      ADMIN_RUNNING=$(docker inspect --fo"
+    ],
+    [
+      0.000077,
+      "rmat=\\\"{{ .State.Running }}\\\" deis-store-admin)\\n      if [ $? -eq 1 ] || [ \\\"$ADMIN_RUNNING\\\" == \\\"false\\\" ]; then\\n        echo \\\"deis-store-admin container is required for graceful shutdown\\\"\\n        exit 2\\n      fi\\n      set -e -x -o pipefail\\n      # determine osd id\\n      CURRENT_STATUS=$(/usr/bin/docker exec deis-store-admin ceph health | awk '{print $1}')\\n      OSD_HOSTS=($(/usr/bin/etcdctl ls /deis/store/hosts/| awk -F'/' '{print $5}'))\\n      for HOST in \\\"${OSD_HOSTS[@]}\\\"\\n      do\\n        PUBLIC_IP=$(fleetctl list-machines -fields=\\\"machine,ip\\\" -full -no-legend| grep `cat /etc/machine-id` | awk '{print $2}')\\n        if [ \\\"$HOST\\\" = \\\"$PUBLIC_IP\\\" ] ; then\\n          OSD_ID=$(/usr/bin/etcdctl get /deis/store/osds/$PUBLIC_IP)\\n          break\\n        fi\\n      done\\n      # if we own an osd and its healthy, try to gracefully remove it\\n      if [ ! -z \\\"$OSD_ID\\\" ] \u0026\u0026 [[ \\\"$CURRENT_STATUS\\\" == *\\\"HEALTH_OK\\\"* ]] \u0026\u0026 [ ${#OSD_HOSTS[@]} -gt \\\"3\\\" ]; then\\n        /usr/bin/docker exec deis-st"
+    ],
+    [
+      0.000043,
+      "ore-admin ceph osd out $OSD_ID\\n        sleep 30\\n        TIMEWAITED=0\\n        until [[ $(/usr/bin/docker exec deis-store-admin ceph health) == *\\\"HEALTH_OK\\\"* ]]\\n        do\\n          if [ $TIMEWAITED -gt \\\"1200\\\" ]\\n          then\\n            echo \\\"ceph graceful removal timeout exceeded\\\"\\n            break\\n          fi\\n          echo \\\"waiting\\\" \u0026\u0026 sleep 5\\n          TIMEWAITED=$((TIMEWAITED+5))\\n        done\\n        /usr/bin/docker stop deis-store-daemon\\n        /usr/bin/docker exec deis-store-admin ceph osd crush remove osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph auth del osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph osd rm $OSD_ID\\n        /usr/bin/etcdctl rm /deis/store/osds/$PUBLIC_IP\\n        etcdctl rm /deis/store/hosts/$PUBLIC_IP \u0026\u0026 sleep 10\\n        # remove ceph mon\\n        /usr/bin/docker stop deis-store-monitor || true\\n        /usr/bin/docker exec deis-store-admin ceph mon remove `hostname -f` # fixme\\n        /usr/bin/docker stop deis-store-metad"
+    ],
+    [
+      0.000049,
+      "ata || true\\n      fi\\n\\n      # TODO: remove the next check once etcdctl is using etcd2\\n      ETCDCTL=/usr/bin/etcdctl\\n      if ! $ETCDCTL --version | grep -q \\\"etcdctl version 2.0.\\\"; then\\n        ETCD_VERSION=2.0.13\\n        curl -sSL https://github.com/coreos/etcd/releases/download/v${ETCD_VERSION}/etcd-v${ETCD_VERSION}-linux-amd64.tar.gz | \\\\\\n          tar zxv -C /opt/bin etcd-v${ETCD_VERSION}-linux-amd64/etcdctl --strip=1\\n        ETCDCTL=\\\"/opt/bin/etcdctl\\\"\\n      fi\\n      # removing the node from etcd\\n      NODE=$($ETCDCTL member list | grep `cat /etc/machine-id` | cut -d ':' -f 1)\\n      $ETCDCTL member remove $NODE\\n  - path: /opt/bin/wupiao\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # [w]ait [u]ntil [p]ort [i]s [a]ctually [o]pen\\n      [ -n \\\"$1\\\" ] \u0026\u0026 \\\\\\n        until curl -o /dev/null -sIf http://${1}; do \\\\\\n          sleep 1 \u0026\u0026 echo .;\\n        done;\\n      exit $?\\n  - path: /opt/bin/download-k8s-binary\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash"
+    ],
+    [
+      0.000065,
+      "\\n      export K8S_VERSION=\\\"v1.0.1\\\"\\n      mkdir -p /opt/bin\\n      FILE=$1\\n      if [ ! -f /opt/bin/$FILE ]; then\\n        curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n        chmod +x /opt/bin/$FILE\\n      else\\n        # we check the version of the binary\\n        INSTALLED_VERSION=$(/opt/bin/$FILE --version)\\n        MATCH=$(echo \\\"${INSTALLED_VERSION}\\\" | grep -c \\\"${K8S_VERSION}\\\")\\n        if [ $MATCH -eq 0 ]; then\\n          # the version is different\\n          curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n          chmod +x /opt/bin/$FILE\\n        fi\\n      fi\\n  - path: /opt/bin/scheduler-policy.json\\n    content: |\\n      {\\n          \\\"kind\\\": \\\"Policy\\\",\\n          \\\"apiVersion\\\": \\\"v1\\\",\\n          \\\"predicates\\\": [{\\\"name\\\": \\\"PodFitsPorts\\\"},{\\\"name\\\": \\\"PodFitsResources\\\"},{\\\"name\\\": \\\"NoDiskConflict\\\"},{\\\"name\\\": \\\"MatchNodeSelector\\"
+    ],
+    [
+      0.000075,
+      "\"},{\\\"name\\\": \\\"HostName\\\"}],\\n          \\\"priorities\\\": [{\\\"name\\\": \\\"LeastRequestedPriority\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"BalancedResourceAllocation\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"ServiceSpreadingPriority\\\",\\\"weight\\\": 2},{\\\"name\\\": \\\"EqualPriority\\\",\\\"weight\\\": 1}]\\n      }\\nmanage_etc_hosts: localhost\\n\"\u001b[0m\r\n"
+    ],
+    [
+      0.000047,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000027,
+      "  backups:              \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000044,
+      "  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000041,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000035,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000036,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000037,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000031,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000045,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000037,
+      "  name:                 \"\" =\u003e \"deis-80472ea652-1\"\r\n"
+    ],
+    [
+      0.000025,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000029,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000036,
+      "  size:                 \"\" =\u003e \"8GB\"\r\n"
+    ],
+    [
+      0.000035,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000066,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000028,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.015570,
+      "  user_data:            \"\" =\u003e \"#cloud-config\\n---\\ncoreos:\\n  fleet:\\n    # We have to set the public_ip here so this works on Vagrant -- otherwise, Vagrant VMs\\n    # will all publish the same private IP. This is harmless for cloud providers.\\n    public-ip: $private_ipv4\\n    # allow etcd to slow down at times\\n    etcd_request_timeout: 3.0\\n  units:\\n  - name: etcd.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=etcd2 container\\n      Requires=early-docker.service\\n      After=early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      User=etcd\\n      PermissionsStartOnly=true\\n      Restart=always\\n      RestartSec=10s\\n      LimitNOFILE=40000\\n      EnvironmentFile=/etc/environment\\n      Environment=\\\"ETCD_IMAGE=quay.io/coreos/etcd:v2.1.2\\\"\\n      Environment=\\\"ETCD_ELECTION_TIMEOUT=2000\\\"\\n      Environment=\\\"ETCD_HEARTBEAT_INTERVAL=400\\\"\\n      Environment=\\\"ETCD_HOST_DATA_DIR=/var/lib/etcd2\\\"\\n      Environment=\\\"ETCD_NAME=%m\\\"\\n      Environment=\\\"D"
+    ],
+    [
+      0.000057,
+      "OCKER_HOST=unix:///var/run/early-docker.sock\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker history $ETCD_IMAGE \u003e/dev/null 2\u003e\u00261 || docker pull $ETCD_IMAGE\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker inspect $ETCD_NAME \u003e/dev/null 2\u003e\u00261 \u0026\u0026 docker rm -f $ETCD_NAME || true\\\"\\n      ExecStart=/usr/bin/docker run --net=host --rm \\\\\\n        --volume=${ETCD_HOST_DATA_DIR}:/var/lib/etcd2 \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        -p 4001:4001 -p 2380:2380 -p 2379:2379 -p 7001:7001 \\\\\\n        --name ${ETCD_NAME} \\\\\\n        ${ETCD_IMAGE} \\\\\\n        -name ${ETCD_NAME} \\\\\\n        -data-dir /var/lib/etcd2 \\\\\\n        -advertise-client-urls http://${COREOS_PRIVATE_IPV4}:2379,http://${COREOS_PRIVATE_IPV4}:4001 \\\\\\n        -listen-client-urls http://0.0.0.0:2379,http://0.0.0.0:4001 \\\\\\n        -initial-advertise-peer-urls http://${COREOS_PRIVATE_IPV4}:2380,http://${COREOS_PRIVATE_IPV4}:7001 \\\\\\n        -listen-peer-urls http://0.0.0.0:2380,http://0.0.0.0:7001 \\\\\\n        --heartbeat-interval ${"
+    ],
+    [
+      0.017675,
+      "ETCD_HEARTBEAT_INTERVAL} \\\\\\n        --election-timeout ${ETCD_ELECTION_TIMEOUT} \\\\\\n        --discovery https://discovery.etcd.io/4d65abda03359a5c97dc8603b1ada005\\n      ExecStop=-/usr/bin/docker stop $ETCD_NAME\\n  - name: etcd2.service\\n    mask: true\\n  - name: docker-tcp.socket\\n    command: start\\n    enable: true\\n    content: |\\n      [Unit]\\n      Description=Docker Socket for the API\\n\\n      [Socket]\\n      ListenStream=2375\\n      BindIPv6Only=both\\n      Service=docker.service\\n      [Install]\\n      WantedBy=sockets.target\\n  - name: flanneld.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Network fabric for containers\\n      Documentation=https://github.com/coreos/flannel\\n      Requires=early-docker.service etcd.service\\n      After=etcd.service early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      Type=notify\\n      Restart=always\\n      RestartSec=5\\n      Environment=\\\"TMPDIR=/var/tmp/\\\"\\n      Environment=\\\"DOCKER_HOST=unix:///var/run/"
+    ],
+    [
+      0.000122,
+      "early-docker.sock\\\"\\n      Environment=\\\"FLANNEL_VER=0.5.1\\\"\\n      LimitNOFILE=40000\\n      LimitNPROC=1048576\\n      ExecStartPre=/sbin/modprobe ip_tables\\n      ExecStartPre=/usr/bin/mkdir -p /run/flannel\\n      ExecStartPre=/usr/bin/touch /run/flannel/options.env\\n      ExecStartPre=-/usr/bin/etcdctl mk /coreos.com/network/config '{\\\"Network\\\":\\\"10.244.0.0/16\\\", \\\"SubnetLen\\\": 24, \\\"SubnetMin\\\":\\\"10.244.0.0\\\", \\\"Backend\\\": {\\\"Type\\\": \\\"vxlan\\\"}}'\\n      ExecStart=/usr/libexec/sdnotify-proxy /run/flannel/sd.sock \\\\\\n        /usr/bin/docker run --net=host --privileged=true --rm \\\\\\n        --volume=/run/flannel:/run/flannel \\\\\\n        --env=NOTIFY_SOCKET=/run/flannel/sd.sock \\\\\\n        --env-file=/run/flannel/options.env \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        quay.io/coreos/flannel:${FLANNEL_VER} /opt/bin/flanneld --ip-masq=true\\n\\n      # Update docker options\\n      ExecStartPost=/usr/bin/docker run --net=host --rm -v /run:/run \\\\\\n        quay.io/coreos/flannel:${"
+    ],
+    [
+      0.000232,
+      "FLANNEL_VER} \\\\\\n        /opt/bin/mk-docker-opts.sh -d /run/flannel_docker_opts.env -i\\n  - name: stop-update-engine.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=stop update-engine\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/systemctl stop update-engine.service\\n      ExecStartPost=/usr/bin/systemctl mask update-engine.service\\n  - name: graceful-deis-shutdown.service\\n    content: |\\n      [Unit]\\n      Description=Clean up\\n      DefaultDependencies=no\\n      After=fleet.service etcd.service docker.service docker.socket deis-store-admin.service deis-store-daemon.service deis-store-volume.service deis-store-monitor.service\\n      Requires=fleet.service etcd.service deis-store-admin.service deis-store-daemon.service deis-store-volume.service docker.service docker.socket deis-store-monitor.service\\n\\n      [Install]\\n      WantedBy=shutdown.target halt.target reboot.target\\n\\n      [Service]\\n      ExecStop=/opt/bin/graceful-shutdown.sh --really\\n      Type="
+    ],
+    [
+      0.000109,
+      "oneshot\\n      TimeoutSec=1200\\n      RemainAfterExit=yes\\n  - name: install-deisctl.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Install deisctl utility\\n      ConditionPathExists=!/opt/bin/deisctl\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/sh -c 'curl -sSL --retry 5 --retry-delay 2 http://deis.io/deisctl/install.sh | sh -s 1.9.1'\\n  - name: debug-etcd.service\\n    content: |\\n      [Unit]\\n      Description=etcd debugging service\\n\\n      [Service]\\n      ExecStartPre=/usr/bin/curl -sSL -o /opt/bin/jq http://stedolan.github.io/jq/download/linux64/jq\\n      ExecStartPre=/usr/bin/chmod +x /opt/bin/jq\\n      ExecStart=/usr/bin/bash -c \\\"while true; do curl -sL http://127.0.0.1:4001/v2/stats/self | /opt/bin/jq . ; sleep 1 ; done\\\"\\n  - name: increase-nf_conntrack-connections.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Increase the number of connections in nf_conntrack. default is 65536\\n\\n      [Service]\\n      Type=oneshot\\n"
+    ],
+    [
+      0.000102,
+      "      ExecStartPre=/usr/sbin/modprobe nf_conntrack\\n      ExecStart=/bin/sh -c \\\"sysctl -w net.netfilter.nf_conntrack_max=262144\\\"\\n  - name: fleet.service\\n    command: start\\nwrite_files:\\n  - path: /etc/deis-release\\n    content: |\\n      DEIS_RELEASE=v1.9.1\\n  - path: /etc/motd\\n    content: \\\" \\\\e[31m* *    \\\\e[34m*   \\\\e[32m*****    \\\\e[39mddddd   eeeeeee iiiiiii   ssss\\\\n\\\\e[31m*   *  \\\\e[34m* *  \\\\e[32m*   *     \\\\e[39md   d   e    e    i     s    s\\\\n \\\\e[31m* *  \\\\e[34m***** \\\\e[32m*****     \\\\e[39md    d  e         i    s\\\\n\\\\e[32m*****  \\\\e[31m* *    \\\\e[34m*       \\\\e[39md     d e         i     s\\\\n\\\\e[32m*   * \\\\e[31m*   *  \\\\e[34m* *      \\\\e[39md     d eee       i      sss\\\\n\\\\e[32m*****  \\\\e[31m* *  \\\\e[34m*****     \\\\e[39md     d e         i         s\\\\n  \\\\e[34m*   \\\\e[32m*****  \\\\e[31m* *      \\\\e[39md    d  e         i          s\\\\n \\\\e[34m* *  \\\\e[32m*   * \\\\e[31m*   *     \\\\e[39md   d   e    e    i    s    s\\\\n\\\\e[34m***** \\\\e[32m*****  \\\\e[31m* *     \\\\e[39mddddd   eeeeeee iiiiiii  sss"
+    ],
+    [
+      0.000065,
+      "s\\\\n\\\\n\\\\e[39mWelcome to Deis\\\\t\\\\t\\\\tPowered by Core\\\\e[38;5;45mO\\\\e[38;5;206mS\\\\e[39m\\\\n\\\"\\n  - path: /etc/profile.d/nse-function.sh\\n    permissions: '0755'\\n    content: |\\n      function nse() {\\n        docker exec -it $1 bash\\n      }\\n  - path: /etc/systemd/system/docker.service.d/50-insecure-registry.conf\\n    content: |\\n      [Unit]\\n      Requires=flanneld.service\\n      After=flanneld.service\\n\\n      [Service]\\n      EnvironmentFile=/etc/environment_proxy\\n      Environment=\\\"DOCKER_OPTS=--insecure-registry 10.0.0.0/8 --insecure-registry 172.16.0.0/12 --insecure-registry 192.168.0.0/16 --insecure-registry 100.64.0.0/10\\\"\\n  - path: /run/deis/bin/get_image\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # usage: get_image \u003ccomponent_path\u003e\\n      IMAGE=`etcdctl get $1/image 2\u003e/dev/null`\\n\\n      # if no image was set in etcd, we use the default plus the release string\\n      if [ $? -ne 0 ]; then\\n        RELEASE=`etcdctl get /deis/platform/version 2\u003e/dev/null`\\n\\n        # if n"
+    ],
+    [
+      0.000073,
+      "o release was set in etcd, use the default provisioned with the server\\n        if [ $? -ne 0 ]; then\\n          source /etc/deis-release\\n          RELEASE=$DEIS_RELEASE\\n        fi\\n\\n        IMAGE=$1:$RELEASE\\n      fi\\n\\n      # remove leading slash\\n      echo ${IMAGE#/}\\n  - path: /run/deis/bin/preseed\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      COMPONENTS=(builder cache controller database logger logspout publisher registry router store-daemon store-gateway store-metadata store-monitor)\\n      for c in \\\"${COMPONENTS[@]}\\\"; do\\n        image=`/run/deis/bin/get_image /deis/$c`\\n        docker history $image \u003e/dev/null 2\u003e\u00261 || docker pull $image\\n      done\\n  - path: /opt/bin/deis-debug-logs\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      echo '--- VERSIONS ---'\\n      source /etc/os-release\\n      echo $PRETTY_NAME\\n      source /etc/deis-release\\n      echo \\\"Deis $DEIS_RELEASE\\\"\\n      etcd -version\\n      fleet -version\\n      printf \\\"\\\\n\\\"\\n\\n      ech"
+    ],
+    [
+      0.000083,
+      "o '--- SYSTEM STATUS ---'\\n      journalctl -n 50 -u etcd --no-pager\\n      journalctl -n 50 -u fleet --no-pager\\n      printf \\\"\\\\n\\\"\\n\\n      echo '--- DEIS STATUS ---'\\n      deisctl list\\n      etcdctl ls --recursive /deis\\n      printf \\\"\\\\n\\\"\\n  - path: /home/core/.toolboxrc\\n    owner: core\\n    content: |\\n      TOOLBOX_DOCKER_IMAGE=alpine\\n      TOOLBOX_DOCKER_TAG=3.1\\n      TOOLBOX_USER=root\\n  - path: /etc/environment_proxy\\n    owner: core\\n    content: |\\n      HTTP_PROXY=\\n      HTTPS_PROXY=\\n      ALL_PROXY=\\n      NO_PROXY=\\n      http_proxy=\\n      https_proxy=\\n      all_proxy=\\n      no_proxy=\\n  - path: /etc/systemd/coredump.conf\\n    content: |\\n      [Coredump]\\n      Storage=none\\n  - path: /opt/bin/graceful-shutdown.sh\\n    permissions: '0755'\\n    content: |\\n      #!/usr/bin/bash\\n      if [ \\\"$1\\\" != '--really' ]; then\\n        echo \\\"command must be run as: $0 --really\\\"\\n        exit 1\\n      fi\\n      # procedure requires the store-admin\\n      ADMIN_RUNNING=$(docker inspect --fo"
+    ],
+    [
+      0.000055,
+      "rmat=\\\"{{ .State.Running }}\\\" deis-store-admin)\\n      if [ $? -eq 1 ] || [ \\\"$ADMIN_RUNNING\\\" == \\\"false\\\" ]; then\\n        echo \\\"deis-store-admin container is required for graceful shutdown\\\"\\n        exit 2\\n      fi\\n      set -e -x -o pipefail\\n      # determine osd id\\n      CURRENT_STATUS=$(/usr/bin/docker exec deis-store-admin ceph health | awk '{print $1}')\\n      OSD_HOSTS=($(/usr/bin/etcdctl ls /deis/store/hosts/| awk -F'/' '{print $5}'))\\n      for HOST in \\\"${OSD_HOSTS[@]}\\\"\\n      do\\n        PUBLIC_IP=$(fleetctl list-machines -fields=\\\"machine,ip\\\" -full -no-legend| grep `cat /etc/machine-id` | awk '{print $2}')\\n        if [ \\\"$HOST\\\" = \\\"$PUBLIC_IP\\\" ] ; then\\n          OSD_ID=$(/usr/bin/etcdctl get /deis/store/osds/$PUBLIC_IP)\\n          break\\n        fi\\n      done\\n      # if we own an osd and its healthy, try to gracefully remove it\\n      if [ ! -z \\\"$OSD_ID\\\" ] \u0026\u0026 [[ \\\"$CURRENT_STATUS\\\" == *\\\"HEALTH_OK\\\"* ]] \u0026\u0026 [ ${#OSD_HOSTS[@]} -gt \\\"3\\\" ]; then\\n        /usr/bin/docker exec deis-st"
+    ],
+    [
+      0.000051,
+      "ore-admin ceph osd out $OSD_ID\\n        sleep 30\\n        TIMEWAITED=0\\n        until [[ $(/usr/bin/docker exec deis-store-admin ceph health) == *\\\"HEALTH_OK\\\"* ]]\\n        do\\n          if [ $TIMEWAITED -gt \\\"1200\\\" ]\\n          then\\n            echo \\\"ceph graceful removal timeout exceeded\\\"\\n            break\\n          fi\\n          echo \\\"waiting\\\" \u0026\u0026 sleep 5\\n          TIMEWAITED=$((TIMEWAITED+5))\\n        done\\n        /usr/bin/docker stop deis-store-daemon\\n        /usr/bin/docker exec deis-store-admin ceph osd crush remove osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph auth del osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph osd rm $OSD_ID\\n        /usr/bin/etcdctl rm /deis/store/osds/$PUBLIC_IP\\n        etcdctl rm /deis/store/hosts/$PUBLIC_IP \u0026\u0026 sleep 10\\n        # remove ceph mon\\n        /usr/bin/docker stop deis-store-monitor || true\\n        /usr/bin/docker exec deis-store-admin ceph mon remove `hostname -f` # fixme\\n        /usr/bin/docker stop deis-store-metad"
+    ],
+    [
+      0.000056,
+      "ata || true\\n      fi\\n\\n      # TODO: remove the next check once etcdctl is using etcd2\\n      ETCDCTL=/usr/bin/etcdctl\\n      if ! $ETCDCTL --version | grep -q \\\"etcdctl version 2.0.\\\"; then\\n        ETCD_VERSION=2.0.13\\n        curl -sSL https://github.com/coreos/etcd/releases/download/v${ETCD_VERSION}/etcd-v${ETCD_VERSION}-linux-amd64.tar.gz | \\\\\\n          tar zxv -C /opt/bin etcd-v${ETCD_VERSION}-linux-amd64/etcdctl --strip=1\\n        ETCDCTL=\\\"/opt/bin/etcdctl\\\"\\n      fi\\n      # removing the node from etcd\\n      NODE=$($ETCDCTL member list | grep `cat /etc/machine-id` | cut -d ':' -f 1)\\n      $ETCDCTL member remove $NODE\\n  - path: /opt/bin/wupiao\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # [w]ait [u]ntil [p]ort [i]s [a]ctually [o]pen\\n      [ -n \\\"$1\\\" ] \u0026\u0026 \\\\\\n        until curl -o /dev/null -sIf http://${1}; do \\\\\\n          sleep 1 \u0026\u0026 echo .;\\n        done;\\n      exit $?\\n  - path: /opt/bin/download-k8s-binary\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash"
+    ],
+    [
+      0.000065,
+      "\\n      export K8S_VERSION=\\\"v1.0.1\\\"\\n      mkdir -p /opt/bin\\n      FILE=$1\\n      if [ ! -f /opt/bin/$FILE ]; then\\n        curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n        chmod +x /opt/bin/$FILE\\n      else\\n        # we check the version of the binary\\n        INSTALLED_VERSION=$(/opt/bin/$FILE --version)\\n        MATCH=$(echo \\\"${INSTALLED_VERSION}\\\" | grep -c \\\"${K8S_VERSION}\\\")\\n        if [ $MATCH -eq 0 ]; then\\n          # the version is different\\n          curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n          chmod +x /opt/bin/$FILE\\n        fi\\n      fi\\n  - path: /opt/bin/scheduler-policy.json\\n    content: |\\n      {\\n          \\\"kind\\\": \\\"Policy\\\",\\n          \\\"apiVersion\\\": \\\"v1\\\",\\n          \\\"predicates\\\": [{\\\"name\\\": \\\"PodFitsPorts\\\"},{\\\"name\\\": \\\"PodFitsResources\\\"},{\\\"name\\\": \\\"NoDiskConflict\\\"},{\\\"name\\\": \\\"MatchNodeSelector\\"
+    ],
+    [
+      0.000070,
+      "\"},{\\\"name\\\": \\\"HostName\\\"}],\\n          \\\"priorities\\\": [{\\\"name\\\": \\\"LeastRequestedPriority\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"BalancedResourceAllocation\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"ServiceSpreadingPriority\\\",\\\"weight\\\": 2},{\\\"name\\\": \\\"EqualPriority\\\",\\\"weight\\\": 1}]\\n      }\\nmanage_etc_hosts: localhost\\n\"\u001b[0m\r\n\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Creating...\u001b[21m\r\n"
+    ],
+    [
+      0.000022,
+      "  backups:              \"\" =\u003e \"0\"\r\n  image:                \"\" =\u003e \"coreos-stable\"\r\n"
+    ],
+    [
+      0.000038,
+      "  ipv4_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000043,
+      "  ipv4_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000036,
+      "  ipv6:                 \"\" =\u003e \"0\"\r\n"
+    ],
+    [
+      0.000051,
+      "  ipv6_address:         \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000038,
+      "  ipv6_address_private: \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000047,
+      "  locked:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.000056,
+      "  name:                 \"\" =\u003e \"deis-80472ea652-3\"\r\n"
+    ],
+    [
+      0.000030,
+      "  private_networking:   \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000043,
+      "  region:               \"\" =\u003e \"sfo1\"\r\n"
+    ],
+    [
+      0.000043,
+      "  size:                 \"\" =\u003e \"8GB\"\r\n"
+    ],
+    [
+      0.000032,
+      "  ssh_keys.#:           \"\" =\u003e \"1\"\r\n"
+    ],
+    [
+      0.000086,
+      "  ssh_keys.0:           \"\" =\u003e \"02:81:cf:41:d0:7e:c2:4f:af:62:02:96:f2:11:59:b9\"\r\n"
+    ],
+    [
+      0.000041,
+      "  status:               \"\" =\u003e \"\u003ccomputed\u003e\"\r\n"
+    ],
+    [
+      0.024732,
+      "  user_data:            \"\" =\u003e \"#cloud-config\\n---\\ncoreos:\\n  fleet:\\n    # We have to set the public_ip here so this works on Vagrant -- otherwise, Vagrant VMs\\n    # will all publish the same private IP. This is harmless for cloud providers.\\n    public-ip: $private_ipv4\\n    # allow etcd to slow down at times\\n    etcd_request_timeout: 3.0\\n  units:\\n  - name: etcd.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=etcd2 container\\n      Requires=early-docker.service\\n      After=early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      User=etcd\\n      PermissionsStartOnly=true\\n      Restart=always\\n      RestartSec=10s\\n      LimitNOFILE=40000\\n      EnvironmentFile=/etc/environment\\n      Environment=\\\"ETCD_IMAGE=quay.io/coreos/etcd:v2.1.2\\\"\\n      Environment=\\\"ETCD_ELECTION_TIMEOUT=2000\\\"\\n      Environment=\\\"ETCD_HEARTBEAT_INTERVAL=400\\\"\\n      Environment=\\\"ETCD_HOST_DATA_DIR=/var/lib/etcd2\\\"\\n      Environment=\\\"ETCD_NAME=%m\\\"\\n      Environment=\\\"D"
+    ],
+    [
+      0.000057,
+      "OCKER_HOST=unix:///var/run/early-docker.sock\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker history $ETCD_IMAGE \u003e/dev/null 2\u003e\u00261 || docker pull $ETCD_IMAGE\\\"\\n      ExecStartPre=/bin/sh -c \\\"docker inspect $ETCD_NAME \u003e/dev/null 2\u003e\u00261 \u0026\u0026 docker rm -f $ETCD_NAME || true\\\"\\n      ExecStart=/usr/bin/docker run --net=host --rm \\\\\\n        --volume=${ETCD_HOST_DATA_DIR}:/var/lib/etcd2 \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        -p 4001:4001 -p 2380:2380 -p 2379:2379 -p 7001:7001 \\\\\\n        --name ${ETCD_NAME} \\\\\\n        ${ETCD_IMAGE} \\\\\\n        -name ${ETCD_NAME} \\\\\\n        -data-dir /var/lib/etcd2 \\\\\\n        -advertise-client-urls http://${COREOS_PRIVATE_IPV4}:2379,http://${COREOS_PRIVATE_IPV4}:4001 \\\\\\n        -listen-client-urls http://0.0.0.0:2379,http://0.0.0.0:4001 \\\\\\n        -initial-advertise-peer-urls http://${COREOS_PRIVATE_IPV4}:2380,http://${COREOS_PRIVATE_IPV4}:7001 \\\\\\n        -listen-peer-urls http://0.0.0.0:2380,http://0.0.0.0:7001 \\\\\\n        --heartbeat-interval ${"
+    ],
+    [
+      0.000146,
+      "ETCD_HEARTBEAT_INTERVAL} \\\\\\n        --election-timeout ${ETCD_ELECTION_TIMEOUT} \\\\\\n        --discovery https://discovery.etcd.io/4d65abda03359a5c97dc8603b1ada005\\n      ExecStop=-/usr/bin/docker stop $ETCD_NAME\\n  - name: etcd2.service\\n    mask: true\\n  - name: docker-tcp.socket\\n    command: start\\n    enable: true\\n    content: |\\n      [Unit]\\n      Description=Docker Socket for the API\\n\\n      [Socket]\\n      ListenStream=2375\\n      BindIPv6Only=both\\n      Service=docker.service\\n      [Install]\\n      WantedBy=sockets.target\\n  - name: flanneld.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Network fabric for containers\\n      Documentation=https://github.com/coreos/flannel\\n      Requires=early-docker.service etcd.service\\n      After=etcd.service early-docker.service\\n      Before=early-docker.target\\n\\n      [Service]\\n      Type=notify\\n      Restart=always\\n      RestartSec=5\\n      Environment=\\\"TMPDIR=/var/tmp/\\\"\\n      Environment=\\\"DOCKER_HOST=unix:///var/run/"
+    ],
+    [
+      0.000071,
+      "early-docker.sock\\\"\\n      Environment=\\\"FLANNEL_VER=0.5.1\\\"\\n      LimitNOFILE=40000\\n      LimitNPROC=1048576\\n      ExecStartPre=/sbin/modprobe ip_tables\\n      ExecStartPre=/usr/bin/mkdir -p /run/flannel\\n      ExecStartPre=/usr/bin/touch /run/flannel/options.env\\n      ExecStartPre=-/usr/bin/etcdctl mk /coreos.com/network/config '{\\\"Network\\\":\\\"10.244.0.0/16\\\", \\\"SubnetLen\\\": 24, \\\"SubnetMin\\\":\\\"10.244.0.0\\\", \\\"Backend\\\": {\\\"Type\\\": \\\"vxlan\\\"}}'\\n      ExecStart=/usr/libexec/sdnotify-proxy /run/flannel/sd.sock \\\\\\n        /usr/bin/docker run --net=host --privileged=true --rm \\\\\\n        --volume=/run/flannel:/run/flannel \\\\\\n        --env=NOTIFY_SOCKET=/run/flannel/sd.sock \\\\\\n        --env-file=/run/flannel/options.env \\\\\\n        --volume=/usr/share/ca-certificates:/etc/ssl/certs:ro \\\\\\n        quay.io/coreos/flannel:${FLANNEL_VER} /opt/bin/flanneld --ip-masq=true\\n\\n      # Update docker options\\n      ExecStartPost=/usr/bin/docker run --net=host --rm -v /run:/run \\\\\\n        quay.io/coreos/flannel:${"
+    ],
+    [
+      0.000097,
+      "FLANNEL_VER} \\\\\\n        /opt/bin/mk-docker-opts.sh -d /run/flannel_docker_opts.env -i\\n  - name: stop-update-engine.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=stop update-engine\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/systemctl stop update-engine.service\\n      ExecStartPost=/usr/bin/systemctl mask update-engine.service\\n  - name: graceful-deis-shutdown.service\\n    content: |\\n      [Unit]\\n      Description=Clean up\\n      DefaultDependencies=no\\n      After=fleet.service etcd.service docker.service docker.socket deis-store-admin.service deis-store-daemon.service deis-store-volume.service deis-store-monitor.service\\n      Requires=fleet.service etcd.service deis-store-admin.service deis-store-daemon.service deis-store-volume.service docker.service docker.socket deis-store-monitor.service\\n\\n      [Install]\\n      WantedBy=shutdown.target halt.target reboot.target\\n\\n      [Service]\\n      ExecStop=/opt/bin/graceful-shutdown.sh --really\\n      Type="
+    ],
+    [
+      0.000084,
+      "oneshot\\n      TimeoutSec=1200\\n      RemainAfterExit=yes\\n  - name: install-deisctl.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Install deisctl utility\\n      ConditionPathExists=!/opt/bin/deisctl\\n\\n      [Service]\\n      Type=oneshot\\n      ExecStart=/usr/bin/sh -c 'curl -sSL --retry 5 --retry-delay 2 http://deis.io/deisctl/install.sh | sh -s 1.9.1'\\n  - name: debug-etcd.service\\n    content: |\\n      [Unit]\\n      Description=etcd debugging service\\n\\n      [Service]\\n      ExecStartPre=/usr/bin/curl -sSL -o /opt/bin/jq http://stedolan.github.io/jq/download/linux64/jq\\n      ExecStartPre=/usr/bin/chmod +x /opt/bin/jq\\n      ExecStart=/usr/bin/bash -c \\\"while true; do curl -sL http://127.0.0.1:4001/v2/stats/self | /opt/bin/jq . ; sleep 1 ; done\\\"\\n  - name: increase-nf_conntrack-connections.service\\n    command: start\\n    content: |\\n      [Unit]\\n      Description=Increase the number of connections in nf_conntrack. default is 65536\\n\\n      [Service]\\n      Type=oneshot\\n"
+    ],
+    [
+      0.000090,
+      "      ExecStartPre=/usr/sbin/modprobe nf_conntrack\\n      ExecStart=/bin/sh -c \\\"sysctl -w net.netfilter.nf_conntrack_max=262144\\\"\\n  - name: fleet.service\\n    command: start\\nwrite_files:\\n  - path: /etc/deis-release\\n    content: |\\n      DEIS_RELEASE=v1.9.1\\n  - path: /etc/motd\\n    content: \\\" \\\\e[31m* *    \\\\e[34m*   \\\\e[32m*****    \\\\e[39mddddd   eeeeeee iiiiiii   ssss\\\\n\\\\e[31m*   *  \\\\e[34m* *  \\\\e[32m*   *     \\\\e[39md   d   e    e    i     s    s\\\\n \\\\e[31m* *  \\\\e[34m***** \\\\e[32m*****     \\\\e[39md    d  e         i    s\\\\n\\\\e[32m*****  \\\\e[31m* *    \\\\e[34m*       \\\\e[39md     d e         i     s\\\\n\\\\e[32m*   * \\\\e[31m*   *  \\\\e[34m* *      \\\\e[39md     d eee       i      sss\\\\n\\\\e[32m*****  \\\\e[31m* *  \\\\e[34m*****     \\\\e[39md     d e         i         s\\\\n  \\\\e[34m*   \\\\e[32m*****  \\\\e[31m* *      \\\\e[39md    d  e         i          s\\\\n \\\\e[34m* *  \\\\e[32m*   * \\\\e[31m*   *     \\\\e[39md   d   e    e    i    s    s\\\\n\\\\e[34m***** \\\\e[32m*****  \\\\e[31m* *     \\\\e[39mddddd   eeeeeee iiiiiii  sss"
+    ],
+    [
+      0.000090,
+      "s\\\\n\\\\n\\\\e[39mWelcome to Deis\\\\t\\\\t\\\\tPowered by Core\\\\e[38;5;45mO\\\\e[38;5;206mS\\\\e[39m\\\\n\\\"\\n  - path: /etc/profile.d/nse-function.sh\\n    permissions: '0755'\\n    content: |\\n      function nse() {\\n        docker exec -it $1 bash\\n      }\\n  - path: /etc/systemd/system/docker.service.d/50-insecure-registry.conf\\n    content: |\\n      [Unit]\\n      Requires=flanneld.service\\n      After=flanneld.service\\n\\n      [Service]\\n      EnvironmentFile=/etc/environment_proxy\\n      Environment=\\\"DOCKER_OPTS=--insecure-registry 10.0.0.0/8 --insecure-registry 172.16.0.0/12 --insecure-registry 192.168.0.0/16 --insecure-registry 100.64.0.0/10\\\"\\n  - path: /run/deis/bin/get_image\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # usage: get_image \u003ccomponent_path\u003e\\n      IMAGE=`etcdctl get $1/image 2\u003e/dev/null`\\n\\n      # if no image was set in etcd, we use the default plus the release string\\n      if [ $? -ne 0 ]; then\\n        RELEASE=`etcdctl get /deis/platform/version 2\u003e/dev/null`\\n\\n        # if n"
+    ],
+    [
+      0.000104,
+      "o release was set in etcd, use the default provisioned with the server\\n        if [ $? -ne 0 ]; then\\n          source /etc/deis-release\\n          RELEASE=$DEIS_RELEASE\\n        fi\\n\\n        IMAGE=$1:$RELEASE\\n      fi\\n\\n      # remove leading slash\\n      echo ${IMAGE#/}\\n  - path: /run/deis/bin/preseed\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      COMPONENTS=(builder cache controller database logger logspout publisher registry router store-daemon store-gateway store-metadata store-monitor)\\n      for c in \\\"${COMPONENTS[@]}\\\"; do\\n        image=`/run/deis/bin/get_image /deis/$c`\\n        docker history $image \u003e/dev/null 2\u003e\u00261 || docker pull $image\\n      done\\n  - path: /opt/bin/deis-debug-logs\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n\\n      echo '--- VERSIONS ---'\\n      source /etc/os-release\\n      echo $PRETTY_NAME\\n      source /etc/deis-release\\n      echo \\\"Deis $DEIS_RELEASE\\\"\\n      etcd -version\\n      fleet -version\\n      printf \\\"\\\\n\\\"\\n\\n      ech"
+    ],
+    [
+      0.000083,
+      "o '--- SYSTEM STATUS ---'\\n      journalctl -n 50 -u etcd --no-pager\\n      journalctl -n 50 -u fleet --no-pager\\n      printf \\\"\\\\n\\\"\\n\\n      echo '--- DEIS STATUS ---'\\n      deisctl list\\n      etcdctl ls --recursive /deis\\n      printf \\\"\\\\n\\\"\\n  - path: /home/core/.toolboxrc\\n    owner: core\\n    content: |\\n      TOOLBOX_DOCKER_IMAGE=alpine\\n      TOOLBOX_DOCKER_TAG=3.1\\n      TOOLBOX_USER=root\\n  - path: /etc/environment_proxy\\n    owner: core\\n    content: |\\n      HTTP_PROXY=\\n      HTTPS_PROXY=\\n      ALL_PROXY=\\n      NO_PROXY=\\n      http_proxy=\\n      https_proxy=\\n      all_proxy=\\n      no_proxy=\\n  - path: /etc/systemd/coredump.conf\\n    content: |\\n      [Coredump]\\n      Storage=none\\n  - path: /opt/bin/graceful-shutdown.sh\\n    permissions: '0755'\\n    content: |\\n      #!/usr/bin/bash\\n      if [ \\\"$1\\\" != '--really' ]; then\\n        echo \\\"command must be run as: $0 --really\\\"\\n        exit 1\\n      fi\\n      # procedure requires the store-admin\\n      ADMIN_RUNNING=$(docker inspect --fo"
+    ],
+    [
+      0.000053,
+      "rmat=\\\"{{ .State.Running }}\\\" deis-store-admin)\\n      if [ $? -eq 1 ] || [ \\\"$ADMIN_RUNNING\\\" == \\\"false\\\" ]; then\\n        echo \\\"deis-store-admin container is required for graceful shutdown\\\"\\n        exit 2\\n      fi\\n      set -e -x -o pipefail\\n      # determine osd id\\n      CURRENT_STATUS=$(/usr/bin/docker exec deis-store-admin ceph health | awk '{print $1}')\\n      OSD_HOSTS=($(/usr/bin/etcdctl ls /deis/store/hosts/| awk -F'/' '{print $5}'))\\n      for HOST in \\\"${OSD_HOSTS[@]}\\\"\\n      do\\n        PUBLIC_IP=$(fleetctl list-machines -fields=\\\"machine,ip\\\" -full -no-legend| grep `cat /etc/machine-id` | awk '{print $2}')\\n        if [ \\\"$HOST\\\" = \\\"$PUBLIC_IP\\\" ] ; then\\n          OSD_ID=$(/usr/bin/etcdctl get /deis/store/osds/$PUBLIC_IP)\\n          break\\n        fi\\n      done\\n      # if we own an osd and its healthy, try to gracefully remove it\\n      if [ ! -z \\\"$OSD_ID\\\" ] \u0026\u0026 [[ \\\"$CURRENT_STATUS\\\" == *\\\"HEALTH_OK\\\"* ]] \u0026\u0026 [ ${#OSD_HOSTS[@]} -gt \\\"3\\\" ]; then\\n        /usr/bin/docker exec deis-st"
+    ],
+    [
+      0.000079,
+      "ore-admin ceph osd out $OSD_ID\\n        sleep 30\\n        TIMEWAITED=0\\n        until [[ $(/usr/bin/docker exec deis-store-admin ceph health) == *\\\"HEALTH_OK\\\"* ]]\\n        do\\n          if [ $TIMEWAITED -gt \\\"1200\\\" ]\\n          then\\n            echo \\\"ceph graceful removal timeout exceeded\\\"\\n            break\\n          fi\\n          echo \\\"waiting\\\" \u0026\u0026 sleep 5\\n          TIMEWAITED=$((TIMEWAITED+5))\\n        done\\n        /usr/bin/docker stop deis-store-daemon\\n        /usr/bin/docker exec deis-store-admin ceph osd crush remove osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph auth del osd.$OSD_ID\\n        /usr/bin/docker exec deis-store-admin ceph osd rm $OSD_ID\\n        /usr/bin/etcdctl rm /deis/store/osds/$PUBLIC_IP\\n        etcdctl rm /deis/store/hosts/$PUBLIC_IP \u0026\u0026 sleep 10\\n        # remove ceph mon\\n        /usr/bin/docker stop deis-store-monitor || true\\n        /usr/bin/docker exec deis-store-admin ceph mon remove `hostname -f` # fixme\\n        /usr/bin/docker stop deis-store-metad"
+    ],
+    [
+      0.000094,
+      "ata || true\\n      fi\\n\\n      # TODO: remove the next check once etcdctl is using etcd2\\n      ETCDCTL=/usr/bin/etcdctl\\n      if ! $ETCDCTL --version | grep -q \\\"etcdctl version 2.0.\\\"; then\\n        ETCD_VERSION=2.0.13\\n        curl -sSL https://github.com/coreos/etcd/releases/download/v${ETCD_VERSION}/etcd-v${ETCD_VERSION}-linux-amd64.tar.gz | \\\\\\n          tar zxv -C /opt/bin etcd-v${ETCD_VERSION}-linux-amd64/etcdctl --strip=1\\n        ETCDCTL=\\\"/opt/bin/etcdctl\\\"\\n      fi\\n      # removing the node from etcd\\n      NODE=$($ETCDCTL member list | grep `cat /etc/machine-id` | cut -d ':' -f 1)\\n      $ETCDCTL member remove $NODE\\n  - path: /opt/bin/wupiao\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash\\n      # [w]ait [u]ntil [p]ort [i]s [a]ctually [o]pen\\n      [ -n \\\"$1\\\" ] \u0026\u0026 \\\\\\n        until curl -o /dev/null -sIf http://${1}; do \\\\\\n          sleep 1 \u0026\u0026 echo .;\\n        done;\\n      exit $?\\n  - path: /opt/bin/download-k8s-binary\\n    permissions: '0755'\\n    content: |\\n      #!/bin/bash"
+    ],
+    [
+      0.000081,
+      "\\n      export K8S_VERSION=\\\"v1.0.1\\\"\\n      mkdir -p /opt/bin\\n      FILE=$1\\n      if [ ! -f /opt/bin/$FILE ]; then\\n        curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n        chmod +x /opt/bin/$FILE\\n      else\\n        # we check the version of the binary\\n        INSTALLED_VERSION=$(/opt/bin/$FILE --version)\\n        MATCH=$(echo \\\"${INSTALLED_VERSION}\\\" | grep -c \\\"${K8S_VERSION}\\\")\\n        if [ $MATCH -eq 0 ]; then\\n          # the version is different\\n          curl -sSL -o /opt/bin/$FILE https://storage.googleapis.com/kubernetes-release/release/${K8S_VERSION}/bin/linux/amd64/$FILE\\n          chmod +x /opt/bin/$FILE\\n        fi\\n      fi\\n  - path: /opt/bin/scheduler-policy.json\\n    content: |\\n      {\\n          \\\"kind\\\": \\\"Policy\\\",\\n          \\\"apiVersion\\\": \\\"v1\\\",\\n          \\\"predicates\\\": [{\\\"name\\\": \\\"PodFitsPorts\\\"},{\\\"name\\\": \\\"PodFitsResources\\\"},{\\\"name\\\": \\\"NoDiskConflict\\\"},{\\\"name\\\": \\\"MatchNodeSelector\\"
+    ],
+    [
+      0.000085,
+      "\"},{\\\"name\\\": \\\"HostName\\\"}],\\n          \\\"priorities\\\": [{\\\"name\\\": \\\"LeastRequestedPriority\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"BalancedResourceAllocation\\\",\\\"weight\\\": 1},{\\\"name\\\": \\\"ServiceSpreadingPriority\\\",\\\"weight\\\": 2},{\\\"name\\\": \\\"EqualPriority\\\",\\\"weight\\\": 1}]\\n      }\\nmanage_etc_hosts: localhost\\n\"\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.2: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.1: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0m\u001b[1mdigitalocean_droplet.deis.0: Creation complete\u001b[21m\u001b[0m\r\n"
+    ],
+    [
+      0.010374,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000268,
+      "Apply complete! Resources: 3 added, 0 changed, 0 destroyed.\u001b[0m\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.000079,
+      "The state of your infrastructure has been saved to the path\r\n"
+    ],
+    [
+      0.000079,
+      "below. This state is required to modify and destroy your\r\n"
+    ],
+    [
+      0.000097,
+      "infrastructure, so keep it safe. To inspect the complete state\r\n"
+    ],
+    [
+      0.000038,
+      "use the `terraform show` command.\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "State path: terraform.tfstate\u001b[0m\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000004,
+      "Outputs:\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "  ip  = 162.243.156.174\r\n"
+    ],
+    [
+      0.000225,
+      "  msg = Your hosts are ready to go! Continue following the documentation to install and start Deis. Your hosts are: 162.243.156.174, 107.170.230.207, 198.199.100.249\u001b[0m\r\n"
+    ],
+    [
+      0.049900,
+      "\u001b[32mWaiting for etcd/fleet at 162.243.156.174\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32metcd available after 13 seconds\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "162.243.156.174.xip.io\r\n"
+    ],
+    [
+      1.000000,
+      "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBcThiT1BmZTl4N0xZRU9aYUxZZ3ZBZkxIaEZBMy94QTRSbURqcG5SZGxtZVlQSlVjClEyV0wza1dZWHlzRWQvUVlZYk9pZnVSTHpvUTdvOFo2aXUwZEJVR2IxRjFVMEtGcDRMTER4MURjekZPSEw3WVgKM0FneG1PYkVLekpYbnBDa2pJSS9zbDZuTWlnMjJaKzA3Ym0vYUxsTEFlVXV0eEJsMXJETlBWc0dsMHh4bSthUQpwN3ZXOSsvU2c2bXhHRm13SGJOTW1wMzNoN2xmay9POGRpV1pLUTlvWWlDYWY0MmxScTJmSDR3RGcxZll5WXJ6ClFaUnNSREZXbEorK2N5ajc4SU5LVVRYY01XejNJMEU2SnlET1VLMk9FeEpKQis3cExaRWdWMlozNW1WZ1ljdXoKKytwRkhCaFhHSFFGWW5VamR6bE94ZWkyK0MxaEhpcHdQbFJENndJREFRQUJBb0lCQUZQU1UxblJ4bjNvTzU4agppT1duQ3FrOHV6ZEpuY21OTktqREp0TlcvVVFqa1JvZStRZTZTYUpRKzZXVTdEMU1rNGs1aXhXNGVYVncrVmxWCnhQNTk3aWRlZUpnTVl4TGJjVHNBZ0tDR1NQZzcyai9oNzRxalJQQ0R5ejM0OXVDZFhHNWtNSWp0djFDdVp2V1QKQlVycjFRZFpROHpNOVJySG1hcEY1Q0VJaGhMVm9lM2N1NWN5Tmg5cXhlZUExQUxrTkt0U1ZaM2xSeVhYb2JJcApoQnNHWkU1WGxuNzZkNXE3SU5BSWw1aXBydDB6OHlNWURsTFZ1QXR6ZHNQbDZTWnVlS0VCbEJ1M2JKQVFKVlE3CnEvYkduNVl5bUdHQ1FxVEYrLytBeXd5aHRRWklJYTVwVE9rZDd2eURHZ0hkbEoxb3JSbDJJeGMxRVp2YmFrNGoKNWxlQk9jRUNnWUVBMTVjYnBrczZz"
+    ],
+    [
+      0.000065,
+      "Unc5TkYwZWtlQkc2WlZ1QUJ5NzZjUzhUMlRVb2lTOW9JemN0L1Q5VEFYagptTURMWVVMVDVKTDFIQ1RBSVZOcjgzTVd4Y2N0YlVJVkxtY3l0ei94d2o3bTNWVUQwUFFvQUpLWDBFWUxITVR1CmV6Ty9SNjJJZStMN05QZE92dVB4WjQ0VU9EeVVIcjZwWlMxZHRuQ2dRL2FyMW9nRWw4ZTgwek1DZ1lFQXkvbFgKRm1PeHpzaGg2ckV6UTA3T1Njay9UYlRtK2ZyNElzWDVYWFdxTWFIRk5MNlcwR2NpZ3drbmtXUnhHckJ6Z3oxUApYeDJNSUk5dlJkbEozaE8zMFNCMnExdzZobTl0b0ZuR2JFa1R0cTU1UlY5dk5HY05HblNzbGkyNE1BT1F5VGpsCnMwWHVHeHdTZWpSSkFMWlRPMStqTkJGVjA3c2VLbnRrdXFBWHpHa0NnWUEreUMxd0h1WkhuMjZmYWlLMTNuY28KSExEODdXRTNzV2daUXNhOU5TL1hxazI0Y0dxM0VkdjJwdVpUTzQvVE40eVRsb3d3NkVjK2pSeHJtaFk3aEF3QgpDR0ozaFBLVlc1WUZqSFZoQzBqKzZiRzJJRCtxTUJzMjI1bnZlTFNQUjBsYVlrNlhQbkFWZFFXa1h0ZlBvRHhhClQzekQzVVorcEQza2FwWFQwWUhHaXdLQmdGNzBZMXRUNjlsMHBVaXBWMUQxSmNscHUyT0VYS1p3OUFUVUh1TW8KUEtQQVNGcm1nclRmM2t3Yi9lU01XcTd2QjhkSHltUmdEL1MwY1R1V0RQSXFRYjlFR3BwcFpBRmpiQ2hpd3FGMApYNDRDcVFmbmhwQmhqTk1ORDY4Vjk1RzZoek4xbmxFWHMrSEE3c1VmQkFFbDM1ZGJUVkdXNUZxZDJFdzBoMDd0CjZrWkpBb0dCQUlMc1JDNlBpRXRsb0hPR0xLY1dmdDgzQzFTeUR2U0xEckxNMFRmMDlDNVhScnVQcVJ4eXNhQnMKbmFVeW1wdTZP"
+    ],
+    [
+      0.000212,
+      "K0xkcTVSeDZ0Z1JFNlVHR3RKTEhBSzJ5N3JmaWZJNFNEaVV4Q2cwYXRqbXljOVZLbm9JOFR4Swo2aFA0ZFU1L1B6R3NUTi9DaElFUmwrWGFETUJuOU9za1VNZWpUeHN6WlU4bHN1UEc4QnFzCi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0tCg==\r\n"
+    ],
+    [
+      1.000000,
+      "v1.9.1\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Installing Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.077690,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.106369,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.105231,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.976300,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000010,
+      "Logging subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000007,
+      "Control plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.064088,
+      "\u001b[0;33mdeis-database.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.663240,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.314329,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m loaded\r\nData plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000010,
+      "Routing mesh...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-router@2.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.901404,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.092058,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m loaded\r\n"
+    ],
+    [
+      0.000008,
+      "Done.\r\n\r\nPlease run `deisctl start platform` to boot up Deis.\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[31m● \u001b[34m▴ \u001b[32m■\u001b[0m\r\n\u001b[32m■ \u001b[31m● \u001b[34m▴\u001b[0m Starting Deis...\r\n\u001b[34m▴ \u001b[32m■ \u001b[31m●\u001b[0m\r\nStorage subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m activating/start-pre                     \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-monitor.service:\u001b[0m active/running                           \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m activating/start-pre                      \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-daemon.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m activating/start-pre                    \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-metadata.service:\u001b[0m active/running                          \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-pre                   \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m activating/start-post                  \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-gateway@1.service:\u001b[0m active/running                         \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-store-volume.service:\u001b[0m active/running                            \r\r\n"
+    ],
+    [
+      0.000008,
+      "Logging subsystem...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m activating/start-pre                            \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logger.service:\u001b[0m active/running                                  \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-logspout.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      1.000000,
+      "Control plane...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      0.111200,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m activating/start-pre                        \r"
+    ],
+    [
+      0.047310,
+      "\u001b[0;33mdeis-database.service:\u001b[0m activating/start-pre                          \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-registry@1.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-controller.service:\u001b[0m active/running                              \r\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-database.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.199847,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-pre                           \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m activating/start-post                          \r"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-builder.service:\u001b[0m active/running                                 \r\r\n"
+    ],
+    [
+      0.000007,
+      "Data plane...\r\n"
+    ],
+    [
+      0.206285,
+      "\u001b[0;33mdeis-publisher.service:\u001b[0m active/running                               \r\r\n"
+    ],
+    [
+      0.000009,
+      "Routing mesh...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mdeis-router@2.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.078155,
+      "\u001b[0;33mdeis-router@1.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.059627,
+      "\u001b[0;33mdeis-router@3.service:\u001b[0m active/running                                \r\r\n"
+    ],
+    [
+      0.000008,
+      "Done.\r\n \r\nPlease use `deis register` to setup an administrator account.\r\n"
+    ],
+    [
+      0.098507,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "./rigger provision"
+    ],
+    [
+      0.440153,
+      "\u0007"
+    ],
+    [
+      0.464035,
+      "\u0007"
+    ],
+    [
+      0.456401,
+      "\u0007"
+    ],
+    [
+      0.327428,
+      "\u0007"
+    ],
+    [
+      0.368121,
+      "\u0007"
+    ],
+    [
+      0.167910,
+      "\u0007"
+    ],
+    [
+      0.559904,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.500338,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084862,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084331,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084312,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083924,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084153,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083206,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083608,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084683,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083986,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083863,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083505,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084483,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083824,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083905,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084368,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.084920,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.083280,
+      "\u0007"
+    ],
+    [
+      0.084225,
+      "\u0007"
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.639855,
+      "r"
+    ],
+    [
+      0.071991,
+      "e"
+    ],
+    [
+      0.096094,
+      "p"
+    ],
+    [
+      0.111584,
+      " "
+    ],
+    [
+      0.680697,
+      "-"
+    ],
+    [
+      0.975375,
+      "v"
+    ],
+    [
+      0.200072,
+      " "
+    ],
+    [
+      1.000000,
+      "D"
+    ],
+    [
+      0.151025,
+      "O"
+    ],
+    [
+      0.392452,
+      "_"
+    ],
+    [
+      0.575676,
+      " "
+    ],
+    [
+      0.368040,
+      "~"
+    ],
+    [
+      0.376397,
+      "/"
+    ],
+    [
+      0.760066,
+      "r"
+    ],
+    [
+      0.399758,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.239966,
+      "."
+    ],
+    [
+      0.144024,
+      "r"
+    ],
+    [
+      0.159973,
+      "i"
+    ],
+    [
+      0.111907,
+      "g"
+    ],
+    [
+      0.136231,
+      "g"
+    ],
+    [
+      0.183916,
+      "e"
+    ],
+    [
+      0.050685,
+      "r"
+    ],
+    [
+      0.125428,
+      "/"
+    ],
+    [
+      0.167844,
+      "v"
+    ],
+    [
+      0.128375,
+      "a"
+    ],
+    [
+      0.095712,
+      "r"
+    ],
+    [
+      0.119901,
+      "s"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.003105,
+      "export DEISCTL_TUNNEL=\"162.243.156.174\"\r\nexport DEISCTL_UNITS=\"/Users/sethgoings/.rigger/80472ea652/units\"\r\nexport DEIS_PROFILE=\"test-80472ea652\"\r\nexport DEIS_ROOT=\"/Users/sethgoings/go/src/github.com/deis/deis\"\r\nexport DEIS_TEST_AUTH_KEY=\"/Users/sethgoings/.ssh/deis-test\"\r\nexport DEIS_TEST_DOMAIN=\"162.243.156.174.xip.io\"\r\nexport DEIS_TEST_ID=\"80472ea652\"\r\nexport DEIS_TEST_ROOT=\"/Users/sethgoings/.rigger/80472ea652\"\r\n"
+    ],
+    [
+      0.000057,
+      "export DEIS_TEST_SSH_KEY=\"/Users/sethgoings/.ssh/deis-test\"\r\nexport DEIS_VARS_FILE=\"/Users/sethgoings/.rigger/80472ea652/vars\"\r\nexport GOPATH=\"/Users/sethgoings/go\"\r\nexport ORIGINAL_PATH=\"/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\"\r\nexport PATH=\"/Users/sethgoings/.rigger/80472ea652/bin:/Users/sethgoings/Downloads:/Users/sethgoings/go/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\"\r\nexport PROVIDER=\"digitalocean\"\r\nexport VERSION=\"1.9.1\"\r\n"
+    ],
+    [
+      0.041420,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.144574,
+      "o"
+    ],
+    [
+      0.087711,
+      "u"
+    ],
+    [
+      0.079942,
+      "r"
+    ],
+    [
+      0.256133,
+      "c"
+    ],
+    [
+      0.239763,
+      "e"
+    ],
+    [
+      0.200195,
+      " "
+    ],
+    [
+      0.352519,
+      "~"
+    ],
+    [
+      0.335308,
+      "/"
+    ],
+    [
+      0.232551,
+      "."
+    ],
+    [
+      0.199650,
+      "r"
+    ],
+    [
+      0.119866,
+      "i"
+    ],
+    [
+      0.112577,
+      "g"
+    ],
+    [
+      0.135776,
+      "g"
+    ],
+    [
+      0.215882,
+      "e"
+    ],
+    [
+      0.049883,
+      "r"
+    ],
+    [
+      0.934246,
+      "/"
+    ],
+    [
+      0.120159,
+      "v"
+    ],
+    [
+      0.167541,
+      "a"
+    ],
+    [
+      0.064626,
+      "r"
+    ],
+    [
+      0.135503,
+      "s"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.043549,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      0.668434,
+      "d"
+    ],
+    [
+      0.200103,
+      "e"
+    ],
+    [
+      0.104293,
+      "i"
+    ],
+    [
+      0.071988,
+      "s"
+    ],
+    [
+      0.223861,
+      "c"
+    ],
+    [
+      0.248086,
+      "t"
+    ],
+    [
+      0.447898,
+      "l"
+    ],
+    [
+      0.168416,
+      " "
+    ],
+    [
+      0.216378,
+      "-"
+    ],
+    [
+      0.135301,
+      "-"
+    ],
+    [
+      0.104278,
+      "v"
+    ],
+    [
+      0.175743,
+      "e"
+    ],
+    [
+      0.079851,
+      "r"
+    ],
+    [
+      0.120248,
+      "s"
+    ],
+    [
+      0.120009,
+      "i"
+    ],
+    [
+      0.088406,
+      "o"
+    ],
+    [
+      0.047884,
+      "n"
+    ],
+    [
+      0.271822,
+      "\r\n"
+    ],
+    [
+      0.008714,
+      "1.9.1\r\n"
+    ],
+    [
+      0.041458,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "d"
+    ],
+    [
+      0.183938,
+      "e"
+    ],
+    [
+      0.088098,
+      "i"
+    ],
+    [
+      0.072527,
+      "s"
+    ],
+    [
+      0.215389,
+      "c"
+    ],
+    [
+      0.168113,
+      "t"
+    ],
+    [
+      0.129279,
+      "l"
+    ],
+    [
+      0.102554,
+      " "
+    ],
+    [
+      0.192059,
+      "l"
+    ],
+    [
+      0.096157,
+      "i"
+    ],
+    [
+      0.080175,
+      "s"
+    ],
+    [
+      0.048161,
+      "t"
+    ],
+    [
+      0.191527,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "UNIT\t\t\t\tMACHINE\t\t\t\tLOAD\tACTIVE\t"
+    ],
+    [
+      0.000010,
+      "SUB\r\ndeis-builder.service\t\tbab859f2.../10.134.34.171\tloaded\tactive\trunning\r\ndeis-controller.service\t\t2f8a0783.../10.134.34.169\tloaded\tactive\trunning\r\ndeis-database.service\t\t"
+    ],
+    [
+      0.000005,
+      "bab859f2.../10.134.34.171\tloaded"
+    ],
+    [
+      0.000004,
+      "\tactive"
+    ],
+    [
+      0.000004,
+      "\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000006,
+      "deis-logger.service\t\tbb392da6.../10.134.34.170"
+    ],
+    [
+      0.000004,
+      "\tloaded"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "deis-logspout.service\t\t"
+    ],
+    [
+      0.000004,
+      "2f8a0783.../10.134.34.169\tloaded"
+    ],
+    [
+      0.000004,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-logspout.service"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "bab859f2.../10.134.34.171\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-logspout.service\t\t"
+    ],
+    [
+      0.000004,
+      "bb392da6.../10.134.34.170\tloaded"
+    ],
+    [
+      0.000003,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-publisher.service"
+    ],
+    [
+      0.000005,
+      "\t\t2f8a0783.../10.134.34.169"
+    ],
+    [
+      0.000003,
+      "\tloaded\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-publisher.service"
+    ],
+    [
+      0.000003,
+      "\t\tbab859f2.../10.134.34.171"
+    ],
+    [
+      0.000004,
+      "\tloaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-publisher.service\t\t"
+    ],
+    [
+      0.000003,
+      "bb392da6.../10.134.34.170\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000004,
+      "deis-registry@1.service\t\t"
+    ],
+    [
+      0.000005,
+      "bb392da6.../10.134.34.170\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-router@1.service"
+    ],
+    [
+      0.000003,
+      "\t\t2f8a0783.../10.134.34.169"
+    ],
+    [
+      0.000003,
+      "\tloaded"
+    ],
+    [
+      0.000003,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-router@2.service"
+    ],
+    [
+      0.000003,
+      "\t\t"
+    ],
+    [
+      0.000003,
+      "bab859f2.../10.134.34.171"
+    ],
+    [
+      0.000003,
+      "\tloaded"
+    ],
+    [
+      0.000003,
+      "\t"
+    ],
+    [
+      0.000003,
+      "active"
+    ],
+    [
+      0.000004,
+      "\trunning\r\n"
+    ],
+    [
+      0.000003,
+      "deis-router@3.service\t\t"
+    ],
+    [
+      0.000003,
+      "bb392da6.../10.134.34.170\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-store-daemon.service\t"
+    ],
+    [
+      0.000003,
+      "2f8a0783.../10.134.34.169\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\trunning"
+    ],
+    [
+      0.000013,
+      "\r\ndeis-store-daemon.service\tbab859f2.../10.134.34.171\tloaded\tactive\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-store-daemon.service\t"
+    ],
+    [
+      0.000004,
+      "bb392da6.../10.134.34.170\tloaded"
+    ],
+    [
+      0.000004,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning\r\n"
+    ],
+    [
+      0.000003,
+      "deis-store-gateway@1.service\t"
+    ],
+    [
+      0.000003,
+      "2f8a0783.../10.134.34.169\t"
+    ],
+    [
+      0.000003,
+      "loaded\t"
+    ],
+    [
+      0.000003,
+      "active\t"
+    ],
+    [
+      0.000003,
+      "running\r\n"
+    ],
+    [
+      0.000003,
+      "deis-store-metadata.service\t"
+    ],
+    [
+      0.000006,
+      "2f8a0783.../10.134.34.169\t"
+    ],
+    [
+      0.000004,
+      "loaded\tactive\trunning"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-store-metadata.service"
+    ],
+    [
+      0.000003,
+      "\tbab859f2.../10.134.34.171"
+    ],
+    [
+      0.000003,
+      "\tloaded"
+    ],
+    [
+      0.000003,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning"
+    ],
+    [
+      0.000003,
+      "\r\ndeis-store-metadata.service"
+    ],
+    [
+      0.000003,
+      "\tbb392da6.../10.134.34.170"
+    ],
+    [
+      0.000003,
+      "\tloaded"
+    ],
+    [
+      0.000003,
+      "\tactive"
+    ],
+    [
+      0.000003,
+      "\trunning"
+    ],
+    [
+      0.000250,
+      "\r\ndeis-store-monitor.service"
+    ],
+    [
+      0.000016,
+      "\t2f8a0783.../10.134.34.169\tloaded\tactive\trunning\r\ndeis-store-monitor.service\tbab859f2.../10.134.34.171\tloaded\tactive\trunning\r\ndeis-store-monitor.service\tbb392da6.../10.134.34.170\tloaded\tactive\trunning\r\ndeis-store-volume.service\t2f8a0783.../10.134.34.169\tloaded\tactive\trunning\r\ndeis-store-volume.service\tbab859f2.../10.134.34.171\tloaded\tactive\trunning\r\ndeis-store-volume.service\tbb392da6.../10.134.34.170\tloaded\tactive\trunning\r\n"
+    ],
+    [
+      0.042502,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.208265,
+      "x"
+    ],
+    [
+      0.127424,
+      "i"
+    ],
+    [
+      0.104312,
+      "t"
+    ],
+    [
+      0.728013,
+      "\r\n"
+    ],
+    [
+      0.000112,
+      "exit\r\n"
+    ]
+  ]
+}
