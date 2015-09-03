@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 30,
+  "duration": 36.750264,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.165704,
+      "\r\n"
+    ],
+    [
+      0.009192,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m \r\n\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.014797,
+      "d"
+    ],
+    [
+      0.127922,
+      "b"
+    ],
+    [
+      0.080047,
+      "w"
+    ],
+    [
+      0.023903,
+      "e"
+    ],
+    [
+      0.112097,
+      "b"
+    ],
+    [
+      0.160034,
+      "b"
+    ],
+    [
+      0.095975,
+      " "
+    ],
+    [
+      0.560017,
+      "l"
+    ],
+    [
+      0.207991,
+      "o"
+    ],
+    [
+      0.167982,
+      "g"
+    ],
+    [
+      0.095936,
+      "i"
+    ],
+    [
+      0.096104,
+      "n"
+    ],
+    [
+      1.672232,
+      "\r\n"
+    ],
+    [
+      0.010498,
+      "I will now login to the server 'ssh.student.bth.se' as 'mosstud' using ssh-keys if available."
+    ],
+    [
+      0.000003,
+      "\r\nPress enter to continue..."
+    ],
+    [
+      2.541232,
+      "\r\n"
+    ],
+    [
+      0.231016,
+      "The authenticity of host 'ssh.student.bth.se (194.47.131.154)' can't be established.\r\nRSA key fingerprint is SHA256:rDx15eKpCIfnQJ0AjF57pMI+DuI9DzwRy1Y2BvEa2Dg.\r\nAre you sure you want to continue connecting (yes/no)? "
+    ],
+    [
+      2.737010,
+      "y"
+    ],
+    [
+      0.359961,
+      "e"
+    ],
+    [
+      0.352042,
+      "s"
+    ],
+    [
+      1.736004,
+      "\r\n"
+    ],
+    [
+      0.001963,
+      "Warning: Permanently added 'ssh.student.bth.se,194.47.131.154' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.125605,
+      "mosstud@ssh.student.bth.se's password: "
+    ],
+    [
+      7.208506,
+      "\r\n"
+    ],
+    [
+      0.156022,
+      "\r\n"
+    ],
+    [
+      0.000460,
+      "The programs included with the Debian GNU/Linux system are free software;\r\n"
+    ],
+    [
+      0.000240,
+      "the exact distribution terms for each program are described in the\r\n"
+    ],
+    [
+      0.000768,
+      "individual files in /usr/share/doc/*/copyright.\r\n"
+    ],
+    [
+      0.000419,
+      "\r\n"
+    ],
+    [
+      0.000342,
+      "Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\n"
+    ],
+    [
+      0.000225,
+      "permitted by applicable law.\r\n"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.000396,
+      "========================================================================"
+    ],
+    [
+      0.001063,
+      "\r\n\r\nThis is a server for:\r\n\r\nssh.student.bth.se\r\n\r\nsftp.student.bth.se\r\n\r\nnodejs2.student.bth.se\r\n\r\nIf you need help or have questions please contact IT Helpdesk.\r\n\r\n        http://www.bth.se/ithelpdesk\r\n\r\n//IT Department\r\n\r\nLast login: Thu Sep  3 13:07:04 2015 from lb-float-sk.net.bth.se\r\r\n"
+    ],
+    [
+      0.037988,
+      "sweet~: "
+    ],
+    [
+      2.933232,
+      "J"
+    ],
+    [
+      0.059012,
+      "A"
+    ],
+    [
+      0.199814,
+      "P"
+    ],
+    [
+      0.168027,
+      "P"
+    ],
+    [
+      0.296199,
+      " "
+    ],
+    [
+      0.416351,
+      "G"
+    ],
+    [
+      0.111345,
+      "I"
+    ],
+    [
+      0.192417,
+      "C"
+    ],
+    [
+      0.128134,
+      "K"
+    ],
+    [
+      0.063800,
+      " "
+    ],
+    [
+      0.440046,
+      "B"
+    ],
+    [
+      0.087959,
+      "R"
+    ],
+    [
+      0.151988,
+      "A"
+    ],
+    [
+      0.375998,
+      "!"
+    ],
+    [
+      3.831924,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.659536,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040142,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040660,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039663,
+      "\u0008"
+    ],
+    [
+      0.040676,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.038918,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039682,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040147,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040701,
+      "\u0008"
+    ],
+    [
+      0.039815,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039693,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039889,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040676,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.724194,
+      "e"
+    ],
+    [
+      0.247290,
+      "x"
+    ],
+    [
+      0.160672,
+      "i"
+    ],
+    [
+      0.231787,
+      "t"
+    ],
+    [
+      1.144724,
+      "\r\r\nlogout\r\n"
+    ],
+    [
+      0.002917,
+      "Connection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b[1;37;40mDONE\u001b[0m to establish the connection.\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.549905,
+      "exit\r\n"
+    ]
+  ]
+}
