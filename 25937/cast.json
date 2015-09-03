@@ -1,0 +1,4018 @@
+{
+  "version": 1,
+  "width": 114,
+  "height": 26,
+  "duration": 98.824833,
+  "command": "/bin/sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": ""
+  },
+  "stdout": [
+    [
+      0.002040,
+      "# "
+    ],
+    [
+      0.330196,
+      "echo \"Checking current linux and docker version\" \u0026\u0026 sleep 3 \u0026\u0026 \\\r\ndocker version \u0026\u0026 lsb_release -a"
+    ],
+    [
+      0.000035,
+      "\u003e "
+    ],
+    [
+      0.482887,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "Checking current linux and docker version"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      3.015777,
+      "Client version: 1.7.0\r\nClient API version: 1.19\r\nGo version (client): go1.4.2\r\nGit commit (client): 0baf609\r\n"
+    ],
+    [
+      0.000009,
+      "OS/Arch (client): linux/amd64\r\n"
+    ],
+    [
+      0.000792,
+      "Server version: 1.7.0"
+    ],
+    [
+      0.000007,
+      "\r\nServer API version: 1.19\r\nGo version (server): go1.4.2\r\nGit commit (server): 0baf609"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "OS/Arch (server): linux/amd64"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.043709,
+      "No LSB modules are available.\r\nDistributor ID:\u0009Ubuntu\r\n"
+    ],
+    [
+      0.000019,
+      "Description:\u0009Ubuntu 14.04.2 LTS\r\nRelease:\u000914.04\r\nCodename:\u0009trusty\r\n"
+    ],
+    [
+      0.006119,
+      "# "
+    ],
+    [
+      2.426117,
+      "echo \"Purge lxc\" \u0026\u0026 sleep 3 \u0026\u0026 \\\r\napt-get autoremove --purge lxc"
+    ],
+    [
+      0.000011,
+      "\u003e "
+    ],
+    [
+      0.661641,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "Purge lxc\r\n"
+    ],
+    [
+      3.076959,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.062954,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.150603,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000123,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001389,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000188,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.595997,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000163,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.075752,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000089,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002139,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000176,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.037249,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000179,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.021947,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000128,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001123,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000196,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.006536,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000129,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001222,
+      "\rReading package lists... 4%\r"
+    ],
+    [
+      0.000058,
+      "\rReading package lists... 4%\r"
+    ],
+    [
+      0.000100,
+      "\rReading package lists... 4%\r"
+    ],
+    [
+      0.000395,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.000160,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.006683,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000030,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000357,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000015,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.003345,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.066949,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.022238,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000018,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.096887,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000009,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000881,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      1.013665,
+      "The following packages will be REMOVED:\r\n  bridge-utils* busybox-static* cloud-image-utils* debootstrap* distro-info*\r\n  distro-info-data* dnsmasq-base* euca2ools* genisoimage* libaio1* libaudio2*\r\n  libboost-system1.54.0* libboost-thread1.54.0* libdrm-intel1*\r\n  libdrm-nouveau2* libdrm-radeon1* libelf1* libgl1-mesa-dri* libgl1-mesa-glx*\r\n  libglapi-mesa* libgstreamer-plugins-base1.0-0* libgstreamer1.0-0* libice6*\r\n"
+    ],
+    [
+      0.000010,
+      "  libllvm3.4* liblxc1* libmnl0* libmysqlclient18* libnetfilter-conntrack3*\r\n  libnspr4* libnss3* libnss3-nssdb* liborc-0.4-0* libpciaccess0*\r\n  libqt4-declarative* libqt4-network* libqt4-opengl* libqt4-script*\r\n  libqt4-sql* libqt4-sql-mysql* libqt4-xml* libqt4-xmlpatterns* libqtcore4*\r\n  libqtdbus4* libqtgui4* libqtwebkit4* librados2* librbd1* libseccomp2*\r\n  libsm6* libtxc-dxtn-s2tc0* libx11-xcb1* libxcb-dri2-0* libxcb-dri3-0*\r\n  libxcb-glx0* libxcb-present0* libxcb-sync1* libxshmfence1* libxt6*\r\n  libxxf86vm1* lxc* lxc-templates* mysql-common* python-distro-info*\r\n  python-requestbuilder* python-requests* python-urllib3* python3-lxc*\r\n"
+    ],
+    [
+      0.000004,
+      "  qemu-utils* qtcore4-l10n* sharutils* uidmap*\r\n"
+    ],
+    [
+      0.007747,
+      "0 upgraded, 0 newly installed, 71 to remove and 37 not upgraded.\r\n"
+    ],
+    [
+      0.007263,
+      "After this operation, 171 MB disk space will be freed.\r\n"
+    ],
+    [
+      0.000017,
+      "\r\r"
+    ],
+    [
+      0.282424,
+      "(Reading database ... \r"
+    ],
+    [
+      0.015138,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.002077,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001668,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.001216,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001537,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.002042,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.001899,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000794,
+      "(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r"
+    ],
+    [
+      0.000006,
+      "(Reading database ... 65%\r(Reading database ... 70%\r"
+    ],
+    [
+      0.000004,
+      "(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.000022,
+      "(Reading database ... 85%\r(Reading database ... 90%\r"
+    ],
+    [
+      0.000007,
+      "(Reading database ... 95%\r(Reading database ... 100%\r(Reading database ... "
+    ],
+    [
+      0.000021,
+      "37299 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.001031,
+      "Removing lxc-templates (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.364727,
+      "Removing lxc (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.052219,
+      "invoke-rc.d: unknown initscript, /etc/init.d/lxc-net not found.\r\n"
+    ],
+    [
+      0.014520,
+      "invoke-rc.d: policy-rc.d denied execution of stop.\r\n"
+    ],
+    [
+      0.005889,
+      "invoke-rc.d: unknown initscript, /etc/init.d/lxc not found.\r\n"
+    ],
+    [
+      0.013579,
+      "invoke-rc.d: policy-rc.d denied execution of stop.\r\n"
+    ],
+    [
+      0.083287,
+      "Removing lxc dnsmasq configuration\r\n"
+    ],
+    [
+      0.075093,
+      "Purging configuration files for lxc (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.247340,
+      "dpkg: warning: while removing lxc, directory '/etc/lxc' not empty so not removed\r\n"
+    ],
+    [
+      0.170694,
+      "Removing bridge-utils (1.5-6ubuntu2) ...\r\n"
+    ],
+    [
+      0.167745,
+      "Purging configuration files for bridge-utils (1.5-6ubuntu2) ...\r\n"
+    ],
+    [
+      0.341546,
+      "Removing busybox-static (1:1.21.0-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.363012,
+      "Removing cloud-image-utils (0.27-0ubuntu9.1) ...\r\n"
+    ],
+    [
+      0.366366,
+      "Removing debootstrap (1.0.59ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.333549,
+      "Removing distro-info (0.12) ...\r\n"
+    ],
+    [
+      0.372475,
+      "Removing python-distro-info (0.12) ...\r\n"
+    ],
+    [
+      0.431124,
+      "Removing distro-info-data (0.18ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.355589,
+      "Removing dnsmasq-base (2.68-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.174847,
+      "Purging configuration files for dnsmasq-base (2.68-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.488570,
+      "Removing euca2ools (3.0.2-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.481674,
+      "Removing genisoimage (9:1.1.11-2ubuntu3) ...\r\n"
+    ],
+    [
+      0.362461,
+      "Removing qemu-utils (2.0.0+dfsg-2ubuntu1.13) ...\r\n"
+    ],
+    [
+      0.332777,
+      "Removing libaio1:amd64 (0.3.109-4) ...\r\n"
+    ],
+    [
+      0.257258,
+      "Purging configuration files for libaio1:amd64 (0.3.109-4) ...\r\n"
+    ],
+    [
+      0.328546,
+      "Removing libqtwebkit4:amd64 (2.3.2-0ubuntu7) ...\r\n"
+    ],
+    [
+      0.190256,
+      "Purging configuration files for libqtwebkit4:amd64 (2.3.2-0ubuntu7) ...\r\n"
+    ],
+    [
+      0.346542,
+      "Removing libqt4-opengl:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.205774,
+      "Purging configuration files for libqt4-opengl:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.464275,
+      "Removing librbd1 (0.80.9-0ubuntu0.14.04.2) ...\r\n"
+    ],
+    [
+      0.214731,
+      "Purging configuration files for librbd1 (0.80.9-0ubuntu0.14.04.2) ...\r\n"
+    ],
+    [
+      0.371331,
+      "Removing librados2 (0.80.9-0ubuntu0.14.04.2) ...\r\n"
+    ],
+    [
+      0.232631,
+      "Purging configuration files for librados2 (0.80.9-0ubuntu0.14.04.2) ...\r\n"
+    ],
+    [
+      0.471200,
+      "Removing libboost-thread1.54.0:amd64 (1.54.0-4ubuntu3.1) ...\r\n"
+    ],
+    [
+      0.214342,
+      "Purging configuration files for libboost-thread1.54.0:amd64 (1.54.0-4ubuntu3.1) ...\r\n"
+    ],
+    [
+      0.362506,
+      "Removing libboost-system1.54.0:amd64 (1.54.0-4ubuntu3.1) ...\r\n"
+    ],
+    [
+      0.223152,
+      "Purging configuration files for libboost-system1.54.0:amd64 (1.54.0-4ubuntu3.1) ...\r\n"
+    ],
+    [
+      0.330330,
+      "Removing libgl1-mesa-dri:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.222536,
+      "Purging configuration files for libgl1-mesa-dri:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.313322,
+      "Removing libdrm-intel1:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.215668,
+      "Purging configuration files for libdrm-intel1:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.319760,
+      "Removing libdrm-nouveau2:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.199939,
+      "Purging configuration files for libdrm-nouveau2:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.354218,
+      "Removing libdrm-radeon1:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.198147,
+      "Purging configuration files for libdrm-radeon1:amd64 (2.4.60-2~ubuntu14.04.1) ...\r\n"
+    ],
+    [
+      0.361016,
+      "Removing libelf1:amd64 (0.158-0ubuntu5.2) ...\r\n"
+    ],
+    [
+      0.200301,
+      "Purging configuration files for libelf1:amd64 (0.158-0ubuntu5.2) ...\r\n"
+    ],
+    [
+      0.364512,
+      "Removing libgl1-mesa-glx:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.439271,
+      "Purging configuration files for libgl1-mesa-glx:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.772316,
+      "Removing libglapi-mesa:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.238895,
+      "Purging configuration files for libglapi-mesa:amd64 (10.1.3-0ubuntu0.4) ...\r\n"
+    ],
+    [
+      0.345604,
+      "Removing libgstreamer-plugins-base1.0-0:amd64 (1.2.4-1~ubuntu1) ...\r\n"
+    ],
+    [
+      0.223342,
+      "Purging configuration files for libgstreamer-plugins-base1.0-0:amd64 (1.2.4-1~ubuntu1) ...\r\n"
+    ],
+    [
+      0.415378,
+      "Removing libgstreamer1.0-0:amd64 (1.2.4-0ubuntu1) ...\r\n"
+    ],
+    [
+      0.195724,
+      "Purging configuration files for libgstreamer1.0-0:amd64 (1.2.4-0ubuntu1) ...\r\n"
+    ],
+    [
+      0.456214,
+      "Removing libllvm3.4:amd64 (1:3.4-1ubuntu3) ...\r\n"
+    ],
+    [
+      0.205963,
+      "Purging configuration files for libllvm3.4:amd64 (1:3.4-1ubuntu3) ...\r\n"
+    ],
+    [
+      0.330744,
+      "Removing python3-lxc (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.426384,
+      "Removing liblxc1 (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.199587,
+      "Purging configuration files for liblxc1 (1.0.7-0ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.352989,
+      "Removing libnetfilter-conntrack3:amd64 (1.0.4-1) ...\r\n"
+    ],
+    [
+      0.182681,
+      "Purging configuration files for libnetfilter-conntrack3:amd64 (1.0.4-1) ...\r\n"
+    ],
+    [
+      0.354461,
+      "Removing libmnl0:amd64 (1.0.3-3ubuntu1) ...\r\n"
+    ],
+    [
+      0.197498,
+      "Purging configuration files for libmnl0:amd64 (1.0.3-3ubuntu1) ...\r\n"
+    ],
+    [
+      0.332054,
+      "Removing libqt4-sql-mysql:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.356813,
+      "Removing libmysqlclient18:amd64 (5.5.43-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.209143,
+      "Purging configuration files for libmysqlclient18:amd64 (5.5.43-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.462574,
+      "Removing liborc-0.4-0:amd64 (1:0.4.18-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.215835,
+      "Purging configuration files for liborc-0.4-0:amd64 (1:0.4.18-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.336381,
+      "Removing libpciaccess0:amd64 (0.13.2-1) ...\r\n"
+    ],
+    [
+      0.208427,
+      "Purging configuration files for libpciaccess0:amd64 (0.13.2-1) ...\r\n"
+    ],
+    [
+      0.612126,
+      "Removing libseccomp2:amd64 (2.1.0+dfsg-1) ...\r\n"
+    ],
+    [
+      0.217308,
+      "Purging configuration files for libseccomp2:amd64 (2.1.0+dfsg-1) ...\r\n"
+    ],
+    [
+      0.344695,
+      "Removing libtxc-dxtn-s2tc0:amd64 (0~git20131104-1.1) ...\r\n"
+    ],
+    [
+      0.257876,
+      "Purging configuration files for libtxc-dxtn-s2tc0:amd64 (0~git20131104-1.1) ...\r\n"
+    ],
+    [
+      0.336209,
+      "Removing libx11-xcb1:amd64 (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.225752,
+      "Purging configuration files for libx11-xcb1:amd64 (2:1.6.2-1ubuntu2) ...\r\n"
+    ],
+    [
+      0.317787,
+      "Removing libxcb-dri2-0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.208805,
+      "Purging configuration files for libxcb-dri2-0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.315133,
+      "Removing libxcb-dri3-0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.203894,
+      "Purging configuration files for libxcb-dri3-0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.339595,
+      "Removing libxcb-glx0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.203986,
+      "Purging configuration files for libxcb-glx0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.466163,
+      "Removing libxcb-present0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.211981,
+      "Purging configuration files for libxcb-present0:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.355881,
+      "Removing libxcb-sync1:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.225379,
+      "Purging configuration files for libxcb-sync1:amd64 (1.10-2ubuntu1) ...\r\n"
+    ],
+    [
+      0.360354,
+      "Removing libxshmfence1:amd64 (1.1-2) ...\r\n"
+    ],
+    [
+      0.217743,
+      "Purging configuration files for libxshmfence1:amd64 (1.1-2) ...\r\n"
+    ],
+    [
+      0.377140,
+      "Removing libxxf86vm1:amd64 (1:1.1.3-1) ...\r\n"
+    ],
+    [
+      0.208626,
+      "Purging configuration files for libxxf86vm1:amd64 (1:1.1.3-1) ...\r\n"
+    ],
+    [
+      0.326263,
+      "Removing mysql-common (5.5.43-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.215930,
+      "Purging configuration files for mysql-common (5.5.43-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.350548,
+      "Removing python-requestbuilder (0.1.0~beta2-1build1) ...\r\n"
+    ],
+    [
+      0.425633,
+      "Removing python-requests (2.2.1-1ubuntu0.3) ...\r\n"
+    ],
+    [
+      0.399278,
+      "Removing python-urllib3 (1.7.1-1ubuntu3) ...\r\n"
+    ],
+    [
+      0.463840,
+      "Removing sharutils (1:4.14-1ubuntu1) ...\r\n"
+    ],
+    [
+      0.373236,
+      "Removing uidmap (1:4.1.5.1-1ubuntu9) ...\r\n"
+    ],
+    [
+      3.348804,
+      "Removing libnss3:amd64 (2:3.19.2-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.218743,
+      "Purging configuration files for libnss3:amd64 (2:3.19.2-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.317719,
+      "Removing libnss3-nssdb (2:3.19.2-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.355565,
+      "Removing libnspr4:amd64 (2:4.10.7-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.233454,
+      "Purging configuration files for libnspr4:amd64 (2:4.10.7-0ubuntu0.14.04.1) ...\r\n"
+    ],
+    [
+      0.708004,
+      "Removing libqtgui4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.233935,
+      "Purging configuration files for libqtgui4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.342340,
+      "Removing libaudio2:amd64 (1.9.4-1) ...\r\n"
+    ],
+    [
+      0.347044,
+      "Removing libxt6:amd64 (1:1.1.4-1) ...\r\n"
+    ],
+    [
+      0.202849,
+      "Purging configuration files for libxt6:amd64 (1:1.1.4-1) ...\r\n"
+    ],
+    [
+      0.332524,
+      "Removing libsm6:amd64 (2:1.2.1-2) ...\r\n"
+    ],
+    [
+      0.202838,
+      "Purging configuration files for libsm6:amd64 (2:1.2.1-2) ...\r\n"
+    ],
+    [
+      0.334167,
+      "Removing libice6:amd64 (2:1.0.8-2) ...\r\n"
+    ],
+    [
+      0.190635,
+      "Purging configuration files for libice6:amd64 (2:1.0.8-2) ...\r\n"
+    ],
+    [
+      0.713730,
+      "Removing libqt4-declarative:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.236699,
+      "Purging configuration files for libqt4-declarative:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.142624,
+      "\r\n"
+    ],
+    [
+      0.214654,
+      "Removing libqt4-xmlpatterns:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.009228,
+      "\r\n"
+    ],
+    [
+      0.191408,
+      "\r\n"
+    ],
+    [
+      0.020083,
+      "Purging configuration files for libqt4-xmlpatterns:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.172342,
+      "\r\n"
+    ],
+    [
+      0.152473,
+      "Removing libqt4-network:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.039046,
+      "\r\n"
+    ],
+    [
+      0.155742,
+      "Purging configuration files for libqt4-network:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.383346,
+      "Removing libqt4-script:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.207771,
+      "Purging configuration files for libqt4-script:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.308858,
+      "Removing libqt4-sql:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.045909,
+      "\r\n"
+    ],
+    [
+      0.155988,
+      "Purging configuration files for libqt4-sql:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.325278,
+      "Removing libqtdbus4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.201739,
+      "Purging configuration files for libqtdbus4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.149048,
+      "\r\n"
+    ],
+    [
+      0.211121,
+      "Removing libqt4-xml:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.192981,
+      "Purging configuration files for libqt4-xml:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.351269,
+      "Removing libqtcore4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.216721,
+      "Purging configuration files for libqtcore4:amd64 (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ...\r\n"
+    ],
+    [
+      0.040391,
+      "\r\n"
+    ],
+    [
+      0.380113,
+      "Removing qtcore4-l10n (4:4.8.5+git192-g085f851+dfsg-2ubuntu4.1) ..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.261189,
+      "\r\n"
+    ],
+    [
+      0.058307,
+      "Processing triggers for libc-bin (2.19-0ubuntu6.6) ...\r\n"
+    ],
+    [
+      0.275547,
+      "# "
+    ],
+    [
+      1.523933,
+      "echo \"Purge lxc*\" \u0026\u0026 sleep 3 \u0026\u0026 \\\r\napt-get purge lxc*"
+    ],
+    [
+      0.000020,
+      "\u003e "
+    ],
+    [
+      0.999821,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "Purge lxc*\r\n"
+    ],
+    [
+      3.070344,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.067193,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.130537,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000173,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001328,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000233,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.607767,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000188,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.075770,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000137,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002029,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000175,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.038221,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000187,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.023253,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000124,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001189,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000179,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.006765,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000123,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001243,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.000069,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.000069,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.000563,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.000163,
+      "\rReading package lists... 5%\r"
+    ],
+    [
+      0.006714,
+      "\rReading package lists... 42%\r"
+    ],
+    [
+      0.000086,
+      "\rReading package lists... 42%\r"
+    ],
+    [
+      0.000366,
+      "\rReading package lists... 42%\r"
+    ],
+    [
+      0.000025,
+      "\rReading package lists... 42%\r"
+    ],
+    [
+      0.003024,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.073025,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.020030,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.087195,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000017,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000684,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.052306,
+      "Note, selecting 'lxmenu-data' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000123,
+      "Note, selecting 'lxc' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000442,
+      "Note, selecting 'lxterminal-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000021,
+      "Note, selecting 'lxpanel-indicator-applet-plugin' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000057,
+      "Note, selecting 'heirloom-mailx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000416,
+      "Note, selecting 'libgl1-mesa-glx-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000281,
+      "Note, selecting 'tclx8.4-doc' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000041,
+      "Note, selecting 'libgl1-mesa-glx-lts-vivid' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000574,
+      "Note, selecting 'tunnelx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000252,
+      "Note, selecting 'lxinput' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000173,
+      "Note, selecting 'lxsplit' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000009,
+      "Note, selecting 'bsd-mailx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000049,
+      "Note, selecting 'libperlx-maybe-perl' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000097,
+      "Note, selecting 'lxmusic' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000022,
+      "Note, selecting 'lxc-docker-1.1.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000020,
+      "Note, selecting 'lxc-docker-1.1.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000018,
+      "Note, selecting 'live-image-lxde-desktop' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000005,
+      "Note, selecting 'lxc-docker-1.1.2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000195,
+      "Note, selecting 'python3-lxml-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000034,
+      "Note, selecting 'lxc-docker-1.6.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000019,
+      "Note, selecting 'lxc-docker-1.6.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000022,
+      "Note, selecting 'lxc-docker-1.6.2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000298,
+      "Note, selecting 'lxc-docker-0.12.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000434,
+      "Note, selecting 'lxc-docker-0.5.3' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000268,
+      "Note, selecting 'shelxle' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000125,
+      "Note, selecting 'rss-glx' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000422,
+      "Note, selecting 'lxkeymap' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000541,
+      "Note, selecting 'lxde-core' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000003,
+      "Note, selecting 'lxrandr' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000017,
+      "Note, selecting 'lxappearance' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000417,
+      "Note, selecting 'libgl1-mesa-glx-lts-quantal' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000086,
+      "Note, selecting 'lxterminal' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000319,
+      "Note, selecting 'libperlx-maybe-xs-perl' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000207,
+      "Note, selecting 'tclx-doc' for regex 'lxc*'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000462,
+      "Note, selecting 'lx-gdb' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000026,
+      "Note, selecting 'libgl1-mesa-glx-lts-utopic' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000022,
+      "Note, selecting 'libclxclient3' for regex 'lxc*'\r\nNote, selecting 'libmlx4-dev' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000169,
+      "Note, selecting 'lxde-common' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000240,
+      "Note, selecting 'gkrellxmms2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000031,
+      "Note, selecting 'nvidia-glx' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000503,
+      "Note, selecting 'lxc-docker-1.0.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000011,
+      "Note, selecting 'lxc-docker-1.0.1' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Note, selecting 'lxsession-data' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000116,
+      "Note, selecting 'clisp-module-clx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000025,
+      "Note, selecting 'mailx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000094,
+      "Note, selecting 'lxc-docker-1.5.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000064,
+      "Note, selecting 'lubuntu-lxpanel-icons' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000063,
+      "Note, selecting 'dvilx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000180,
+      "Note, selecting 'lxc-docker-0.11.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000014,
+      "Note, selecting 'lxc-docker-0.11.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000360,
+      "Note, selecting 'libgl1-mesa-glx-lts-utopic-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000075,
+      "Note, selecting 'libgl1-mesa-glx-lts-trusty-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "Note, selecting 'lxc-docker-0.9.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000014,
+      "Note, selecting 'lxc-docker-0.9.1' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "Note, selecting 'tclxml' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000464,
+      "Note, selecting 'jmdlx' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "Note, selecting 'lxtask' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "Note, selecting 'lxsession-edit' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000051,
+      "Note, selecting 'lxc-tests' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "Note, selecting 'libgl1-mesa-glx-lts-quantal-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000525,
+      "Note, selecting 'libgl1-mesa-glx-lts-saucy-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000143,
+      "Note, selecting 'lxpanel-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "Note, selecting 'lxtask-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "Note, selecting 'lxrandr-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000055,
+      "Note, selecting 'libmlx5-dev' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000138,
+      "Note, selecting 'lxc-docker' for regex 'lxc*'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "Note, selecting 'lxlauncher' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000241,
+      "Note, selecting 'libmlx5-1' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000503,
+      "Note, selecting 'lxpolkit' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "Note, selecting 'libgl1-mesa-glx-lts-raring' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000182,
+      "Note, selecting 'python-lxml-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000103,
+      "Note, selecting 'python3-lxml' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000114,
+      "Note, selecting 'lxc-android-config' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000024,
+      "Note, selecting 'libpracticalxml-java' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000279,
+      "Note, selecting 'lxc-docker-1.4.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000017,
+      "Note, selecting 'lxc-docker-1.4.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000004,
+      "Note, selecting 'python3.4-lxml-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "Note, selecting 'lxde' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000056,
+      "Note, selecting 'libutahglx-dev' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000051,
+      "Note, selecting 'tclxapian' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000012,
+      "Note, selecting 'lxdm' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-0.10.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000067,
+      "Note, selecting 'libmenhir-ocaml-dev-dllx4' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000030,
+      "Note, selecting 'lxinput-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000308,
+      "Note, selecting 'python3.4-lxml' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000032,
+      "Note, selecting 'libxcb-glx0' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "Note, selecting 'glx-diversions' for regex 'lxc*'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "Note, selecting 'lxshortcut' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000028,
+      "Note, selecting 'lxshortcut-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "Note, selecting 'lxc-docker-0.8.0' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-0.8.1' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "Note, selecting 'lxappearance-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "Note, selecting 'lxsession-logout' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000153,
+      "Note, selecting 'libgl1-mesa-glx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000248,
+      "Note, selecting 'python-lxml' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000139,
+      "Note, selecting 'libclxclient-dev' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000189,
+      "Note, selecting 'libgl1-mesa-glx-lts-saucy' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000189,
+      "Note, selecting 'python3-lxc' for regex 'lxc*'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "Note, selecting 'lxsession-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "Note, selecting 'liblxc0' for regex 'lxc*'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'liblxc1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000815,
+      "Note, selecting 'libgl1-nvidia-glx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000263,
+      "Note, selecting 'libmlx4-1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000711,
+      "Note, selecting 'lxde-settings-daemon' for regex 'lxc*'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "Note, selecting 'lxcguest' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000241,
+      "Note, selecting 'cl-clx-sbcl' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000358,
+      "Note, selecting 'lxc-docker-1.3.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-1.3.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-1.3.2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000017,
+      "Note, selecting 'lxc-docker-1.3.3' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000174,
+      "Note, selecting 'lxde-icon-theme' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000262,
+      "Note, selecting 'lxc-templates' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000217,
+      "Note, selecting 'lxmusic-dbg' for regex 'lxc*'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "Note, selecting 'lxc-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000078,
+      "Note, selecting 'python-lxml-doc' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000159,
+      "Note, selecting 'lxc-docker-0.7.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000021,
+      "Note, selecting 'lxc-docker-0.7.1' for regex 'lxc*'"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "Note, selecting 'lxc-docker-0.7.2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000011,
+      "Note, selecting 'lxc-docker-0.7.3' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Note, selecting 'lxc-docker-0.7.4' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000019,
+      "Note, selecting 'lxc-docker-0.7.5' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000020,
+      "Note, selecting 'lxc-docker-0.7.6' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000422,
+      "Note, selecting 'lxctl' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000035,
+      "Note, selecting 'fglrx-glx' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "Note, selecting 'lxsession-lite' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000569,
+      "Note, selecting 'libxcb-glx0-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000065,
+      "Note, selecting 'lxc-dev' for regex 'lxc*'"
+    ],
+    [
+      0.000004,
+      "\r\nNote, selecting 'lxmms2' for regex 'lxc*'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000677,
+      "Note, selecting 'lxlauncher-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000355,
+      "Note, selecting 'lxsession' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000126,
+      "Note, selecting 'python2.7-lxml' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000328,
+      "Note, selecting 'libxcb-glx0-dev' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000017,
+      "Note, selecting 'tclx8.4-dev' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "Note, selecting 'clustalx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000054,
+      "Note, selecting 'libmlx4-1-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000229,
+      "Note, selecting 'lxpanel' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000021,
+      "Note, selecting 'libgl1-mesa-glx-no-multiarch' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000030,
+      "Note, selecting 'lxappearance-obconf' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000388,
+      "Note, selecting 'tclx' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000142,
+      "Note, selecting 'lxc-docker-1.2.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000009,
+      "Note, selecting 'tclxml-dev' for regex 'lxc*'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "Note, selecting 'nova-compute-lxc' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000045,
+      "Note, selecting 'lxc-docker-1.7.0' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-1.7.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000553,
+      "Note, selecting 'tclx8.4' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000155,
+      "Note, selecting 'lxc-docker-0.6.0' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000012,
+      "Note, selecting 'lxc-docker-0.6.1' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000020,
+      "Note, selecting 'lxc-docker-0.6.2' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000008,
+      "Note, selecting 'libgl1-mesa-glx-lts-trusty' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Note, selecting 'lxc-docker-0.6.3' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000020,
+      "Note, selecting 'lxc-docker-0.6.4' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Note, selecting 'lxc-docker-0.6.5' for regex 'lxc*'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Note, selecting 'lxc-docker-0.6.6' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000016,
+      "Note, selecting 'lxc-docker-0.6.7' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000058,
+      "Note, selecting 'libva-glx1' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "Note, selecting 'lxc-docker-virtual-package' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000305,
+      "Note, selecting 'lxsession-default-apps' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000096,
+      "Note, selecting 'lxgames-default-session' for regex 'lxc*'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "Note, selecting 'libgl1-mesa-glx-lts-raring-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000249,
+      "Note, selecting 'libmlx5-1-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000027,
+      "Note, selecting 'libgl1-mesa-glx-lts-vivid-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000040,
+      "Note, selecting 'lxappearance-obconf-dbg' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000136,
+      "Note, selecting 'libswt-glx-gtk-3-jni' for regex 'lxc*'\r\n"
+    ],
+    [
+      0.000302,
+      "Package 'libgl1-mesa-glx-no-multiarch' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'fglrx-glx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'glx-diversions' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Note, selecting 'liblxc1' instead of 'liblxc0'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Note, selecting 'python-lxml' instead of 'python2.7-lxml'"
+    ],
+    [
+      0.000003,
+      "\r\nNote, selecting 'python3-lxml' instead of 'python3.4-lxml'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Note, selecting 'python3-lxml-dbg' instead of 'python3.4-lxml-dbg'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxcguest' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'nvidia-glx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000010,
+      "Note, selecting 'tclx8.4' instead of 'tclx'\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'libutahglx-dev' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000009,
+      "Note, selecting 'libmenhir-ocaml-dev' instead of 'libmenhir-ocaml-dev-dllx4'\r\n"
+    ],
+    [
+      0.000016,
+      "Package 'lxde-settings-daemon' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Note, selecting 'lxsession' instead of 'lxsession-lite'\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'clustalx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000009,
+      "Note, selecting 'tclx8.4-doc' instead of 'tclx-doc'\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'libgl1-nvidia-glx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000041,
+      "Package 'libxcb-glx0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000008,
+      "Package 'libxcb-glx0-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'libxcb-glx0-dev' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'cl-clx-sbcl' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'clisp-module-clx' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'dvilx' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'gkrellxmms2' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'jmdlx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'libclxclient-dev' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libclxclient3' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'libmlx4-1' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'libmlx4-1-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'libmlx4-dev' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'libmlx5-1' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'libmlx5-1-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'libmlx5-dev' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libperlx-maybe-perl' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libperlx-maybe-xs-perl' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'libpracticalxml-java' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'libswt-glx-gtk-3-jni' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'libva-glx1' is not installed, so not removed"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'live-image-lxde-desktop' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lubuntu-lxpanel-icons' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lx-gdb' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000021,
+      "Package 'lxappearance' is not installed, so not removed\r\nPackage 'lxappearance-dbg' is not installed, so not removed\r\nPackage 'lxappearance-obconf' is not installed, so not removed\r\nPackage 'lxappearance-obconf-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-android-config' is not installed, so not removed\r\nPackage 'lxctl' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxde' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'lxde-common' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'lxde-core' is not installed, so not removed\r\nPackage 'lxde-icon-theme' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxdm' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxgames-default-session' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxinput' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxinput-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxkeymap' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxlauncher' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxlauncher-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxmenu-data' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxmms2' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxmusic' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxmusic-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000006,
+      "\r\nPackage 'lxpanel' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxpanel-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\nPackage 'lxpanel-indicator-applet-plugin' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxrandr' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxrandr-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000008,
+      "Package 'lxshortcut' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxshortcut-dbg' is not installed, so not removed\r\nPackage 'lxsplit' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxtask' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxtask-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxterminal' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\nPackage 'lxterminal-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000009,
+      "Package 'rss-glx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'shelxle' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'tclx8.4' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000009,
+      "Package 'tclx8.4-dev' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'tclx8.4-doc' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'tclxapian' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'tclxml' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'tclxml-dev' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'tunnelx' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'bsd-mailx' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'libgl1-mesa-glx' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'libgl1-mesa-glx-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libgl1-mesa-glx-lts-quantal' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libgl1-mesa-glx-lts-quantal-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libgl1-mesa-glx-lts-raring' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'libgl1-mesa-glx-lts-raring-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libgl1-mesa-glx-lts-saucy' is not installed, so not removed\r\nPackage 'libgl1-mesa-glx-lts-saucy-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'libgl1-mesa-glx-lts-trusty' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'libgl1-mesa-glx-lts-trusty-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'libgl1-mesa-glx-lts-utopic' is not installed, so not removed\r\nPackage 'libgl1-mesa-glx-lts-utopic-dbg' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'libgl1-mesa-glx-lts-vivid' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'libgl1-mesa-glx-lts-vivid-dbg' is not installed, so not removed\r\nPackage 'liblxc1' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000007,
+      "Package 'lxc-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxc-dev' is not installed, so not removed\r\nPackage 'lxc-templates' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-tests' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'nova-compute-lxc' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "Package 'python-lxml-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'python-lxml-doc' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'python3-lxc' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'python3-lxml' is not installed, so not removed"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'python3-lxml-dbg' is not installed, so not removed\r\nPackage 'heirloom-mailx' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxpolkit' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxsession' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxsession-data' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'lxsession-dbg' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxsession-default-apps' is not installed, so not removed\r\nPackage 'lxsession-edit' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxsession-logout' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000027,
+      "Package 'lxc-docker-0.10.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-0.11.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-0.11.1' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.12.0' is not installed, so not removed\r\nPackage 'lxc-docker-0.5.3' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.6.0' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.6.1' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.6.2' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.6.3' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.6.4' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.6.5' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000006,
+      "Package 'lxc-docker-0.6.6' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.6.7' is not installed, so not removed\r\nPackage 'lxc-docker-0.7.0' is not installed, so not removed"
+    ],
+    [
+      0.000013,
+      "\r\nPackage 'lxc-docker-0.7.1' is not installed, so not removed\r\nPackage 'lxc-docker-0.7.2' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-0.7.3' is not installed, so not removed\r\nPackage 'lxc-docker-0.7.4' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxc-docker-0.7.5' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.7.6' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxc-docker-0.8.0' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.8.1' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.9.0' is not installed, so not removed"
+    ],
+    [
+      0.000005,
+      "\r\nPackage 'lxc-docker-0.9.1' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000005,
+      "Package 'lxc-docker-1.0.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000004,
+      "Package 'lxc-docker-1.0.1' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.1.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.1.1' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.1.2' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.2.0' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.3.0' is not installed, so not removed"
+    ],
+    [
+      0.000006,
+      "\r\nPackage 'lxc-docker-1.3.1' is not installed, so not removed"
+    ],
+    [
+      0.000004,
+      "\r\nPackage 'lxc-docker-1.3.2' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\nPackage 'lxc-docker-1.3.3' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.4.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.4.1' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.5.0' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Package 'lxc-docker-1.6.0' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.6.1' is not installed, so not removed"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "Package 'lxc-docker-1.6.2' is not installed, so not removed\r\n"
+    ],
+    [
+      0.000203,
+      "Package 'lxc-docker-1.7.1' is not installed, so not removed\r\n"
+    ],
+    [
+      0.060651,
+      "The following packages were automatically installed and are no longer required:\r\n  aufs-tools cgroup-lite\r\n"
+    ],
+    [
+      0.000018,
+      "Use 'apt-get autoremove' to remove them.\r\n"
+    ],
+    [
+      0.059455,
+      "The following packages will be REMOVED:\r\n  lxc-docker* lxc-docker-1.7.0* python-lxml*\r\n"
+    ],
+    [
+      0.008652,
+      "0 upgraded, 0 newly installed, 3 to remove and 36 not upgraded.\r\n"
+    ],
+    [
+      0.006440,
+      "After this operation, 18.9 MB disk space will be freed.\r\n"
+    ],
+    [
+      0.000028,
+      "\r\r"
+    ],
+    [
+      0.298633,
+      "(Reading database ... \r"
+    ],
+    [
+      0.009772,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.001791,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001403,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.001289,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001182,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.002068,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.001515,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000450,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000006,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000026,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000006,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.000010,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.000017,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.000011,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000016,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.000009,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000012,
+      "(Reading database ... "
+    ],
+    [
+      0.000011,
+      "35698 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000879,
+      "Removing lxc-docker (1.7.0) ...\r\n"
+    ],
+    [
+      0.335994,
+      "Removing lxc-docker-1.7.0 (1.7.0) ...\r\n"
+    ],
+    [
+      0.055208,
+      " * Stopping Docker: docker       "
+    ],
+    [
+      0.005295,
+      "\u001b[80G"
+    ],
+    [
+      0.000115,
+      " "
+    ],
+    [
+      0.000808,
+      "No process in pidfile '/var/run/docker-ssd.pid' found running; none killed.\r\n"
+    ],
+    [
+      0.164279,
+      "Purging configuration files for lxc-docker-1.7.0 (1.7.0) ...\r\n"
+    ],
+    [
+      0.361943,
+      "Removing python-lxml (3.3.3-1ubuntu0.1) ...\r\n"
+    ],
+    [
+      0.555793,
+      "# "
+    ],
+    [
+      2.040958,
+      "echo \"Cleaning apt list\" \u0026\u0026 sleep 3 \u0026\u0026 \\\r\napt-get clean \u0026\u0026 rm -rf /var/lib/apt/lists/* \u0026\u0026 rm -rf /tmp/*"
+    ],
+    [
+      0.000015,
+      "\u003e "
+    ],
+    [
+      0.627049,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "Cleaning apt list"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      3.010395,
+      "# "
+    ],
+    [
+      1.761922,
+      "echo \"Installing new docker version\" \u0026\u0026 sleep 3 \u0026\u0026 \\\r\ncurl -sSL https://get.docker.com/ | sh"
+    ],
+    [
+      0.000017,
+      "\u003e "
+    ],
+    [
+      0.583476,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "Installing new docker version\r\n"
+    ],
+    [
+      3.182710,
+      "apparmor is enabled in the kernel and apparmor utils were already installed\r\n"
+    ],
+    [
+      0.000086,
+      "+ "
+    ],
+    [
+      0.000016,
+      "sh -c"
+    ],
+    [
+      0.000014,
+      " apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.581963,
+      "Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --homedir /tmp/tmp.ZrLhzDRy6i --no-auto-check-trustdb --trust-model always --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyring /etc/apt/trusted.gpg.d/apt.postgresql.org.gpg --keyring /etc/apt/trusted.gpg.d/zanchey-asciinema.gpg --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D\r\n"
+    ],
+    [
+      0.002338,
+      "gpg: "
+    ],
+    [
+      0.000009,
+      "requesting key 2C52609D from hkp server p80.pool.sks-keyservers.net\r\n"
+    ],
+    [
+      0.283973,
+      "gpg: "
+    ],
+    [
+      0.000017,
+      "key 2C52609D: public key \"Docker Release Tool (releasedocker) \u003cdocker@docker.com\u003e\" imported\r\n"
+    ],
+    [
+      0.000036,
+      "gpg: "
+    ],
+    [
+      0.000011,
+      "Total number processed: 1"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "gpg: "
+    ],
+    [
+      0.000009,
+      "              imported: 1  (RSA: 1)"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.002470,
+      "+ sh -c"
+    ],
+    [
+      0.000013,
+      " mkdir -p /etc/apt/sources.list.d\r\n"
+    ],
+    [
+      0.002457,
+      "+ sh -c"
+    ],
+    [
+      0.000013,
+      " echo deb https://apt.dockerproject.org/repo ubuntu-trusty main \u003e /etc/apt/sources.list.d/docker.list\r\n"
+    ],
+    [
+      0.001276,
+      "+ sh -c sleep 3; apt-get update; apt-get install -y -q docker-engine"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      3.543824,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.031911,
+      "\r            \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r            \r6% [Connecting to archive.ubuntu.com (91.189.91.23)] [Connecting to apt.postgre"
+    ],
+    [
+      0.024819,
+      "\r                                                                               \rGet:1 http://ppa.launchpad.net trusty Release.gpg [316 B]\r\n"
+    ],
+    [
+      0.000053,
+      "\r98% [Connecting to archive.ubuntu.com (91.189.91.23)] [Connecting to apt.postgr"
+    ],
+    [
+      0.000063,
+      "\r98% [Connecting to archive.ubuntu.com (91.189.91.23)] [Connecting to apt.postgr"
+    ],
+    [
+      0.033068,
+      "\r                                                                               \rGet:2 http://ppa.launchpad.net trusty Release [15.1 kB]\r\n"
+    ],
+    [
+      0.000025,
+      "\r94% [Waiting for headers] [Connecting to apt.postgresql.org (174.143.35.246)] ["
+    ],
+    [
+      0.156718,
+      "\r                                                                               \r100% [Waiting for headers] [Connecting to apt.postgresql.org (174.143.35.246)]"
+    ],
+    [
+      0.000150,
+      "\r                                                                              \rIgn http://archive.ubuntu.com trusty InRelease\r\n"
+    ],
+    [
+      0.000175,
+      "\r                                                                              \rIgn http://archive.ubuntu.com trusty-updates InRelease\r\n"
+    ],
+    [
+      0.000044,
+      "\r                                                                              \rGet:3 https://apt.dockerproject.org ubuntu-trusty InRelease"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "\r                                                                              \rIgn https://apt.dockerproject.org ubuntu-trusty InRelease"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000023,
+      "\r                                                                              \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000146,
+      "\r                                                \r100% [2 Release gpgv 15.1 kB] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.004023,
+      "\r                                                                         \r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000454,
+      "\r                                                \rGet:4 http://apt.postgresql.org trusty-pgdg InRelease [30.2 kB]\r\n"
+    ],
+    [
+      0.000020,
+      "\r                                                \r63% [Waiting for headers] [4 InRelease 13.4 kB/30.2 kB 45%] [Waiting for header"
+    ],
+    [
+      0.009542,
+      "\r64% [Waiting for headers] [4 InRelease 13.4 kB/30.2 kB 45%] [Waiting for header"
+    ],
+    [
+      0.016632,
+      "\r                                                                               \rGet:5 http://ppa.launchpad.net trusty/main amd64 Packages [865 B]\r\n"
+    ],
+    [
+      0.000088,
+      "\r65% [Waiting for headers] [4 InRelease 13.4 kB/30.2 kB 45%] [5 Packages 865 B/8"
+    ],
+    [
+      0.124322,
+      "\r                                                                               \r100% [Waiting for headers] [4 InRelease 30.2 kB/30.2 kB 100%]"
+    ],
+    [
+      0.000182,
+      "\r                                                             \rIgn http://archive.ubuntu.com trusty-security InRelease\r\n\r                                                             \rGet:6 http://archive.ubuntu.com trusty Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.000039,
+      "\r                                                             \rGet:7 https://apt.dockerproject.org ubuntu-trusty Release"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "\r                                                             \r100% [Working]"
+    ],
+    [
+      0.000337,
+      "\r              \r100% [5 Packages 0 B] [7 Release gpgv 19.7 kB] [Waiting for headers]"
+    ],
+    [
+      0.000988,
+      "\r                                                                    \r100% [7 Release gpgv 19.7 kB] [Waiting for headers]"
+    ],
+    [
+      0.002717,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.000188,
+      "\r                          \r100% [4 InRelease gpgv 30.2 kB] [Waiting for headers]"
+    ],
+    [
+      0.013610,
+      "\r                                                     \rGet:8 https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.000058,
+      "\r                                                     \r100% [4 InRelease gpgv 30.2 kB] [Waiting for headers] [8 Packages 1,603 B]"
+    ],
+    [
+      0.000207,
+      "\r                                                                          \r100% [4 InRelease gpgv 30.2 kB] [Waiting for headers]"
+    ],
+    [
+      0.000340,
+      "\r                                                     \r100% [8 Packages 0 B] [4 InRelease gpgv 30.2 kB] [Waiting for headers]"
+    ],
+    [
+      0.000869,
+      "\r                                                                      \r100% [4 InRelease gpgv 30.2 kB] [Waiting for headers]"
+    ],
+    [
+      0.061221,
+      "\r                                                     \r100% [Waiting for headers]"
+    ],
+    [
+      0.000014,
+      "\r                          \rGet:9 http://archive.ubuntu.com trusty-updates Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.000190,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.075682,
+      "\r                          \rGet:10 http://archive.ubuntu.com trusty-security Release.gpg [933 B]\r\n"
+    ],
+    [
+      0.000050,
+      "\r                          \r100% [10 Release.gpg 933 B/933 B 100%] [Waiting for headers]"
+    ],
+    [
+      0.000172,
+      "\r                                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.036968,
+      "\r                          \rGet:11 http://apt.postgresql.org trusty-pgdg/main amd64 Packages [58.3 kB]\r\n"
+    ],
+    [
+      0.000033,
+      "\r                          \r65% [Waiting for headers] [11 Packages 13.5 kB/58.3 kB 23%]"
+    ],
+    [
+      0.041005,
+      "\r                                                           \rGet:12 http://archive.ubuntu.com trusty Release [58.5 kB]\r\n"
+    ],
+    [
+      0.000116,
+      "\r                                                           \r69% [12 Release 14.2 kB/58.5 kB 24%] [11 Packages 43.5 kB/58.3 kB 75%]"
+    ],
+    [
+      0.155133,
+      "\r                                                                      \r99% [11 Packages 57.3 kB/58.3 kB 98%]"
+    ],
+    [
+      0.000082,
+      "\r                                     \r99% [12 Release gpgv 58.5 kB] [Waiting for headers] [11 Packages 57.3 kB/58.3 k"
+    ],
+    [
+      0.004007,
+      "\r                                                                               \r99% [Waiting for headers] [11 Packages 57.3 kB/58.3 kB 98%]"
+    ],
+    [
+      0.024862,
+      "\r                                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.000396,
+      "\r                          \r100% [11 Packages 0 B] [Waiting for headers]"
+    ],
+    [
+      0.012509,
+      "\r                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.036205,
+      "\r                          \rGet:13 http://archive.ubuntu.com trusty-updates Release [63.5 kB]\r\n"
+    ],
+    [
+      0.000049,
+      "\r                          \r75% [13 Release 1,348 B/63.5 kB 2%]"
+    ],
+    [
+      0.002338,
+      "\r                                   \r100% [Working]"
+    ],
+    [
+      0.000174,
+      "\r              \r100% [13 Release gpgv 63.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.009210,
+      "\r                                                    \r100% [Waiting for headers]"
+    ],
+    [
+      0.068932,
+      "\r                          \rGet:14 http://archive.ubuntu.com trusty-security Release [63.5 kB]\r\n"
+    ],
+    [
+      0.000018,
+      "\r                          \r81% [14 Release 3,134 B/63.5 kB 5%]"
+    ],
+    [
+      0.003534,
+      "\r                                   \r100% [Working]"
+    ],
+    [
+      0.000153,
+      "\r              \r100% [14 Release gpgv 63.5 kB] [Waiting for headers]"
+    ],
+    [
+      0.008542,
+      "\r                                                    \r100% [Waiting for headers]"
+    ],
+    [
+      0.069512,
+      "\r                          \rGet:15 http://archive.ubuntu.com trusty/main Sources [1,335 kB]\r\n"
+    ],
+    [
+      0.000019,
+      "\r                          \r19% [15 Sources 4,096 B/1,335 kB 0%]"
+    ],
+    [
+      0.284784,
+      "\r                                    \rGet:16 https://deb.nodesource.com trusty InRelease\r\n"
+    ],
+    [
+      0.000054,
+      "\r                                    \r96% [15 Sources 1,266 kB/1,335 kB 95%] [16 InRelease 3,899 B]"
+    ],
+    [
+      0.000294,
+      "\r                                                             \r96% [15 Sources 1,266 kB/1,335 kB 95%]"
+    ],
+    [
+      0.000144,
+      "\r                                      \r96% [16 InRelease gpgv 3,899 B] [15 Sources 1,266 kB/1,335 kB 95%]"
+    ],
+    [
+      0.028389,
+      "\r                                                                  \r100% [16 InRelease gpgv 3,899 B]"
+    ],
+    [
+      0.000184,
+      "\r                                \r100% [15 Sources 0 B] [16 InRelease gpgv 3,899 B] [Waiting for headers]"
+    ],
+    [
+      0.035682,
+      "\r                                                                       \r100% [15 Sources 1,335 kB] [Waiting for headers]"
+    ],
+    [
+      0.042115,
+      "\r                                                \rGet:17 http://archive.ubuntu.com trusty/restricted Sources [5,335 B]\r\n\r                                                \r100% [15 Sources 1,335 kB] [17 Sources 5,335 B/5,335 B 100%]"
+    ],
+    [
+      0.000140,
+      "\r                                                            \r100% [15 Sources 1,335 kB]"
+    ],
+    [
+      0.006408,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.000094,
+      "\r                          \r100% [17 Sources 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000761,
+      "\r                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.070808,
+      "\r                          \rGet:18 http://archive.ubuntu.com trusty/universe Sources [7,926 kB]\r\n"
+    ],
+    [
+      0.000010,
+      "\r                          \r17% [18 Sources 9,808 B/7,926 kB 0%]"
+    ],
+    [
+      0.022794,
+      "\r                                    \rGet:19 https://deb.nodesource.com trusty/main Sources\r\n"
+    ],
+    [
+      0.000086,
+      "\r                                    \r20% [18 Sources 215 kB/7,926 kB 3%] [19 Sources 675 B]"
+    ],
+    [
+      0.000174,
+      "\r                                                      \r20% [18 Sources 215 kB/7,926 kB 3%]"
+    ],
+    [
+      0.000332,
+      "\r                                   \r20% [19 Sources 0 B] [18 Sources 215 kB/7,926 kB 3%]"
+    ],
+    [
+      0.000258,
+      "\r                                                    \r20% [18 Sources 215 kB/7,926 kB 3%]"
+    ],
+    [
+      0.142420,
+      "\r                                   \rGet:20 https://deb.nodesource.com trusty/main amd64 Packages\r\n"
+    ],
+    [
+      0.000099,
+      "\r                                   \r31% [18 Sources 1,268 kB/7,926 kB 16%] [20 Packages 930 B]"
+    ],
+    [
+      0.000159,
+      "\r                                                          \r31% [18 Sources 1,268 kB/7,926 kB 16%]"
+    ],
+    [
+      0.000220,
+      "\r                                      \r31% [20 Packages 0 B] [18 Sources 1,268 kB/7,926 kB 16%]"
+    ],
+    [
+      0.000383,
+      "\r                                                        \r31% [18 Sources 1,286 kB/7,926 kB 16%]"
+    ],
+    [
+      0.500680,
+      "\r77% [18 Sources 5,676 kB/7,926 kB 72%]"
+    ],
+    [
+      0.272466,
+      "\r                                      \r100% [Working]"
+    ],
+    [
+      0.000161,
+      "\r              \r100% [18 Sources 0 B] [Waiting for headers]"
+    ],
+    [
+      0.077788,
+      "\r                                           \rGet:21 http://archive.ubuntu.com trusty/main amd64 Packages [1,743 kB]\r\n"
+    ],
+    [
+      0.000043,
+      "\r                                           \r85% [18 Sources 7,926 kB] [21 Packages 31.5 kB/1,743 kB 2%]"
+    ],
+    [
+      0.237486,
+      "\r                                                           \r100% [18 Sources 7,926 kB]"
+    ],
+    [
+      0.078202,
+      "\r                          \rGet:22 http://archive.ubuntu.com trusty/restricted amd64 Packages [16.0 kB]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\r                          \r100% [18 Sources 7,926 kB] [22 Packages 9,812 B/16.0 kB 61%]"
+    ],
+    [
+      0.000461,
+      "\r                                                            \r100% [18 Sources 7,926 kB]"
+    ],
+    [
+      0.078124,
+      "\r                          \rGet:23 http://archive.ubuntu.com trusty/universe amd64 Packages [7,589 kB]\r\n"
+    ],
+    [
+      0.000023,
+      "\r                          \r60% [18 Sources 7,926 kB] [23 Packages 37.3 kB/7,589 kB 0%]"
+    ],
+    [
+      0.040360,
+      "\r                                                           \r61% [23 Packages 236 kB/7,589 kB 3%]"
+    ],
+    [
+      0.000248,
+      "\r                                    \r61% [21 Packages 0 B] [23 Packages 236 kB/7,589 kB 3%]"
+    ],
+    [
+      0.140165,
+      "\r                                                      \r67% [23 Packages 1,257 kB/7,589 kB 17%]"
+    ],
+    [
+      0.000352,
+      "\r                                       \r67% [22 Packages 0 B] [23 Packages 1,257 kB/7,589 kB 17%]"
+    ],
+    [
+      0.003611,
+      "\r                                                         \r67% [23 Packages 1,257 kB/7,589 kB 17%]"
+    ],
+    [
+      0.500665,
+      "\r78% [23 Packages 3,446 kB/7,589 kB 45%]"
+    ],
+    [
+      0.500625,
+      "\r92% [23 Packages 6,106 kB/7,589 kB 80%]"
+    ],
+    [
+      0.301525,
+      "\r                                       \r100% [Working]"
+    ],
+    [
+      0.000221,
+      "\r              \r100% [23 Packages 0 B] [Waiting for headers]"
+    ],
+    [
+      0.077536,
+      "\r                                            \rGet:24 http://archive.ubuntu.com trusty-updates/main Sources [291 kB]\r\n"
+    ],
+    [
+      0.000026,
+      "\r                                            \r99% [23 Packages 7,589 kB] [24 Sources 27.2 kB/291 kB 9%]"
+    ],
+    [
+      0.434980,
+      "\r                                                         \r100% [24 Sources 288 kB/291 kB 99%]"
+    ],
+    [
+      0.155227,
+      "\r                                   \r100% [Working]"
+    ],
+    [
+      0.000117,
+      "\r              \r100% [24 Sources 0 B] [Waiting for headers]"
+    ],
+    [
+      0.020449,
+      "\r                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.057371,
+      "\r                          \rGet:25 http://archive.ubuntu.com trusty-updates/restricted Sources [4,521 B]\r\n"
+    ],
+    [
+      0.000028,
+      "\r                          \r100% [25 Sources 4,521 B/4,521 B 100%]"
+    ],
+    [
+      0.000183,
+      "\r                                      \r100% [Working]"
+    ],
+    [
+      0.000120,
+      "\r              \r100% [25 Sources 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001362,
+      "\r                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.076615,
+      "\r                          \rGet:26 http://archive.ubuntu.com trusty-updates/universe Sources [168 kB]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\r                          \r99% [26 Sources 12.7 kB/168 kB 8%]"
+    ],
+    [
+      0.235252,
+      "\r                                  \r100% [Working]"
+    ],
+    [
+      0.000226,
+      "\r              \r100% [26 Sources 0 B] [Waiting for headers]"
+    ],
+    [
+      0.019298,
+      "\r                                           \r100% [Waiting for headers]"
+    ],
+    [
+      0.058758,
+      "\r                          \rGet:27 http://archive.ubuntu.com trusty-updates/main amd64 Packages [773 kB]\r\n"
+    ],
+    [
+      0.000018,
+      "\r                          \r96% [27 Packages 4,096 B/773 kB 1%]"
+    ],
+    [
+      0.234233,
+      "\r                                   \r100% [Working]"
+    ],
+    [
+      0.000237,
+      "\r              \r100% [27 Packages 0 B] [Waiting for headers]"
+    ],
+    [
+      0.064351,
+      "\r                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.013535,
+      "\r                          \rGet:28 http://archive.ubuntu.com trusty-updates/restricted amd64 Packages [22.7 kB]\r\n"
+    ],
+    [
+      0.000024,
+      "\r                          \r100% [28 Packages 9,102 B/22.7 kB 40%]"
+    ],
+    [
+      0.000949,
+      "\r                                      \r100% [Working]"
+    ],
+    [
+      0.000231,
+      "\r              \r100% [28 Packages 0 B] [Waiting for headers]"
+    ],
+    [
+      0.007917,
+      "\r                                            \r100% [Waiting for headers]"
+    ],
+    [
+      0.069941,
+      "\r                          \rGet:29 http://archive.ubuntu.com trusty-updates/universe amd64 Packages [403 kB]\r\n"
+    ],
+    [
+      0.000019,
+      "\r                          \r98% [29 Packages 24.3 kB/403 kB 6%]"
+    ],
+    [
+      0.085102,
+      "\r                                   \r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000232,
+      "\r100% [29 Packages 0 B] [Waiting for headers]                      3,422 kB/s 0s"
+    ],
+    [
+      0.036668,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.041440,
+      "\r                                                                               \rGet:30 http://archive.ubuntu.com trusty-security/main Sources [118 kB]"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\r99% [30 Sources 4,096 B/118 kB 3%]                                3,422 kB/s 0s"
+    ],
+    [
+      0.005429,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000185,
+      "\r100% [30 Sources 0 B] [Waiting for headers]                       3,422 kB/s 0s"
+    ],
+    [
+      0.008191,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.069894,
+      "\r                                                                               \rGet:31 http://archive.ubuntu.com trusty-security/restricted Sources [1,874 B]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "\r100% [31 Sources 1,874 B/1,874 B 100%]                            3,422 kB/s 0s"
+    ],
+    [
+      0.000111,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000288,
+      "\r100% [31 Sources 0 B] [Waiting for headers]                       3,422 kB/s 0s"
+    ],
+    [
+      0.000785,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.077096,
+      "\r                                                                               \rGet:32 http://archive.ubuntu.com trusty-security/universe Sources [34.0 kB]\r\n"
+    ],
+    [
+      0.000046,
+      "\r100% [32 Sources 34.0 kB/34.0 kB 100%]                            3,422 kB/s 0s"
+    ],
+    [
+      0.001250,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000205,
+      "\r100% [32 Sources 0 B] [Waiting for headers]                       3,422 kB/s 0s"
+    ],
+    [
+      0.005430,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.188890,
+      "\r                                                                               \rGet:33 http://archive.ubuntu.com trusty-security/main amd64 Packages [428 kB]\r\n"
+    ],
+    [
+      0.000019,
+      "\r98% [33 Packages 17.0 kB/428 kB 4%]                               3,422 kB/s 0s"
+    ],
+    [
+      0.155555,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000087,
+      "\r100% [33 Packages 0 B] [Waiting for headers]                      3,422 kB/s 0s"
+    ],
+    [
+      0.036204,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.041951,
+      "\r                                                                               \rGet:34 http://archive.ubuntu.com trusty-security/restricted amd64 Packages [14.8 kB]\r\n"
+    ],
+    [
+      0.000039,
+      "\r100% [34 Packages 14.8 kB/14.8 kB 100%]                           3,422 kB/s 0s"
+    ],
+    [
+      0.000686,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000260,
+      "\r100% [34 Packages 0 B] [Waiting for headers]                      3,422 kB/s 0s"
+    ],
+    [
+      0.004119,
+      "\r100% [Waiting for headers]                                        3,422 kB/s 0s"
+    ],
+    [
+      0.073951,
+      "\r                                                                               \rGet:35 http://archive.ubuntu.com trusty-security/universe amd64 Packages [149 kB]\r\n\r99% [35 Packages 33.4 kB/149 kB 22%]                              3,422 kB/s 0s"
+    ],
+    [
+      0.004859,
+      "\r100% [Working]                                                    3,422 kB/s 0s"
+    ],
+    [
+      0.000123,
+      "\r100% [35 Packages 0 B]                                            3,422 kB/s 0s"
+    ],
+    [
+      0.018189,
+      "\r100% [Working]                                                    3,422 kB/s 0s\r                                                                               \rFetched 21.3 MB in 6s (3,143 kB/s)\r\n"
+    ],
+    [
+      0.074588,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.071484,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.131692,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000092,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001363,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000194,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.611236,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000127,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.080858,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000121,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002140,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000175,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.041486,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000183,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.022968,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000112,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001238,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000163,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.006718,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000083,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000531,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000055,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000471,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000161,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002012,
+      "\rReading package lists... 13%\r"
+    ],
+    [
+      0.004890,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000062,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000337,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.000014,
+      "\rReading package lists... 39%\r"
+    ],
+    [
+      0.003071,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.143301,
+      "Reading package lists..."
+    ],
+    [
+      0.969314,
+      "\r\n"
+    ],
+    [
+      0.063136,
+      "Building dependency tree..."
+    ],
+    [
+      0.101172,
+      "\r\nReading state information..."
+    ],
+    [
+      0.000691,
+      "\r\n"
+    ],
+    [
+      0.109738,
+      "The following NEW packages will be installed:\r\n  docker-engine\r\n"
+    ],
+    [
+      0.005845,
+      "0 upgraded, 1 newly installed, 0 to remove and 36 not upgraded.\r\n"
+    ],
+    [
+      0.077613,
+      "Need to get 5,689 kB of archives.\r\nAfter this operation, 28.5 MB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.320029,
+      "Get:1 https://apt.dockerproject.org/repo/ ubuntu-trusty/main docker-engine amd64 1.8.1-0~trusty [5,689 kB]\r\n"
+    ],
+    [
+      0.291346,
+      "Fetched 5,689 kB in 0s (10.5 MB/s)\r\n"
+    ],
+    [
+      1.647007,
+      "Selecting previously unselected package docker-engine.\r\r\n"
+    ],
+    [
+      0.000014,
+      "(Reading database ... \r"
+    ],
+    [
+      0.005324,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.003286,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.001621,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.001421,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.001658,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.002096,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000764,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000006,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000014,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 50%\r(Reading database ... 55%\r"
+    ],
+    [
+      0.000014,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.000010,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.000012,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.000010,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000008,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.000013,
+      "(Reading database ... 90%\r(Reading database ... 95%\r"
+    ],
+    [
+      0.000011,
+      "(Reading database ... 100%\r(Reading database ... "
+    ],
+    [
+      0.000009,
+      "35561 files and directories currently installed.)\r"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000882,
+      "Preparing to unpack .../docker-engine_1.8.1-0~trusty_amd64.deb ...\r\r\n"
+    ],
+    [
+      0.050828,
+      "Unpacking docker-engine (1.8.1-0~trusty) ...\r\r\n"
+    ],
+    [
+      0.726935,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r\r\n"
+    ],
+    [
+      0.239695,
+      "Setting up docker-engine (1.8.1-0~trusty) ...\r\r\n"
+    ],
+    [
+      0.630723,
+      "invoke-rc.d: policy-rc.d denied execution of start.\r\r\n"
+    ],
+    [
+      0.055668,
+      "Processing triggers for ureadahead (0.100.0-16) ...\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.242205,
+      "+ sh -c docker version\r\n"
+    ],
+    [
+      0.019656,
+      "Client:\r\n"
+    ],
+    [
+      0.000007,
+      " Version:      1.8.1"
+    ],
+    [
+      0.000003,
+      "\r\n API version:  "
+    ],
+    [
+      0.000009,
+      "1.20"
+    ],
+    [
+      0.000003,
+      "\r\n Go version:   "
+    ],
+    [
+      0.000011,
+      "go1.4.2"
+    ],
+    [
+      0.000006,
+      "\r\n Git commit:   "
+    ],
+    [
+      0.000003,
+      "d12ea79\r\n"
+    ],
+    [
+      0.000003,
+      " Built:        "
+    ],
+    [
+      0.000019,
+      "Thu Aug 13 02:35:49 UTC 2015"
+    ],
+    [
+      0.000004,
+      "\r\n OS/Arch:      linux"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000010,
+      "amd64"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "Error response from daemon: client and server don't have same version (client API version: 1.20, server API version: 1.19)\r\n"
+    ],
+    [
+      0.002106,
+      "\r\nIf you would like to use Docker as a non-root user, you should now consider\r\nadding your user to the \"docker\" group with something like:\r\n\r\n  sudo usermod -aG docker your-user\r\n\r\nRemember that you will have to log out and back in for this to take effect!\r\n\r\n"
+    ],
+    [
+      0.000251,
+      "# "
+    ],
+    [
+      2.977107,
+      "d"
+    ],
+    [
+      0.123835,
+      "o"
+    ],
+    [
+      0.044415,
+      "c"
+    ],
+    [
+      0.101235,
+      "k"
+    ],
+    [
+      0.101575,
+      "e"
+    ],
+    [
+      0.056055,
+      "r"
+    ],
+    [
+      0.101283,
+      " "
+    ],
+    [
+      0.089820,
+      "v"
+    ],
+    [
+      0.112935,
+      "e"
+    ],
+    [
+      0.123512,
+      "r"
+    ],
+    [
+      0.067807,
+      "s"
+    ],
+    [
+      0.157205,
+      "i"
+    ],
+    [
+      0.030602,
+      "o"
+    ],
+    [
+      0.070501,
+      "n"
+    ],
+    [
+      0.438949,
+      "\r\n"
+    ],
+    [
+      0.014150,
+      "Client:\r\n"
+    ],
+    [
+      0.000012,
+      " Version:      1.8.1\r\n"
+    ],
+    [
+      0.000009,
+      " API version:  "
+    ],
+    [
+      0.000010,
+      "1.20\r\n"
+    ],
+    [
+      0.000006,
+      " Go version:   go1.4.2"
+    ],
+    [
+      0.000008,
+      "\r\n Git commit:   "
+    ],
+    [
+      0.000009,
+      "d12ea79"
+    ],
+    [
+      0.000009,
+      "\r\n Built:        "
+    ],
+    [
+      0.000012,
+      "Thu Aug 13 02:35:49 UTC 2015"
+    ],
+    [
+      0.000010,
+      "\r\n OS/Arch:      linux"
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.000009,
+      "amd64"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003429,
+      "Error response from daemon: client and server don't have same version (client API version: 1.20, server API version: 1.19)\r\n"
+    ],
+    [
+      0.000016,
+      "# "
+    ],
+    [
+      1.422462,
+      "e"
+    ],
+    [
+      0.134586,
+      "x"
+    ],
+    [
+      0.135335,
+      "i"
+    ],
+    [
+      0.089496,
+      "t"
+    ],
+    [
+      0.180336,
+      "\r\n"
+    ]
+  ]
+}
