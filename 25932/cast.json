@@ -1,0 +1,470 @@
+{
+  "version": 1,
+  "width": 153,
+  "height": 44,
+  "duration": 26.351452,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.233414,
+      "SSH agent using key in OSX keychain.\r\n"
+    ],
+    [
+      0.044488,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000006,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      0.738521,
+      "."
+    ],
+    [
+      0.050393,
+      "/"
+    ],
+    [
+      0.149105,
+      "r"
+    ],
+    [
+      0.192496,
+      "i"
+    ],
+    [
+      0.135616,
+      "g"
+    ],
+    [
+      0.168331,
+      "g"
+    ],
+    [
+      0.311631,
+      "e"
+    ],
+    [
+      0.056574,
+      "r"
+    ],
+    [
+      0.175554,
+      " "
+    ],
+    [
+      0.136338,
+      "c"
+    ],
+    [
+      0.095778,
+      "o"
+    ],
+    [
+      0.087884,
+      "n"
+    ],
+    [
+      0.096350,
+      "f"
+    ],
+    [
+      0.160158,
+      "i"
+    ],
+    [
+      0.103558,
+      "g"
+    ],
+    [
+      0.112008,
+      "u"
+    ],
+    [
+      0.088077,
+      "r"
+    ],
+    [
+      0.080034,
+      "e"
+    ],
+    [
+      0.400256,
+      "\r\n"
+    ],
+    [
+      0.069275,
+      "\u001b[32m-\u003e Where can I find the version of Deis you want? [ Release ]\u001b[0m\r\n"
+    ],
+    [
+      0.002319,
+      "1) Release\r\n"
+    ],
+    [
+      0.002045,
+      "2) Path\r\n"
+    ],
+    [
+      0.000014,
+      "#? "
+    ],
+    [
+      1.000000,
+      "1"
+    ],
+    [
+      0.143874,
+      "\r\n"
+    ],
+    [
+      0.015148,
+      "\u001b[33mYou chose: 1) Release\u001b[0m\r\n"
+    ],
+    [
+      0.010840,
+      "\u001b[32m-\u003e Enter Deis version: [ 1.10.0 ]\u001b[0m\r\n"
+    ],
+    [
+      0.677996,
+      "1"
+    ],
+    [
+      0.168651,
+      "."
+    ],
+    [
+      0.303670,
+      "9"
+    ],
+    [
+      0.264128,
+      "."
+    ],
+    [
+      0.263889,
+      "1"
+    ],
+    [
+      0.440326,
+      "\r\n"
+    ],
+    [
+      0.000214,
+      "You chose: 1.9.1\r\n"
+    ],
+    [
+      0.015262,
+      "\u001b[32m-\u003e What cloud provider would you like to use? [ Vagrant ]\u001b[0m\r\n"
+    ],
+    [
+      0.002377,
+      "1) Vagrant\r\n"
+    ],
+    [
+      0.002137,
+      "2) Amazon Web Services (AWS)\r\n"
+    ],
+    [
+      0.002249,
+      "3) Digital Ocean\r\n"
+    ],
+    [
+      0.000024,
+      "#? "
+    ],
+    [
+      0.993854,
+      "3"
+    ],
+    [
+      0.367514,
+      "\r\n"
+    ],
+    [
+      0.015254,
+      "\u001b[33mYou chose: 3) Digital Ocean\u001b[0m\r\n"
+    ],
+    [
+      0.019960,
+      "\u001b[32m-\u003e What ssh key should I use (for deisctl/ssh)? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.012545,
+      "\u001b[32m-\u003e What ssh key should I use for application deployment? [ /Users/sethgoings/.ssh/deis-test ]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "You chose: /Users/sethgoings/.ssh/deis-test\r\n"
+    ],
+    [
+      0.134325,
+      "\r\n"
+    ],
+    [
+      0.011247,
+      "\u001b[32mRerun Deis has been configured on this system using /Users/sethgoings/.rigger/80472ea652/vars\u001b[0m\r\n"
+    ],
+    [
+      0.003297,
+      "To use the configuration outside of Rerun, you can run:\r\n\r\n  source \"/Users/sethgoings/.rigger/80472ea652/vars\"\r\n\r\n"
+    ],
+    [
+      0.040876,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "t"
+    ],
+    [
+      0.184018,
+      "r"
+    ],
+    [
+      0.175897,
+      "e"
+    ],
+    [
+      0.136419,
+      "e"
+    ],
+    [
+      0.159755,
+      " "
+    ],
+    [
+      1.000000,
+      "~"
+    ],
+    [
+      0.303408,
+      "/"
+    ],
+    [
+      0.168153,
+      "."
+    ],
+    [
+      0.159972,
+      "r"
+    ],
+    [
+      0.128154,
+      "i"
+    ],
+    [
+      0.120240,
+      "g"
+    ],
+    [
+      0.143576,
+      "g"
+    ],
+    [
+      0.167987,
+      "e"
+    ],
+    [
+      0.041060,
+      "r"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.007839,
+      "/Users/sethgoings/.rigger\r\n"
+    ],
+    [
+      0.000007,
+      "├── 80472ea652\r\n│   └── vars\r\n└── vars -\u003e /Users/sethgoings/.rigger/80472ea652/vars\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "1 directory, 2 files\r\n"
+    ],
+    [
+      0.041038,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.208228,
+      "r"
+    ],
+    [
+      0.041019,
+      "e"
+    ],
+    [
+      0.087484,
+      "p"
+    ],
+    [
+      0.095503,
+      " "
+    ],
+    [
+      0.159735,
+      "-"
+    ],
+    [
+      0.200020,
+      "v"
+    ],
+    [
+      0.344375,
+      " "
+    ],
+    [
+      0.423798,
+      "D"
+    ],
+    [
+      0.176351,
+      "O"
+    ],
+    [
+      0.631821,
+      "_"
+    ],
+    [
+      0.400042,
+      " "
+    ],
+    [
+      1.000000,
+      "~"
+    ],
+    [
+      0.192322,
+      "/"
+    ],
+    [
+      0.199515,
+      "."
+    ],
+    [
+      0.104219,
+      "r"
+    ],
+    [
+      0.144260,
+      "i"
+    ],
+    [
+      0.151484,
+      "g"
+    ],
+    [
+      0.128050,
+      "g"
+    ],
+    [
+      0.160183,
+      "e"
+    ],
+    [
+      0.064371,
+      "r"
+    ],
+    [
+      0.167769,
+      "\u0007"
+    ],
+    [
+      0.576270,
+      "/"
+    ],
+    [
+      0.095907,
+      "v"
+    ],
+    [
+      0.191722,
+      "a"
+    ],
+    [
+      0.096199,
+      "r"
+    ],
+    [
+      0.328416,
+      "s "
+    ],
+    [
+      0.455571,
+      "\r\n"
+    ],
+    [
+      0.002604,
+      "export DEISCTL_UNITS=\"/Users/sethgoings/.rigger/80472ea652/units\"\r\nexport DEIS_ROOT=\"/Users/sethgoings/go/src/github.com/deis/deis\"\r\nexport DEIS_TEST_AUTH_KEY=\"/Users/sethgoings/.ssh/deis-test\"\r\nexport DEIS_TEST_DOMAIN=\"xip.io\"\r\nexport DEIS_TEST_ID=\"80472ea652\"\r\nexport DEIS_TEST_ROOT=\"/Users/sethgoings/.rigger/80472ea652\"\r\nexport DEIS_TEST_SSH_KEY=\"/Users/sethgoings/.ssh/deis-test\"\r\n"
+    ],
+    [
+      0.000053,
+      "export DEIS_VARS_FILE=\"/Users/sethgoings/.rigger/80472ea652/vars\"\r\nexport GOPATH=\"/Users/sethgoings/go\"\r\nexport ORIGINAL_PATH=\"/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\"\r\nexport PATH=\"/Users/sethgoings/go/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/Users/sethgoings/.rbenv/shims:/Users/sethgoings/.rbenv/bin:/Users/sethgoings/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin\"\r\nexport PROVIDER=\"digitalocean\"\r\nexport VERSION=\"1.9.1\"\r\n"
+    ],
+    [
+      0.039769,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[42m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.041518,
+      "\u001b[106m\u001b[97m ~/code/rigger \u001b(B\u001b[m\u001b[44m\u001b[97m ⑂ provider-rewrite + \u001b(B\u001b[m\u001b[41m\u001b[97m  \u001b(B\u001b[m "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.240431,
+      "x"
+    ],
+    [
+      0.119484,
+      "i"
+    ],
+    [
+      0.119960,
+      "t"
+    ],
+    [
+      0.424429,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "exit\r\n"
+    ]
+  ]
+}
