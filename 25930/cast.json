@@ -1,0 +1,2254 @@
+{
+  "version": 1,
+  "width": 167,
+  "height": 44,
+  "duration": 153.445128,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.263418,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000274,
+      "\u001b]2;foiki@foiki-ubuntu: ~\u0007"
+    ],
+    [
+      0.000085,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.027543,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000039,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.975392,
+      "s"
+    ],
+    [
+      0.220274,
+      "\u0008ss"
+    ],
+    [
+      0.193516,
+      "h"
+    ],
+    [
+      1.028513,
+      " "
+    ],
+    [
+      0.440595,
+      "l"
+    ],
+    [
+      0.213357,
+      "o"
+    ],
+    [
+      0.377752,
+      "calhost\u001b[1m \u001b[0m"
+    ],
+    [
+      0.948086,
+      "\u0008\u001b[0m -"
+    ],
+    [
+      0.322917,
+      "p"
+    ],
+    [
+      0.187852,
+      " "
+    ],
+    [
+      0.223624,
+      "2"
+    ],
+    [
+      0.234185,
+      "2"
+    ],
+    [
+      0.182889,
+      "2"
+    ],
+    [
+      0.180438,
+      "2"
+    ],
+    [
+      1.247234,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ssh localhost -p 2222\u0007\u001b]1;localhost\u0007"
+    ],
+    [
+      0.211978,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nYou have new mail.\r\nLast login: Thu Sep  3 12:26:27 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.427373,
+      "\r\r\n \u001b[36;1m2015-09-03 18:39:53 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      2.732844,
+      "s"
+    ],
+    [
+      0.410138,
+      "u"
+    ],
+    [
+      0.159003,
+      "d"
+    ],
+    [
+      0.208012,
+      "o"
+    ],
+    [
+      0.136937,
+      " "
+    ],
+    [
+      0.192866,
+      "a"
+    ],
+    [
+      0.102977,
+      "p"
+    ],
+    [
+      0.250036,
+      "t"
+    ],
+    [
+      0.227282,
+      "-"
+    ],
+    [
+      0.155725,
+      "g"
+    ],
+    [
+      0.149569,
+      "e"
+    ],
+    [
+      0.054875,
+      "t"
+    ],
+    [
+      0.116066,
+      " "
+    ],
+    [
+      0.854151,
+      "i"
+    ],
+    [
+      0.078460,
+      "n"
+    ],
+    [
+      0.086517,
+      "s"
+    ],
+    [
+      0.113722,
+      "t"
+    ],
+    [
+      0.134627,
+      "a"
+    ],
+    [
+      0.123266,
+      "l"
+    ],
+    [
+      0.156345,
+      "l"
+    ],
+    [
+      0.095829,
+      " "
+    ],
+    [
+      0.149474,
+      "w"
+    ],
+    [
+      0.218997,
+      "e"
+    ],
+    [
+      0.192322,
+      "e"
+    ],
+    [
+      0.299944,
+      "c"
+    ],
+    [
+      0.128048,
+      "h"
+    ],
+    [
+      0.110870,
+      "a"
+    ],
+    [
+      0.140542,
+      "t"
+    ],
+    [
+      0.223456,
+      "-"
+    ],
+    [
+      0.823598,
+      "c"
+    ],
+    [
+      0.734381,
+      "\u0007"
+    ],
+    [
+      0.032358,
+      "\r\nweechat-core    weechat-curses  \r\n\r\r\n \u001b[36;1m2015-09-03 18:39:53 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m sudo apt-get install weechat-c"
+    ],
+    [
+      2.112617,
+      "u"
+    ],
+    [
+      0.089251,
+      "r"
+    ],
+    [
+      0.867929,
+      "s"
+    ],
+    [
+      0.220536,
+      "e"
+    ],
+    [
+      0.204099,
+      "s"
+    ],
+    [
+      1.262286,
+      " "
+    ],
+    [
+      1.194438,
+      "s"
+    ],
+    [
+      0.127697,
+      "c"
+    ],
+    [
+      0.223237,
+      "r"
+    ],
+    [
+      0.246192,
+      "e"
+    ],
+    [
+      0.170289,
+      "e"
+    ],
+    [
+      0.463775,
+      "n"
+    ],
+    [
+      0.691755,
+      "\r\n"
+    ],
+    [
+      0.034846,
+      "[sudo] password for foiki: "
+    ],
+    [
+      3.210533,
+      "\r\n"
+    ],
+    [
+      0.030145,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.019426,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.014815,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000099,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.019750,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000096,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.092339,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001383,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000928,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.121036,
+      "The following extra packages will be installed:"
+    ],
+    [
+      0.000129,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "  aspell aspell-en guile-2.0-libs libaspell15 libltdl7 liblua5.1-0 libperl5.20 libpython2.7 libruby2.1 libtcl8.5 libunistring0 libyaml-0-2 weechat-core"
+    ],
+    [
+      0.000164,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "  weechat-plugins"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.001591,
+      "Suggested packages:"
+    ],
+    [
+      0.000100,
+      "\r\n"
+    ],
+    [
+      0.000133,
+      "  aspell-doc spellutils tcl8.5 iselect screenie byobu weechat-doc weechat-scripts"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.002296,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "  aspell aspell-en guile-2.0-libs libaspell15 libltdl7 liblua5.1-0 libperl5.20 libpython2.7 libruby2.1 libtcl8.5 libunistring0 libyaml-0-2 screen weechat-core"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "  weechat-curses weechat-plugins"
+    ],
+    [
+      0.000150,
+      "\r\n"
+    ],
+    [
+      0.008201,
+      "0 upgraded, 16 newly installed, 0 to remove and 0 not upgraded."
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.091762,
+      "Need to get 10,6 MB of archives."
+    ],
+    [
+      0.001089,
+      "\r\n"
+    ],
+    [
+      0.000650,
+      "After this operation, 46,0 MB of additional disk space will be used."
+    ],
+    [
+      0.000629,
+      "\r\n"
+    ],
+    [
+      0.000623,
+      "Do you want to continue?"
+    ],
+    [
+      0.001152,
+      " [Y/n] "
+    ],
+    [
+      1.189628,
+      "y"
+    ],
+    [
+      0.366792,
+      "\r\n"
+    ],
+    [
+      0.018851,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.100361,
+      "\r            \rGet:1 http://ftp.se.debian.org/debian/ jessie/main libltdl7 amd64 2.4.2-1.11 [45,2 kB]\r\n\r            \r0% [1 libltdl7 0 B/45,2 kB 0%]"
+    ],
+    [
+      0.046803,
+      "\r                              \r0% [Working]"
+    ],
+    [
+      0.030739,
+      "\r            \rGet:2 http://ftp.se.debian.org/debian/ jessie/main libunistring0 amd64 0.9.3-5.2+b1 [288 kB]\r\n\r            \r0% [2 libunistring0 0 B/288 kB 0%]"
+    ],
+    [
+      0.106922,
+      "\r                                  \r3% [Working]"
+    ],
+    [
+      0.037536,
+      "\r            \rGet:3 http://ftp.se.debian.org/debian/ jessie/main guile-2.0-libs amd64 2.0.11+1-9 [2 219 kB]\r\n\r            \r3% [3 guile-2.0-libs 0 B/2 219 kB 0%]"
+    ],
+    [
+      0.500319,
+      "\r                                     \r14% [3 guile-2.0-libs 1 148 kB/2 219 kB 52%]"
+    ],
+    [
+      0.351735,
+      "\r                                            \r24% [Working]"
+    ],
+    [
+      0.041057,
+      "\r             \rGet:4 http://ftp.se.debian.org/debian/ jessie/main libaspell15 amd64 0.60.7~20110707-1.3 [359 kB]\r\n\r             \r24% [4 libaspell15 0 B/359 kB 0%]"
+    ],
+    [
+      0.096505,
+      "\r                                 \r27% [Working]"
+    ],
+    [
+      0.027556,
+      "\r             \rGet:5 http://ftp.se.debian.org/debian/ jessie/main liblua5.1-0 amd64 5.1.5-7.1 [108 kB]\r\n\r             \r27% [5 liblua5.1-0 0 B/108 kB 0%]"
+    ],
+    [
+      0.019712,
+      "\r                                 \r28% [Working]"
+    ],
+    [
+      0.025499,
+      "\r             \rGet:6 http://ftp.se.debian.org/debian/ jessie/main libpython2.7 amd64 2.7.9-2 [1 080 kB]\r\n\r             \r28% [6 libpython2.7 0 B/1 080 kB 0%]"
+    ],
+    [
+      0.318039,
+      "\r                                    \r39% [Working]"
+    ],
+    [
+      0.056542,
+      "\r             \rGet:7 http://ftp.se.debian.org/debian/ jessie/main libtcl8.5 amd64 8.5.17-1 [737 kB]\r\n\r             \r39% [7 libtcl8.5 0 B/737 kB 0%]"
+    ],
+    [
+      0.246168,
+      "\r                               \r45% [Working]"
+    ],
+    [
+      0.027382,
+      "\r             \rGet:8 http://ftp.se.debian.org/debian/ jessie/main libyaml-0-2 amd64 0.1.6-3 [50,4 kB]\r\n\r             \r45% [8 libyaml-0-2 0 B/50,4 kB 0%]"
+    ],
+    [
+      0.012982,
+      "\r                                  \r46% [Working]"
+    ],
+    [
+      0.027894,
+      "\r             \rGet:9 http://ftp.se.debian.org/debian/ jessie/main aspell amd64 0.60.7~20110707-1.3 [230 kB]\r\n\r             \r46% [9 aspell 0 B/230 kB 0%]"
+    ],
+    [
+      0.079765,
+      "\r                            \r48% [Working]"
+    ],
+    [
+      0.035932,
+      "\r             \rGet:10 http://ftp.se.debian.org/debian/ jessie/main aspell-en all 7.1-0-1.1 [266 kB]\r\n\r             \r48% [10 aspell-en 0 B/266 kB 0%]"
+    ],
+    [
+      0.067967,
+      "\r                                \r51% [Working]"
+    ],
+    [
+      0.059678,
+      "\r             \rGet:11 http://ftp.se.debian.org/debian/ jessie/main libperl5.20 amd64 5.20.2-3+deb8u1 [1 352 B]\r\n\r             \r51% [11 libperl5.20 0 B/1 352 B 0%]"
+    ],
+    [
+      0.001427,
+      "\r                                   \r51% [Working]"
+    ],
+    [
+      0.062267,
+      "\r             \rGet:12 http://ftp.se.debian.org/debian/ jessie/main screen amd64 4.2.1-3 [578 kB]\r\n\r             \r51% [12 screen 0 B/578 kB 0%]"
+    ],
+    [
+      0.211161,
+      "\r                             \r56% [Working]"
+    ],
+    [
+      0.069887,
+      "\r             \rGet:13 http://ftp.se.debian.org/debian/ jessie/main weechat-core amd64 1.0.1-1 [616 kB]\r\n\r             \r56% [13 weechat-core 0 B/616 kB 0%]"
+    ],
+    [
+      0.191054,
+      "\r                                   \r62% [Working]"
+    ],
+    [
+      0.066492,
+      "\r             \rGet:14 http://ftp.se.debian.org/debian/ jessie/main weechat-curses amd64 1.0.1-1 [363 kB]\r\n\r             \r62% [14 weechat-curses 0 B/363 kB 0%]"
+    ],
+    [
+      0.085222,
+      "\r                                     \r65% [Working]"
+    ],
+    [
+      0.024729,
+      "\r             \rGet:15 http://ftp.se.debian.org/debian/ jessie/main libruby2.1 amd64 2.1.5-2+deb8u1 [3 277 kB]\r\n\r             \r65% [15 libruby2.1 0 B/3 277 kB 0%]"
+    ],
+    [
+      0.501056,
+      "\r                                   \r85% [15 libruby2.1 2 147 kB/3 277 kB 66%]"
+    ],
+    [
+      0.271957,
+      "\r                                         \r96% [Working]"
+    ],
+    [
+      0.049787,
+      "\r             \rGet:16 http://ftp.se.debian.org/debian/ jessie/main weechat-plugins amd64 1.0.1-1 [423 kB]"
+    ],
+    [
+      0.000483,
+      "\r\n"
+    ],
+    [
+      0.000587,
+      "\r             \r96% [16 weechat-plugins 0 B/423 kB 0%]"
+    ],
+    [
+      0.094997,
+      "\r                                      \r100% [Working]\r              \rFetched 10,6 MB in 3s (2 695 kB/s)\r\n"
+    ],
+    [
+      1.229289,
+      "Selecting previously unselected package libltdl7:amd64.\r\n(Reading database ... \r"
+    ],
+    [
+      0.024229,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000128,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000165,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000156,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000168,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000167,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000143,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000157,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000172,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000119,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000133,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.000133,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.004607,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.057079,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.054034,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.061575,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.058069,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.030855,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.044625,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.055584,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000323,
+      "(Reading database ... "
+    ],
+    [
+      0.000465,
+      "32642 files and directories currently installed.)"
+    ],
+    [
+      0.000260,
+      "\r\n"
+    ],
+    [
+      0.002571,
+      "Preparing to unpack .../libltdl7_2.4.2-1.11_amd64.deb ..."
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ],
+    [
+      0.061018,
+      "Unpacking libltdl7:amd64 (2.4.2-1.11) ..."
+    ],
+    [
+      0.000392,
+      "\r\n"
+    ],
+    [
+      0.300620,
+      "Selecting previously unselected package libunistring0:amd64.\r\nPreparing to unpack .../libunistring0_0.9.3-5.2+b1_amd64.deb ...\r\n"
+    ],
+    [
+      0.021024,
+      "Unpacking libunistring0:amd64 (0.9.3-5.2+b1) ...\r\n"
+    ],
+    [
+      0.411342,
+      "Selecting previously unselected package guile-2.0-libs:amd64.\r\nPreparing to unpack .../guile-2.0-libs_2.0.11+1-9_amd64.deb ...\r\n"
+    ],
+    [
+      0.026825,
+      "Unpacking guile-2.0-libs:amd64 (2.0.11+1-9) ...\r\n"
+    ],
+    [
+      4.613046,
+      "Selecting previously unselected package libaspell15:amd64.\r\nPreparing to unpack .../libaspell15_0.60.7~20110707-1.3_amd64.deb ...\r\n"
+    ],
+    [
+      0.019124,
+      "Unpacking libaspell15:amd64 (0.60.7~20110707-1.3) ...\r\n"
+    ],
+    [
+      1.278276,
+      "Selecting previously unselected package liblua5.1-0:amd64.\r\nPreparing to unpack .../liblua5.1-0_5.1.5-7.1_amd64.deb ..."
+    ],
+    [
+      0.000625,
+      "\r\n"
+    ],
+    [
+      0.049769,
+      "Unpacking liblua5.1-0:amd64 (5.1.5-7.1) ...\r\n"
+    ],
+    [
+      0.318949,
+      "Selecting previously unselected package libpython2.7:amd64.\r\n"
+    ],
+    [
+      0.001322,
+      "Preparing to unpack .../libpython2.7_2.7.9-2_amd64.deb ..."
+    ],
+    [
+      0.000374,
+      "\r\n"
+    ],
+    [
+      0.033275,
+      "Unpacking libpython2.7:amd64 (2.7.9-2) ..."
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.409134,
+      "Selecting previously unselected package libtcl8.5:amd64.\r\n"
+    ],
+    [
+      0.002926,
+      "Preparing to unpack .../libtcl8.5_8.5.17-1_amd64.deb ..."
+    ],
+    [
+      0.000708,
+      "\r\n"
+    ],
+    [
+      0.022781,
+      "Unpacking libtcl8.5:amd64 (8.5.17-1) ..."
+    ],
+    [
+      0.000587,
+      "\r\n"
+    ],
+    [
+      1.917819,
+      "Selecting previously unselected package libyaml-0-2:amd64.\r\n"
+    ],
+    [
+      0.002188,
+      "Preparing to unpack .../libyaml-0-2_0.1.6-3_amd64.deb ..."
+    ],
+    [
+      0.000434,
+      "\r\n"
+    ],
+    [
+      0.019629,
+      "Unpacking libyaml-0-2:amd64 (0.1.6-3) ..."
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.237379,
+      "Selecting previously unselected package aspell.\r\n"
+    ],
+    [
+      0.002464,
+      "Preparing to unpack .../aspell_0.60.7~20110707-1.3_amd64.deb ..."
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.018942,
+      "Unpacking aspell (0.60.7~20110707-1.3) ..."
+    ],
+    [
+      0.000669,
+      "\r\n"
+    ],
+    [
+      0.852491,
+      "Selecting previously unselected package aspell-en.\r\nPreparing to unpack .../aspell-en_7.1-0-1.1_all.deb ...\r\n"
+    ],
+    [
+      0.017910,
+      "Unpacking aspell-en (7.1-0-1.1) ..."
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.603008,
+      "Selecting previously unselected package libperl5.20.\r\n"
+    ],
+    [
+      0.002048,
+      "Preparing to unpack .../libperl5.20_5.20.2-3+deb8u1_amd64.deb ..."
+    ],
+    [
+      0.000294,
+      "\r\n"
+    ],
+    [
+      0.034094,
+      "Unpacking libperl5.20 (5.20.2-3+deb8u1) ..."
+    ],
+    [
+      0.000198,
+      "\r\n"
+    ],
+    [
+      0.214202,
+      "Selecting previously unselected package screen.\r\nPreparing to unpack .../screen_4.2.1-3_amd64.deb ...\r\n"
+    ],
+    [
+      0.033750,
+      "Unpacking screen (4.2.1-3) ...\r\n"
+    ],
+    [
+      0.539736,
+      "Selecting previously unselected package weechat-core.\r\n"
+    ],
+    [
+      0.000268,
+      "Preparing to unpack .../weechat-core_1.0.1-1_amd64.deb ..."
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.038192,
+      "Unpacking weechat-core (1.0.1-1) ...\r\n"
+    ],
+    [
+      0.468644,
+      "Selecting previously unselected package weechat-curses.\r\nPreparing to unpack .../weechat-curses_1.0.1-1_amd64.deb ...\r\n"
+    ],
+    [
+      0.020749,
+      "Unpacking weechat-curses (1.0.1-1) ...\r\n"
+    ],
+    [
+      0.365699,
+      "Selecting previously unselected package libruby2.1:amd64.\r\n"
+    ],
+    [
+      0.004712,
+      "Preparing to unpack .../libruby2.1_2.1.5-2+deb8u1_amd64.deb ..."
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.019860,
+      "Unpacking libruby2.1:amd64 (2.1.5-2+deb8u1) ..."
+    ],
+    [
+      0.000452,
+      "\r\n"
+    ],
+    [
+      6.832349,
+      "Selecting previously unselected package weechat-plugins.\r\n"
+    ],
+    [
+      0.001195,
+      "Preparing to unpack .../weechat-plugins_1.0.1-1_amd64.deb ..."
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.018840,
+      "Unpacking weechat-plugins (1.0.1-1) ..."
+    ],
+    [
+      0.000408,
+      "\r\n"
+    ],
+    [
+      0.288750,
+      "Processing triggers for man-db (2.7.0.2-5) ...\r\n"
+    ],
+    [
+      0.724730,
+      "Processing triggers for install-info (5.2.0.dfsg.1-6) ...\r\n"
+    ],
+    [
+      0.205400,
+      "Processing triggers for systemd (215-17+deb8u1) ...\r\n"
+    ],
+    [
+      0.226971,
+      "Setting up libltdl7:amd64 (2.4.2-1.11) ..."
+    ],
+    [
+      0.000267,
+      "\r\n"
+    ],
+    [
+      0.214217,
+      "Setting up libunistring0:amd64 (0.9.3-5.2+b1) ...\r\n"
+    ],
+    [
+      0.110321,
+      "Setting up guile-2.0-libs:amd64 (2.0.11+1-9) ...\r\n"
+    ],
+    [
+      0.122796,
+      "Setting up libaspell15:amd64 (0.60.7~20110707-1.3) ...\r\n"
+    ],
+    [
+      0.115022,
+      "Setting up liblua5.1-0:amd64 (5.1.5-7.1) ...\r\n"
+    ],
+    [
+      0.117270,
+      "Setting up libpython2.7:amd64 (2.7.9-2) ...\r\n"
+    ],
+    [
+      0.082001,
+      "Setting up libtcl8.5:amd64 (8.5.17-1) ...\r\n"
+    ],
+    [
+      0.144317,
+      "Setting up libyaml-0-2:amd64 (0.1.6-3) ...\r\n"
+    ],
+    [
+      0.154879,
+      "Setting up aspell (0.60.7~20110707-1.3) ...\r\n"
+    ],
+    [
+      0.370635,
+      "Setting up aspell-en (7.1-0-1.1) ...\r\n"
+    ],
+    [
+      0.295603,
+      "Setting up libperl5.20 (5.20.2-3+deb8u1) ...\r\n"
+    ],
+    [
+      0.132802,
+      "Setting up screen (4.2.1-3) ...\r\n"
+    ],
+    [
+      0.467920,
+      "Setting up weechat-core (1.0.1-1) ...\r\n"
+    ],
+    [
+      0.060482,
+      "Setting up weechat-curses (1.0.1-1) ...\r\n"
+    ],
+    [
+      0.134230,
+      "Setting up libruby2.1:amd64 (2.1.5-2+deb8u1) ...\r\n"
+    ],
+    [
+      0.103804,
+      "Setting up weechat-plugins (1.0.1-1) ...\r\n"
+    ],
+    [
+      0.091425,
+      "Processing triggers for libc-bin (2.19-18) ...\r\n"
+    ],
+    [
+      0.148571,
+      "Processing triggers for dictionaries-common (1.23.17) ...\r\n"
+    ],
+    [
+      0.248670,
+      "aspell-autobuildhash: processing: en [en-common].\r\n"
+    ],
+    [
+      0.199550,
+      "aspell-autobuildhash: processing: en [en-variant_0].\r\n"
+    ],
+    [
+      0.007989,
+      "aspell-autobuildhash: processing: en [en-variant_1].\r\n"
+    ],
+    [
+      0.012411,
+      "aspell-autobuildhash: processing: en [en-variant_2].\r\n"
+    ],
+    [
+      0.012582,
+      "aspell-autobuildhash: processing: en [en-w_accents-only].\r\n"
+    ],
+    [
+      0.013434,
+      "aspell-autobuildhash: processing: en [en-wo_accents-only].\r\n"
+    ],
+    [
+      0.015657,
+      "aspell-autobuildhash: processing: en [en_CA-variant_0].\r\n"
+    ],
+    [
+      0.010329,
+      "aspell-autobuildhash: processing: en [en_CA-variant_1].\r\n"
+    ],
+    [
+      0.015520,
+      "aspell-autobuildhash: processing: en [en_CA-w_accents-only].\r\n"
+    ],
+    [
+      0.012449,
+      "aspell-autobuildhash: processing: en [en_CA-wo_accents-only].\r\n"
+    ],
+    [
+      0.013490,
+      "aspell-autobuildhash: processing: en [en_GB-ise-w_accents-only].\r\n"
+    ],
+    [
+      0.010971,
+      "aspell-autobuildhash: processing: en [en_GB-ise-wo_accents-only].\r\n"
+    ],
+    [
+      0.012218,
+      "aspell-autobuildhash: processing: en [en_GB-ize-w_accents-only].\r\n"
+    ],
+    [
+      0.012033,
+      "aspell-autobuildhash: processing: en [en_GB-ize-wo_accents-only].\r\n"
+    ],
+    [
+      0.012163,
+      "aspell-autobuildhash: processing: en [en_GB-variant_0].\r\n"
+    ],
+    [
+      0.008243,
+      "aspell-autobuildhash: processing: en [en_GB-variant_1].\r\n"
+    ],
+    [
+      0.009761,
+      "aspell-autobuildhash: processing: en [en_US-w_accents-only].\r\n"
+    ],
+    [
+      0.011585,
+      "aspell-autobuildhash: processing: en [en_US-wo_accents-only].\r\n"
+    ],
+    [
+      0.247058,
+      "Processing triggers for systemd (215-17+deb8u1) ...\r\n"
+    ],
+    [
+      0.760636,
+      "\r\r\n \u001b[36;1m2015-09-03 18:40:47 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      2.431954,
+      "s"
+    ],
+    [
+      0.069431,
+      "c"
+    ],
+    [
+      0.194821,
+      "r"
+    ],
+    [
+      0.221468,
+      "e"
+    ],
+    [
+      0.179216,
+      "e"
+    ],
+    [
+      0.128446,
+      "n"
+    ],
+    [
+      1.146587,
+      " "
+    ],
+    [
+      0.170749,
+      "-"
+    ],
+    [
+      0.355910,
+      "S"
+    ],
+    [
+      0.498536,
+      " "
+    ],
+    [
+      0.593118,
+      "i"
+    ],
+    [
+      0.116898,
+      "r"
+    ],
+    [
+      0.237776,
+      "c"
+    ],
+    [
+      0.753619,
+      "\r\n"
+    ],
+    [
+      0.017495,
+      "\u001b[r\u001b[m\u001b[2J\u001b[H\u001b[?7h\u001b[?1;4;6l\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;44r"
+    ],
+    [
+      0.001160,
+      "\u001b[H\u001b[2J\u001b[H\u001b[2J"
+    ],
+    [
+      0.310801,
+      "\n \u001b[1m\u001b[36m2015-09-03 18:40:55 \u001b[0m\u001b[31m☆ \u001b[33m \u001b[35mdebian \u001b[39min \u001b[32m~\r\n\u001b[1m\u001b[36m○\u001b[0m\u001b[32m →\u001b[39m "
+    ],
+    [
+      2.563350,
+      "w"
+    ],
+    [
+      0.217789,
+      "e"
+    ],
+    [
+      0.203128,
+      "e"
+    ],
+    [
+      0.211419,
+      "e"
+    ],
+    [
+      0.424057,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149750,
+      "\u001b[?5h\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b[?5l"
+    ],
+    [
+      0.000570,
+      "chat"
+    ],
+    [
+      1.186082,
+      "\u001b[?5h\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b[?5l"
+    ],
+    [
+      0.349685,
+      "\r\n"
+    ],
+    [
+      0.000412,
+      "weechat         weechat-curses  "
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.000320,
+      "\n"
+    ],
+    [
+      0.000340,
+      " \u001b[1m\u001b[36m2015-09-03 18:40:55 \u001b[0m\u001b[31m☆ \u001b[33m \u001b[35mdebian \u001b[39min \u001b[32m~\r"
+    ],
+    [
+      0.000316,
+      "\n"
+    ],
+    [
+      0.000393,
+      "\u001b[1m\u001b[36m○\u001b[0m\u001b[32m →\u001b[39m weechat"
+    ],
+    [
+      0.796598,
+      "-"
+    ],
+    [
+      0.795342,
+      "curses "
+    ],
+    [
+      1.071222,
+      "\r\n"
+    ],
+    [
+      0.063880,
+      "\u001b[H"
+    ],
+    [
+      0.000559,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000366,
+      "\u001b[22;2t\u001b]2;WeeChat 1.0.1\u0007\u001b]0;WeeChat 1.0.1\u0007"
+    ],
+    [
+      0.000140,
+      "\u001b[?2004h"
+    ],
+    [
+      0.081188,
+      "\u001b[43B"
+    ],
+    [
+      0.000414,
+      "\u001b[A\u001b[36m\u001b[44m[\u001b[39m\u001b[49m\u001b[44m18:41\u001b[36m]\u001b[39m\u001b[49m\u001b[44m \u001b[36m[\u001b[39m\u001b[49m\u001b[44m1\u001b[36m]\u001b[39m\u001b[49m\u001b[44m \u001b[36m[\u001b[39m\u001b[49m\u001b[44mcore\u001b[36m]\u001b[39m\u001b[49m\u001b[44m \u001b[1m\u001b[49m\u001b[33m\u001b[44m1\u001b[0m\u001b[36m\u001b[44m:\u001b[1m\u001b[39m\u001b[49m\u001b[44mweechat\u001b[0m\u001b[44m                                                                                                                                           \r\n\u001b[49m"
+    ],
+    [
+      0.000233,
+      "\u001b[H\u001b[44mWeeChat 1.0.1 (C) 2003-2014 - http://weechat.org/                                                                                                                      \r\u001b[43B\u001b[49m"
+    ],
+    [
+      0.001898,
+      "\u001b[H\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39m\u001b[36m  ___       __         ______________        _____ \r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39m\u001b[36m  __ |     / /___________  ____/__  /_______ __  /_\r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39m\u001b[36m  __ | /| / /_  _ \\  _ \\  /    __  __ \\  __ `/  __/\r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39m\u001b[36m  __ |/ |/ / /  __/  __/ /___  _  / / / /_/ // /_  \r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39m\u001b[36m  ____/|__/  \\___/\\___/\\____/  /_/ /_/\\__,_/ \\__/  \r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[1m\u001b[39mWeeChat 1.0.1 \u001b[0m\u001b[32m[\u001b[36mcompiled on Sep 28 2014 15:54:55\u001b[32m]\r\n\u001b[39m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39mBar \"input\" created\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39mBar \"title\" created\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39mBar \"status\" created\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39mBar \"nicklist\" created\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m03 \u001b[32m| \u001b[39mPlugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer\r\u001b[31B"
+    ],
+    [
+      1.440959,
+      "/"
+    ],
+    [
+      0.656462,
+      "j"
+    ],
+    [
+      0.948647,
+      "\u0008 \u0008"
+    ],
+    [
+      0.146248,
+      "c"
+    ],
+    [
+      0.090197,
+      "o"
+    ],
+    [
+      0.240306,
+      "n"
+    ],
+    [
+      0.146236,
+      "n"
+    ],
+    [
+      0.095612,
+      "e"
+    ],
+    [
+      0.073972,
+      "c"
+    ],
+    [
+      0.205610,
+      "t"
+    ],
+    [
+      0.128185,
+      " "
+    ],
+    [
+      0.807991,
+      "i"
+    ],
+    [
+      0.058459,
+      "r"
+    ],
+    [
+      0.193783,
+      "c"
+    ],
+    [
+      0.234440,
+      "."
+    ],
+    [
+      0.520398,
+      "b"
+    ],
+    [
+      0.110328,
+      "s"
+    ],
+    [
+      0.268436,
+      "."
+    ],
+    [
+      0.460043,
+      "\u0008 \u0008"
+    ],
+    [
+      0.287094,
+      "n"
+    ],
+    [
+      0.117527,
+      "e"
+    ],
+    [
+      0.038815,
+      "t"
+    ],
+    [
+      0.138720,
+      "."
+    ],
+    [
+      0.971277,
+      "s"
+    ],
+    [
+      0.053694,
+      "e"
+    ],
+    [
+      1.598229,
+      "\r                     \r"
+    ],
+    [
+      0.000383,
+      "\u001b[43;14H\u001b[44mirc\u001b[36m]\u001b[39m\u001b[49m\u001b[44m \u001b[1m\u001b[49m\u001b[33m\u001b[44m1\u001b[0m\u001b[36m\u001b[44m:\u001b[1m\u001b[39m\u001b[49m\u001b[44mserver\u001b[0m\u001b[36m\u001b[44m[\u001b[1m\u001b[39m\u001b[49m\u001b[44mirc.bsnet.se\u001b[0m\u001b[36m\u001b[44m]\r\n\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000283,
+      "\u001b[H\u001b[44m                                                 \r\u001b[43B\u001b[49m"
+    ],
+    [
+      0.002210,
+      "\u001b[2;10H     weechat    \u001b[32m| \u001b[39m  ___       __         ______________\u001b[8C_____\u001b[68D\n     weechat    \u001b[32m| \u001b[39m  __ |     / /___________  ____/__  /_______ __  /_\u001b[69D\n     weechat    \u001b[32m| \u001b[39m  __ | /| / /_  _ \\  _ \\  /    __  __ \\  __ `/  __/\u001b[69D\n     weechat    \u001b[32m| \u001b[39m  __ |/ |/ / /  __/  __/ /___  _  / / / /_/ // /_\u001b[67D\n     weechat    \u001b[32m| \u001b[39m  ____/|__/  \\___/\\___/\\____/  /_/ /_/\\__,_/ \\__/\u001b[67D\n     weechat    \u001b[32m| \u001b[39mWeeChat 1.0.1 [compiled on Sep 28 2014 15:54:55]\u001b[66D\n     weechat    \u001b[32m| \u001b[48C\u001b[39m- - - - - - - -\u001b[81D\n     weechat    \u001b[32m| \u001b[39mBar \"input\" created\u001b[37D\n     weechat    \u001b[32m| \u001b[39mBar \"title\" created\u001b[37D\n     weechat    \u001b[32m| \u001b[39mBar \"status\" created\u001b[38D\n     weechat    \u001b[32m| \u001b[39mBar \"nicklist\" created\u001b[40D\n     weechat    \u001b[32m| \u001b[39mPlugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13\u001b[6Cweechat    \u001b[32m| \u001b[39mirc: server irc.bsnet.se created (temporary server, NOT SAVED!)\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mirc: connecting to server irc.bsnet.se/6667...\r\u001b[29B"
+    ],
+    [
+      0.051969,
+      "\u001b[36m[\u001b[1m\u001b[39m\u001b[36mfoiki\u001b[0m\u001b[36m]\u001b[C\u001b[39m"
+    ],
+    [
+      0.004776,
+      "\r\u001b[28A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mirc: connected to irc.bsnet.se/6667 (91.123.195.117)\u001b[44;9H"
+    ],
+    [
+      0.004794,
+      "\r\u001b[27A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mindefatigable.bash.se: *** Looking up your hostname...\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mindefatigable.bash.se: *** Checking Ident\u001b[44;9H"
+    ],
+    [
+      0.243557,
+      "\r\u001b[25A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m13 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mindefatigable.bash.se: *** Found your hostname\u001b[44;9H"
+    ],
+    [
+      1.272142,
+      "/"
+    ],
+    [
+      1.353528,
+      "j"
+    ],
+    [
+      0.144305,
+      "o"
+    ],
+    [
+      0.052526,
+      "i"
+    ],
+    [
+      0.362523,
+      "n"
+    ],
+    [
+      1.347821,
+      "\u0008 \u0008"
+    ],
+    [
+      0.150269,
+      "\u0008 \u0008"
+    ],
+    [
+      0.160926,
+      "\u0008 \u0008"
+    ],
+    [
+      0.164265,
+      "\u0008 \u0008"
+    ],
+    [
+      0.351146,
+      "n"
+    ],
+    [
+      0.182051,
+      "i"
+    ],
+    [
+      0.135750,
+      "c"
+    ],
+    [
+      0.073562,
+      "k"
+    ],
+    [
+      0.129696,
+      " "
+    ],
+    [
+      0.558366,
+      "f"
+    ],
+    [
+      0.203896,
+      "o"
+    ],
+    [
+      0.187171,
+      "i"
+    ],
+    [
+      0.189688,
+      "k"
+    ],
+    [
+      0.139025,
+      "i"
+    ],
+    [
+      0.501686,
+      "_"
+    ],
+    [
+      0.295568,
+      "t"
+    ],
+    [
+      0.100093,
+      "e"
+    ],
+    [
+      0.190310,
+      "s"
+    ],
+    [
+      0.123015,
+      "t"
+    ],
+    [
+      1.243684,
+      "\u001b[18D\u001b[1m\u001b[36m_test\u001b[0m\u001b[36m]\u001b[39m            \u001b[11D"
+    ],
+    [
+      1.343668,
+      "/"
+    ],
+    [
+      0.015469,
+      "\u001b[7D\u001b[36m]\u001b[39m /    \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.001653,
+      "\r\u001b[24A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mindefatigable.bash.se: *** No Ident response\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mirc: nickname \"foiki_test\" is already in use, trying nickname \"foiki_\"\u001b[44;11H"
+    ],
+    [
+      0.018376,
+      "\u001b[H\u001b[44mIRC: irc.bsnet.se/6667 (91.123.195.117)\u001b[44;11H\u001b[49m"
+    ],
+    [
+      0.005909,
+      "\r\u001b[22A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mWelcome to the USCH-NET Internet Relay Chat Network foiki_\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mYour host is indefatigable.bash.se[91.123.195.117/6667], running version hybrid-7.2.2.dfsg.2-6\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mThis server rose from the ashes Feb  3 2013 at 23:20:49\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mindefatigable.bash.se hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mCALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=USCH-NET\u001b[128D\n\u001b[32m| \u001b[39mMAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#\u0026 :are supported by this server\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mCHANLIMIT=#\u0026:25 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST :are supported by this\u001b[136D\n\u001b[32m| \u001b[39mserver\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mThere are 0 users and 128 invisible on 3 servers\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m10 :Smurf Targets (IRC Operators) online\u001b[44;11H"
+    ],
+    [
+      0.004448,
+      "\u0008\u0008\u0008\u001b[36m(\u001b[39mi\u001b[36m)]\u001b[39m /"
+    ],
+    [
+      0.003348,
+      "\u001b[H\n\u001b[2;42r\u001b[2;1H\u001b[14M\u001b[H\u001b[17B18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m79 :channels formed\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mI have 62 clients and 2 servers\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mCurrent local users: 62  Max: 85\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mCurrent global users: 128  Max: 145\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mHighest connection count: 87 (85 clients) (1846 connections received)\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m- indefatigable.bash.se Message of the Day -\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[9C_,met$$$$$gg.\u001b[7Circ.bsnet.se\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[6C,g$$$$$$$$$$$$$$$P.    indefatigable.bash.se\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-    ,g$$P\"\"\u001b[7C\"\"\"Y$$.\".  http://en.wikipedia.org/wiki/HMS_Indefatigable_(1784)\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-   ,$$P'\u001b[14C`$$$.\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m- ',$$P\u001b[7C,ggs.     `$$b:\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m- `d$$'     ,$P\"'   .    $$$\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-  $$P\u001b[6Cd$'     ,    $$P\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-  $$:\u001b[6C$$.   -    ,d$$'\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-  $$;\u001b[6CY$b._   _,d$P'\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-  Y$$.    `.`\"Y$$$$P\"'\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-  `$$b\u001b[6C\"-.__\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-   `Y$$"
+    ],
+    [
+      0.000177,
+      "b\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-    `Y$$.\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[6C`$$b.\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[8C`Y$$b.\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[10C`\"Y$b._\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39m-\u001b[13C`\"\"\"\"\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mEnd of /MOTD command.\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m24 \u001b[33mirc.bsnet.se\u001b[39m \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mUser mode \u001b[32m[\u001b[39m+i\u001b[32m]\u001b[39m by \u001b[1mfoiki_\u001b[44;14H\u001b[0m"
+    ],
+    [
+      0.842625,
+      "j"
+    ],
+    [
+      0.117058,
+      "o"
+    ],
+    [
+      0.021427,
+      "i"
+    ],
+    [
+      0.106919,
+      "n"
+    ],
+    [
+      0.972083,
+      " "
+    ],
+    [
+      0.376242,
+      "#"
+    ],
+    [
+      0.345166,
+      "d"
+    ],
+    [
+      0.237977,
+      "b"
+    ],
+    [
+      0.609766,
+      "_"
+    ],
+    [
+      0.874483,
+      "\u0008 \u0008"
+    ],
+    [
+      0.607995,
+      "-"
+    ],
+    [
+      0.234756,
+      "o"
+    ],
+    [
+      0.273093,
+      "-"
+    ],
+    [
+      0.145945,
+      "w"
+    ],
+    [
+      0.175783,
+      "e"
+    ],
+    [
+      0.186508,
+      "b"
+    ],
+    [
+      0.182252,
+      "b"
+    ],
+    [
+      2.440252,
+      "\u001b[16D                \u001b[16D"
+    ],
+    [
+      0.022791,
+      "\u001b[A\u0008\u0008\u0008\u001b[44m2\u001b[6C\u001b[36m/\u001b[39m\u001b[49m\u001b[44mirc.bsnet.se\u001b[36m]\u001b[39m\u001b[49m\u001b[44m \u001b[1m\u001b[49m\u001b[33m\u001b[44m2\u001b[0m\u001b[36m\u001b[44m:\u001b[1m\u001b[39m\u001b[49m\u001b[44m#db-o-webb\u001b[0m\u001b[36m\u001b[44m{\u001b[39m\u001b[49m\u001b[44m38\u001b[36m}\u001b[44;13H\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000789,
+      "\u001b[H\u001b[44mWebbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar | http://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://\u001b[1m\u001b[49m\u001b[35m\u001b[44m\u003e\u003e\u001b[44;13H\u001b[39m\u001b[49m\u001b[0m"
+    ],
+    [
+      0.003252,
+      "\u001b[2;152H\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mdjazz\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0memmtho\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mfeeloor\u001b[9D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mfoiki\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mForssell\u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mjohan\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mlew\n\u001b[5D\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mmos\n\u001b[5D\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mOlund\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mperlennartsson\u001b[12;152H\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mSylvanas\u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[32m@\u001b[0mwasa\n\u001b[6D\u001b[34m│\u001b[1m\u001b[39m\u001b[35m%\u001b[0mkh31d4r \u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[35m%\u001b[0mpansar\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[35m%\u001b[0msnafu\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[35m%\u001b[0myeti\n\u001b[6D\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mAlfred\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mAllinrep\u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0malz\n\u001b[5D\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mbjvi13\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mcc1\n\u001b[5D\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mdo1\n\u001b[5D\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mfoiki_\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mFusRoDah\u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mkitty\u001b[7D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mkrysvac\u001b[9D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mMalestrazza\u001b[13D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mmarvin\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mMollyPorph\u001b[12D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0moskarjh\u001b[9D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mrala14\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0msedavand\u001b[10D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mSharpless\u001b[11D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mspandel\u001b[9D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mthebiffman\u001b[12D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mtomten\u001b[8D\n\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mXKCD\n\u001b[6D\u001b[34m│\u001b[1m\u001b[39m\u001b[34m \u001b[0mZanshi\u001b[8D\n\u001b[34m│\n\u0008│\n\u0008│\u001b[44;13H\u001b[39m"
+    ],
+    [
+      0.007188,
+      "\u001b[2;7H33 \u001b[1m\u001b[32m--\u003e\u001b[0m \u001b[32m| \u001b[1m\u001b[39mfoiki_\u001b[0m\u001b[32m (\u001b[36m~foiki@h-145-206.a192.priv.bahnhof.se\u001b[32m) has joined \u001b[1m\u001b[39m#db-o-webb\n\u001b[77D\u001b[0m33  \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mTopic for \u001b[1m#db-o-webb\u001b[0m is \"Webbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar |\u001b[4;13H\u001b[1K \u001b[32m| \u001b[39mhttp://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://dbwebb.se/irssistats/db-o-webb.html \"\n\u001b[5;7H33  \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mTopic set by mos\u001b[32m (\u001b[36m~mos@tana.com.bth.se\u001b[32m)\u001b[39m on fre, 05 sep 2014 17:37:21\n\u001b[77D33  \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mChannel \u001b[1m#db-o-webb\u001b[0m: \u001b[1m38\u001b[0m nicks \u001b[32m(\u001b[1m\u001b[39m12\u001b[0m ops, \u001b[1m4\u001b[0m halfops, \u001b[1m0\u001b[0m voices, \u001b[1m22\u001b[0m normals\u001b[32m)\u001b[65C\n\u001b[39m\u001b[1K \u001b[34m│\r\n\u001b[39m                                                                                     \r\n                                                                                                                         \r\n                                                                                  \r\n                                                                                                                   \r\n                                                                                                                                                       \u001b[126D\n                                                                        \r\n                                                                                                                                                       \u001b[126D\n        \r\n                                                                           \r\n                                                                   \r\n                                              \r\n                                                          \r\n                                                           \r\n                                                              \r\n                                                            "
+    ],
+    [
+      0.000941,
+      "                                    \r\n                                                                       \r\n                            \u001b[9C             \u001b[7C            \r\n                            \u001b[6C                                            \r\n    "
+    ],
+    [
+      0.000487,
+      "                                   \u001b[7C                                                                \r\n                                    \u001b[14C     \r\n                                  \u001b[7C               \r\n                                                "
+    ],
+    [
+      0.000155,
+      "       \r\n                                 \u001b[6C                \r\n                                 \u001b[6C                \r\n                                 \u001b[6C              \r\n                                                  \r\n                                "
+    ],
+    [
+      0.000118,
+      "  \u001b[6C     \r\n                                    \r\n                                     \r\n                            \u001b[6C     \r\n                            \u001b[8C      \r\n                            \u001b[10C       \r\n                            \u001b[13C     \r\n     "
+    ],
+    [
+      0.000112,
+      "                                           \r\n                                                   \u001b[44;13H"
+    ],
+    [
+      0.002221,
+      "\r\u001b[37A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33  \u001b[35m--\u001b[39m \u001b[32m| PvNotice(\u001b[36mchan\u001b[32m)\u001b[39m: \"Välkommen till kanalen för webbprogrammerare! Här pratas utveckling med HTML, CSS, JavaScript, PHP, SQL, Unix och allt\u001b[8;14H\u001b[32m| \u001b[39mannat som har att göra med webbutveckling. Ställ din fråga, länk till problemet, häng kvar. Kanalen är även handledningskanal för\u001b[9;14H\u001b[32m| \u001b[39mdbwebb-kurserna, här hänger nya o gamla studenter, lärare och andra intresserade av utveckling och webb. Besök även forumet på\u001b[128D\n\u001b[32m| \u001b[39mhttp://dbwebb.se/forum\"\u001b[44;13H"
+    ],
+    [
+      1.858283,
+      "\u001b[43;44H\u001b[36m\u001b[44m(\u001b[39m\u001b[49m\u001b[44m+nt\u001b[36m){\u001b[39m\u001b[49m\u001b[44m38\u001b[36m}\u001b[44;13H\u001b[39m\u001b[49m"
+    ],
+    [
+      0.001137,
+      "\r\u001b[33A18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m35  \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mChannel created on tis, 03 jul 2012 01:21:56\u001b[44;13H"
+    ],
+    [
+      2.786730,
+      "h"
+    ],
+    [
+      0.053468,
+      "e"
+    ],
+    [
+      0.116521,
+      "j"
+    ],
+    [
+      0.170025,
+      " "
+    ],
+    [
+      0.156914,
+      "n"
+    ],
+    [
+      0.069053,
+      "u"
+    ],
+    [
+      0.090593,
+      " "
+    ],
+    [
+      0.174750,
+      "t"
+    ],
+    [
+      0.146420,
+      "e"
+    ],
+    [
+      0.256982,
+      "s"
+    ],
+    [
+      0.145972,
+      "t"
+    ],
+    [
+      0.155699,
+      "a"
+    ],
+    [
+      0.079676,
+      "r"
+    ],
+    [
+      0.106734,
+      " "
+    ],
+    [
+      0.241476,
+      "v"
+    ],
+    [
+      0.184262,
+      "i"
+    ],
+    [
+      0.101666,
+      " "
+    ],
+    [
+      0.264492,
+      "i"
+    ],
+    [
+      0.090043,
+      "g"
+    ],
+    [
+      0.076671,
+      "e"
+    ],
+    [
+      0.084246,
+      "n"
+    ],
+    [
+      1.688942,
+      "\u001b[21D                     \u001b[21D"
+    ],
+    [
+      0.005004,
+      "\u001b[2;10H   \u001b[1m\u001b[32m--\u003e\u001b[0m \u001b[32m| \u001b[1m\u001b[39mfoiki_\u001b[0m\u001b[32m (\u001b[36m~foiki@h-145-206.a192.priv.bahnhof.se\u001b[32m) has joined \u001b[1m\u001b[39m#db-o-webb\u001b[76D\n\u001b[0m   \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mTopic for \u001b[1m#db-o-webb\u001b[0m is \"Webbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar |\u001b[4;14H   \u001b[32m| \u001b[39mhttp://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://dbwebb.se/irssistats/db-o-webb.html \"\u001b[5;11H   \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mTopic set by mos\u001b[32m (\u001b[36m~mos@tana.com.bth.se\u001b[32m)\u001b[39m on fre, 05 sep 2014 17:37:21\u001b[76D\n   \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mChannel \u001b[1m#db-o-webb\u001b[0m: \u001b[1m38\u001b[0m nicks \u001b[32m(\u001b[1m\u001b[39m12\u001b[0m ops, \u001b[1m4\u001b[0m halfops, \u001b[1m0\u001b[0m voices, \u001b[1m22\u001b[0m normals\u001b[32m)\u001b[78D\n\u001b[39m   \u001b[35m--\u001b[39m \u001b[32m| PvNotice(\u001b[36mchan\u001b[32m)\u001b[39m: \"Välkommen till kanalen för webbprogrammerare! Här pratas utveckling med HTML, CSS, JavaScript, PHP, SQL, Unix och  \u001b[8;14H   \u001b[32m| \u001b[39mallt annat som har att göra med webbutveckling. Ställ din fråga, länk till problemet, häng kvar. Kanalen är även handledningskanal\u001b[9;14H   \u001b[32m| \u001b[39mför dbwebb-kurserna, här hänger nya o gamla studenter, lärare och andra intresserade av utveckling och webb. Besök även forumet på\u001b[135D\n   \u001b[32m| \u001b[39mhttp://dbwebb.se/forum\"\u001b[31D\n   \u001b[35m--\u001b[39m \u001b[32m| \u001b[39mChannel created on tis, 03 jul 2012 01:21:56\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m42 \u001b[1mfoiki_\u001b[0m \u001b[32m| \u001b[39mhej nu testar vi igen\u001b[44;13H"
+    ],
+    [
+      3.694275,
+      "\u001b[1;44r\u001b[?1l\u001b\u003e\u001b]0;\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[44;1H\r\n\u001b[?1049l[detached from 2203.irc]\r\n"
+    ],
+    [
+      0.022306,
+      "\r\r\n \u001b[36;1m2015-09-03 18:41:46 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.635632,
+      "e"
+    ],
+    [
+      0.214444,
+      "x"
+    ],
+    [
+      0.187288,
+      "i"
+    ],
+    [
+      0.127075,
+      "t"
+    ],
+    [
+      1.787202,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154747,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.147720,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.154616,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.156228,
+      "\u0007"
+    ],
+    [
+      0.131936,
+      "s"
+    ],
+    [
+      0.065762,
+      "c"
+    ],
+    [
+      0.203504,
+      "r"
+    ],
+    [
+      0.183307,
+      "e"
+    ],
+    [
+      0.176317,
+      "e"
+    ],
+    [
+      0.105969,
+      "n"
+    ],
+    [
+      0.127566,
+      " "
+    ],
+    [
+      0.967043,
+      "-"
+    ],
+    [
+      0.277470,
+      "l"
+    ],
+    [
+      0.135526,
+      "s"
+    ],
+    [
+      0.366160,
+      "\r\n"
+    ],
+    [
+      0.012420,
+      "There is a screen on:\r"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\u0009"
+    ],
+    [
+      0.000110,
+      "2203.irc"
+    ],
+    [
+      0.000098,
+      "\u0009"
+    ],
+    [
+      0.000106,
+      "(2015-09-03 18:40:54)"
+    ],
+    [
+      0.000105,
+      "\u0009"
+    ],
+    [
+      0.000101,
+      "(Detached)"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "1 Socket in /var/run/screen/S-foiki."
+    ],
+    [
+      0.000102,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "\r"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.015502,
+      "\r\r\n \u001b[36;1m2015-09-03 18:41:52 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.835807,
+      "s"
+    ],
+    [
+      0.094848,
+      "c"
+    ],
+    [
+      0.216676,
+      "r"
+    ],
+    [
+      0.219734,
+      "e"
+    ],
+    [
+      0.186561,
+      "e"
+    ],
+    [
+      0.138159,
+      "n"
+    ],
+    [
+      0.232227,
+      " "
+    ],
+    [
+      0.378528,
+      "-"
+    ],
+    [
+      0.324798,
+      "R"
+    ],
+    [
+      0.245241,
+      "R"
+    ],
+    [
+      0.424553,
+      " "
+    ],
+    [
+      0.512768,
+      "i"
+    ],
+    [
+      0.157712,
+      "r"
+    ],
+    [
+      0.255961,
+      "c"
+    ],
+    [
+      1.440145,
+      "\r\n"
+    ],
+    [
+      0.009157,
+      "\u001b[r\u001b[m\u001b[2J\u001b[H\u001b[?7h\u001b[?1;4;6l\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;44r\u001b[H\u001b[2J\u001b]0;WeeChat 1.0.1\u0007\u001b[H\u001b[2J\u001b[22;2t\u001b]2;WeeChat 1.0.1\u0007\u001b[44mWebbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar | http://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://\u001b[1m\u001b[35m\u003e\u003e\r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[4C\u001b[1m\u001b[32m--\u003e\u001b[C\u001b[0m\u001b[32m| \u001b[1m\u001b[39mfoiki_\u001b[0m\u001b[32m (\u001b[36m~foiki@h-145-206.a192.priv.bahnhof.se\u001b[32m) has joined \u001b[1m\u001b[39m#db-o-webb\u001b[65C\u001b[0m\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mdjazz\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mTopic for \u001b[1m#db-o-webb\u001b[C\u001b[0mis \"Webbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar |\u001b[8C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0memmtho\u001b[4;17H\u001b[32m| \u001b[39mhttp://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://dbwebb.se/irssistats/db-o-webb.html \"\u001b[32C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mfeeloor\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mTopic set by mos\u001b[32m (\u001b[36m~mos@tana.com.bth.se\u001b[32m)\u001b[C\u001b[39mon fre, 05 sep 2014 17:37:21\u001b[65C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mfoiki\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mChannel \u001b[1m#db-o-webb\u001b[0m: \u001b[1m38\u001b[C\u001b[0mnicks \u001b[32m(\u001b[1m\u001b[39m12\u001b[C\u001b[0mops, \u001b[1m4\u001b[C\u001b[0mhalfops, \u001b[1m0\u001b[C\u001b[0mvoices, \u001b[1m22\u001b[C\u001b[0mnormals\u001b[32m)\u001b[63C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mForssell\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| PvNotice(\u001b[36mchan\u001b[32m)\u001b[39m: \"Välkommen till kanalen för webbprogrammerare! Här pratas utveckling med HTML, CSS, JavaScript, PHP, SQL, Unix och   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mjohan\u001b[8;17H\u001b[32m| \u001b[39mallt annat som har att göra med webbutveckling. Ställ din fråga, länk till problemet, häng kvar. Kanalen är även handledningskanal   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mlew\u001b[9;17H\u001b[32m| \u001b[39mför dbwebb-kurserna, här hänger nya o gamla studenter, lärare och andra intresserade av utveckling och webb. Besök även forumet på   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mmos\u001b[140D\n\u001b[32m| \u001b[39mhttp://dbwebb.se/forum\"\u001b[110C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mOlund\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m35\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mChannel created on tis, 03 jul 2012 01:21:56\u001b[89C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mperlennartsson\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m42 \u001b[1mfoiki_\u001b[C\u001b[0m\u001b[32m| \u001b[39mhej nu testar vi igen\u001b[112C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mSylvanas\u001b[10D\n\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mwasa\u001b[6D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0mkh31d4r\u001b[9D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0mpansar\u001b[8D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0msnafu\u001b[7D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0myeti\u001b[6D\n\u001b[34m│\u001b[1m \u001b[0mAlfred\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mAllinrep\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0malz\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mbjvi13\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mcc1\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mdo1\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mfoiki_\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mFusRoDah\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0mkitty\u001b[7D\n\u001b[34m│\u001b[1m \u001b[0mkrysvac\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mMalestrazza\u001b[13D\n\u001b[34m│\u001b[1m \u001b[0mmarvin\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mMollyPorph\u001b[12D\n\u001b[34m│\u001b[1m \u001b[0moskarjh\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mrala14\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0msedavand\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0mSharpless\u001b[11D\n\u001b[34m│\u001b[1m \u001b[0mspandel\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mthebiffman\u001b[12D\n\u001b[34m│\u001b[1m \u001b[0mtomten\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mXKCD\u001b[6D\n\u001b[34m│\u001b[1m \u001b[0mZanshi\u001b[8D\n\u001b[34m│\u0008\n│\u0008\n│\r\n\u001b[36m\u001b[44m[\u001b[39m18:41\u001b[36m]\u001b[39m \u001b[36m[\u001b[39m2\u001b[36m]\u001b[39m \u001b[36m[\u001b[39mirc\u001b[36m/\u001b[39mirc.bsnet.se\u001b[36m]\u001b[39m \u001b[1m\u001b[33m2\u001b[0m\u001b[36m\u001b[44m:\u001b[1m\u001b[39m#db-o-webb\u001b[0m\u001b[36m\u001b[44m(\u001b[39m+nt\u001b[36m){\u001b[39m38\u001b[36m}\u001b[39m                                                                                                                   \r\n\u001b[36m\u001b[49m[\u001b[1mfoiki_\u001b[0m\u001b[36m(\u001b[39mi\u001b[36m)]\u001b[39m\u001b]0;\u0007\u001b]0;WeeChat 1.0.1\u0007 "
+    ],
+    [
+      1.604459,
+      "\u001b[A\u001b[7D\u001b[44m2\n\u001b[6C\u001b[49m"
+    ],
+    [
+      0.639948,
+      "e"
+    ],
+    [
+      0.671987,
+      "\u0008 \u0008"
+    ],
+    [
+      0.619085,
+      "\u001b[?1l\u001b\u003e\u001b]0;\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[44;1H\r\n\u001b[?1049l[detached from 2203.irc]\r\n"
+    ],
+    [
+      0.024527,
+      "\r\r\n \u001b[36;1m2015-09-03 18:42:01 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.774779,
+      "e"
+    ],
+    [
+      0.209273,
+      "x"
+    ],
+    [
+      0.170193,
+      "i"
+    ],
+    [
+      0.124128,
+      "t"
+    ],
+    [
+      0.487133,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.007271,
+      "Connection to localhost closed.\r\r\n"
+    ],
+    [
+      0.001465,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r\u001b]2;foiki@foiki-ubuntu: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.010882,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n"
+    ],
+    [
+      0.000035,
+      "╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000103,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.925416,
+      "ssh localhost -p 2222"
+    ],
+    [
+      2.064250,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ssh localhost -p 2222\u0007\u001b]1;localhost\u0007"
+    ],
+    [
+      0.172771,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\nYou have new mail.\r\nLast login: Thu Sep  3 18:39:53 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.332002,
+      "\r\r\n \u001b[36;1m2015-09-03 18:42:07 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.838937,
+      "s"
+    ],
+    [
+      0.113323,
+      "c"
+    ],
+    [
+      0.235764,
+      "r"
+    ],
+    [
+      0.242733,
+      "e"
+    ],
+    [
+      0.168856,
+      "e"
+    ],
+    [
+      0.100749,
+      "n"
+    ],
+    [
+      0.406541,
+      " "
+    ],
+    [
+      0.111651,
+      "-"
+    ],
+    [
+      0.303672,
+      "l"
+    ],
+    [
+      0.073075,
+      "s"
+    ],
+    [
+      0.185433,
+      "\r\n"
+    ],
+    [
+      0.014295,
+      "There is a screen on:\r"
+    ],
+    [
+      0.000318,
+      "\r\n"
+    ],
+    [
+      0.000406,
+      "\u0009"
+    ],
+    [
+      0.000297,
+      "2203.irc"
+    ],
+    [
+      0.000097,
+      "\u0009"
+    ],
+    [
+      0.000120,
+      "(2015-09-03 18:40:55)"
+    ],
+    [
+      0.000114,
+      "\u0009"
+    ],
+    [
+      0.000110,
+      "(Detached)"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000129,
+      "1 Socket in /var/run/screen/S-foiki."
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "\r"
+    ],
+    [
+      0.000103,
+      "\r\n"
+    ],
+    [
+      0.013993,
+      "\r\r\n \u001b[36;1m2015-09-03 18:42:10 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.476750,
+      "s"
+    ],
+    [
+      0.090796,
+      "c"
+    ],
+    [
+      0.270518,
+      "r"
+    ],
+    [
+      0.202405,
+      "e"
+    ],
+    [
+      0.160629,
+      "e"
+    ],
+    [
+      0.123746,
+      "n"
+    ],
+    [
+      0.124153,
+      " "
+    ],
+    [
+      0.157570,
+      "-"
+    ],
+    [
+      0.229416,
+      "R"
+    ],
+    [
+      0.256245,
+      "R"
+    ],
+    [
+      0.196203,
+      " "
+    ],
+    [
+      0.321110,
+      "i"
+    ],
+    [
+      0.069780,
+      "r"
+    ],
+    [
+      0.231181,
+      "c"
+    ],
+    [
+      0.621780,
+      "\r\n"
+    ],
+    [
+      0.008689,
+      "\u001b[r\u001b[m\u001b[2J\u001b[H\u001b[?7h\u001b[?1;4;6l\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;44r\u001b[H\u001b[2J\u001b]0;WeeChat 1.0.1\u0007\u001b[H\u001b[2J\u001b[22;2t\u001b]2;WeeChat 1.0.1\u0007\u001b[44mWebbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar | http://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://\u001b[1m\u001b[35m\u003e\u003e\r\n\u001b[0m18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[4C\u001b[1m\u001b[32m--\u003e\u001b[C\u001b[0m\u001b[32m| \u001b[1m\u001b[39mfoiki_\u001b[0m\u001b[32m (\u001b[36m~foiki@h-145-206.a192.priv.bahnhof.se\u001b[32m) has joined \u001b[1m\u001b[39m#db-o-webb\u001b[65C\u001b[0m\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mdjazz\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mTopic for \u001b[1m#db-o-webb\u001b[C\u001b[0mis \"Webbprogrammering med HTML, CSS, JavaScript, Python, PHP, SQL och Unix. Fråga, länka och häng kvar |\u001b[8C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0memmtho\u001b[4;17H\u001b[32m| \u001b[39mhttp://dbwebb.se | FAQ: http://dbwebb.se/t/1113 | Stats: http://dbwebb.se/irssistats/db-o-webb.html \"\u001b[32C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mfeeloor\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mTopic set by mos\u001b[32m (\u001b[36m~mos@tana.com.bth.se\u001b[32m)\u001b[C\u001b[39mon fre, 05 sep 2014 17:37:21\u001b[65C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mfoiki\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mChannel \u001b[1m#db-o-webb\u001b[0m: \u001b[1m38\u001b[C\u001b[0mnicks \u001b[32m(\u001b[1m\u001b[39m12\u001b[C\u001b[0mops, \u001b[1m4\u001b[C\u001b[0mhalfops, \u001b[1m0\u001b[C\u001b[0mvoices, \u001b[1m22\u001b[C\u001b[0mnormals\u001b[32m)\u001b[63C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mForssell\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m33\u001b[5C\u001b[35m--\u001b[C\u001b[32m| PvNotice(\u001b[36mchan\u001b[32m)\u001b[39m: \"Välkommen till kanalen för webbprogrammerare! Här pratas utveckling med HTML, CSS, JavaScript, PHP, SQL, Unix och   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mjohan\u001b[8;17H\u001b[32m| \u001b[39mallt annat som har att göra med webbutveckling. Ställ din fråga, länk till problemet, häng kvar. Kanalen är även handledningskanal   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mlew\u001b[9;17H\u001b[32m| \u001b[39mför dbwebb-kurserna, här hänger nya o gamla studenter, lärare och andra intresserade av utveckling och webb. Besök även forumet på   \u001b[34m│\u001b[1m\u001b[32m@\u001b[0mmos\u001b[140D\n\u001b[32m| \u001b[39mhttp://dbwebb.se/forum\"\u001b[110C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mOlund\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m35\u001b[5C\u001b[35m--\u001b[C\u001b[32m| \u001b[39mChannel created on tis, 03 jul 2012 01:21:56\u001b[89C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mperlennartsson\r\n18\u001b[33m:\u001b[39m41\u001b[33m:\u001b[39m42 \u001b[1mfoiki_\u001b[C\u001b[0m\u001b[32m| \u001b[39mhej nu testar vi igen\u001b[112C\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mSylvanas\u001b[10D\n\u001b[34m│\u001b[1m\u001b[32m@\u001b[0mwasa\u001b[6D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0mkh31d4r\u001b[9D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0mpansar\u001b[8D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0msnafu\u001b[7D\n\u001b[34m│\u001b[1m\u001b[35m%\u001b[0myeti\u001b[6D\n\u001b[34m│\u001b[1m \u001b[0mAlfred\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mAllinrep\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0malz\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mbjvi13\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mcc1\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mdo1\u001b[5D\n\u001b[34m│\u001b[1m \u001b[0mfoiki_\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mFusRoDah\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0mkitty\u001b[7D\n\u001b[34m│\u001b[1m \u001b[0mkrysvac\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mMalestrazza\u001b[13D\n\u001b[34m│\u001b[1m \u001b[0mmarvin\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mMollyPorph\u001b[12D\n\u001b[34m│\u001b[1m \u001b[0moskarjh\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mrala14\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0msedavand\u001b[10D\n\u001b[34m│\u001b[1m \u001b[0mSharpless\u001b[11D\n\u001b[34m│\u001b[1m \u001b[0mspandel\u001b[9D\n\u001b[34m│\u001b[1m \u001b[0mthebiffman\u001b[12D\n\u001b[34m│\u001b[1m \u001b[0mtomten\u001b[8D\n\u001b[34m│\u001b[1m \u001b[0mXKCD\u001b[6D\n\u001b[34m│\u001b[1m \u001b[0mZanshi\u001b[8D\n\u001b[34m│\u0008\n│\u0008\n│\r\n\u001b[36m\u001b[44m[\u001b[39m18:42\u001b[36m]\u001b[39m \u001b[36m[\u001b[39m2\u001b[36m]\u001b[39m \u001b[36m[\u001b[39mirc\u001b[36m/\u001b[39mirc.bsnet.se\u001b[36m]\u001b[39m \u001b[1m\u001b[33m2\u001b[0m\u001b[36m\u001b[44m:\u001b[1m\u001b[39m#db-o-webb\u001b[0m\u001b[36m\u001b[44m(\u001b[39m+nt\u001b[36m){\u001b[39m38\u001b[36m}\u001b[39m                                                                                                                   \r\n\u001b[36m\u001b[49m[\u001b[1mfoiki_\u001b[0m\u001b[36m(\u001b[39mi\u001b[36m)]\u001b[39m\u001b]0;\u0007\u001b]0;WeeChat 1.0.1\u0007 "
+    ],
+    [
+      2.015679,
+      "\u001b[?1l\u001b\u003e\u001b]0;\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[44;1H\r\n\u001b[?1049l[detached from 2203.irc]\r\n"
+    ],
+    [
+      0.021520,
+      "\r\r\n \u001b[36;1m2015-09-03 18:42:15 \u001b[0;31m☆ \u001b[0;33m \u001b[0;35mdebian \u001b[39min \u001b[0;32m~\r\r\n\u001b[36;1m○\u001b[0;32m \u001b[0;32m→\u001b[39m "
+    ],
+    [
+      0.499897,
+      "e"
+    ],
+    [
+      0.195512,
+      "x"
+    ],
+    [
+      0.109278,
+      "i"
+    ],
+    [
+      0.076653,
+      "t"
+    ],
+    [
+      0.197629,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.003267,
+      "Connection to localhost closed.\r\r\n"
+    ],
+    [
+      0.001231,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                      \r \r\u001b]2;foiki@foiki-ubuntu: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.008074,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@foiki-ubuntu\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\r\n╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000055,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.740753,
+      "e"
+    ],
+    [
+      0.218945,
+      "\u0008ex"
+    ],
+    [
+      0.131804,
+      "i"
+    ],
+    [
+      0.068928,
+      "t"
+    ],
+    [
+      0.463939,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
