@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "width": 238,
+  "height": 57,
+  "duration": 20.072315,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.010668,
+      "\r\n"
+    ],
+    [
+      0.620751,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000087,
+      "\u001b]2;johann@johann-K73SD: ~/articles/documents/react-event-loop\u0007\u001b]1;..ct-event-loop\u0007"
+    ],
+    [
+      0.083254,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/articles/documents/react-event-loop \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000129,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000498,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000062,
+      "\u001b]2;johann@johann-K73SD: ~/articles/documents/react-event-loop\u0007\u001b]1;..ct-event-loop\u0007"
+    ],
+    [
+      0.084075,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~/articles/documents/react-event-loop \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.693815,
+      "h"
+    ],
+    [
+      0.974132,
+      "\u0008 \u0008"
+    ],
+    [
+      0.191993,
+      "p"
+    ],
+    [
+      0.128136,
+      "\u0008ph"
+    ],
+    [
+      0.063803,
+      "p"
+    ],
+    [
+      0.560154,
+      " "
+    ],
+    [
+      0.271889,
+      "i"
+    ],
+    [
+      0.128272,
+      "o"
+    ],
+    [
+      0.186581,
+      "-"
+    ],
+    [
+      1.877344,
+      "t"
+    ],
+    [
+      0.227583,
+      "imer.php\u001b[1m \u001b[0m"
+    ],
+    [
+      0.538999,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000042,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000067,
+      "\r\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b]2;php io-timer.php\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b]1;php\u0007"
+    ],
+    [
+      2.042145,
+      "hello kitty\r\n"
+    ],
+    [
+      0.999511,
+      "Current memory usage: 435.320K\r\n"
+    ],
+    [
+      2.000387,
+      "goodbye kitty\r\n"
+    ],
+    [
+      1.001426,
+      "Current memory usage: 434.141K\r\n"
+    ],
+    [
+      3.003510,
+      "Current memory usage: 434.141K\r\n"
+    ],
+    [
+      1.585421,
+      "^C"
+    ],
+    [
+      0.003706,
+      "\r\n"
+    ],
+    [
+      0.000217,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000351,
+      "\u001b]2;johann@johann-K73SD: ~/articles/documents/react-event-loop\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..ct-event-loop\u0007"
+    ],
+    [
+      0.069606,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[44m\u001b[30m\u001b[30m ~/articles/documents/react-event-loop \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000036,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.709795,
+      "\r\r\n"
+    ]
+  ]
+}
