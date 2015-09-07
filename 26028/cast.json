@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "width": 113,
+  "height": 33,
+  "duration": 6.061420,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.963418,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000146,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000074,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.002088,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000198,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000048,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001635,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.221840,
+      "d"
+    ],
+    [
+      0.000210,
+      "\u0008do"
+    ],
+    [
+      0.000233,
+      "c"
+    ],
+    [
+      0.000238,
+      "k"
+    ],
+    [
+      0.000233,
+      "e"
+    ],
+    [
+      0.000216,
+      "r"
+    ],
+    [
+      0.001511,
+      " "
+    ],
+    [
+      0.000228,
+      "b"
+    ],
+    [
+      0.000222,
+      "u"
+    ],
+    [
+      0.000270,
+      "i"
+    ],
+    [
+      0.000127,
+      "l"
+    ],
+    [
+      0.000129,
+      "d"
+    ],
+    [
+      0.000753,
+      " "
+    ],
+    [
+      0.000123,
+      "-"
+    ],
+    [
+      0.000131,
+      "t"
+    ],
+    [
+      0.000740,
+      " "
+    ],
+    [
+      0.000125,
+      "a"
+    ],
+    [
+      0.000130,
+      "d"
+    ],
+    [
+      0.000130,
+      "v"
+    ],
+    [
+      0.000164,
+      "a"
+    ],
+    [
+      0.000163,
+      "n"
+    ],
+    [
+      0.000132,
+      "c"
+    ],
+    [
+      0.000152,
+      "e"
+    ],
+    [
+      0.000158,
+      "d"
+    ],
+    [
+      0.000142,
+      "c"
+    ],
+    [
+      0.000149,
+      "l"
+    ],
+    [
+      0.000146,
+      "i"
+    ],
+    [
+      0.000160,
+      "m"
+    ],
+    [
+      0.000160,
+      "a"
+    ],
+    [
+      0.000149,
+      "t"
+    ],
+    [
+      0.000152,
+      "e"
+    ],
+    [
+      0.000147,
+      "s"
+    ],
+    [
+      0.000157,
+      "y"
+    ],
+    [
+      0.000148,
+      "s"
+    ],
+    [
+      0.000162,
+      "t"
+    ],
+    [
+      0.000152,
+      "e"
+    ],
+    [
+      0.000169,
+      "m"
+    ],
+    [
+      0.000133,
+      "s"
+    ],
+    [
+      0.000156,
+      "/"
+    ],
+    [
+      0.000151,
+      "b"
+    ],
+    [
+      0.000169,
+      "u"
+    ],
+    [
+      0.000138,
+      "i"
+    ],
+    [
+      0.000162,
+      "l"
+    ],
+    [
+      0.000342,
+      "d"
+    ],
+    [
+      0.000009,
+      "r"
+    ],
+    [
+      0.000097,
+      "o"
+    ],
+    [
+      0.000154,
+      "o"
+    ],
+    [
+      0.000162,
+      "t"
+    ],
+    [
+      0.000908,
+      " "
+    ],
+    [
+      0.000150,
+      "."
+    ],
+    [
+      0.666158,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003408,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00mdocker build -t advancedclimatesystems/buildroot .\u001b[K\r\r\n\u001b]2;docker build -t advancedclimatesystems/buildroot .\u0007\u001b]1;docker\u0007"
+    ],
+    [
+      0.219129,
+      "Sending build context to Docker daemon 557.1 kB\r"
+    ],
+    [
+      0.011598,
+      "Sending build context to Docker daemon 1.114 MB\r"
+    ],
+    [
+      0.017712,
+      "Sending build context to Docker daemon 1.671 MB\r"
+    ],
+    [
+      0.015434,
+      "Sending build context to Docker daemon 2.228 MB\r"
+    ],
+    [
+      0.016709,
+      "Sending build context to Docker daemon 2.785 MB\r"
+    ],
+    [
+      0.012531,
+      "Sending build context to Docker daemon 3.342 MB\r"
+    ],
+    [
+      0.018035,
+      "Sending build context to Docker daemon 3.899 MB\r"
+    ],
+    [
+      0.014313,
+      "Sending build context to Docker daemon 4.456 MB\r"
+    ],
+    [
+      0.015589,
+      "Sending build context to Docker daemon 5.014 MB\r"
+    ],
+    [
+      0.016340,
+      "Sending build context to Docker daemon 5.571 MB\r"
+    ],
+    [
+      0.009332,
+      "Sending build context to Docker daemon 6.128 MB\r"
+    ],
+    [
+      0.016377,
+      "Sending build context to Docker daemon 6.685 MB\r"
+    ],
+    [
+      0.016169,
+      "Sending build context to Docker daemon 7.242 MB\r"
+    ],
+    [
+      0.013671,
+      "Sending build context to Docker daemon 7.799 MB\r"
+    ],
+    [
+      0.017281,
+      "Sending build context to Docker daemon 8.356 MB\r"
+    ],
+    [
+      0.011151,
+      "Sending build context to Docker daemon 8.913 MB\r"
+    ],
+    [
+      0.014506,
+      "Sending build context to Docker daemon  9.47 MB\r"
+    ],
+    [
+      0.017280,
+      "Sending build context to Docker daemon 10.03 MB\r"
+    ],
+    [
+      0.013865,
+      "Sending build context to Docker daemon 10.58 MB\r"
+    ],
+    [
+      0.015768,
+      "Sending build context to Docker daemon 11.14 MB\r"
+    ],
+    [
+      0.016493,
+      "Sending build context to Docker daemon  11.7 MB\r"
+    ],
+    [
+      0.009335,
+      "Sending build context to Docker daemon 12.26 MB\r"
+    ],
+    [
+      0.016167,
+      "Sending build context to Docker daemon 12.81 MB\r"
+    ],
+    [
+      0.018158,
+      "Sending build context to Docker daemon 13.37 MB\r"
+    ],
+    [
+      0.016038,
+      "Sending build context to Docker daemon 13.93 MB\r"
+    ],
+    [
+      0.013865,
+      "Sending build context to Docker daemon 14.48 MB\r"
+    ],
+    [
+      0.011606,
+      "Sending build context to Docker daemon 15.04 MB\r"
+    ],
+    [
+      0.016297,
+      "Sending build context to Docker daemon  15.6 MB\r"
+    ],
+    [
+      0.014166,
+      "Sending build context to Docker daemon 16.15 MB\r"
+    ],
+    [
+      0.016802,
+      "Sending build context to Docker daemon 16.71 MB\r"
+    ],
+    [
+      0.014518,
+      "Sending build context to Docker daemon 17.27 MB\r"
+    ],
+    [
+      0.011389,
+      "Sending build context to Docker daemon 17.83 MB\r"
+    ],
+    [
+      0.018717,
+      "Sending build context to Docker daemon 18.38 MB\r"
+    ],
+    [
+      0.013938,
+      "Sending build context to Docker daemon 18.94 MB\r"
+    ],
+    [
+      0.016507,
+      "Sending build context to Docker daemon  19.5 MB\r"
+    ],
+    [
+      0.016210,
+      "Sending build context to Docker daemon 20.05 MB\r"
+    ],
+    [
+      0.013716,
+      "Sending build context to Docker daemon 20.61 MB\r"
+    ],
+    [
+      0.012325,
+      "Sending build context to Docker daemon 21.17 MB\r"
+    ],
+    [
+      0.021647,
+      "Sending build context to Docker daemon 21.73 MB\r"
+    ],
+    [
+      0.020673,
+      "Sending build context to Docker daemon 22.28 MB\r"
+    ],
+    [
+      0.020032,
+      "Sending build context to Docker daemon 22.84 MB\r"
+    ],
+    [
+      0.019599,
+      "Sending build context to Docker daemon  23.4 MB\r"
+    ],
+    [
+      0.010639,
+      "Sending build context to Docker daemon 23.95 MB\r"
+    ],
+    [
+      0.013766,
+      "Sending build context to Docker daemon 24.51 MB\r"
+    ],
+    [
+      0.017366,
+      "Sending build context to Docker daemon 25.07 MB\r"
+    ],
+    [
+      0.015390,
+      "Sending build context to Docker daemon 25.62 MB\r"
+    ],
+    [
+      0.014750,
+      "Sending build context to Docker daemon 26.18 MB\r"
+    ],
+    [
+      0.016777,
+      "Sending build context to Docker daemon 26.74 MB\r"
+    ],
+    [
+      0.010406,
+      "Sending build context to Docker daemon  27.3 MB\r"
+    ],
+    [
+      0.014804,
+      "Sending build context to Docker daemon 27.85 MB\r"
+    ],
+    [
+      0.017171,
+      "Sending build context to Docker daemon 28.41 MB\r"
+    ],
+    [
+      0.014001,
+      "Sending build context to Docker daemon 28.97 MB\r"
+    ],
+    [
+      0.016688,
+      "Sending build context to Docker daemon 29.52 MB\r"
+    ],
+    [
+      0.016010,
+      "Sending build context to Docker daemon 30.08 MB\r"
+    ],
+    [
+      0.009417,
+      "Sending build context to Docker daemon 30.64 MB\r"
+    ],
+    [
+      0.016958,
+      "Sending build context to Docker daemon  31.2 MB\r"
+    ],
+    [
+      0.015396,
+      "Sending build context to Docker daemon 31.75 MB\r"
+    ],
+    [
+      0.014148,
+      "Sending build context to Docker daemon 32.31 MB\r"
+    ],
+    [
+      0.017285,
+      "Sending build context to Docker daemon 32.87 MB\r"
+    ],
+    [
+      0.014059,
+      "Sending build context to Docker daemon 33.42 MB\r"
+    ],
+    [
+      0.010533,
+      "Sending build context to Docker daemon 33.98 MB\r"
+    ],
+    [
+      0.017898,
+      "Sending build context to Docker daemon 34.54 MB\r"
+    ],
+    [
+      0.014053,
+      "Sending build context to Docker daemon 35.09 MB\r"
+    ],
+    [
+      0.017283,
+      "Sending build context to Docker daemon 35.65 MB\r"
+    ],
+    [
+      0.015276,
+      "Sending build context to Docker daemon 36.21 MB\r"
+    ],
+    [
+      0.009267,
+      "Sending build context to Docker daemon 36.77 MB\r"
+    ],
+    [
+      0.016970,
+      "Sending build context to Docker daemon 37.32 MB\r"
+    ],
+    [
+      0.015319,
+      "Sending build context to Docker daemon 37.88 MB\r"
+    ],
+    [
+      0.014579,
+      "Sending build context to Docker daemon 38.44 MB\r"
+    ],
+    [
+      0.016876,
+      "Sending build context to Docker daemon 38.99 MB\r"
+    ],
+    [
+      0.014154,
+      "Sending build context to Docker daemon 39.55 MB\r"
+    ],
+    [
+      0.010437,
+      "Sending build context to Docker daemon 40.11 MB\r"
+    ],
+    [
+      0.017148,
+      "Sending build context to Docker daemon 40.67 MB\r"
+    ],
+    [
+      0.013990,
+      "Sending build context to Docker daemon 41.22 MB\r"
+    ],
+    [
+      0.016150,
+      "Sending build context to Docker daemon 41.78 MB\r"
+    ],
+    [
+      0.016191,
+      "Sending build context to Docker daemon 42.34 MB\r"
+    ],
+    [
+      0.013960,
+      "Sending build context to Docker daemon 42.89 MB\r"
+    ],
+    [
+      0.011921,
+      "Sending build context to Docker daemon 43.45 MB\r"
+    ],
+    [
+      0.015629,
+      "Sending build context to Docker daemon 44.01 MB\r"
+    ],
+    [
+      0.014196,
+      "Sending build context to Docker daemon 44.56 MB\r"
+    ],
+    [
+      0.017275,
+      "Sending build context to Docker daemon 45.12 MB\r"
+    ],
+    [
+      0.014266,
+      "Sending build context to Docker daemon 45.68 MB\r"
+    ],
+    [
+      0.016305,
+      "Sending build context to Docker daemon 46.24 MB\r"
+    ],
+    [
+      0.011311,
+      "Sending build context to Docker daemon 46.79 MB\r"
+    ],
+    [
+      0.014424,
+      "Sending build context to Docker daemon 47.35 MB\r"
+    ],
+    [
+      0.015201,
+      "Sending build context to Docker daemon 47.91 MB\r"
+    ],
+    [
+      0.016762,
+      "Sending build context to Docker daemon 48.46 MB\r"
+    ],
+    [
+      0.013810,
+      "Sending build context to Docker daemon 49.02 MB\r"
+    ],
+    [
+      0.017642,
+      "Sending build context to Docker daemon 49.58 MB\r"
+    ],
+    [
+      0.010282,
+      "Sending build context to Docker daemon 50.14 MB\r"
+    ],
+    [
+      0.013910,
+      "Sending build context to Docker daemon 50.69 MB\r"
+    ],
+    [
+      0.017304,
+      "Sending build context to Docker daemon 51.25 MB\r"
+    ],
+    [
+      0.014757,
+      "Sending build context to Docker daemon 51.81 MB\r"
+    ],
+    [
+      0.014299,
+      "Sending build context to Docker daemon 52.36 MB\r"
+    ],
+    [
+      0.017122,
+      "Sending build context to Docker daemon 52.92 MB\r"
+    ],
+    [
+      0.009848,
+      "Sending build context to Docker daemon 53.48 MB\r"
+    ],
+    [
+      0.015103,
+      "Sending build context to Docker daemon 54.03 MB\r"
+    ],
+    [
+      0.016936,
+      "Sending build context to Docker daemon 54.59 MB\r"
+    ],
+    [
+      0.016673,
+      "Sending build context to Docker daemon 55.15 MB\r"
+    ],
+    [
+      0.016286,
+      "Sending build context to Docker daemon 55.71 MB\r"
+    ],
+    [
+      0.014801,
+      "Sending build context to Docker daemon 56.26 MB\r"
+    ],
+    [
+      0.010473,
+      "Sending build context to Docker daemon  56.7 MB\r"
+    ],
+    [
+      0.000019,
+      "\r\r\nSending build context to Docker daemon \r\r\n"
+    ],
+    [
+      0.011735,
+      "Step 0 : FROM ubuntu:14.10\r\n"
+    ],
+    [
+      0.001319,
+      " ---\u003e ab57dbafeeea\r\nStep 1 : MAINTAINER Auke Willem Oosterhoff \u003coosterhoff@baopt.nl\u003e\r\n"
+    ],
+    [
+      0.127289,
+      " ---\u003e Using cache\r\n ---\u003e e3dbab0550cc\r\nStep 2 : ENV DEBIAN_FRONTEND noninteractive\r\n"
+    ],
+    [
+      0.118781,
+      " ---\u003e Using cache\r\n ---\u003e 4a5ed162752a\r\nStep 3 : RUN apt-get update \u0026\u0026     apt-get install -y     build-essential     bash     bc     binutils     build-essential     bzip2     cpio     g++     gcc     git     gzip     libncurses5-dev     make     mercurial     whois     patch     perl     python     rsync     sed     tar     unzip     wget\r\n"
+    ],
+    [
+      0.117485,
+      " ---\u003e Using cache\r\n ---\u003e 390424e5dc6e\r\nStep 4 : RUN locale-gen en_US.utf8\r\n"
+    ],
+    [
+      0.136119,
+      " ---\u003e Using cache\r\n ---\u003e 4389bc91343f\r\nStep 5 : WORKDIR /root\r\n"
+    ],
+    [
+      0.130614,
+      " ---\u003e Using cache\r\n ---\u003e 7d564830450f\r\nStep 6 : RUN git clone git://git.buildroot.net/buildroot --depth=1\r\n"
+    ],
+    [
+      0.108479,
+      " ---\u003e Using cache\r\n ---\u003e 16aea8f6af7e\r\nStep 7 : WORKDIR /root/buildroot\r\n"
+    ],
+    [
+      0.119284,
+      " ---\u003e Using cache\r\n ---\u003e a6ceb8c7efd1\r\nStep 8 : RUN touch .config\r\n"
+    ],
+    [
+      0.124885,
+      " ---\u003e Using cache\r\n ---\u003e 0f75579476c2\r\nStep 9 : RUN touch kernel.config\r\n"
+    ],
+    [
+      0.141392,
+      " ---\u003e Using cache\r\n ---\u003e c7a42e5b4116\r\nStep 10 : VOLUME /root/buildroot/dl\r\n"
+    ],
+    [
+      0.120446,
+      " ---\u003e Using cache\r\n ---\u003e f87c8139714f\r\nStep 11 : VOLUME /buildroot_output\r\n"
+    ],
+    [
+      0.111494,
+      " ---\u003e Using cache\r\n ---\u003e 01030b791e06\r\nStep 12 : CMD /bin/bash\r\n"
+    ],
+    [
+      0.115799,
+      " ---\u003e Using cache\r\n ---\u003e a8a84f626f59\r\nSuccessfully built a8a84f626f59\r\n"
+    ],
+    [
+      0.069198,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000287,
+      "\u001b]2;auke@hannah: ~/projects/docker-buildroot\u0007"
+    ],
+    [
+      0.000054,
+      "\u001b]1;..ker-buildroot\u0007"
+    ],
+    [
+      0.001711,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000168,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000049,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001243,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.868127,
+      "\r\r\n"
+    ]
+  ]
+}
