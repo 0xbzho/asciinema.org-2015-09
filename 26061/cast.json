@@ -1,0 +1,742 @@
+{
+  "version": 1,
+  "width": 113,
+  "height": 48,
+  "duration": 12.719664,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.353206,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r"
+    ],
+    [
+      0.000181,
+      "\u001b]2;auke@hannah: ~/projects/minimal-docker-example\u0007"
+    ],
+    [
+      0.000087,
+      "\u001b]1;..ocker-example\u0007"
+    ],
+    [
+      0.002864,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000200,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000072,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002192,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000014,
+      "\u001b[K"
+    ],
+    [
+      0.782212,
+      "t"
+    ],
+    [
+      0.102858,
+      "\u0008tm"
+    ],
+    [
+      0.203095,
+      "u"
+    ],
+    [
+      0.110509,
+      "x"
+    ],
+    [
+      0.148624,
+      " "
+    ],
+    [
+      0.196292,
+      "a"
+    ],
+    [
+      0.237067,
+      "\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005857,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00mtmux a\u001b[K\r\r\n\u001b]2;tmux a\u0007\u001b]1;tmux\u0007"
+    ],
+    [
+      0.034633,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b]112\u0007\u001b[32m\u001b[24;1H─────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mcurl localhost:1337\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mdocker-compose up  \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[36m\u001b[40m                                           \u001b[37m\u001b[1m0:zsh*\u001b(B\u001b[m\u001b[36m\u001b[40m                                             \u001b[37m - \u001b[36m07-09-2015 21:57\u001b(B\u001b[m\u001b[48;1H\u001b[1;48r\u001b[H\u001b[25;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007653,
+      "\u001b[?25l\u001b[48;1H\u001b[36m\u001b[40m172.17.42.1                                      \u001b[37m\u001b[1m0:zsh*\u001b(B\u001b[m\u001b[36m\u001b[40m                                       \u001b[37m - \u001b[36m07-09-2015 21:57\u001b(B\u001b[m\u001b[25;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003996,
+      "\u001b[?25l\u001b[48;1H\u001b[36m\u001b[40m172.17.42.1                                   \u001b[37m\u001b[1m0:zsh*\u001b(B\u001b[m\u001b[36m\u001b[40m                                     12:25\u001b[37m - \u001b[36m07-09-2015 21:57\u001b(B\u001b[m\u001b[25;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.207091,
+      "\u001b[25;47r\u001b[H\u001b[25d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[25d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mdocker-compose up\u001b[K\u001b[1;48r\u001b[H\u001b[26d"
+    ],
+    [
+      0.242972,
+      "\u001b[?25l\u001b[48d\u001b[36m\u001b[40m172.17.42.1                                  \u001b[37m\u001b[1m0:python*\u001b(B\u001b[m\u001b[36m\u001b[40m                                   12:25\u001b[37m - \u001b[36m07-09-2015 21:57\u001b(B\u001b[m\u001b[26;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.613395,
+      "\u001b[25;47r\u001b[H\u001b[26dStarting minimaldockerexample_redis_1...\u001b[1;48r\u001b[H\u001b[27d"
+    ],
+    [
+      0.264080,
+      "\u001b[25;47r\u001b[H\u001b[27dStarting minimaldockerexample_app_1...\u001b[1;48r\u001b[H\u001b[28d"
+    ],
+    [
+      0.271148,
+      "\u001b[25;47r\u001b[H\u001b[28dStarting minimaldockerexample_nginx_1...\u001b[1;48r\u001b[H\u001b[29d"
+    ],
+    [
+      0.503467,
+      "\u001b[25;47r\u001b[H\u001b[29dAttaching to minimaldockerexample_redis_1, minimaldockerexample_app_1, minimaldockerexample_nginx_1\u001b[1;48r\u001b[H\u001b[30d"
+    ],
+    [
+      0.036546,
+      "\u001b[32m\u001b[6A─────────────────────────────────────────────────────────────────────────────────────────────────────────────────\u001b[1;33H\u001b(B\u001b[m"
+    ],
+    [
+      0.036003,
+      "\u001b[25;47r\u001b[H\u001b[30d\u001b[36mredis_1 | \u001b[39m                _._                                                  \u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[31d\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 6\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[37d\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m6:M 05 Sep 09:23:12.888 # Server started, Redis version 3.0.3\r\n\u001b[36mredis_1 | \u001b[39m6:M 05 Sep 09:23:12.888 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 05 Sep 09:23:12.888 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m6:M 05 Sep 09:23:12.889 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m6:M 05 Sep 09:23:12.889 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 5\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.013685,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:25:48.495 # Server started, Redis version 3.0.3\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libcrypto.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39m[uWSGI] getting INI configuration from /etc/uwsgi.ini\r\n\u001b[33mapp_1   | \u001b[39m*** Starting uWSGI 2.0.11.1 (64bit) on [Mon Sep  7 19:47:45 2015] ***\r\n\u001b[33mapp_1   | \u001b[39mcompiled with version: 4.7.2 on 03 September 2015 21:44:57\r\n\u001b[33mapp_1   | \u001b[39mos: Linux-3.18.2-031802-generic #201501082011 SMP Thu Jan 8 20:13:03 UTC 2015\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mnodename: 55a933ac2155\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000736,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mmachine: x86_64\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000740,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mclock source: unix\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000509,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mpcre jit disabled\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000924,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mdetected number of CPU cores: 4\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000401,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mcurrent working directory: /\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001095,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mdetected binary path: /usr/bin/uwsgi\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000394,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39muWSGI running as root, you can use --uid/--gid/--chroot options\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001052,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.007713,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:25:48.495 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:25:48.495 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[33mapp_1   | \u001b[39mchdir() to /app\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI without its master process manager ***\r\n\u001b[33mapp_1   | \u001b[39myour processes number limit is 1048576\r\n\u001b[33mapp_1   | \u001b[39myour memory page size is 4096 bytes\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:25:48.495 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:25:48.495 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mdetected max file descriptor number: 1048576\r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[33mapp_1   | \u001b[39mlock engine: pthread robust mutexes\r\n\u001b[33mapp_1   | \u001b[39mthunder lock: disabled (you can enable it with --thunder-lock)\r\n\u001b[33mapp_1   | \u001b[39muwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3\r\n\u001b[33mapp_1   | \u001b[39mPython version: 2.7.10 (default, Sep  1 2015, 11:35:51)  [GCC 4.9.3]\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[33mapp_1   | \u001b[39m*** Python threads support is disabled. You can enable it with --enable-threads ***\r\n\u001b[33mapp_1   | \u001b[39mPython main interpreter initialized at 0x1275c40\r\n\u001b[33mapp_1   | \u001b[39myour server socket listen backlog is limited to 100 connections\r\n\u001b[33mapp_1   | \u001b[39myour mercy for graceful operations on workers is 60 seconds\r\n\u001b[33mapp_1   | \u001b[39mmapped 72768 bytes (71 KB) for 1 cores\r\n\u001b[33mapp_1   | \u001b[39m*** Operational MODE: single process ***\r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[33mapp_1   | \u001b[39mWSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1275c40 pid: 5 (default app)\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000263,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** uWSGI is running in multiple interpreter mode ***\r\n\u001b[33mapp_1   | \u001b[39mspawned uWSGI worker 1 (and the only) (pid: 5, cores: 1)\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libcrypto.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 5\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.008068,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000604,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001824,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:26:37.828 # Server started, Redis version 3.0.3\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:26:37.829 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:26:37.829 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39m[uWSGI] getting INI configuration from /etc/uwsgi.ini\r\n\u001b[33mapp_1   | \u001b[39m*** Starting uWSGI 2.0.11.1 (64bit) on [Mon Sep  7 19:49:26 2015] ***\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.020114,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:26:37.829 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:26:37.829 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[33mapp_1   | \u001b[39mcompiled with version: 4.7.2 on 03 September 2015 21:44:57\r\n\u001b[33mapp_1   | \u001b[39mos: Linux-3.18.2-031802-generic #201501082011 SMP Thu Jan 8 20:13:03 UTC 2015\r\n\u001b[33mapp_1   | \u001b[39mnodename: 55a933ac2155\r\n\u001b[33mapp_1   | \u001b[39mmachine: x86_64\r\n\u001b[33mapp_1   | \u001b[39mclock source: unix\r\n\u001b[33mapp_1   | \u001b[39mpcre jit disabled\r\n\u001b[33mapp_1   | \u001b[39mdetected number of CPU cores: 4\r\n\u001b[33mapp_1   | \u001b[39mcurrent working directory: /\r\n\u001b[33mapp_1   | \u001b[39mdetected binary path: /usr/bin/uw"
+    ],
+    [
+      0.000139,
+      "sgi\r\n\u001b[33mapp_1   | \u001b[39muWSGI running as root, you can use --uid/--gid/--chroot options\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** \r\n\u001b[33mapp_1   | \u001b[39mchdir() to /app\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI without its master process manager ***\r\n\u001b[33mapp_1   | \u001b[39myour processes number limit is 1048576\r\n\u001b[33mapp_1   | \u001b[39myour memory page size is 4096 bytes\r\n\u001b[33mapp_1   | \u001b[39mdetected max file descriptor number: 1048576\r\n\u001b[33mapp_1   | \u001b[39mlock engine: pthread robust mutexes\r\n\u001b[33mapp_1   | \u001b[39mthunder lock: disabled (you can enable it with --thunder-lock)\r\n\u001b[33mapp_1   | \u001b[39muwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3\r\n\u001b[33mapp_1   | \u001b[39mPython version: 2.7.10 (default, Sep  1 2015, 11:35:51)  [GCC 4.9.3]\r\n\u001b[33mapp_1   | \u001b[39m*** Python threads support is disabled. You can enable it with --enable-threads ***\r\n\u001b[33mapp_1   | \u001b[39mPython main interpreter initialized at 0x798c40\r\n\u001b[33mapp_1   | \u001b[39myour server socket listen backlog is limited to 100 connections\r\n\u001b[33mapp_1   | \u001b[39myour mercy for graceful operations on workers is 60 seconds\r\n\u001b[33mapp_1   | \u001b[39mmapped 72768 bytes (71 KB) for 1 cores\r\n\u001b[33mapp_1   | \u001b[39m*** Operational MODE: single process ***\r\n\u001b[33mapp_1   | \u001b[39mWSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x798c40 pid: 6 (default app)\r\n\u001b[33mapp_1   | \u001b[39m*** uWSGI is running in multiple interpreter mode ***\r\n\u001b[33mapp_1   | \u001b[39mspawned uWSGI worker 1 (and the only) (pid: 6, cores: 1)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 1/1] 172.17.0.70 () {26 vars in 269 bytes} [Mon Sep  7 19:49:29 2015] GET / =\u003e generated 43 bytes in 7 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 2/2] 172.17.0.70 () {26 vars in 269 bytes} [Mon Sep  7 19:49:31 2015] GET / =\u003e generated 43 bytes in 3 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 3/3] 172.17.0.70 () {26 vars in 269 bytes} [Mon Sep  7 19:49:32 2015] GET / =\u003e generated 43 bytes in 3 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libcrypto.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39m[uWSGI] getting INI configuration from /etc/uwsgi.ini\r\n\u001b[33mapp_1   | \u001b[39m*** Starting uWSGI 2.0.11.1 (64bit) on [Mon Sep  7 19:50:12 2015] ***\r\n\u001b[33mapp_1   | \u001b[39mcompiled with version: 4.7.2 on 03 September 2015 21:44:57\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002041,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mos: Linux-3.18.2-031802-generic #201501082011 SMP Thu Jan 8 20:13:03 UTC 2015\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n"
+    ],
+    [
+      0.000179,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mnodename: 55a933ac2155"
+    ],
+    [
+      0.000151,
+      "\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000093,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mmachine: x86_64\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000204,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mclock source: unix\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000222,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mpcre jit disabled\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000202,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mdetected number of CPU cores: 4\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000203,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mcurrent working directory: /\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000265,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mdetected binary path: /usr/bin/uwsgi\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000374,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39muWSGI running as root, you can use --uid/--gid/--chroot options\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000334,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mchdir() to /app\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI without its master process manager ***\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000324,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39myour processes number limit is 1048576\r\n\u001b[33mapp_1   | \u001b[39myour memory page size is 4096 bytes\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001564,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.004364,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000076,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000377,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000103,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000355,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000099,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000335,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000100,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000325,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 5\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000101,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001935,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000057,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000457,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000089,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000362,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000099,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000471,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000090,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000493,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000090,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001711,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000064,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000316,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000077,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000235,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000142,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000221,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000145,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002222,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mdetected max file descriptor number: 1048576\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mlock engine: pthread robust mutexes\r\n\u001b[33mapp_1   | \u001b[39mthunder lock: disabled (you can enable it with --thunder-lock)\r\n\u001b[33mapp_1   | \u001b[39muwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3\r\n\u001b[33mapp_1   | \u001b[39mPython version: 2.7.10 (default, Sep  1 2015, 11:35:51)  [GCC 4.9.3]\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** Python threads support is disabled. You can enable it with --enable-threads ***\r\n\u001b[33mapp_1   | \u001b[39mPython main interpreter initialized at 0x1adbc40\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.005012,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39myour server socket listen backlog is limited to 100 connections\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.006197,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39myour mercy for graceful operations on workers is 60 seconds\r\n\u001b[33mapp_1   | \u001b[39mmapped 72768 bytes (71 KB) for 1 cores\r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:29:51.533 # Server started, Redis version 3.0.3\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:29:51.533 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:29:51.533 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:29:51.533 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m5:M 05 Sep 09:29:51.533 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[33mapp_1   | \u001b[39m*** Operational MODE: single process ***\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[33mapp_1   | \u001b[39mWSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1adbc40 pid: 6 (default app)\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** uWSGI is running in multiple interpreter mode ***\r\n\u001b[33mapp_1   | \u001b[39mspawned uWSGI worker 1 (and the only) (pid: 6, cores: 1)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 1/1] 172.17.0.73 () {26 vars in 269 bytes} [Mon Sep  7 19:50:18 2015] GET / =\u003e generated 43 bytes in 9 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 2/2] 172.17.0.73 () {26 vars in 269 bytes} [Mon Sep  7 19:50:20 2015] GET / =\u003e generated 43 bytes in 5 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39m[pid: 6|app: 0|req: 3/3] 172.17.0.73 () {26 vars in 269 bytes} [Mon Sep  7 19:50:21 2015] GET / =\u003e generated 43 bytes in 3 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libcrypto.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39m[uWSGI] getting INI configuration from /etc/uwsgi.ini\r\n\u001b[33mapp_1   | \u001b[39m*** Starting uWSGI 2.0.11.1 (64bit) on [Mon Sep  7 19:53:55 2015] ***\r\n\u001b[33mapp_1   | \u001b[39mcompiled with version: 4.7.2 on 03 September 2015 21:44:57\r\n\u001b[33mapp_1   | \u001b[39mos: Linux-3.18.2-031802-generic #201501082011 SMP Thu Jan 8 20:13:03 UTC 2015\r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001825,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 6\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000870,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mnodename: 55a933ac2155\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002880,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mmachine: x86_64\r\n\u001b[33mapp_1   | \u001b[39mclock source: unix\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mpcre jit disabled\r\n\u001b[33mapp_1   | \u001b[39mdetected number of CPU cores: 4\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001771,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001122,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mcurrent working directory: /\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002535,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mdetected binary path: /usr/bin/uwsgi\r\n\u001b[33mapp_1   | \u001b[39muWSGI running as root, you can use --uid/--gid/--chroot options\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** \r\n\u001b[33mapp_1   | \u001b[39mchdir() to /app\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI without its master process manager ***\r\n\u001b[33mapp_1   | \u001b[39myour processes number limit is 1048576\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002547,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:47:44.718 # Server started, Redis version 3.0.3\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:47:44.719 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:47:44.719 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:47:44.719 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000046,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39myour memory page size is 4096 bytes\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.006282,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[33mapp_1   | \u001b[39mdetected max file descriptor number: 1048576\r\n\u001b[33mapp_1   | \u001b[39mlock engine: pthread robust mutexes\r\n\u001b[33mapp_1   | \u001b[39mthunder lock: disabled (you can enable it with --thunder-lock)\r\n\u001b[33mapp_1   | \u001b[39muwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3\r\n\u001b[33mapp_1   | \u001b[39mPython version: 2.7.10 (default, Sep  1 2015, 11:35:51)  [GCC 4.9.3]\r\n\u001b[33mapp_1   | \u001b[39m*** Python threads support is disabled. You can enable it with --enable-threads ***\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:47:44.719 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001063,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mPython main interpreter initialized at 0x1700c40\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39myour server socket listen backlog is limited to 100 connections\r\n\u001b[33mapp_1   | \u001b[39myour mercy for graceful operations on workers is 60 seconds\r\n\u001b[33mapp_1   | \u001b[39mmapped 72768 bytes (71 KB) for 1 cores\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** Operational MODE: single process ***\r\n\u001b[33mapp_1   | \u001b[39mWSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1700c40 pid: 5 (default app)\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002254,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 5\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[33mapp_1   | \u001b[39m*** uWSGI is running in multiple interpreter mode ***\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.003010,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mspawned uWSGI worker 1 (and the only) (pid: 5, cores: 1)\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000023,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 1/1] 172.17.0.76 () {26 vars in 269 bytes} [Mon Sep  7 19:54:21 2015] GET / =\u003e generated 43 bytes in 12 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000472,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 2/2] 172.17.0.76 () {26 vars in 269 bytes} [Mon Sep  7 19:54:23 2015] GET / =\u003e generated 43 bytes in 3 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000248,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000379,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000160,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002186,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000247,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000426,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000211,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000416,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000204,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000412,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000360,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000442,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001583,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001035,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 3/3] 172.17.0.76 () {26 vars in 269 bytes} [Mon Sep  7 19:54:24 2015] GET / =\u003e generated 43 bytes in 5 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002508,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.003712,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libcrypto.so.1.0.0: no version information available (required by uwsgi)\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39muwsgi: /usr/lib/libssl.so.1.0.0: no version information available (required by uwsgi)\r\n\u001b[33mapp_1   | \u001b[39m[uWSGI] getting INI configuration from /etc/uwsgi.ini\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m*** Starting uWSGI 2.0.11.1 (64bit) on [Mon Sep  7 19:57:17 2015] ***\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mcompiled with version: 4.7.2 on 03 September 2015 21:44:57\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000024,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000388,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mos: Linux-3.18.2-031802-generic #201501082011 SMP Thu Jan 8 20:13:03 UTC 2015\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000104,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000326,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mnodename: 55a933ac2155\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000197,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000488,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mmachine: x86_64\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000115,
+      "\u001b[25;47r\u001b[H\u001b[47d\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000370,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mclock source: unix\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.002406,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:49:25.916 # Server started, Redis version 3.0.3\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:49:25.916 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:49:25.916 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.004649,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:49:25.916 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:49:25.916 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[33mapp_1   | \u001b[39mpcre jit disabled\r\n\u001b[33mapp_1   | \u001b[39mdetected number of CPU cores: 4\r\n\u001b[33mapp_1   | \u001b[39mcurrent working directory: /\r\n\u001b[33mapp_1   | \u001b[39mdetected binary path: /usr/bin/uwsgi\r\n\u001b[33mapp_1   | \u001b[39muWSGI running as root, you can use --uid/--gid/--chroot options\r\n\u001b[33mapp_1   | \u001b[39m*** WA"
+    ],
+    [
+      0.000072,
+      "RNING: you are running uWSGI as root !!! (use the --uid flag) *** \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 6\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n"
+    ],
+    [
+      0.000440,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mchdir() to /app\r\n\u001b[33mapp_1   | \u001b[39m*** WARNING: you are running uWSGI without its master process manager ***\r\n\u001b[33mapp_1   | \u001b[39myour processes number limit is 1048576\r\n\u001b[33mapp_1   | \u001b[39myour memory page size is 4096 bytes\r\n"
+    ],
+    [
+      0.000238,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mdetected max file descriptor number: 1048576\r\n\u001b[33mapp_1   | \u001b[39mlock engine: pthread robust mutexes\r\n"
+    ],
+    [
+      0.000096,
+      "\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.003542,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39mthunder lock: disabled (you can enable it with --thunder-lock)\r\n\u001b[33mapp_1   | \u001b[39muwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3\r\n\u001b[33mapp_1   | \u001b[39mPython version: 2.7.10 (default, Sep  1 2015, 11:35:51)  [GCC 4.9.3]\r\n\u001b[33mapp_1   | \u001b[39m*** Python threads support is disabled. You can enable it with --enable-threads ***\r\n\u001b[33ma"
+    ],
+    [
+      0.000072,
+      "pp_1   | \u001b[39mPython main interpreter initialized at 0x1a62c40\r\n\u001b[33mapp_1   | \u001b[39myour server socket listen backlog is limited to 100 connections\r\n"
+    ],
+    [
+      0.000353,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:50:12.109 # Server started, Redis version 3.0.3\r\n"
+    ],
+    [
+      0.001778,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:50:12.109 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:50:12.109 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:50:12.109 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:50:12.109 * The ser"
+    ],
+    [
+      0.000146,
+      "ver is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n"
+    ],
+    [
+      0.000207,
+      "\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.001264,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39myour mercy for graceful operations on workers is 60 seconds\r\n\u001b[33mapp_1   | \u001b[39mmapped 72768 bytes (71 KB) for 1 cores\r\n\u001b[33mapp_1   | \u001b[39m*** Operational MODE: single process ***\r\n\u001b[33mapp_1   | \u001b[39mWSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1a62c40 pid: 5 (default app)\r\n\u001b[33mapp_1   | \u001b[39m*** uWSGI is running in multiple interpreter mode ***\r\n\u001b[33mapp_1   | \u001b[39mspawned uWSGI worker 1 (and the only) (pid: 5, cores: 1)\r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis 3.0.3 (00000000/0) 64 bit\r\n\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n"
+    ],
+    [
+      0.000507,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 6\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n"
+    ],
+    [
+      0.000239,
+      "\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.000993,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n"
+    ],
+    [
+      0.000508,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n"
+    ],
+    [
+      0.001036,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:53:54.950 # Server started, Redis version 3.0.3\r\n"
+    ],
+    [
+      0.000659,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:53:54.950 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n"
+    ],
+    [
+      0.001603,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:53:54.950 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:53:54.950 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m6:M 07 Sep 19:53:54.950 * The server is now ready to accept connections on port 6379\r\n\u001b[36mredis_1 | \u001b[39m                _._                                                  \r\n\u001b[36mredis_1 | \u001b[39m           _.-``__ ''-._                                             \r\n\u001b[36mredis_1 | \u001b[39m      _.-``    `.  `_.  ''-._           Redis"
+    ],
+    [
+      0.002326,
+      " 3.0.3 (00000000/0) 64 bit\r\n"
+    ],
+    [
+      0.001644,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b[39m  .-`` .-```.  ```\\/    _.,_ ''-._                                   \r\n\u001b[36mredis_1 | \u001b[39m (    '      ,       .-`  | `,    )     Running in standalone mode\r\n\u001b[36mredis_1 | \u001b[39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379\r\n\u001b[36mredis_1 | \u001b[39m |    `-._   `._    /     _.-'    |     PID: 5\r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._  `-./  _.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |           http://redis.io        \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                                   \r\n\u001b[36mredis_1 | \u001b[39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  \r\n\u001b[36mredis_1 | \u001b[39m |    `-._`-._        _.-'_.-'    |                                  \r\n\u001b[36mredis_1 | \u001b[39m  `-._    `-._`-.__.-'_.-'    _.-'                          "
+    ],
+    [
+      0.000078,
+      "         \r\n\u001b[36mredis_1 | \u001b[39m      `-._    `-.__.-'    _.-'                                       \r\n\u001b[36mredis_1 | \u001b[39m          `-._        _.-'                                           \r\n\u001b[36mredis_1 | \u001b[39m              `-.__.-'                                               \r\n"
+    ],
+    [
+      0.001808,
+      "\u001b[1;48r\u001b[H\u001b[32C\u001b[25;47r\u001b[H\u001b[47d\u001b[36mredis_1 | \u001b(B\u001b[m\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:57:17.642 # Server started, Redis version 3.0.3\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:57:17.642 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:57:17.642 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never \u003e /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:57:17.643 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/n"
+    ],
+    [
+      0.000078,
+      "et/core/somaxconn is set to the lower value of 128.\r\n\u001b[36mredis_1 | \u001b[39m5:M 07 Sep 19:57:17.643 * The server is now ready to accept connections on port 6379\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[1;48r\u001b[H\u001b[32C"
+    ],
+    [
+      0.119170,
+      "\u001b[?25l\u001b[48;1H\u001b[36m\u001b[40m172.17.42.1                                   \u001b[37m\u001b[1m0:zsh*\u001b(B\u001b[m\u001b[36m\u001b[40m                                     12:25\u001b[37m - \u001b[36m07-09-2015 21:57\u001b(B\u001b[m\u001b[1;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.552250,
+      "\u001b[1;23r\u001b[H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[H\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mcurl localhost:1337\u001b[K\u001b[1;48r\u001b[H\r\n"
+    ],
+    [
+      0.061796,
+      "\u001b[1;23r\u001b[H\r\n{\r\n  \"ip\": \"172.17.0.79\", \r\n  \"visits\": \"1\"\r\n}\u001b[1;48r\u001b[H\u001b[5;2H"
+    ],
+    [
+      0.001459,
+      "\u001b[1;23r\u001b[H\u001b[5;2H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                \r \u001b[1;48r\u001b[H\u001b[5B"
+    ],
+    [
+      0.000762,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 1/1] 172.17.0.79 () {26 vars in 269 bytes} [Mon Sep  7 19:57:20 2015] GET / =\u003e generated 43 bytes in 7 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[1;48r\u001b[H\u001b[5B"
+    ],
+    [
+      0.003652,
+      "\u001b[1;23r\u001b[H\u001b[5B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[6d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[1;48r\u001b[H\u001b[6;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000446,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000196,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.009389,
+      "\u001b[1;23r\u001b[H\u001b[5B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[6d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b(B\u001b[m\u001b[K\u001b[1;48r\u001b[H\u001b[6;14H"
+    ],
+    [
+      1.510158,
+      "\u001b[1;23r\u001b[H\u001b[6;14Hcurl localhost:1337\u001b[1;48r\u001b[H\u001b[6;14H"
+    ],
+    [
+      0.258281,
+      "\u001b[1;23r\u001b[H\u001b[5B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[6d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mcurl localhost:1337\u001b[K\u001b[1;48r\u001b[H\u001b[6B"
+    ],
+    [
+      0.037538,
+      "\u001b[1;23r\u001b[H\u001b[6B{\r\n  \"ip\": \"172.17.0.79\", \r\n  \"visits\": \"2\"\r\n}\u001b[1;48r\u001b[H\u001b[10;2H\u001b[1;23r\u001b[H\u001b[10;2H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                \r \u001b[1;48r\u001b[H\u001b[10B"
+    ],
+    [
+      0.003011,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b(B\u001b[m\u001b[K\u001b[1;48r\u001b[H\u001b[11;14H\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 2/2] 172.17.0.79 () {26 vars in 269 bytes} [Mon Sep  7 19:57:22 2015] GET / =\u003e generated 43 bytes in 4 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[1;48r\u001b[H\u001b[11;14H\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.003301,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b(B\u001b[m\u001b[K\u001b[1;48r\u001b[H\u001b[11;14H"
+    ],
+    [
+      0.882743,
+      "\u001b[1;23r\u001b[H\u001b[11;14Hcurl localhost:1337\u001b[1;48r\u001b[H\u001b[11;14H"
+    ],
+    [
+      0.728157,
+      "\u001b[1;23r\u001b[H\u001b[10B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[11d\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[39mcurl localhost:1337\u001b[K\u001b[1;48r\u001b[H\u001b[11B"
+    ],
+    [
+      0.030118,
+      "\u001b[1;23r\u001b[H\u001b[11B{\r\n  \"ip\": \"172.17.0.79\", \r\n  \"visits\": \"3\"\u001b[1;48r\u001b[H\u001b[14B\u001b[1;23r\u001b[H\u001b[15d}\u001b[1;48r\u001b[H\u001b[15;2H"
+    ],
+    [
+      0.003437,
+      "\u001b[1;23r\u001b[H\u001b[15;2H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                \r \u001b[1;48r\u001b[H\u001b[15B"
+    ],
+    [
+      0.002776,
+      "\u001b[1;23r\u001b[H\u001b[16d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[7A\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b(B\u001b[m\u001b[K\u001b[1;48r\u001b[H\u001b[16;14H"
+    ],
+    [
+      0.002850,
+      "\u001b[1;23r\u001b[H\u001b[16d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[7A\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[1;48r\u001b[H\u001b[16;14H\u001b(B\u001b[m"
+    ],
+    [
+      0.000281,
+      "\u001b[K"
+    ],
+    [
+      0.015489,
+      "\u001b[25;47r\u001b[H\u001b[47d\u001b[33mapp_1   | \u001b[39m[pid: 5|app: 0|req: 3/3] 172.17.0.79 () {26 vars in 269 bytes} [Mon Sep  7 19:57:23 2015] GET / =\u003e generated 43 bytes in 3 msecs (HTTP/1.0 200) 2 headers in 71 bytes (1 switches on core 0)\r\n\u001b[1;48r\u001b[H\u001b[16;14H"
+    ],
+    [
+      1.012137,
+      "\u001b[1;48r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1049l"
+    ],
+    [
+      0.000832,
+      "[detached]\r\n"
+    ],
+    [
+      0.001810,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                \r \r\u001b]2;auke@hannah: ~/projects/minimal-docker-example\u0007\u001b]1;..ocker-example\u0007"
+    ],
+    [
+      0.002805,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m\u001b[K\u001b[?1h\u001b=\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001677,
+      "\r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ hannah \u001b[32m~ \u001b[33m→ \u001b[00m"
+    ],
+    [
+      0.000073,
+      "\u001b[K"
+    ],
+    [
+      0.912106,
+      "\r\r\n"
+    ]
+  ]
+}
