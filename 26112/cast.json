@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "width": 105,
+  "height": 34,
+  "duration": 40.737040,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.762599,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000088,
+      "\u001b]2;apple@localhost:\u0007"
+    ],
+    [
+      0.000029,
+      "\u001b]1;..ds/wellsfargo\u0007"
+    ],
+    [
+      0.067033,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ~/Downloads/wellsfargo \u001b[49m\u001b[34m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K"
+    ],
+    [
+      0.000145,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.448597,
+      "\u001b[4m\u001b[33mt\u001b[24m\u001b[39m"
+    ],
+    [
+      0.200520,
+      "\u0008\u001b[24m\u001b[32mt\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.245899,
+      "\u0008\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mr\u001b[1m\u001b[31me\u001b[0m\u001b[39m"
+    ],
+    [
+      0.159197,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mt\u001b[0m\u001b[32mr\u001b[0m\u001b[32me\u001b[32me\u001b[39m"
+    ],
+    [
+      0.312886,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000062,
+      "\r\r\n"
+    ],
+    [
+      0.001006,
+      "\u001b]2;tree\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;tree\u0007"
+    ],
+    [
+      0.048861,
+      "\u001b[38;5;30m.\u001b[00m\r\n"
+    ],
+    [
+      0.000005,
+      "├── \u001b[38;5;178mpom.xml\u001b[00m\r\n└── \u001b[38;5;30msrc\u001b[00m\r\n"
+    ],
+    [
+      0.000026,
+      "    ├── \u001b[38;5;30mmain\u001b[00m\r\n"
+    ],
+    [
+      0.000008,
+      "    │   └── \u001b[38;5;30mjava\u001b[00m\r\n"
+    ],
+    [
+      0.000017,
+      "    └── \u001b[38;5;30mtest\u001b[00m\r\n"
+    ],
+    [
+      0.000014,
+      "        ├── \u001b[38;5;30mjava\u001b[00m\r\n"
+    ],
+    [
+      0.000009,
+      "        │   └── \u001b[38;5;074;1mTest.java\u001b[00m\r\n"
+    ],
+    [
+      0.000021,
+      "        └── \u001b[38;5;30mresources\u001b[00m\r\n"
+    ],
+    [
+      0.000005,
+      "            └── \u001b[38;5;178mhazelcast-client.xml\u001b[00m\r\n\r\n"
+    ],
+    [
+      0.000002,
+      "6 directories, 3 files\r\n"
+    ],
+    [
+      0.000205,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000172,
+      "\u001b]2;apple@localhost:\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;..ds/wellsfargo\u0007"
+    ],
+    [
+      0.062029,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ~/Downloads/wellsfargo \u001b[49m\u001b[34m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.820592,
+      "\u001b[4m\u001b[33mm\u001b[24m\u001b[39m"
+    ],
+    [
+      0.134179,
+      "\u0008\u001b[24m\u001b[32mm\u001b[32mv\u001b[39m"
+    ],
+    [
+      0.134895,
+      "\u0008\u0008\u001b[32mm\u001b[32mv\u001b[32mn\u001b[39m"
+    ],
+    [
+      0.112773,
+      " "
+    ],
+    [
+      0.450520,
+      "\u001b[4m\u001b[33mt\u001b[24m\u001b[39m"
+    ],
+    [
+      0.068222,
+      "\u0008\u001b[24m\u001b[39mte"
+    ],
+    [
+      0.224543,
+      "s"
+    ],
+    [
+      0.112712,
+      "t"
+    ],
+    [
+      0.379731,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000055,
+      "\r\r\n"
+    ],
+    [
+      0.000961,
+      "\u001b]2;color_maven test\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b]1;mvn\u0007"
+    ],
+    [
+      1.337708,
+      "\u001b[37m[INFO] Scanning for projects...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.057298,
+      "\u001b[37m[INFO]                                                                         \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[37m[INFO] ------------------------------------------------------------------------\u001b(B\u001b[m\r\n\u001b\u001b[37m\u001b[37m[INFO]\u001b[30m\u001b[36m hazelcast 1.0-SNAPSHOT\u001b\u001b(B\u001b[m\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000031,
+      "\u001b[37m[INFO] ------------------------------------------------------------------------\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.153303,
+      "\u001b[37m[INFO] \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[37m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ hazelcast ---\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.210187,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[37m[INFO] skip non existing resourceDirectory /Users/apple/Downloads/wellsfargo/src/main/resources\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000768,
+      "\u001b[37m[INFO] \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000024,
+      "\u001b[37m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ hazelcast ---\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.254420,
+      "\u001b[37m[INFO] Nothing to compile - all classes are up to date\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[37m[INFO] \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[37m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ hazelcast ---\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.001913,
+      "\u001b[33m[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.002642,
+      "\u001b[37m[INFO] Copying 1 resource\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.005601,
+      "\u001b[37m[INFO] \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[37m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ hazelcast ---\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.003984,
+      "\u001b[37m[INFO] Changes detected - recompiling the module!\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000824,
+      "\u001b[33m[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.002341,
+      "\u001b[37m[INFO] Compiling 1 source file to /Users/apple/Downloads/wellsfargo/target/test-classes\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.486756,
+      "\u001b[37m[INFO] \u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[37m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ hazelcast ---\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.098909,
+      "\u001b[37m[INFO] Surefire report directory: /Users/apple/Downloads/wellsfargo/target/surefire-reports\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.105429,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "-------------------------------------------------------\r\n"
+    ],
+    [
+      0.000008,
+      " T E S T S\r\n"
+    ],
+    [
+      0.000021,
+      "-------------------------------------------------------\r\n"
+    ],
+    [
+      0.153424,
+      "\u001b[32mRunning Test\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.082091,
+      "Sep 08, 2015 4:46:03 PM com.hazelcast.config.XmlConfigLocator\r\nINFO: Loading 'hazelcast-default.xml' from classpath.\r\n"
+    ],
+    [
+      0.523356,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.instance.DefaultAddressPicker\r\nINFO: [LOCAL] [dev] [3.5.2] Prefer IPv4 stack is true.\r\n"
+    ],
+    [
+      0.012099,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.instance.DefaultAddressPicker\r\nINFO: [LOCAL] [dev] [3.5.2] Picked Address[192.168.1.10]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true\r\n"
+    ],
+    [
+      0.149681,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.spi.OperationService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Backpressure is disabled\r\n"
+    ],
+    [
+      0.010372,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.spi.impl.operationexecutor.classic.ClassicOperationExecutor\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Starting with 4 generic operation threads and 8 partition operation threads.\r\n"
+    ],
+    [
+      0.248884,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.system\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Hazelcast 3.5.2 (20150826 - ba8dbba) starting at Address[192.168.1.10]:5701\r\n"
+    ],
+    [
+      0.000338,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.system\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Copyright (c) 2008-2015, Hazelcast, Inc. All Rights Reserved.\r\n"
+    ],
+    [
+      0.005912,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Creating MulticastJoiner\r\n"
+    ],
+    [
+      0.003139,
+      "Sep 08, 2015 4:46:04 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Address[192.168.1.10]:5701 is STARTING\r\n"
+    ],
+    [
+      3.169541,
+      "Sep 08, 2015 4:46:07 PM com.hazelcast.cluster.impl.MulticastJoiner\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] \r\n\r\n\r\nMembers [1] {\r\n\tMember [192.168.1.10]:5701 this\r\n}\r\n\r\n"
+    ],
+    [
+      0.026331,
+      "Sep 08, 2015 4:46:07 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Address[192.168.1.10]:5701 is STARTED\r\n"
+    ],
+    [
+      0.000885,
+      "Sep 08, 2015 4:46:07 PM com.hazelcast.config.XmlConfigLocator\r\nINFO: Loading 'hazelcast-default.xml' from classpath.\r\n"
+    ],
+    [
+      0.271428,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.instance.DefaultAddressPicker\r\nINFO: [LOCAL] [dev] [3.5.2] Prefer IPv4 stack is true.\r\n"
+    ],
+    [
+      0.002690,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.instance.DefaultAddressPicker\r\nINFO: [LOCAL] [dev] [3.5.2] Picked Address[192.168.1.10]:5702, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5702], bind any local is true\r\n"
+    ],
+    [
+      0.003830,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.spi.OperationService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Backpressure is disabled\r\n"
+    ],
+    [
+      0.002453,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.spi.impl.operationexecutor.classic.ClassicOperationExecutor\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Starting with 4 generic operation threads and 8 partition operation threads.\r\n"
+    ],
+    [
+      0.004696,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.system\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Hazelcast 3.5.2 (20150826 - ba8dbba) starting at Address[192.168.1.10]:5702\r\n"
+    ],
+    [
+      0.000397,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.system\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Copyright (c) 2008-2015, Hazelcast, Inc. All Rights Reserved.\r\n"
+    ],
+    [
+      0.001325,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Creating MulticastJoiner\r\n"
+    ],
+    [
+      0.000457,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Address[192.168.1.10]:5702 is STARTING\r\n"
+    ],
+    [
+      0.106233,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.cluster.impl.MulticastJoiner\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Trying to join to discovered node: Address[192.168.1.10]:5701\r\n"
+    ],
+    [
+      0.004139,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.nio.tcp.SocketConnector\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Connecting to /192.168.1.10:5701, timeout: 0, bind-any: true\r\n"
+    ],
+    [
+      0.001767,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.nio.tcp.SocketAcceptor\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Accepting socket connection from /192.168.1.10:49207\r\n"
+    ],
+    [
+      0.004209,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.nio.tcp.TcpIpConnectionManager\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Established socket connection between /192.168.1.10:5701\r\n"
+    ],
+    [
+      0.000488,
+      "Sep 08, 2015 4:46:08 PM com.hazelcast.nio.tcp.TcpIpConnectionManager\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Established socket connection between /192.168.1.10:49207\r\n"
+    ],
+    [
+      6.008606,
+      "Sep 08, 2015 4:46:14 PM com.hazelcast.cluster.ClusterService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] \r\n\r\nMembers [2] {\r\n\tMember [192.168.1.10]:5701\r\n\tMember [192.168.1.10]:5702 this\r\n}\r\n\r\n"
+    ],
+    [
+      0.000943,
+      "Sep 08, 2015 4:46:14 PM com.hazelcast.cluster.ClusterService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] \r\n\r\nMembers [2] {\r\n\tMember [192.168.1.10]:5701 this\r\n\tMember [192.168.1.10]:5702\r\n}\r\n\r\n"
+    ],
+    [
+      2.002610,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Address[192.168.1.10]:5702 is STARTED\r\n"
+    ],
+    [
+      0.040841,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.core.LifecycleService\r\nINFO: HazelcastClient[hz.client_0_dev][3.5.2] is STARTING\r\n"
+    ],
+    [
+      0.031427,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.core.LifecycleService\r\nINFO: HazelcastClient[hz.client_0_dev][3.5.2] is STARTED\r\n"
+    ],
+    [
+      0.005259,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.nio.tcp.SocketAcceptor\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Accepting socket connection from /127.0.0.1:49215\r\n"
+    ],
+    [
+      0.001008,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.nio.tcp.TcpIpConnectionManager\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Established socket connection between /127.0.0.1:5702\r\n"
+    ],
+    [
+      0.011131,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.client.impl.protocol.task.AuthenticationMessageTask\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Received auth from Connection [/127.0.0.1:5702 -\u003e /127.0.0.1:49215], endpoint=null, live=true, type=JAVA_CLIENT, successfully authenticated, principal : ClientPrincipal{uuid='c1253ed0-d22e-423a-b0d9-418d115228b6', ownerUuid='41d66e16-92d0-44e8-abb7-de04387f1475'}, owner connection : true\r\n"
+    ],
+    [
+      0.001829,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.core.LifecycleService\r\nINFO: HazelcastClient[hz.client_0_dev][3.5.2] is CLIENT_CONNECTED\r\n"
+    ],
+    [
+      0.004924,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.client.spi.impl.ClientMembershipListener\r\nINFO: \r\n\r\nMembers [2] {\r\n\tMember [192.168.1.10]:5701\r\n\tMember [192.168.1.10]:5702\r\n}\r\n\r\n"
+    ],
+    [
+      0.005728,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.nio.tcp.SocketAcceptor\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Accepting socket connection from /192.168.1.10:49216\r\n"
+    ],
+    [
+      0.000916,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.nio.tcp.TcpIpConnectionManager\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Established socket connection between /192.168.1.10:5701\r\n"
+    ],
+    [
+      0.010022,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.client.impl.protocol.task.AuthenticationMessageTask\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Received auth from Connection [/192.168.1.10:5701 -\u003e /192.168.1.10:49216], endpoint=null, live=true, type=JAVA_CLIENT, successfully authenticated, principal : ClientPrincipal{uuid='c1253ed0-d22e-423a-b0d9-418d115228b6', ownerUuid='41d66e16-92d0-44e8-abb7-de04387f1475'}, owner connection : false\r\n"
+    ],
+    [
+      0.025764,
+      "Sep 08, 2015 4:46:16 PM com.hazelcast.partition.InternalPartitionService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Initializing cluster partition table first arrangement...\r\n"
+    ],
+    [
+      6.076349,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Address[192.168.1.10]:5701 is SHUTTING_DOWN\r\n"
+    ],
+    [
+      0.009821,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Shutting down multicast service...\r\n"
+    ],
+    [
+      0.000587,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.cluster.ClusterService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Master Address[192.168.1.10]:5701 left the cluster. Assigning new master Member [192.168.1.10]:5702 this\r\n"
+    ],
+    [
+      0.000776,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Shutting down connection manager...\r\n"
+    ],
+    [
+      0.001796,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.nio.tcp.TcpIpConnection\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Connection [Address[192.168.1.10]:5702] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000586,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.nio.tcp.TcpIpConnection\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Connection [Address[192.168.1.10]:5701] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000406,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.client.connection.nio.ClientConnection\r\nWARNING: Connection [/192.168.1.10:5701] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000498,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.nio.tcp.TcpIpConnection\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Connection [Address[192.168.1.10]:49216] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000551,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.cluster.ClusterService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Removing Member [192.168.1.10]:5701\r\n"
+    ],
+    [
+      0.000346,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Shutting down node engine...\r\n"
+    ],
+    [
+      0.000766,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.client.connection.nio.ClientReadHandler\r\nWARNING: hz.client_0_dev.ClientInSelector Closing socket to endpoint Address[192.168.1.10]:5701, Cause:java.io.EOFException: Remote socket closed!\r\n"
+    ],
+    [
+      0.004518,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.cluster.ClusterService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] \r\n\r\nMembers [1] {\r\n\tMember [192.168.1.10]:5702 this\r\n}\r\n\r\n"
+    ],
+    [
+      0.011144,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.client.spi.impl.ClientMembershipListener\r\nINFO: \r\n\r\nMembers [1] {\r\n\tMember [192.168.1.10]:5702\r\n}\r\n\r\n"
+    ],
+    [
+      0.011046,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.NodeExtension\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Destroying node NodeExtension.\r\n"
+    ],
+    [
+      0.000808,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Hazelcast Shutdown is completed in 43 ms.\r\n"
+    ],
+    [
+      0.000621,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5701 [dev] [3.5.2] Address[192.168.1.10]:5701 is SHUTDOWN\r\n"
+    ],
+    [
+      0.000569,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Address[192.168.1.10]:5702 is SHUTTING_DOWN\r\n"
+    ],
+    [
+      0.001191,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Shutting down multicast service...\r\n"
+    ],
+    [
+      0.001700,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Shutting down connection manager...\r\n"
+    ],
+    [
+      0.001455,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.client.connection.nio.ClientConnection\r\nWARNING: Connection [/127.0.0.1:5702] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000432,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.nio.tcp.TcpIpConnection\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Connection [Address[127.0.0.1]:49215] lost. Reason: Socket explicitly closed\r\n"
+    ],
+    [
+      0.000460,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.client.connection.nio.ClientReadHandler\r\nWARNING: hz.client_0_dev.ClientInSelector Closing socket to endpoint Address[192.168.1.10]:5702, Cause:java.io.EOFException: Remote socket closed!\r\n"
+    ],
+    [
+      0.000519,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Shutting down node engine...\r\n"
+    ],
+    [
+      0.000756,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.core.LifecycleService\r\nINFO: HazelcastClient[hz.client_0_dev][3.5.2] is CLIENT_DISCONNECTED\r\n"
+    ],
+    [
+      0.007844,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.NodeExtension\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Destroying node NodeExtension.\r\n"
+    ],
+    [
+      0.000522,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.instance.Node\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Hazelcast Shutdown is completed in 14 ms.\r\n"
+    ],
+    [
+      0.000452,
+      "Sep 08, 2015 4:46:22 PM com.hazelcast.core.LifecycleService\r\nINFO: [192.168.1.10]:5702 [dev] [3.5.2] Address[192.168.1.10]:5702 is SHUTDOWN\r\n"
+    ],
+    [
+      0.001102,
+      "\u001b[32mTests run: 1 \u001b(B\u001b[m, Failures: \u001b[33m0 \u001b(B\u001b[m, Errors: \u001b[30m\u001b[31m0 \u001b(B\u001b[m, Skipped:  \u001b[37m0 \u001b(B\u001b[m, \u001b[36mTime elapsed: \u001b[37m18.925 sec\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.377228,
+      "\r\nResults :\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n\u001b[32mTests run: 1 \u001b(B\u001b[m, Failures: \u001b[33m0 \u001b(B\u001b[m, Errors: \u001b[30m\u001b[31m0 \u001b(B\u001b[m, Skipped:  \u001b[37m0 \u001b(B\u001b[m\r\n\r\n"
+    ],
+    [
+      0.003950,
+      "\u001b[37m[INFO] ------------------------------------------------------------------------\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[37m[INFO] BUILD SUCCESS\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[37m[INFO] ------------------------------------------------------------------------\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[37m[INFO] Total time: 20.864 s\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[37m[INFO] Finished at: 2015-09-08T16:46:23-04:00\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.074565,
+      "\u001b[37m[INFO] Final Memory: 14M/310M\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[37m[INFO] ------------------------------------------------------------------------\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.017592,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]2;apple@localhost:\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..ds/wellsfargo\u0007"
+    ],
+    [
+      0.075553,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[37m ~/Downloads/wellsfargo \u001b[49m\u001b[34m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000050,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.604745,
+      "\r\r\n"
+    ]
+  ]
+}
