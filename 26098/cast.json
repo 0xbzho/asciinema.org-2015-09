@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 30,
+  "duration": 29.311383,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.185482,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      2.877402,
+      "l"
+    ],
+    [
+      0.320035,
+      "s"
+    ],
+    [
+      0.648009,
+      " "
+    ],
+    [
+      0.231981,
+      "-"
+    ],
+    [
+      0.263998,
+      "l"
+    ],
+    [
+      0.184233,
+      "\r\n"
+    ],
+    [
+      0.001041,
+      "total 12K\r\n"
+    ],
+    [
+      0.000011,
+      "-rw-r--r-- 1 mos mos  908 Sep  8 16:45 index-step1.js"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "-rwxr-xr-x 1 mos mos 2.0K Sep  8 16:45 index-step2.js*"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "-rwxr-xr-x 1 mos mos 3.0K Sep  8 16:45 index-step3.js*\r\n"
+    ],
+    [
+      0.000294,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      1.462391,
+      "b"
+    ],
+    [
+      0.103964,
+      "a"
+    ],
+    [
+      0.087995,
+      "b"
+    ],
+    [
+      0.185833,
+      "\u0007el"
+    ],
+    [
+      0.806225,
+      "-"
+    ],
+    [
+      0.303972,
+      "n"
+    ],
+    [
+      0.184026,
+      "o"
+    ],
+    [
+      0.193789,
+      "de "
+    ],
+    [
+      1.214232,
+      "i"
+    ],
+    [
+      0.079932,
+      "n"
+    ],
+    [
+      0.218695,
+      "\u0007dex-ste\rep"
+    ],
+    [
+      2.469383,
+      "1"
+    ],
+    [
+      0.210530,
+      ".js "
+    ],
+    [
+      2.046219,
+      "\r\n"
+    ],
+    [
+      0.437157,
+      "I am thinking of a number between 1 and 10\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b[1G"
+    ],
+    [
+      0.000059,
+      "\u001b[0J"
+    ],
+    [
+      0.000010,
+      "Take a guess"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.002026,
+      "\u001b[1G"
+    ],
+    [
+      2.424989,
+      "5"
+    ],
+    [
+      0.294976,
+      "\r\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b[1G\u001b[0J"
+    ],
+    [
+      0.000002,
+      "Too low, Guess again!\r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1G"
+    ],
+    [
+      2.991720,
+      "7"
+    ],
+    [
+      0.191993,
+      "\r\r\n\u001b[1G\u001b[0JToo low, Guess again!\r\n\u001b[1G"
+    ],
+    [
+      3.015943,
+      "9"
+    ],
+    [
+      0.199989,
+      "\r\r\n\u001b[1G\u001b[0JToo low, Guess again!\r\n\u001b[1G"
+    ],
+    [
+      2.200028,
+      "1"
+    ],
+    [
+      0.504090,
+      "0"
+    ],
+    [
+      0.715459,
+      "\r\r\nWell done! The answer was 10!\r\r\n"
+    ],
+    [
+      0.001509,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      2.051172,
+      "exit\r\n"
+    ]
+  ]
+}
