@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 30,
+  "duration": 28.526237,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.175629,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      3.054128,
+      "."
+    ],
+    [
+      0.447952,
+      "/"
+    ],
+    [
+      0.320010,
+      "i"
+    ],
+    [
+      0.071959,
+      "n"
+    ],
+    [
+      0.376170,
+      "\u0007dex-step"
+    ],
+    [
+      1.015885,
+      "2"
+    ],
+    [
+      0.160064,
+      ".js "
+    ],
+    [
+      2.183967,
+      "-"
+    ],
+    [
+      0.312006,
+      "v \r"
+    ],
+    [
+      0.760214,
+      "\u001b[A\r\n"
+    ],
+    [
+      0.497183,
+      "1.0.0\r\n"
+    ],
+    [
+      0.016295,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      1.174328,
+      "./index-step2.js -v \r"
+    ],
+    [
+      0.816052,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      1.136329,
+      "h \r"
+    ],
+    [
+      0.967765,
+      "\u001b[A\r\n"
+    ],
+    [
+      0.449095,
+      "Usage: index-step2.js [options] \u003cmin\u003e \u003cmax\u003e\r\n\r\nOptions:"
+    ],
+    [
+      0.000005,
+      "\r\n -h        Display help text.\r\n -v        Display the version.\r\n"
+    ],
+    [
+      0.009893,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      2.948836,
+      "./index-step2.js -h \r"
+    ],
+    [
+      1.032018,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K\r\n\r\u001b[K\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.384025,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.759963,
+      "2"
+    ],
+    [
+      1.056011,
+      "  \r"
+    ],
+    [
+      0.295965,
+      "7"
+    ],
+    [
+      1.336327,
+      "\r\n"
+    ],
+    [
+      0.443475,
+      "I am thinking of a number between 2 and 7\r\n"
+    ],
+    [
+      0.000352,
+      "\u001b[1G"
+    ],
+    [
+      0.000119,
+      "\u001b[0JTake a guess\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1G"
+    ],
+    [
+      2.645248,
+      "5"
+    ],
+    [
+      0.154158,
+      "\r\r\nWell done! The answer was 5!\r\r\n"
+    ],
+    [
+      0.001332,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      2.523350,
+      "exit\r\n"
+    ]
+  ]
+}
