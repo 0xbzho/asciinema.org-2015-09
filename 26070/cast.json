@@ -1,0 +1,962 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 40,
+  "duration": 39.196939,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.154771,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                             \r \r"
+    ],
+    [
+      0.040804,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/.ghq/github.com/shadownet-irc/yolo-swag.com\u001b[00m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[32m➜  \u001b[00m\u001b[K\u001b[141C\u001b[34m±\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[154D"
+    ],
+    [
+      0.000622,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.362777,
+      "g"
+    ],
+    [
+      0.069403,
+      "\u0008gi"
+    ],
+    [
+      0.095035,
+      "t"
+    ],
+    [
+      0.101126,
+      " "
+    ],
+    [
+      0.089679,
+      "p"
+    ],
+    [
+      0.100254,
+      "u"
+    ],
+    [
+      0.170194,
+      "l"
+    ],
+    [
+      0.119931,
+      "l"
+    ],
+    [
+      0.141033,
+      " "
+    ],
+    [
+      0.385572,
+      "\u0026"
+    ],
+    [
+      0.125225,
+      "\u0026"
+    ],
+    [
+      0.099962,
+      " "
+    ],
+    [
+      0.146023,
+      "g"
+    ],
+    [
+      0.089987,
+      "i"
+    ],
+    [
+      0.080162,
+      "t"
+    ],
+    [
+      0.110048,
+      " "
+    ],
+    [
+      0.064959,
+      "p"
+    ],
+    [
+      0.105575,
+      "u"
+    ],
+    [
+      0.100131,
+      "s"
+    ],
+    [
+      0.261444,
+      "h"
+    ],
+    [
+      0.210041,
+      " "
+    ],
+    [
+      0.164820,
+      "d"
+    ],
+    [
+      0.150894,
+      "o"
+    ],
+    [
+      0.230312,
+      "k"
+    ],
+    [
+      0.125253,
+      "k"
+    ],
+    [
+      0.140352,
+      "u"
+    ],
+    [
+      0.080094,
+      " "
+    ],
+    [
+      0.124926,
+      "m"
+    ],
+    [
+      0.081248,
+      "a"
+    ],
+    [
+      0.100009,
+      "s"
+    ],
+    [
+      0.139879,
+      "t"
+    ],
+    [
+      0.084792,
+      "e"
+    ],
+    [
+      0.116215,
+      "r"
+    ],
+    [
+      0.179834,
+      " "
+    ],
+    [
+      0.833033,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      1.218257,
+      "remote: Counting objects: 8, done.\u001b[K\r\n"
+    ],
+    [
+      0.000393,
+      "remote: Compressing objects:  12% (1/8)   \u001b[K\rremote: Compressing objects:  25% (2/8)   \u001b[K\rremote: Compressing objects:  37% (3/8)   \u001b[K\rremote: Compressing objects:  50% (4/8)   \u001b[K\rremote: Compressing objects:  62% (5/8)   \u001b[K\rremote: Compressing objects:  75% (6/8)   \u001b[K\rremote: Compressing objects:  87% (7/8)   \u001b[K\rremote: Compressing objects: 100% (8/8)   \u001b[K\rremote: Compressing objects: 100% (8/8), done.\u001b[K\r\n"
+    ],
+    [
+      0.001001,
+      "remote: Total 8 (delta 6), reused 0 (delta 0), pack-reused 0\u001b[K\r\n"
+    ],
+    [
+      0.004082,
+      "Unpacking objects:  12% (1/8)   \r"
+    ],
+    [
+      0.000347,
+      "Unpacking objects:  25% (2/8)   \r"
+    ],
+    [
+      0.000407,
+      "Unpacking objects:  37% (3/8)   \r"
+    ],
+    [
+      0.000516,
+      "Unpacking objects:  50% (4/8)   \r"
+    ],
+    [
+      0.000714,
+      "Unpacking objects:  62% (5/8)   \r"
+    ],
+    [
+      0.000428,
+      "Unpacking objects:  75% (6/8)   \r"
+    ],
+    [
+      0.000442,
+      "Unpacking objects:  87% (7/8)   \r"
+    ],
+    [
+      0.000545,
+      "Unpacking objects: 100% (8/8)   \r"
+    ],
+    [
+      0.000025,
+      "Unpacking objects: 100% (8/8), done.\r\n"
+    ],
+    [
+      0.089599,
+      "From ssh://github.com/shadownet-irc/yolo-swag.com\r\n   57962af..8c0355b  master     -\u003e origin/master\r\n"
+    ],
+    [
+      0.017832,
+      "Updating 57962af..8c0355b\r\n"
+    ],
+    [
+      0.001573,
+      "Fast-forward\r\n"
+    ],
+    [
+      0.004214,
+      " views/info.moon | 6 \u001b[32m++++\u001b[m\u001b[31m--\u001b[m\r\n"
+    ],
+    [
+      0.000036,
+      " 1 file changed, 4 insertions(+), 2 deletions(-)\r\n"
+    ],
+    [
+      1.163967,
+      "Counting objects: 8, done.\r\n"
+    ],
+    [
+      0.000320,
+      "Delta compression using up to 4 threads.\r\n"
+    ],
+    [
+      0.000607,
+      "Compressing objects:  12% (1/8)   \r"
+    ],
+    [
+      0.000225,
+      "Compressing objects:  25% (2/8)   \r"
+    ],
+    [
+      0.000194,
+      "Compressing objects:  37% (3/8)   \r"
+    ],
+    [
+      0.000154,
+      "Compressing objects:  50% (4/8)   \r"
+    ],
+    [
+      0.000016,
+      "Compressing objects:  62% (5/8)   \r"
+    ],
+    [
+      0.000100,
+      "Compressing objects:  75% (6/8)   \r"
+    ],
+    [
+      0.000073,
+      "Compressing objects:  87% (7/8)   \r"
+    ],
+    [
+      0.000036,
+      "Compressing objects: 100% (8/8)   \r"
+    ],
+    [
+      0.000192,
+      "Compressing objects: 100% (8/8), done.\r\n"
+    ],
+    [
+      0.000293,
+      "Writing objects:  12% (1/8)   \r"
+    ],
+    [
+      0.000101,
+      "Writing objects:  25% (2/8)   \r"
+    ],
+    [
+      0.000129,
+      "Writing objects:  37% (3/8)   \r"
+    ],
+    [
+      0.000102,
+      "Writing objects:  50% (4/8)   \r"
+    ],
+    [
+      0.000119,
+      "Writing objects:  62% (5/8)   \r"
+    ],
+    [
+      0.000108,
+      "Writing objects:  75% (6/8)   \r"
+    ],
+    [
+      0.000176,
+      "Writing objects:  87% (7/8)   \r"
+    ],
+    [
+      0.000081,
+      "Writing objects: 100% (8/8)   \r"
+    ],
+    [
+      0.000251,
+      "Writing objects: 100% (8/8), 1004 bytes | 0 bytes/s, done.\r\nTotal 8 (delta 6), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.358078,
+      "remote: Cloning into '/tmp/tmp.zCD6a6doR5'...\u001b[K"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.016336,
+      "remote: done.\u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.014651,
+      "remote: HEAD is now at 8c0355b... Try again to update information on Dusk\u001b[K"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.027782,
+      "remote: -----\u003e Building yolo-swag using Dockerfile...\u001b[K\r\n"
+    ],
+    [
+      0.065392,
+      "remote: Sending build context to Docker daemon 134.1 kB\u001b[K\rremote: \rremote: \r\nremote: Sending build context to Docker daemon \u001b[K\rremote: \r\n"
+    ],
+    [
+      0.022893,
+      "remote: Step 0 : FROM xena/lapis-ultimate\u001b[K\r\n"
+    ],
+    [
+      0.001033,
+      "remote: \u001b[91m# Executing 7 build triggers\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.000013,
+      "Trigger 0, ADD BoxFile /app/src/BoxFile\u001b[K\r\n"
+    ],
+    [
+      0.000242,
+      "remote: Step 0 : ADD BoxFile /app/src/BoxFile\u001b[K"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.067551,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000999,
+      "remote: Trigger 1, RUN cd /app/src \u0026\u0026 moonbox install\u001b[K\r\nremote: Step 0 : RUN cd /app/src \u0026\u0026 moonbox install\u001b[K\r\n"
+    ],
+    [
+      0.057760,
+      "remote:  ---\u003e Using cache\u001b[K\r\n"
+    ],
+    [
+      0.000117,
+      "remote: Trigger 2, ADD bower.json /app/src/bower.json\u001b[K\r\n"
+    ],
+    [
+      0.000155,
+      "remote: Step 0 : ADD bower.json /app/src/bower.json\u001b[K\r\n"
+    ],
+    [
+      0.059259,
+      "remote:  ---\u003e Using cache\u001b[K\r\nremote: Trigger 3, RUN cd /app/src \u0026\u0026 bower --allow-root install\u001b[K\r\nremote: Step 0 : RUN cd /app/src \u0026\u0026 bower --allow-root install\u001b[K\r\n"
+    ],
+    [
+      0.081064,
+      "remote:  ---\u003e Using cache\u001b[K\r\nremote: Trigger 4, ADD . /app/src\u001b[K\r\n"
+    ],
+    [
+      0.000322,
+      "remote: Step 0 : ADD . /app/src\u001b[K\r\n"
+    ],
+    [
+      0.187826,
+      "remote: Trigger 5, RUN moonc /app/src\u001b[K\r\nremote: Step 0 : RUN moonc /app/src\u001b[K\r\n"
+    ],
+    [
+      0.107547,
+      "remote:  ---\u003e Running in 1beeb304b02c\u001b[K\r\n"
+    ],
+    [
+      0.143153,
+      "remote: \u001b[91mBuilt /app/src/app.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.009307,
+      "\u001b[91mBuilt /app/src/views/help_list.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.007708,
+      "\u001b[91mBuilt /app/src/views/error.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.009665,
+      "\u001b[91mBuilt /app/src/views/rules.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.007561,
+      "\u001b[91mBuilt /app/src/views/chat.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.007849,
+      "\u001b[91mBuilt /app/src/views/index.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.012810,
+      "\u001b[91mBuilt /app/src/views/info.moon\u001b[K"
+    ],
+    [
+      0.000013,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.008419,
+      "\u001b[91mBuilt /app/src/views/register_success.moon\u001b[K\r\n"
+    ],
+    [
+      0.000009,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.007692,
+      "\u001b[91mBuilt /app/src/views/notfound.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.008276,
+      "\u001b[91mBuilt /app/src/views/help_page.moon\u001b[K"
+    ],
+    [
+      0.000011,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.010471,
+      "\u001b[91mBuilt /app/src/views/register_form.moon\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.015473,
+      "\u001b[91mBuilt /app/src/layout/bootstrap.moon\u001b[K"
+    ],
+    [
+      0.000025,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.009275,
+      "\u001b[91mBuilt /app/src/controllers/help.moon\u001b[K\r\n"
+    ],
+    [
+      0.000011,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.010062,
+      "\u001b[91mBuilt /app/src/controllers/account.moon\u001b[K"
+    ],
+    [
+      0.000015,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.007211,
+      "\u001b[91mBuilt /app/src/config.moon\u001b[K"
+    ],
+    [
+      0.000007,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.058939,
+      "Trigger 6, RUN cd /app/src/static \u0026\u0026 find -name \"*.coffee\" -exec coffee -c {} \\;\u001b[K\r\nremote: Step 0 : RUN cd /app/src/static \u0026\u0026 find -name \"*.coffee\" -exec coffee -c {} \\;\u001b[K\r\n"
+    ],
+    [
+      0.186326,
+      "remote:  ---\u003e Running in eeab73da9847\u001b[K\r\n"
+    ],
+    [
+      0.294281,
+      "remote:  ---\u003e e8372b738042\u001b[K\r\n"
+    ],
+    [
+      0.012217,
+      "remote: Removing intermediate container 4bb42dcb7363\u001b[K\r\n"
+    ],
+    [
+      0.011359,
+      "remote: Removing intermediate container 1beeb304b02c\u001b[K\r\n"
+    ],
+    [
+      0.019409,
+      "remote: Removing intermediate container eeab73da9847\u001b[K\r\n"
+    ],
+    [
+      0.000012,
+      "remote: Step 1 : RUN apt-get update \u0026\u0026    apt-get install lua-xmlrpc -y --force-yes\u001b[K\r\n"
+    ],
+    [
+      0.106566,
+      "remote:  ---\u003e Running in 68ae0f3673b4\u001b[K\r\n"
+    ],
+    [
+      0.595667,
+      "remote: Ign http://archive.ubuntu.com trusty InRelease\u001b[K\r\n"
+    ],
+    [
+      0.083611,
+      "remote: Ign http://archive.ubuntu.com trusty-updates InRelease\u001b[K\r\n"
+    ],
+    [
+      0.083312,
+      "remote: Ign http://archive.ubuntu.com trusty-security InRelease\u001b[K\r\n"
+    ],
+    [
+      0.082368,
+      "remote: Hit http://archive.ubuntu.com trusty Release.gpg\u001b[K\r\n"
+    ],
+    [
+      0.083091,
+      "remote: Get:1 http://archive.ubuntu.com trusty-updates Release.gpg [933 B]\u001b[K\r\n"
+    ],
+    [
+      0.083382,
+      "remote: Get:2 http://archive.ubuntu.com trusty-security Release.gpg [933 B]\u001b[K\r\n"
+    ],
+    [
+      0.241884,
+      "remote: Hit http://archive.ubuntu.com trusty Release\u001b[K\r\nremote: Get:3 http://archive.ubuntu.com trusty-updates Release [63.5 kB]\u001b[K\r\n"
+    ],
+    [
+      0.250813,
+      "remote: Get:4 http://archive.ubuntu.com trusty-security Release [63.5 kB]\u001b[K\r\n"
+    ],
+    [
+      0.419253,
+      "remote: Hit http://archive.ubuntu.com trusty/main Sources\u001b[K\r\n"
+    ],
+    [
+      0.000246,
+      "remote: Hit http://archive.ubuntu.com trusty/restricted Sources\u001b[K\r\n"
+    ],
+    [
+      0.026205,
+      "remote: Hit http://archive.ubuntu.com trusty/universe Sources\u001b[K\r\n"
+    ],
+    [
+      0.054180,
+      "remote: Hit http://archive.ubuntu.com trusty/main amd64 Packages\u001b[K\r\n"
+    ],
+    [
+      0.076649,
+      "remote: Hit http://archive.ubuntu.com trusty/restricted amd64 Packages\u001b[K\r\n"
+    ],
+    [
+      0.132154,
+      "remote: Hit http://archive.ubuntu.com trusty/universe amd64 Packages\u001b[K\r\n"
+    ],
+    [
+      0.035826,
+      "remote: Get:5 http://archive.ubuntu.com trusty-updates/main Sources [291 kB]\u001b[K\r\n"
+    ],
+    [
+      0.569706,
+      "remote: Get:6 http://archive.ubuntu.com trusty-updates/restricted Sources [4521 B]\u001b[K\r\n"
+    ],
+    [
+      0.084694,
+      "remote: Get:7 http://archive.ubuntu.com trusty-updates/universe Sources [169 kB]\u001b[K\r\n"
+    ],
+    [
+      0.245389,
+      "remote: Get:8 http://archive.ubuntu.com trusty-updates/main amd64 Packages [772 kB]\u001b[K\r\n"
+    ],
+    [
+      0.774388,
+      "remote: Get:9 http://archive.ubuntu.com trusty-updates/restricted amd64 Packages [22.7 kB]\u001b[K\r\n"
+    ],
+    [
+      0.086664,
+      "remote: Get:10 http://archive.ubuntu.com trusty-updates/universe amd64 Packages [404 kB]\u001b[K\r\n"
+    ],
+    [
+      0.248515,
+      "remote: Get:11 http://archive.ubuntu.com trusty-security/main Sources [118 kB]\u001b[K"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.087165,
+      "remote: Get:12 http://archive.ubuntu.com trusty-security/restricted Sources [1874 B]\u001b[K\r\n"
+    ],
+    [
+      0.082685,
+      "remote: Get:13 http://archive.ubuntu.com trusty-security/universe Sources [34.8 kB]\u001b[K\r\n"
+    ],
+    [
+      0.083035,
+      "remote: Get:14 http://archive.ubuntu.com trusty-security/multiverse Sources [2169 B]\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.087137,
+      "remote: Get:15 http://archive.ubuntu.com trusty-security/main amd64 Packages [428 kB]\u001b[K\r\n"
+    ],
+    [
+      0.250447,
+      "remote: Get:16 http://archive.ubuntu.com trusty-security/restricted amd64 Packages [14.8 kB]\u001b[K"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.085718,
+      "remote: Get:17 http://archive.ubuntu.com trusty-security/universe amd64 Packages [149 kB]\u001b[K\r\n"
+    ],
+    [
+      0.166879,
+      "remote: Get:18 http://archive.ubuntu.com trusty-security/multiverse amd64 Packages [3528 B]\u001b[K\r\n"
+    ],
+    [
+      0.090096,
+      "remote: Fetched 2545 kB in 4s (542 kB/s)\u001b[K\r\n"
+    ],
+    [
+      1.618235,
+      "remote: Reading package lists...\u001b[K\r\n"
+    ],
+    [
+      1.693699,
+      "remote: Reading package lists...\u001b[K\r\n"
+    ],
+    [
+      0.243775,
+      "remote: Building dependency tree...\u001b[K\r\n"
+    ],
+    [
+      0.000739,
+      "remote: Reading state information...\u001b[K"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.122693,
+      "remote: The following extra packages will be installed:\u001b[K"
+    ],
+    [
+      0.000018,
+      "\r\nremote:   lua-expat\u001b[K\r\n"
+    ],
+    [
+      0.002032,
+      "remote: The following NEW packages will be installed:\u001b[K\r\n"
+    ],
+    [
+      0.000260,
+      "remote:   lua-expat lua-xmlrpc\u001b[K\r\n"
+    ],
+    [
+      0.474785,
+      "remote: 0 upgraded, 2 newly installed, 0 to remove and 117 not upgraded.\u001b[K\r\n"
+    ],
+    [
+      0.000014,
+      "remote: Need to get 35.4 kB of archives.\u001b[K\r\nremote: After this operation, 225 kB of additional disk space will be used.\u001b[K\r\n"
+    ],
+    [
+      0.000569,
+      "remote: Get:1 http://archive.ubuntu.com/ubuntu/ trusty/universe lua-expat amd64 1.2.0-6 [13.8 kB]\u001b[K\r\n"
+    ],
+    [
+      0.084194,
+      "remote: Get:2 http://archive.ubuntu.com/ubuntu/ trusty/universe lua-xmlrpc all 1.2.1-6 [21.6 kB]\u001b[K\r\n"
+    ],
+    [
+      0.471531,
+      "remote: \u001b[91mdebconf: unable to initialize frontend: Dialog\u001b[K\r\n"
+    ],
+    [
+      0.000012,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.000092,
+      "\u001b[91mdebconf: (TERM is not set, so the dialog frontend is not usable.)\u001b[K\r\n"
+    ],
+    [
+      0.000006,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.000368,
+      "\u001b[91mdebconf: falling back to frontend: Readline\u001b[K\r\n"
+    ],
+    [
+      0.000008,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.009497,
+      "\u001b[91mdebconf: unable to initialize frontend: Readline\u001b[K\r\nremote: \u001b[0m"
+    ],
+    [
+      0.000058,
+      "\u001b[91mdebconf: (This frontend requires a controlling tty.)\u001b[K\r\n"
+    ],
+    [
+      0.000007,
+      "remote: \u001b[0m"
+    ],
+    [
+      0.000332,
+      "\u001b[91mdebconf: falling back to frontend: Teletype\u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.004245,
+      "\u001b[91mdpkg-preconfigure: unable to re-open stdin: \u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\nremote: \u001b[0m"
+    ],
+    [
+      0.012575,
+      "Fetched 35.4 kB in 0s (98.8 kB/s)\u001b[K"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.139439,
+      "remote: Selecting previously unselected package lua-expat:amd64.\u001b[K"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.033219,
+      "remote: (Reading database ... 25551 files and directories currently installed.)\u001b[K\r\n"
+    ],
+    [
+      0.000894,
+      "remote: Preparing to unpack .../lua-expat_1.2.0-6_amd64.deb ...\u001b[K"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.003412,
+      "remote: Unpacking lua-expat:amd64 (1.2.0-6) ...\u001b[K\r\n"
+    ],
+    [
+      0.031570,
+      "remote: Selecting previously unselected package lua-xmlrpc.\u001b[K\r\n"
+    ],
+    [
+      0.002754,
+      "remote: Preparing to unpack .../lua-xmlrpc_1.2.1-6_all.deb ...\u001b[K\r\n"
+    ],
+    [
+      0.002435,
+      "remote: Unpacking lua-xmlrpc (1.2.1-6) ...\u001b[K\r\n"
+    ],
+    [
+      0.131844,
+      "remote: Setting up lua-expat:amd64 (1.2.0-6) ...\u001b[K\r\n"
+    ],
+    [
+      0.024940,
+      "remote: Setting up lua-xmlrpc (1.2.1-6) ...\u001b[K\r\n"
+    ],
+    [
+      0.007976,
+      "remote: Processing triggers for libc-bin (2.19-0ubuntu6.4) ...\u001b[K"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      1.463592,
+      "remote:  ---\u003e c15a67b35a6f\u001b[K\r\n"
+    ],
+    [
+      0.019697,
+      "remote: Removing intermediate container 68ae0f3673b4\u001b[K"
+    ],
+    [
+      0.000034,
+      "\r\nremote: Successfully built c15a67b35a6f\u001b[K\r\n"
+    ],
+    [
+      0.221466,
+      "remote: Sending build context to Docker daemon 2.048 kB\u001b[K\r"
+    ],
+    [
+      0.000021,
+      "remote: \rremote: \r\nremote: Sending build context to Docker daemon \u001b[K\rremote: "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.019820,
+      "remote: Step 0 : FROM dokku/yolo-swag:latest\u001b[K"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000771,
+      "remote:  ---\u003e c15a67b35a6f\u001b[K\r\n"
+    ],
+    [
+      0.000102,
+      "remote: Step 1 : ENV GIT_REV 8c0355bfc3f174b0957d3c80600a0c40c5b74308\u001b[K"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.182048,
+      "remote:  ---\u003e Running in cc598e5fa738\u001b[K\r\n"
+    ],
+    [
+      0.028618,
+      "remote:  ---\u003e 250a6f40a7ac\u001b[K\r\n"
+    ],
+    [
+      0.006548,
+      "remote: Removing intermediate container cc598e5fa738\u001b[K\r\nremote: Successfully built 250a6f40a7ac\u001b[K\r\n"
+    ],
+    [
+      0.069538,
+      "remote: -----\u003e Releasing yolo-swag ...\u001b[K\r\n"
+    ],
+    [
+      0.194783,
+      "remote: Sending build context to Docker daemon 2.048 kB\u001b[K\r"
+    ],
+    [
+      0.000053,
+      "remote: \rremote: \r\n"
+    ],
+    [
+      0.001741,
+      "remote: Sending build context to Docker daemon \u001b[K\r"
+    ],
+    [
+      0.000013,
+      "remote: \r\n"
+    ],
+    [
+      0.016792,
+      "remote: Step 0 : FROM dokku/yolo-swag:latest\u001b[K"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000910,
+      "remote:  ---\u003e 250a6f40a7ac\u001b[K"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "remote: Successfully built 250a6f40a7ac\u001b[K\r\n"
+    ],
+    [
+      0.561835,
+      "remote: -----\u003e Deploying yolo-swag ...\u001b[K\r\n"
+    ],
+    [
+      0.302445,
+      "remote: -----\u003e Shutting down old containers\u001b[K\r\n"
+    ],
+    [
+      11.236111,
+      "remote: =====\u003e Application deployed:\u001b[K\r\n"
+    ],
+    [
+      0.169638,
+      "remote:        https://yolo-swag.com\u001b[K\r\n"
+    ],
+    [
+      0.068984,
+      "remote: -----\u003e Cleaning up ...\u001b[K\r\n"
+    ],
+    [
+      1.818517,
+      "To dokku@xeserv.us:yolo-swag\r\n   57962af..8c0355b  master -\u003e master\r\n"
+    ],
+    [
+      0.000775,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                                                                                                             \r \r"
+    ],
+    [
+      0.029518,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/.ghq/github.com/shadownet-irc/yolo-swag.com\u001b[00m\r\n\u001b[32m➜  \u001b[00m\u001b[K\u001b[141C\u001b[34m±\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[154D"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.121206,
+      "\r"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ]
+  ]
+}
