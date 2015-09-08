@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 30,
+  "duration": 32.606007,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.182958,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      3.438587,
+      "."
+    ],
+    [
+      0.376009,
+      "/"
+    ],
+    [
+      0.264015,
+      "i"
+    ],
+    [
+      0.079969,
+      "n"
+    ],
+    [
+      0.176087,
+      "\u0007dex-step"
+    ],
+    [
+      1.319936,
+      "2"
+    ],
+    [
+      0.168075,
+      ".js "
+    ],
+    [
+      1.152131,
+      "\r\n"
+    ],
+    [
+      0.446385,
+      "I am thinking of a number between 1 and 10\r\n"
+    ],
+    [
+      0.000294,
+      "\u001b[1G"
+    ],
+    [
+      0.000053,
+      "\u001b[0JTake a guess"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[1G"
+    ],
+    [
+      3.074271,
+      "5"
+    ],
+    [
+      0.119154,
+      "\r\r\n\u001b[1G\u001b[0JToo high, Guess again!\r\n\u001b[1G"
+    ],
+    [
+      3.077321,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      0.562309,
+      "./index-step2.js "
+    ],
+    [
+      2.584000,
+      "3"
+    ],
+    [
+      0.696163,
+      "\r\n"
+    ],
+    [
+      0.440570,
+      "I am thinking of a number between 3 and 10\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b[1G"
+    ],
+    [
+      0.000075,
+      "\u001b[0JTake a guess\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[1G"
+    ],
+    [
+      2.032316,
+      "5"
+    ],
+    [
+      0.110939,
+      "\r\r\n\u001b[1G\u001b[0JToo high, Guess again!\r\n\u001b[1G"
+    ],
+    [
+      1.421320,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      0.554286,
+      "./index-step2.js 3"
+    ],
+    [
+      1.472008,
+      "  \r"
+    ],
+    [
+      1.407973,
+      "6"
+    ],
+    [
+      0.704210,
+      "\r\n"
+    ],
+    [
+      0.443412,
+      "I am thinking of a number between 3 and 6\r\n"
+    ],
+    [
+      0.000319,
+      "\u001b[1G"
+    ],
+    [
+      0.000058,
+      "\u001b[0JTake a guess"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1G"
+    ],
+    [
+      1.981562,
+      "5"
+    ],
+    [
+      0.094919,
+      "\r\r\n\u001b[1G\u001b[0JToo high, Guess again!\r\n\u001b[1G"
+    ],
+    [
+      1.927670,
+      "4"
+    ],
+    [
+      0.079070,
+      "\r\r\nWell done! The answer was 4!\r\r\n"
+    ],
+    [
+      0.001350,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/guess-my-number-cli$\u001b(B\u001b[m "
+    ],
+    [
+      2.215733,
+      "exit\r\n"
+    ]
+  ]
+}
