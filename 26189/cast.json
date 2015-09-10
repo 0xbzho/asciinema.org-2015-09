@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 30,
+  "duration": 38.870358,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.235682,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      1.938121,
+      "l"
+    ],
+    [
+      0.159964,
+      "s"
+    ],
+    [
+      0.136077,
+      " "
+    ],
+    [
+      0.119959,
+      "-"
+    ],
+    [
+      0.199934,
+      "l"
+    ],
+    [
+      0.104028,
+      " "
+    ],
+    [
+      0.216047,
+      "i"
+    ],
+    [
+      0.087995,
+      "n"
+    ],
+    [
+      0.112009,
+      "d"
+    ],
+    [
+      0.119945,
+      "e"
+    ],
+    [
+      0.306640,
+      "\u0007x-"
+    ],
+    [
+      0.821412,
+      "s"
+    ],
+    [
+      0.114557,
+      "erver.js "
+    ],
+    [
+      0.597612,
+      "\r\n"
+    ],
+    [
+      0.000906,
+      "-rwxr-xr-x 1 mos mos 1.8K Sep 10 15:52 index-server.js*\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      1.822635,
+      "."
+    ],
+    [
+      0.344024,
+      "/"
+    ],
+    [
+      0.712024,
+      "i"
+    ],
+    [
+      0.071978,
+      "n"
+    ],
+    [
+      0.152092,
+      "dex-server.js "
+    ],
+    [
+      2.431990,
+      "-"
+    ],
+    [
+      0.343965,
+      "h"
+    ],
+    [
+      0.688194,
+      "\r\n"
+    ],
+    [
+      0.444611,
+      "Usage: index-server.js [options]\r\n\r\nOptions:"
+    ],
+    [
+      0.000021,
+      "\r\n -h               Display help text.\r\n -v               Display the version.\r\n --port \u003cnumber\u003e  Run server on this port.\r\n"
+    ],
+    [
+      0.010890,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      1.184287,
+      "./index-server.js -h"
+    ],
+    [
+      0.648035,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.063973,
+      "v"
+    ],
+    [
+      0.904226,
+      "\r\n"
+    ],
+    [
+      0.455753,
+      "1.0.0\r\n"
+    ],
+    [
+      0.010821,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      0.541189,
+      "./index-server.js -v"
+    ],
+    [
+      1.407999,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.552002,
+      "-"
+    ],
+    [
+      0.359980,
+      "p"
+    ],
+    [
+      0.071973,
+      "o"
+    ],
+    [
+      0.312034,
+      "r"
+    ],
+    [
+      0.071973,
+      "t"
+    ],
+    [
+      2.360265,
+      "\r\n"
+    ],
+    [
+      0.450362,
+      "--port must be followed by a port number.\r\nUse -h to get an overview of the command.\r\n"
+    ],
+    [
+      0.010986,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      1.746471,
+      "./index-server.js --port"
+    ],
+    [
+      1.247977,
+      " "
+    ],
+    [
+      0.871983,
+      "1"
+    ],
+    [
+      0.199976,
+      "3"
+    ],
+    [
+      0.160030,
+      "3"
+    ],
+    [
+      0.367999,
+      "8"
+    ],
+    [
+      1.880239,
+      "\r\n"
+    ],
+    [
+      0.454249,
+      "The server is now listening on: 1338\r\n"
+    ],
+    [
+      2.873490,
+      "^C"
+    ],
+    [
+      0.000693,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      0.487316,
+      "./index-server.js --port 1338"
+    ],
+    [
+      0.464039,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.192477,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167529,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151982,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168005,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152022,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159991,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168017,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167969,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160009,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168016,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.511989,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.232203,
+      "\r\n"
+    ],
+    [
+      0.459435,
+      "The server is now listening on: 1337\r\n"
+    ],
+    [
+      1.908339,
+      "^C"
+    ],
+    [
+      0.000678,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      0.647621,
+      "exit\r\n"
+    ]
+  ]
+}
