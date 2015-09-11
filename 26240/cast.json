@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 72.990173,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.180108,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      1.257509,
+      "t"
+    ],
+    [
+      0.615985,
+      "m"
+    ],
+    [
+      0.191983,
+      "u"
+    ],
+    [
+      0.920039,
+      "x"
+    ],
+    [
+      0.704231,
+      "\r\n"
+    ],
+    [
+      0.008862,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[  ][                              \u001b[37m( 0 bash )\u001b[32m                               ][  ][ 09:47 ]\u001b(B\u001b[m\u001b[30;1H\u001b[1;30r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000751,
+      "\u001b[?25l\u001b[30d\u001b[32m\u001b[40m[ desktop ][                          \u001b[37m( 0 bash )\u001b[32m                            ][  ][ 09:47 ]\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001560,
+      "\u001b[?25l\u001b[30d\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201138,
+      "\u001b[1;29r\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[1;30r\u001b[H\u001b[53C"
+    ],
+    [
+      1.103857,
+      "\u001b[15;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[16;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205295,
+      "\u001b[16;29r\u001b[H\u001b[16d\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[1;30r\u001b[H\u001b[16;54H"
+    ],
+    [
+      1.854441,
+      "\u001b[16;29r\u001b[H\u001b[16;54Htmux kill-session -t 3\u001b[1;30r\u001b[H\u001b[16;76H"
+    ],
+    [
+      0.199990,
+      "\u001b[18D\u001b[K"
+    ],
+    [
+      0.751958,
+      "\u001b[16;29r\u001b[H\u001b[16;58H kill-session -t 3\u001b[1;30r\u001b[H\u001b[16;76H"
+    ],
+    [
+      0.776294,
+      "\u001b[14;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[15;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216009,
+      "\u001b[13;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[14;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.215990,
+      "\u001b[12;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[13;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175975,
+      "\u001b[11;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[12;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208044,
+      "\u001b[10;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[11;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296034,
+      "\u001b[9;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[10;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.823950,
+      "\u001b[32m\u001b[9;1H──────────────────────────────────────────────\u001b[39m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[1;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.351843,
+      "\u001b[H\u001b[K\u001b[1;8r\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m .\u001b[1;30r\u001b[H\u001b[54C"
+    ],
+    [
+      0.383889,
+      "\u001b[1;8r\u001b[H\u001b[54C/\u001b[1;30r\u001b[H\u001b[55C"
+    ],
+    [
+      1.032054,
+      "\u001b[1;8r\u001b[H\u001b[55Ci\u001b[1;30r\u001b[H\u001b[56C"
+    ],
+    [
+      0.087995,
+      "\u001b[1;8r\u001b[H\u001b[56Cn\u001b[1;30r\u001b[H\u001b[57C"
+    ],
+    [
+      0.095990,
+      "\u001b[1;8r\u001b[H\u001b[57Cd\u001b[1;30r\u001b[H\u001b[58C"
+    ],
+    [
+      0.055922,
+      "\u001b[1;8r\u001b[H\u001b[58Ce\u001b[1;30r\u001b[H\u001b[59C"
+    ],
+    [
+      0.264447,
+      "\u001b[1;8r\u001b[H\u001b[59Cx-\u0007\u001b[1;30r\u001b[H\u001b[61C"
+    ],
+    [
+      0.799644,
+      "\u001b[1;8r\u001b[H\u001b[61Cs\u001b[1;30r\u001b[H\u001b[62C"
+    ],
+    [
+      0.183969,
+      "\u001b[1;8r\u001b[H\u001b[62Ce\u001b[1;30r\u001b[H\u001b[63C"
+    ],
+    [
+      0.071876,
+      "\u001b[1;8r\u001b[H\u001b[63Cr\u001b[1;30r\u001b[H\u001b[64C"
+    ],
+    [
+      0.232245,
+      "\u001b[1;8r\u001b[H\u001b[64Cver.js \u001b[1;30r\u001b[H\u001b[71C"
+    ],
+    [
+      0.504158,
+      "\r\n"
+    ],
+    [
+      0.453953,
+      "\u001b[1;8r\u001b[H\r\nThe server is now listening on: 1337\u001b[1;30r\u001b[H\u001b[2B"
+    ],
+    [
+      0.578041,
+      "\u001b[6B──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m ./index-server.js \u001b[K\r\nThe server is now listening on: 1337\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.37 0.43 0.42 ][ 09:47 ]\u001b(B\u001b[m\u001b[10;76H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.607828,
+      "\r\u001b[K\u001b[10;29r\u001b[H\u001b[9B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m tmux kill-session -t 3\u0008\u001b[K\u001b[1;30r\u001b[H\u001b[10;75H"
+    ],
+    [
+      0.659223,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040867,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040239,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040688,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040934,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039244,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040517,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039368,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040034,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040917,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040517,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039581,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040666,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039697,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039964,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039711,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040118,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040131,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040145,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040558,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040708,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040166,
+      "\u0007"
+    ],
+    [
+      0.039305,
+      "\u0007"
+    ],
+    [
+      0.039907,
+      "\u0007"
+    ],
+    [
+      0.040088,
+      "\u0007"
+    ],
+    [
+      0.040385,
+      "\u0007"
+    ],
+    [
+      0.040622,
+      "\u0007"
+    ],
+    [
+      0.040493,
+      "\u0007"
+    ],
+    [
+      0.039504,
+      "\u0007"
+    ],
+    [
+      0.040052,
+      "\u0007"
+    ],
+    [
+      0.040626,
+      "\u0007"
+    ],
+    [
+      0.039315,
+      "\u0007"
+    ],
+    [
+      0.039962,
+      "\u0007"
+    ],
+    [
+      2.935655,
+      "\u001b[10;29r\u001b[H\u001b[10;54H.\u001b[1;30r\u001b[H\u001b[10;55H"
+    ],
+    [
+      0.936052,
+      "\u001b[10;29r\u001b[H\u001b[10;55H/\u001b[1;30r\u001b[H\u001b[10;56H"
+    ],
+    [
+      0.312006,
+      "\u001b[10;29r\u001b[H\u001b[10;56Hi\u001b[1;30r\u001b[H\u001b[10;57H"
+    ],
+    [
+      0.103961,
+      "\u001b[10;29r\u001b[H\u001b[10;57Hn\u001b[1;30r\u001b[H\u001b[10;58H"
+    ],
+    [
+      0.127992,
+      "\u001b[10;29r\u001b[H\u001b[10;58Hd\u001b[1;30r\u001b[H\u001b[10;59H"
+    ],
+    [
+      0.071960,
+      "\u001b[10;29r\u001b[H\u001b[10;59He\u001b[1;30r\u001b[H\u001b[10;60H"
+    ],
+    [
+      0.240492,
+      "\u001b[10;29r\u001b[H\u001b[10;60Hx-\u0007\u001b[1;30r\u001b[H\u001b[10;62H"
+    ],
+    [
+      1.111629,
+      "\u001b[10;29r\u001b[H\u001b[10;62Hc\u001b[1;30r\u001b[H\u001b[10;63H"
+    ],
+    [
+      0.135923,
+      "\u001b[10;29r\u001b[H\u001b[10;63Hl\u001b[1;30r\u001b[H\u001b[10;64H"
+    ],
+    [
+      0.120025,
+      "\u001b[10;29r\u001b[H\u001b[10;64Hi\u001b[1;30r\u001b[H\u001b[10;65H"
+    ],
+    [
+      0.216558,
+      "\u001b[10;29r\u001b[H\u001b[10;65Hent.js \u001b[1;30r\u001b[H\u001b[10;72H"
+    ],
+    [
+      1.799789,
+      "\r\n"
+    ],
+    [
+      0.577038,
+      "\u001b[10;29r\u001b[H\u001b[10BUse -h to get a list of options to start this program.\u001b[1;30r\u001b[H\u001b[11B"
+    ],
+    [
+      0.000118,
+      "\u001b[10;29r\u001b[H\u001b[11BReady to talk to server url 'http://localhost:1337'.\u001b[1;30r\u001b[H\u001b[12B\u001b[10;29r\u001b[H\u001b[12BUse 'menu' to get a list of commands.\u001b[1;30r\u001b[H\u001b[13B"
+    ],
+    [
+      0.000157,
+      "\u001b[10;29r\u001b[H\u001b[13B\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;30r\u001b[H\u001b[13B\u001b[10;29r\u001b[H\u001b[13BGomoku$ \u001b[1;30r\u001b[H\u001b[14;9H"
+    ],
+    [
+      4.535603,
+      "\u001b[10;29r\u001b[H\u001b[14;9Hm\u001b[1;30r\u001b[H\u001b[14;10H"
+    ],
+    [
+      0.126894,
+      "\u001b[10;29r\u001b[H\u001b[14;10He\u001b[1;30r\u001b[H\u001b[14;11H"
+    ],
+    [
+      0.095849,
+      "\u001b[10;29r\u001b[H\u001b[14;11Hn\u001b[1;30r\u001b[H\u001b[14;12H"
+    ],
+    [
+      0.144037,
+      "\u001b[10;29r\u001b[H\u001b[14;12Hu\u001b[1;30r\u001b[H\u001b[14;13H"
+    ],
+    [
+      0.656450,
+      "\u001b[10;29r\u001b[H\u001b[14BCommands available:\r\n exit            Leave this program.\r\n menu            Print this menu.\r\n start [size]    Prepare to start a game.\r\n view            View the gamoboard.\r\n place \u003cx\u003e \u003cy\u003e   Place a marker.\r\n url             get url to view game in browser.\r\n\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[7AGomoku$ \u001b[1;30r\u001b[H\u001b[22;9H"
+    ],
+    [
+      2.599539,
+      "\u001b[10;29r\u001b[H\u001b[22;9Hs\u001b[1;30r\u001b[H\u001b[22;10H"
+    ],
+    [
+      0.216058,
+      "\u001b[10;29r\u001b[H\u001b[22;10Ht\u001b[1;30r\u001b[H\u001b[22;11H"
+    ],
+    [
+      0.184011,
+      "\u001b[10;29r\u001b[H\u001b[22;11Ha\u001b[1;30r\u001b[H\u001b[22;12H"
+    ],
+    [
+      0.079920,
+      "\u001b[10;29r\u001b[H\u001b[22;12Hr\u001b[1;30r\u001b[H\u001b[22;13H"
+    ],
+    [
+      0.176034,
+      "\u001b[10;29r\u001b[H\u001b[22;13Ht\u001b[1;30r\u001b[H\u001b[22;14H"
+    ],
+    [
+      1.720090,
+      "\u001b[10;29r\u001b[H\u001b[22;14H \u001b[1;30r\u001b[H\u001b[22;15H"
+    ],
+    [
+      0.167982,
+      "\u001b[10;29r\u001b[H\u001b[22;15H1\u001b[1;30r\u001b[H\u001b[22;16H"
+    ],
+    [
+      0.143992,
+      "\u001b[10;29r\u001b[H\u001b[22;16H0\u001b[1;30r\u001b[H\u001b[22;17H"
+    ],
+    [
+      1.267513,
+      "\r\n"
+    ],
+    [
+      0.004178,
+      "\u001b[1;8r\u001b[H\u001b[2BIncoming route /start/10 from ip 127.0.0.1\u001b[1;30r\u001b[H\u001b[23d"
+    ],
+    [
+      0.001048,
+      "\u001b[10;29r\u001b[H\u001b[23d{\r\n    \"message\": \"The board is initialized.\",\r\n    \"boardSize\": \"10\",\r\n    \"nextPlayer\": \"Player 1\",\r\n    \"nextPlayerMarker\": \"X\"\r\n}\u001b[1;30r\u001b[H\u001b[29d\u001b[10;29r\u001b[H\u001b[29d\u001b[KGomoku$ "
+    ],
+    [
+      0.000002,
+      "\u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      1.967267,
+      "\u001b[10;29r\u001b[H\u001b[29;9Hv\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.175975,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hi\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.168007,
+      "\u001b[10;29r\u001b[H\u001b[29;11He\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      0.087981,
+      "\u001b[10;29r\u001b[H\u001b[29;12Hw\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      1.712746,
+      "\u001b[10;29r\u001b[H\u001b[29d\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.001098,
+      "\u001b[1;8r\u001b[H\u001b[3BIncoming route /view/ascii from ip 127.0.0.1\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000451,
+      "\u001b[10;29r\u001b[H\u001b[29d   0 1 2 3 4 5 6 7 8 9 \r\n 0|_|_|_|_|_|_|_|_|_|_|\r\n 1|_|_|_|_|_|_|_|_|_|_|\r\n 2|_|_|_|_|_|_|_|_|_|_|\r\n 3|_|_|_|_|_|_|_|_|_|_|\r\n 4|_|_|_|_|_|_|_|_|_|_|\r\n 5|_|_|_|_|_|_|_|_|_|_|\r\n 6|_|_|_|_|_|_|_|_|_|_|\r\n 7|_|_|_|_|_|_|_|_|_|_|\r\n 8|_|_|_|_|_|_|_|_|_|_|\r\n 9|_|_|_|_|_|_|_|_|_|_|\r\n\nPlayer in turn is 'Player 1' playing the marker X.\r\n\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      3.013810,
+      "\u001b[10;29r\u001b[H\u001b[29;9Hp\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.087888,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hl\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.128019,
+      "\u001b[10;29r\u001b[H\u001b[29;11Ha\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      0.152002,
+      "\u001b[10;29r\u001b[H\u001b[29;12Hc\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.104031,
+      "\u001b[10;29r\u001b[H\u001b[29;13He\u001b[1;30r\u001b[H\u001b[29;14H"
+    ],
+    [
+      0.232029,
+      "\u001b[10;29r\u001b[H\u001b[29;14H \u001b[1;30r\u001b[H\u001b[29;15H"
+    ],
+    [
+      0.640000,
+      "\u001b[10;29r\u001b[H\u001b[29;15H5\u001b[1;30r\u001b[H\u001b[29;16H"
+    ],
+    [
+      0.135985,
+      "\u001b[10;29r\u001b[H\u001b[29;16H \u001b[1;30r\u001b[H\u001b[29;17H"
+    ],
+    [
+      0.112062,
+      "\u001b[10;29r\u001b[H\u001b[29;17H5\u001b[1;30r\u001b[H\u001b[29;18H"
+    ],
+    [
+      0.296206,
+      "\u001b[10;29r\u001b[H\u001b[29d\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.001189,
+      "\u001b[1;8r\u001b[H\u001b[5dIncoming route /place/5/5 from ip 127.0.0.1\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000320,
+      "\u001b[10;29r\u001b[H\u001b[29d{\r\n    \"action\": \"Trying to place 5, 5\",\r\n    \"message\": \"Ok.\",\r\n    \"boardSize\": \"10\",\r\n    \"nextPlayer\": \"Player 2\",\r\n    \"nextPlayerMarker\": \"O\",\r\n    \"boardIsFull\": false\r\n}\r\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      1.886325,
+      "\u001b[10;29r\u001b[H\u001b[29d\u001b[KGomoku$ place 5 5\u001b[1;30r\u001b[H\u001b[29;18H"
+    ],
+    [
+      0.183930,
+      "\u001b[10;29r\u001b[H\u001b[29d\u001b[KGomoku$ view\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.520212,
+      "\u001b[10;29r\u001b[H\u001b[29d\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000654,
+      "\u001b[1;8r\u001b[H\u001b[6dIncoming route /view/ascii from ip 127.0.0.1\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000266,
+      "\u001b[10;29r\u001b[H\u001b[29d   0 1 2 3 4 5 6 7 8 9 \r\n 0|_|_|_|_|_|_|_|_|_|_|\r\n 1|_|_|_|_|_|_|_|_|_|_|\r\n 2|_|_|_|_|_|_|_|_|_|_|\r\n 3|_|_|_|_|_|_|_|_|_|_|\r\n 4|_|_|_|_|_|_|_|_|_|_|\r\n 5|_|_|_|_|_|X|_|_|_|_|\r\n 6|_|_|_|_|_|_|_|_|_|_|\r\n 7|_|_|_|_|_|_|_|_|_|_|\r\n 8|_|_|_|_|_|_|_|_|_|_|\r\n 9|_|_|_|_|_|_|_|_|_|_|\r\n\nPlayer in turn is 'Player 2' playing the marker O.\r\n\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      1.710816,
+      "\u001b[10;29r\u001b[H\u001b[29;9Hp\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.103957,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hl\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.168240,
+      "\u001b[10;29r\u001b[H\u001b[29;11Ha\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      0.119846,
+      "\u001b[10;29r\u001b[H\u001b[29;12Hc\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.144402,
+      "\u001b[10;29r\u001b[H\u001b[29;13He\u001b[1;30r\u001b[H\u001b[29;14H"
+    ],
+    [
+      0.159643,
+      "\u001b[10;29r\u001b[H\u001b[29;14H \u001b[1;30r\u001b[H\u001b[29;15H"
+    ],
+    [
+      0.207896,
+      "\u001b[10;29r\u001b[H\u001b[29;15H4\u001b[1;30r\u001b[H\u001b[29;16H"
+    ],
+    [
+      0.320100,
+      "\u001b[10;29r\u001b[H\u001b[29;16H \u001b[1;30r\u001b[H\u001b[29;17H"
+    ],
+    [
+      0.103949,
+      "\u001b[10;29r\u001b[H\u001b[29;17H4\u001b[1;30r\u001b[H\u001b[29;18H"
+    ],
+    [
+      0.056421,
+      "\u001b[?25l\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.44 0.45 0.43 ][ 09:47 ]\u001b(B\u001b[m\u001b[29;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159800,
+      "\u001b[10;29r\u001b[H\u001b[29d\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000685,
+      "\u001b[1;8r\u001b[H\u001b[7dIncoming route /place/4/4 from ip 127.0.0.1\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000263,
+      "\u001b[10;29r\u001b[H\u001b[29d{\r\n    \"action\": \"Trying to place 4, 4\",\r\n    \"message\": \"Ok.\",\r\n    \"boardSize\": \"10\",\r\n    \"nextPlayer\": \"Player 1\",\r\n    \"nextPlayerMarker\": \"X\",\r\n    \"boardIsFull\": false\r\n}\r\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      1.510946,
+      "\u001b[10;29r\u001b[H\u001b[29d\u001b[KGomoku$ place 4 4\u001b[1;30r\u001b[H\u001b[29;18H"
+    ],
+    [
+      0.183975,
+      "\u001b[10;29r\u001b[H\u001b[29d\u001b[KGomoku$ view\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.824118,
+      "\u001b[10;29r\u001b[H\u001b[29d\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.001091,
+      "\u001b[1;8r\u001b[H\u001b[8dIncoming route /view/ascii from ip 127.0.0.1\r\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.000251,
+      "\u001b[10;29r\u001b[H\u001b[29d   0 1 2 3 4 5 6 7 8 9 \r\n 0|_|_|_|_|_|_|_|_|_|_|\r\n 1|_|_|_|_|_|_|_|_|_|_|\r\n 2|_|_|_|_|_|_|_|_|_|_|\r\n 3|_|_|_|_|_|_|_|_|_|_|\r\n 4|_|_|_|_|O|_|_|_|_|_|\r\n 5|_|_|_|_|_|X|_|_|_|_|\r\n 6|_|_|_|_|_|_|_|_|_|_|\r\n 7|_|_|_|_|_|_|_|_|_|_|\r\n 8|_|_|_|_|_|_|_|_|_|_|\r\n 9|_|_|_|_|_|_|_|_|_|_|\r\n\nPlayer in turn is 'Player 1' playing the marker X.\r\n\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      2.382505,
+      "\u001b[10;29r\u001b[H\u001b[29;9Hu\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.199929,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hr\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.119906,
+      "\u001b[10;29r\u001b[H\u001b[29;11Hl\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      0.784193,
+      "\u001b[10;29r\u001b[H\u001b[29d\nClick this url to view the game in a browser.\r\nhttp://localhost:1337/view/ascii\r\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      2.559911,
+      "\u001b[10;29r\u001b[H\u001b[29;9He\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.160000,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hn\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.160017,
+      "\u001b[10;29r\u001b[H\u001b[29;11Hd\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      1.120124,
+      "\u001b[10;29r\u001b[H\u001b[29d\nEnter 'menu' to get an overview of what you can do here.\r\n\u001b[KGomoku$ \u001b[1;30r\u001b[H\u001b[29;9H"
+    ],
+    [
+      1.951883,
+      "\u001b[10;29r\u001b[H\u001b[29;9He\u001b[1;30r\u001b[H\u001b[29;10H"
+    ],
+    [
+      0.231965,
+      "\u001b[10;29r\u001b[H\u001b[29;10Hx\u001b[1;30r\u001b[H\u001b[29;11H"
+    ],
+    [
+      0.135942,
+      "\u001b[10;29r\u001b[H\u001b[29;11Hi\u001b[1;30r\u001b[H\u001b[29;12H"
+    ],
+    [
+      0.144179,
+      "\u001b[10;29r\u001b[H\u001b[29;12Ht\u001b[1;30r\u001b[H\u001b[29;13H"
+    ],
+    [
+      0.941541,
+      "\u001b[10;29r\u001b[H\u001b[29d\nBye!\r\n\u001b[1;30r\u001b[H\u001b[29d"
+    ],
+    [
+      0.004690,
+      "\u001b[10;29r\u001b[H\u001b[29d\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b[39m \u001b[1;30r\u001b[H\u001b[29;54H"
+    ],
+    [
+      2.477791,
+      "\u001b[?25l\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.44 0.45 0.43 ][ 09:48 ]\u001b(B\u001b[m\u001b[29;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.320307,
+      "\u001b[1;30r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000141,
+      "[detached (from session 4)]\r\n"
+    ],
+    [
+      0.000228,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/gomoku$\u001b(B\u001b[m "
+    ],
+    [
+      0.543291,
+      "exit\r\n"
+    ]
+  ]
+}
