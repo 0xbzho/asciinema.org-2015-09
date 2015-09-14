@@ -1,0 +1,8006 @@
+{
+  "version": 1,
+  "width": 94,
+  "height": 28,
+  "duration": 633.819504,
+  "command": "/bin/bash",
+  "title": "mp2-bitfield.asciinema",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024085,
+      "\u001b[?1034h"
+    ],
+    [
+      0.008228,
+      "\u001b[?1034h"
+    ],
+    [
+      0.004641,
+      "\u001b[?1034h"
+    ],
+    [
+      0.003841,
+      "\u001b[?1034h"
+    ],
+    [
+      0.001628,
+      "\u001b[?1034h"
+    ],
+    [
+      0.004272,
+      "\u001b[?1034h"
+    ],
+    [
+      0.053259,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn\u0007\u001b[0;32m~/Work/unn\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.798296,
+      "m"
+    ],
+    [
+      0.152456,
+      "k"
+    ],
+    [
+      0.112548,
+      "d"
+    ],
+    [
+      0.127037,
+      "i"
+    ],
+    [
+      0.087446,
+      "r"
+    ],
+    [
+      0.456474,
+      " "
+    ],
+    [
+      0.201514,
+      "m"
+    ],
+    [
+      0.190560,
+      "p"
+    ],
+    [
+      0.663242,
+      "2"
+    ],
+    [
+      0.753712,
+      "\r\n"
+    ],
+    [
+      0.032833,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn\u0007\u001b[0;32m~/Work/unn\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.309692,
+      "c"
+    ],
+    [
+      0.088149,
+      "d"
+    ],
+    [
+      0.120863,
+      " "
+    ],
+    [
+      0.223758,
+      "m"
+    ],
+    [
+      0.176231,
+      "p"
+    ],
+    [
+      0.120833,
+      "\u0007"
+    ],
+    [
+      0.000014,
+      "2"
+    ],
+    [
+      0.519850,
+      "\r\n"
+    ],
+    [
+      0.029484,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2\u0007\u001b[0;32m~/Work/unn/mp2\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.913108,
+      "g"
+    ],
+    [
+      0.119430,
+      "i"
+    ],
+    [
+      0.089010,
+      "t"
+    ],
+    [
+      0.320218,
+      " "
+    ],
+    [
+      0.136591,
+      "c"
+    ],
+    [
+      0.110212,
+      "l"
+    ],
+    [
+      0.152869,
+      "o"
+    ],
+    [
+      0.192647,
+      "n"
+    ],
+    [
+      0.093582,
+      "e"
+    ],
+    [
+      0.170802,
+      " "
+    ],
+    [
+      4.244252,
+      "g"
+    ],
+    [
+      0.000025,
+      "i"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000043,
+      "@"
+    ],
+    [
+      0.000006,
+      "g"
+    ],
+    [
+      0.000025,
+      "i"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000025,
+      "h"
+    ],
+    [
+      0.000028,
+      "u"
+    ],
+    [
+      0.000024,
+      "b"
+    ],
+    [
+      0.000031,
+      "."
+    ],
+    [
+      0.000029,
+      "c"
+    ],
+    [
+      0.000028,
+      "o"
+    ],
+    [
+      0.000028,
+      "m"
+    ],
+    [
+      0.000028,
+      ":"
+    ],
+    [
+      0.000029,
+      "U"
+    ],
+    [
+      0.000029,
+      "N"
+    ],
+    [
+      0.000029,
+      "N"
+    ],
+    [
+      0.000029,
+      "-"
+    ],
+    [
+      0.000033,
+      "V"
+    ],
+    [
+      0.000037,
+      "M"
+    ],
+    [
+      0.000023,
+      "K"
+    ],
+    [
+      0.000025,
+      "-"
+    ],
+    [
+      0.000029,
+      "S"
+    ],
+    [
+      0.000029,
+      "o"
+    ],
+    [
+      0.000027,
+      "f"
+    ],
+    [
+      0.000028,
+      "t"
+    ],
+    [
+      0.000032,
+      "w"
+    ],
+    [
+      0.000032,
+      "a"
+    ],
+    [
+      0.000030,
+      "r"
+    ],
+    [
+      0.000038,
+      "e"
+    ],
+    [
+      0.000028,
+      "/"
+    ],
+    [
+      0.000029,
+      "m"
+    ],
+    [
+      0.000037,
+      "p"
+    ],
+    [
+      0.000024,
+      "2"
+    ],
+    [
+      0.000029,
+      "-"
+    ],
+    [
+      0.000032,
+      "l"
+    ],
+    [
+      0.000030,
+      "a"
+    ],
+    [
+      0.000033,
+      "b"
+    ],
+    [
+      0.000029,
+      "1"
+    ],
+    [
+      0.000034,
+      "-"
+    ],
+    [
+      0.000031,
+      "b"
+    ],
+    [
+      0.000032,
+      "i"
+    ],
+    [
+      0.000032,
+      "t"
+    ],
+    [
+      0.000032,
+      "f"
+    ],
+    [
+      0.000033,
+      "i"
+    ],
+    [
+      0.000032,
+      "e"
+    ],
+    [
+      0.000036,
+      "l"
+    ],
+    [
+      0.000030,
+      "d"
+    ],
+    [
+      0.000033,
+      "."
+    ],
+    [
+      0.000043,
+      "g"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000037,
+      "t"
+    ],
+    [
+      0.776606,
+      "\r\n"
+    ],
+    [
+      0.010034,
+      "Cloning into 'mp2-lab1-bitfield'...\r\n"
+    ],
+    [
+      3.026338,
+      "remote: Counting objects: 109, done.\u001b[K\r\n"
+    ],
+    [
+      0.142255,
+      "remote: Compressing objects:   5% (1/19)   \u001b[K\rremote: Compressing objects:  10% (2/19)   \u001b[K\rremote: Compressing objects:  15% (3/19)   \u001b[K\r"
+    ],
+    [
+      0.000024,
+      "remote: Compressing objects:  21% (4/19)   \u001b[K\rremote: Compressing objects:  26% (5/19)   \u001b[K\rremote: Compressing objects:  31% (6/19)   \u001b[K\rremote: Compressing objects:  36% (7/19)   \u001b[K\rremote: Compressing objects:  42% (8/19)   \u001b[K\rremote: Compressing objects:  47% (9/19)   \u001b[K\rremote: Compressing objects:  52% (10/19)   \u001b[K\r"
+    ],
+    [
+      0.000015,
+      "remote: Compressing objects:  57% (11/19)   \u001b[K\rremote: Compressing objects:  63% (12/19)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  68% (13/19)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:  73% (14/19)   \u001b[K\rremote: Com"
+    ],
+    [
+      0.000009,
+      "pressing objects:  78% (15/19)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  84% (16/19)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  89% (17/19)   \u001b[K\rremote: Compressing objects:"
+    ],
+    [
+      0.000009,
+      "  94% (18/19)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects: 100% (19/19)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects: 100% (19/19), done.\u001b[K\r\n"
+    ],
+    [
+      0.001017,
+      "Receiving objects:   0% (1/109)   \r"
+    ],
+    [
+      0.000240,
+      "Receiving objects:   1% (2/109)   \r"
+    ],
+    [
+      0.000314,
+      "Receiving objects:   2% (3/109)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:   3% (4/109)   \r"
+    ],
+    [
+      0.000163,
+      "Receiving objects:   4% (5/109)   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:   5% (6/109)   \r"
+    ],
+    [
+      0.000163,
+      "Receiving objects:   6% (7/109)   \r"
+    ],
+    [
+      0.000153,
+      "Receiving objects:   7% (8/109)   \r"
+    ],
+    [
+      0.000155,
+      "Receiving objects:   8% (9/109)   \r"
+    ],
+    [
+      0.000128,
+      "Receiving objects:   9% (10/109)   \r"
+    ],
+    [
+      0.000130,
+      "Receiving objects:  10% (11/109)   \r"
+    ],
+    [
+      0.000132,
+      "Receiving objects:  11% (12/109)   \r"
+    ],
+    [
+      0.000246,
+      "Receiving objects:  12% (14/109)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  13% (15/109)   \r"
+    ],
+    [
+      0.000140,
+      "Receiving objects:  14% (16/109)   \r"
+    ],
+    [
+      0.000110,
+      "Receiving objects:  15% (17/109)   \r"
+    ],
+    [
+      0.000162,
+      "Receiving objects:  16% (18/109)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  17% (19/109)   \rReceiving objects:  18% (20/109)   \r"
+    ],
+    [
+      0.000264,
+      "Receiving objects:  19% (21/109)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  20% (22/109)   \r"
+    ],
+    [
+      0.000112,
+      "Receiving objects:  21% (23/109)   \r"
+    ],
+    [
+      0.000132,
+      "Receiving objects:  22% (24/109)   \r"
+    ],
+    [
+      0.625548,
+      "Receiving objects:  23% (26/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.152246,
+      "remote: Total 109 (delta 5), reused 0 (delta 0), pack-reused 89\u001b[K\r\n"
+    ],
+    [
+      0.000282,
+      "Receiving objects:  24% (27/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  25% (28/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000190,
+      "Receiving objects:  26% (29/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000062,
+      "Receiving objects:  27% (30/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000091,
+      "Receiving objects:  28% (31/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000120,
+      "Receiving objects:  29% (32/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  30% (33/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  31% (34/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  32% (35/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  33% (36/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  34% (38/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  35% (39/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  36% (40/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  37% (41/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  38% (42/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:  39% (43/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  40% (44/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  41% (45/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:  42% (46/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  43% (47/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000080,
+      "Receiving objects:  44% (48/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  45% (50/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000059,
+      "Receiving objects:  46% (51/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000069,
+      "Receiving objects:  47% (52/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  48% (53/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  49% (54/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  50% (55/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  51% (56/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000066,
+      "Receiving objects:  52% (57/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  53% (58/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000055,
+      "Receiving objects:  54% (59/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  55% (60/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000128,
+      "Receiving objects:  56% (62/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000092,
+      "Receiving objects:  57% (63/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  58% (64/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000069,
+      "Receiving objects:  59% (65/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000066,
+      "Receiving objects:  60% (66/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  61% (67/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000087,
+      "Receiving objects:  62% (68/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  63% (69/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  64% (70/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  65% (71/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  66% (72/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:  67% (74/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  68% (75/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  69% (76/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000109,
+      "Receiving objects:  70% (77/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  71% (78/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000078,
+      "Receiving objects:  72% (79/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000111,
+      "Receiving objects:  73% (80/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  74% (81/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  75% (82/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  76% (83/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  77% (84/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  78% (86/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000060,
+      "Receiving objects:  79% (87/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  80% (88/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  81% (89/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000085,
+      "Receiving objects:  82% (90/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000071,
+      "Receiving objects:  83% (91/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000076,
+      "Receiving objects:  84% (92/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000077,
+      "Receiving objects:  85% (93/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000074,
+      "Receiving objects:  86% (94/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  87% (95/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  88% (96/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  89% (98/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000147,
+      "Receiving objects:  90% (99/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000058,
+      "Receiving objects:  91% (100/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:  92% (101/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000075,
+      "Receiving objects:  93% (102/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000127,
+      "Receiving objects:  94% (103/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  95% (104/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  96% (105/109), 60.00 KiB | 83.00 KiB/s   \rReceiving objects:  97% (106/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  98% (107/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000072,
+      "Receiving objects:  99% (108/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects: 100% (109/109), 60.00 KiB | 83.00 KiB/s   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects: 100% (109/109), 226.59 KiB | 83.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.000174,
+      "Resolving deltas:   0% (0/31)   \r"
+    ],
+    [
+      0.000349,
+      "Resolving deltas:   9% (3/31)   \r"
+    ],
+    [
+      0.000228,
+      "Resolving deltas:  19% (6/31)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  22% (7/31)   \r"
+    ],
+    [
+      0.000037,
+      "Resolving deltas:  25% (8/31)   \r"
+    ],
+    [
+      0.000241,
+      "Resolving deltas:  35% (11/31)   \r"
+    ],
+    [
+      0.000237,
+      "Resolving deltas:  41% (13/31)   \rResolving deltas:  45% (14/31)   \r"
+    ],
+    [
+      0.000193,
+      "Resolving deltas:  48% (15/31)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  54% (17/31)   \r"
+    ],
+    [
+      0.000286,
+      "Resolving deltas:  58% (18/31)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  64% (20/31)   \r"
+    ],
+    [
+      0.000211,
+      "Resolving deltas:  70% (22/31)   \r"
+    ],
+    [
+      0.000256,
+      "Resolving deltas:  83% (26/31)   \r"
+    ],
+    [
+      0.000238,
+      "Resolving deltas:  90% (28/31)   \r"
+    ],
+    [
+      0.000006,
+      "Resolving deltas:  93% (29/31)   \r"
+    ],
+    [
+      0.000150,
+      "Resolving deltas: 100% (31/31)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas: 100% (31/31), done.\r\n"
+    ],
+    [
+      0.146189,
+      "Checking connectivity... "
+    ],
+    [
+      0.007294,
+      "done.\r\n"
+    ],
+    [
+      0.035367,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2\u0007\u001b[0;32m~/Work/unn/mp2\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.100486,
+      "l"
+    ],
+    [
+      0.008313,
+      "s"
+    ],
+    [
+      0.144336,
+      "\r\n"
+    ],
+    [
+      0.006421,
+      "mp2-lab1-bitfield\r\n"
+    ],
+    [
+      0.019556,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2\u0007\u001b[0;32m~/Work/unn/mp2\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.437249,
+      "t"
+    ],
+    [
+      0.151989,
+      "r"
+    ],
+    [
+      0.047920,
+      "e"
+    ],
+    [
+      0.136499,
+      "e"
+    ],
+    [
+      0.231550,
+      " "
+    ],
+    [
+      0.257774,
+      "m"
+    ],
+    [
+      0.183682,
+      "p"
+    ],
+    [
+      0.095861,
+      "2-lab1-bitfield/"
+    ],
+    [
+      0.463821,
+      "\r\n"
+    ],
+    [
+      0.008092,
+      "mp2-lab1-bitfield/\r\n"
+    ],
+    [
+      0.000011,
+      "├── CMakeLists.txt\r\n├── README.md\r\n"
+    ],
+    [
+      0.000116,
+      "├── gtest\r\n│   ├── CMakeLists.txt\r\n"
+    ],
+    [
+      0.000009,
+      "│   ├── gtest-all.cc\r\n│   └── gtest.h\r\n"
+    ],
+    [
+      0.000070,
+      "├── include\r\n"
+    ],
+    [
+      0.000010,
+      "│   └── tbitfield.h\r\n"
+    ],
+    [
+      0.000112,
+      "├── samples\r\n│   ├── CMakeLists.txt\r\n│   └── sample_prime_numbers.cpp\r\n"
+    ],
+    [
+      0.000039,
+      "├── src\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── CMakeLists.txt\r\n"
+    ],
+    [
+      0.000007,
+      "│   └── tbitfield.cpp\r\n"
+    ],
+    [
+      0.000097,
+      "└── test\r\n    ├── CMakeLists.txt\r\n"
+    ],
+    [
+      0.000006,
+      "    ├── test_main.cpp\r\n    └── test_tbitfield.cpp\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "5 directories, 13 files\r\n"
+    ],
+    [
+      0.019531,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2\u0007\u001b[0;32m~/Work/unn/mp2\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      4.778240,
+      "m"
+    ],
+    [
+      0.097104,
+      "k"
+    ],
+    [
+      0.080065,
+      "d"
+    ],
+    [
+      0.767893,
+      "i"
+    ],
+    [
+      0.104554,
+      "r"
+    ],
+    [
+      0.183673,
+      " "
+    ],
+    [
+      0.375585,
+      "m"
+    ],
+    [
+      0.169379,
+      "p"
+    ],
+    [
+      0.087040,
+      "2-lab1-bitfield/"
+    ],
+    [
+      0.839500,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.257776,
+      "-"
+    ],
+    [
+      0.453612,
+      "b"
+    ],
+    [
+      0.176477,
+      "u"
+    ],
+    [
+      0.112332,
+      "d"
+    ],
+    [
+      0.135056,
+      "i"
+    ],
+    [
+      0.184892,
+      "l"
+    ],
+    [
+      0.270871,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144952,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143847,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.391257,
+      "i"
+    ],
+    [
+      0.159984,
+      "l"
+    ],
+    [
+      0.088990,
+      "d"
+    ],
+    [
+      0.472144,
+      "\r\n"
+    ],
+    [
+      0.124345,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2\u0007\u001b[0;32m~/Work/unn/mp2\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.411483,
+      "c"
+    ],
+    [
+      0.088409,
+      "d"
+    ],
+    [
+      0.086613,
+      " "
+    ],
+    [
+      0.169236,
+      "m"
+    ],
+    [
+      0.168537,
+      "p"
+    ],
+    [
+      0.095279,
+      "\u00072-lab1-bitfield"
+    ],
+    [
+      0.648144,
+      "-"
+    ],
+    [
+      0.160107,
+      "build/"
+    ],
+    [
+      0.359566,
+      "\r\n"
+    ],
+    [
+      0.027308,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.676842,
+      "c"
+    ],
+    [
+      0.087768,
+      "m"
+    ],
+    [
+      0.111573,
+      "a"
+    ],
+    [
+      0.128543,
+      "k"
+    ],
+    [
+      0.164682,
+      "e"
+    ],
+    [
+      0.226672,
+      " "
+    ],
+    [
+      0.207902,
+      "."
+    ],
+    [
+      0.128024,
+      "."
+    ],
+    [
+      0.886288,
+      "m"
+    ],
+    [
+      0.169614,
+      "p"
+    ],
+    [
+      0.121050,
+      "\u0007"
+    ],
+    [
+      0.502771,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168977,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.259153,
+      "/"
+    ],
+    [
+      0.418844,
+      "m"
+    ],
+    [
+      0.169279,
+      "p"
+    ],
+    [
+      0.120011,
+      "\u0007"
+    ],
+    [
+      0.000029,
+      "2-lab1-bitfield"
+    ],
+    [
+      0.547985,
+      "\r\n"
+    ],
+    [
+      1.555612,
+      "-- The C compiler identification is AppleClang 6.1.0.6020053\r\n"
+    ],
+    [
+      0.104558,
+      "-- The CXX compiler identification is AppleClang 6.1.0.6020053\r\n"
+    ],
+    [
+      0.017957,
+      "-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc\r\n"
+    ],
+    [
+      0.127655,
+      "-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -- works\r\n"
+    ],
+    [
+      0.002896,
+      "-- Detecting C compiler ABI info\r\n"
+    ],
+    [
+      0.108247,
+      "-- Detecting C compiler ABI info - done\r\n"
+    ],
+    [
+      0.011964,
+      "-- Detecting C compile features\r\n"
+    ],
+    [
+      0.328119,
+      "-- Detecting C compile features - done\r\n"
+    ],
+    [
+      0.008806,
+      "-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++\r\n"
+    ],
+    [
+      0.109307,
+      "-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -- works\r\n"
+    ],
+    [
+      0.002019,
+      "-- Detecting CXX compiler ABI info\r\n"
+    ],
+    [
+      0.111412,
+      "-- Detecting CXX compiler ABI info - done\r\n"
+    ],
+    [
+      0.011512,
+      "-- Detecting CXX compile features\r\n"
+    ],
+    [
+      0.430198,
+      "-- Detecting CXX compile features - done\r\n"
+    ],
+    [
+      0.007265,
+      "-- \r\n"
+    ],
+    [
+      0.000008,
+      "-- General configuration for bitfield\r\n"
+    ],
+    [
+      0.000043,
+      "-- ======================================\r\n"
+    ],
+    [
+      0.000007,
+      "-- \r\n"
+    ],
+    [
+      0.000031,
+      "--    Configuration: Release\r\n"
+    ],
+    [
+      0.000033,
+      "-- \r\n"
+    ],
+    [
+      0.000563,
+      "-- Configuring done\r\n"
+    ],
+    [
+      0.027549,
+      "-- Generating done\r\n"
+    ],
+    [
+      0.006164,
+      "-- Build files have been written to: /Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield-build\r\n"
+    ],
+    [
+      0.025126,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.204014,
+      "m"
+    ],
+    [
+      0.082737,
+      "a"
+    ],
+    [
+      0.109602,
+      "k"
+    ],
+    [
+      0.103590,
+      "e"
+    ],
+    [
+      0.504386,
+      "\r\n"
+    ],
+    [
+      0.048914,
+      "\u001b[35m\u001b[1mScanning dependencies of target bitfield\r\n"
+    ],
+    [
+      0.002080,
+      "\u001b[0m"
+    ],
+    [
+      0.011773,
+      "[ 20%] "
+    ],
+    [
+      0.009305,
+      "\u001b[32mBuilding CXX object src/CMakeFiles/bitfield.dir/tbitfield.cpp.o\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[0m"
+    ],
+    [
+      0.616492,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:24:1:"
+    ],
+    [
+      0.000010,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      "
+    ],
+    [
+      0.000005,
+      "control reaches "
+    ],
+    [
+      0.000004,
+      "end of"
+    ],
+    [
+      0.000004,
+      " non-void "
+    ],
+    [
+      0.000004,
+      "function [-Wreturn-type]"
+    ],
+    [
+      0.000005,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000158,
+      "}\r\n\u001b[0;1;32m^\r\n\u001b[0m"
+    ],
+    [
+      0.000344,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:28:1"
+    ],
+    [
+      0.000007,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control reaches"
+    ],
+    [
+      0.000005,
+      " end of"
+    ],
+    [
+      0.000004,
+      " non-void "
+    ],
+    [
+      0.000004,
+      "function [-Wreturn-type]"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000024,
+      "}\r\n\u001b[0;1;32m^\r\n\u001b[0m"
+    ],
+    [
+      0.001319,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:54:1: \u001b[0m\u001b[0;1;35mwarning"
+    ],
+    [
+      0.000010,
+      ": \u001b[0m\u001b[1m\r\n      control reaches end of non-void function [-Wreturn-type]\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "}\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000004,
+      "^\r\n\u001b[0m"
+    ],
+    [
+      0.000409,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:68:1: "
+    ],
+    [
+      0.000007,
+      "\u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control reaches end of non-void "
+    ],
+    [
+      0.000004,
+      "function [-Wreturn-type]\u001b[0m"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "}"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0;1;32m^"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.001959,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:72:1: \u001b[0m"
+    ],
+    [
+      0.000010,
+      "\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control reaches end of non-void function [-Wreturn-type]\u001b[0m\r\n"
+    ],
+    [
+      0.000017,
+      "}\r\n\u001b[0;1;32m^\r\n\u001b[0m"
+    ],
+    [
+      0.000202,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:76:1:"
+    ],
+    [
+      0.000009,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control reaches end of "
+    ],
+    [
+      0.000005,
+      "non-void function [-Wreturn-type]"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "}"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0;1;32m^"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:82:1"
+    ],
+    [
+      0.000007,
+      ": \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control "
+    ],
+    [
+      0.000004,
+      "reaches end "
+    ],
+    [
+      0.000005,
+      "of non-void"
+    ],
+    [
+      0.000004,
+      " function "
+    ],
+    [
+      0.000004,
+      "[-Wreturn-type]\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "}"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0;1;32m^"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.000396,
+      "\u001b[1m/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/src/tbitfield.cpp:86:1:"
+    ],
+    [
+      0.000007,
+      " \u001b[0m\u001b[0;1;35mwarning: \u001b[0m\u001b[1m\r\n      control reaches "
+    ],
+    [
+      0.000004,
+      "end of"
+    ],
+    [
+      0.000004,
+      " non-void "
+    ],
+    [
+      0.000004,
+      "function [-Wreturn-type]"
+    ],
+    [
+      0.000004,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "}"
+    ],
+    [
+      0.000004,
+      "\r\n\u001b[0;1;32m"
+    ],
+    [
+      0.000005,
+      "^\r\n\u001b[0m"
+    ],
+    [
+      0.063932,
+      "8 warnings generated.\r\n"
+    ],
+    [
+      0.014460,
+      "\u001b[31m\u001b[1mLinking CXX static library ../lib/libbitfield.a\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0m"
+    ],
+    [
+      0.048286,
+      "[ 20%] "
+    ],
+    [
+      0.002931,
+      "Built target bitfield\r\n"
+    ],
+    [
+      0.016504,
+      "\u001b[35m\u001b[1mScanning dependencies of target sample_prime_numbers\r\n"
+    ],
+    [
+      0.001738,
+      "\u001b[0m"
+    ],
+    [
+      0.010878,
+      "[ 40%] "
+    ],
+    [
+      0.010512,
+      "\u001b[32mBuilding CXX object samples/CMakeFiles/sample_prime_numbers.dir/sample_prime_numbers.cpp.o\r\n"
+    ],
+    [
+      0.000038,
+      "\u001b[0m"
+    ],
+    [
+      0.580517,
+      "\u001b[31m\u001b[1mLinking CXX executable ../bin/sample_prime_numbers\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[0m"
+    ],
+    [
+      0.041917,
+      "[ 40%] "
+    ],
+    [
+      0.002923,
+      "Built target sample_prime_numbers\r\n"
+    ],
+    [
+      0.014210,
+      "\u001b[35m\u001b[1mScanning dependencies of target gtest\r\n"
+    ],
+    [
+      0.020542,
+      "\u001b[0m"
+    ],
+    [
+      0.014064,
+      "[ 60%] "
+    ],
+    [
+      0.009224,
+      "\u001b[32mBuilding CXX object gtest/CMakeFiles/gtest.dir/gtest-all.cc.o\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[0m"
+    ],
+    [
+      4.795944,
+      "\u001b[31m\u001b[1mLinking CXX static library ../lib/libgtest.a\r\n"
+    ],
+    [
+      0.000036,
+      "\u001b[0m"
+    ],
+    [
+      0.047331,
+      "[ 60%] "
+    ],
+    [
+      0.002927,
+      "Built target gtest\r\n"
+    ],
+    [
+      0.015107,
+      "\u001b[35m\u001b[1mScanning dependencies of target test_bitfield\r\n"
+    ],
+    [
+      0.013361,
+      "\u001b[0m"
+    ],
+    [
+      0.012339,
+      "[ 80%] "
+    ],
+    [
+      0.010644,
+      "\u001b[32mBuilding CXX object test/CMakeFiles/test_bitfield.dir/test_main.cpp.o\r\n"
+    ],
+    [
+      0.000046,
+      "\u001b[0m"
+    ],
+    [
+      0.751496,
+      "[100%] "
+    ],
+    [
+      0.009160,
+      "\u001b[32mBuilding CXX object test/CMakeFiles/test_bitfield.dir/test_tbitfield.cpp.o\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[0m"
+    ],
+    [
+      1.446861,
+      "\u001b[31m\u001b[1mLinking CXX executable ../bin/test_bitfield\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0m"
+    ],
+    [
+      0.059041,
+      "[100%] "
+    ],
+    [
+      0.002823,
+      "Built target test_bitfield\r\n"
+    ],
+    [
+      0.026947,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      5.038907,
+      "\u001b[H\u001b[2J\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.784394,
+      "t"
+    ],
+    [
+      0.040132,
+      "r"
+    ],
+    [
+      0.143200,
+      "e"
+    ],
+    [
+      0.457020,
+      "e"
+    ],
+    [
+      0.183575,
+      "\r\n"
+    ],
+    [
+      0.008776,
+      ".\r\n"
+    ],
+    [
+      0.000011,
+      "├── CMakeCache.txt\r\n"
+    ],
+    [
+      0.000123,
+      "├── CMakeFiles\r\n"
+    ],
+    [
+      0.000093,
+      "│   ├── 3.2.3\r\n"
+    ],
+    [
+      0.000009,
+      "│   │   ├── CMakeCCompiler.cmake\r\n│   │   ├── CMakeCXXCompiler.cmake\r\n"
+    ],
+    [
+      0.000021,
+      "│   │   ├── CMakeDetermineCompilerABI_C.bin\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   ├── CMakeDetermineCompilerABI_CXX.bin\r\n"
+    ],
+    [
+      0.000015,
+      "│   │   ├── CMakeSystem.cmake\r\n"
+    ],
+    [
+      0.000163,
+      "│   │   ├── CompilerIdC\r\n"
+    ],
+    [
+      0.000041,
+      "│   │   │   ├── CMakeCCompilerId.c\r\n│   │   │   └── a.out\r\n"
+    ],
+    [
+      0.000075,
+      "│   │   └── CompilerIdCXX\r\n"
+    ],
+    [
+      0.000007,
+      "│   │       ├── CMakeCXXCompilerId.cpp\r\n│   │       └── a.out\r\n"
+    ],
+    [
+      0.000030,
+      "│   ├── CMakeDirectoryInformation.cmake\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── CMakeOutput.log\r\n"
+    ],
+    [
+      0.000064,
+      "│   ├── CMakeTmp\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── Makefile.cmake\r\n"
+    ],
+    [
+      0.000004,
+      "│   ├── Makefile2\r\n"
+    ],
+    [
+      0.000025,
+      "│   ├── TargetDirectories.txt\r\n│   ├── cmake.check_cache\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── feature_tests.bin\r\n"
+    ],
+    [
+      0.000011,
+      "│   ├── feature_tests.c\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── feature_tests.cxx\r\n"
+    ],
+    [
+      0.000018,
+      "│   └── progress.marks\r\n"
+    ],
+    [
+      0.000006,
+      "├── Makefile\r\n"
+    ],
+    [
+      0.000081,
+      "├── bin\r\n"
+    ],
+    [
+      0.000006,
+      "│   ├── sample_prime_numbers\r\n│   └── test_bitfield\r\n"
+    ],
+    [
+      0.000025,
+      "├── cmake_install.cmake\r\n"
+    ],
+    [
+      0.000055,
+      "├── gtest\r\n"
+    ],
+    [
+      0.000086,
+      "│   ├── CMakeFiles\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   ├── CMakeDirectoryInformation.cmake\r\n"
+    ],
+    [
+      0.000148,
+      "│   │   ├── gtest.dir\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   │   ├── CXX.includecache\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   ├── DependInfo.cmake\r\n"
+    ],
+    [
+      0.000013,
+      "│   │   │   ├── build.make\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   ├── cmake_clean.cmake\r\n"
+    ],
+    [
+      0.000025,
+      "│   │   │   ├── cmake_clean_target.cmake\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   ├── depend.internal\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   ├── depend.make\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   ├── flags.make\r\n"
+    ],
+    [
+      0.000040,
+      "│   │   │   ├── gtest-all.cc.o\r\n│   │   │   ├── link.txt\r\n│   │   │   └── progress.make\r\n"
+    ],
+    [
+      0.000006,
+      "│   │   └── progress.marks\r\n"
+    ],
+    [
+      0.000004,
+      "│   ├── Makefile\r\n"
+    ],
+    [
+      0.000049,
+      "│   └── cmake_install.cmake\r\n"
+    ],
+    [
+      0.000032,
+      "├── lib\r\n"
+    ],
+    [
+      0.000005,
+      "│   ├── libbitfield.a\r\n"
+    ],
+    [
+      0.000016,
+      "│   └── libgtest.a\r\n"
+    ],
+    [
+      0.000121,
+      "├── samples\r\n"
+    ],
+    [
+      0.000009,
+      "│   ├── CMakeFiles\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   ├── CMakeDirectoryInformation.cmake\r\n"
+    ],
+    [
+      0.000016,
+      "│   │   ├── progress.marks\r\n"
+    ],
+    [
+      0.000123,
+      "│   │   └── sample_prime_numbers.dir\r\n"
+    ],
+    [
+      0.000007,
+      "│   │       ├── CXX.includecache\r\n"
+    ],
+    [
+      0.000004,
+      "│   │       ├── DependInfo.cmake\r\n"
+    ],
+    [
+      0.000013,
+      "│   │       ├── build.make\r\n"
+    ],
+    [
+      0.000039,
+      "│   │       ├── cmake_clean.cmake\r\n│   │       ├── depend.internal\r\n│   │       ├── depend.make\r\n│   │       ├── flags.make\r\n"
+    ],
+    [
+      0.000054,
+      "│   │       ├── link.txt\r\n│   │       ├── progress.make\r\n│   │       └── sample_prime_numbers.cpp.o\r\n│   ├── Makefile\r\n│   └── cmake_install.cmake\r\n"
+    ],
+    [
+      0.000126,
+      "├── src\r\n"
+    ],
+    [
+      0.000010,
+      "│   ├── CMakeFiles\r\n"
+    ],
+    [
+      0.000152,
+      "│   │   ├── CMakeDirectoryInformation.cmake\r\n"
+    ],
+    [
+      0.000172,
+      "│   │   ├── bitfield.dir\r\n│   │   │   ├── CXX.includecache\r\n│   │   │   ├── DependInfo.cmake\r\n│   │   │   ├── build.make\r\n│   │   │   ├── cmake_clean.cmake\r\n"
+    ],
+    [
+      0.000012,
+      "│   │   │   ├── cmake_clean_target.cmake\r\n│   │   │   ├── depend.internal\r\n"
+    ],
+    [
+      0.000005,
+      "│   │   │   ├── depend.make\r\n"
+    ],
+    [
+      0.000004,
+      "│   │   │   ├── flags.make\r\n"
+    ],
+    [
+      0.000055,
+      "│   │   │   ├── link.txt\r\n"
+    ],
+    [
+      0.000007,
+      "│   │   │   ├── progress.make\r\n│   │   │   └── tbitfield.cpp.o\r\n│   │   └── progress.marks\r\n│   ├── Makefile\r\n"
+    ],
+    [
+      0.000009,
+      "│   └── cmake_install.cmake\r\n"
+    ],
+    [
+      0.000084,
+      "└── test\r\n"
+    ],
+    [
+      0.000078,
+      "    ├── CMakeFiles\r\n"
+    ],
+    [
+      0.000007,
+      "    │   ├── CMakeDirectoryInformation.cmake\r\n"
+    ],
+    [
+      0.000019,
+      "    │   ├── progress.marks\r\n"
+    ],
+    [
+      0.000135,
+      "    │   └── test_bitfield.dir\r\n"
+    ],
+    [
+      0.000007,
+      "    │       ├── CXX.includecache\r\n"
+    ],
+    [
+      0.000005,
+      "    │       ├── DependInfo.cmake\r\n"
+    ],
+    [
+      0.000014,
+      "    │       ├── build.make\r\n"
+    ],
+    [
+      0.000017,
+      "    │       ├── cmake_clean.cmake\r\n"
+    ],
+    [
+      0.000007,
+      "    │       ├── depend.internal\r\n"
+    ],
+    [
+      0.000004,
+      "    │       ├── depend.make\r\n"
+    ],
+    [
+      0.000017,
+      "    │       ├── flags.make\r\n"
+    ],
+    [
+      0.000036,
+      "    │       ├── link.txt\r\n"
+    ],
+    [
+      0.000006,
+      "    │       ├── progress.make\r\n"
+    ],
+    [
+      0.000020,
+      "    │       ├── test_main.cpp.o\r\n"
+    ],
+    [
+      0.000007,
+      "    │       └── test_tbitfield.cpp.o\r\n"
+    ],
+    [
+      0.000046,
+      "    ├── Makefile\r\n    └── cmake_install.cmake\r\n\r\n19 directories, 85 files\r\n"
+    ],
+    [
+      0.020742,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.583743,
+      "l"
+    ],
+    [
+      0.120144,
+      "s"
+    ],
+    [
+      0.128181,
+      " "
+    ],
+    [
+      0.175623,
+      "b"
+    ],
+    [
+      0.136706,
+      "i"
+    ],
+    [
+      0.111854,
+      "n/"
+    ],
+    [
+      0.543467,
+      "\r\n"
+    ],
+    [
+      0.008435,
+      "sample_prime_numbers\ttest_bitfield\r\n"
+    ],
+    [
+      0.024312,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.215723,
+      "."
+    ],
+    [
+      0.063927,
+      "/"
+    ],
+    [
+      0.423919,
+      "b"
+    ],
+    [
+      0.335122,
+      "i"
+    ],
+    [
+      0.140355,
+      "n/"
+    ],
+    [
+      0.540070,
+      "t"
+    ],
+    [
+      0.080168,
+      "e"
+    ],
+    [
+      0.168926,
+      "st_bitfield "
+    ],
+    [
+      0.390955,
+      "\r\n"
+    ],
+    [
+      0.006471,
+      "\u001b[0;32m[==========] \u001b[mRunning 24 tests from 1 test case.\r\n\u001b[0;32m[----------] \u001b[mGlobal test environment set-up.\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;32m[----------] \u001b[m24 tests from TBitField\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_create_bitfield_with_positive_length\r\n\u001b[0;32m[       OK ] \u001b[mTBitField.can_create_bitfield_with_positive_length (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_get_length\r\n"
+    ],
+    [
+      0.000077,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:14: Failure\r\nValue of: bf.GetLength()\r\n  Actual: 0\r\nExpected: 3\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_get_length (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.new_bitfield_is_set_to_zero\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;32m[       OK ] \u001b[mTBitField.new_bitfield_is_set_to_zero (0 ms)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_set_bit\r\n"
+    ],
+    [
+      0.000049,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:37: Failure\r\nExpected: (0) != (bf.GetBit(3)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_set_bit (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_clear_bit\r\n"
+    ],
+    [
+      0.000052,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:47: Failure\r\nExpected: (0) != (bf.GetBit(bitIdx)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_clear_bit (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_create_bitfield_with_negative_length\r\n"
+    ],
+    [
+      0.000005,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:55: Failure\r\nExpected: TBitField bf(-3) throws an exception.\r\n"
+    ],
+    [
+      0.000004,
+      "  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_create_bitfield_with_negative_length (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_set_bit_with_negative_index\r\n"
+    ],
+    [
+      0.000022,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:62: Failure\r\nExpected: bf.SetBit(-3) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_set_bit_with_negative_index (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_set_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000023,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:69: Failure\r\nExpected: bf.SetBit(11) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_set_bit_with_too_large_index (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_get_bit_with_negative_index\r\n"
+    ],
+    [
+      0.000030,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:76: Failure\r\nExpected: bf.GetBit(-3) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_get_bit_with_negative_index (0 ms)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_get_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000027,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:83: Failure\r\nExpected: bf.GetBit(11) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_get_bit_with_too_large_index (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_clear_bit_with_negative_index\r\n"
+    ],
+    [
+      0.000025,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:90: Failure\r\nExpected: bf.ClrBit(-3) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_clear_bit_with_negative_index (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.throws_when_clear_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000024,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:97: Failure\r\nExpected: bf.ClrBit(11) throws an exception.\r\n  Actual: it doesn't.\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_clear_bit_with_too_large_index (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_assign_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000044,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:110: Failure\r\nExpected: (0) != (bf2.GetBit(0)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000037,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:111: Failure\r\nExpected: (0) != (bf2.GetBit(1)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_assign_bitfields_of_equal_size (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.assign_operator_changes_bitfield_size\r\n"
+    ],
+    [
+      0.000046,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:124: Failure\r\nValue of: bf2.GetLength()\r\n  Actual: 0\r\nExpected: 2\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.assign_operator_changes_bitfield_size (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_assign_bitfields_of_non_equal_size\r\n"
+    ],
+    [
+      0.000041,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:137: Failure\r\nExpected: (0) != (bf2.GetBit(0)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000040,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:138: Failure\r\nExpected: (0) != (bf2.GetBit(1)), actual: 0 vs 0\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_assign_bitfields_of_non_equal_size (0 ms)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.compare_equal_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000051,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:151: Failure\r\nValue of: bf2\r\n  Actual: \r\nExpected: bf1\r\nWhich is: \r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.compare_equal_bitfields_of_equal_size (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000035,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:170: Failure\r\nValue of: bf1 | bf2\r\n  Actual: \r\nExpected: expBf\r\n"
+    ],
+    [
+      0.000009,
+      "Which is: \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_equal_size (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_non_equal_size\r\n"
+    ],
+    [
+      0.000039,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:189: Failure\r\nValue of: bf1 | bf2\r\n  Actual: \r\nExpected: expBf\r\n"
+    ],
+    [
+      0.000006,
+      "Which is: \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_non_equal_size (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000036,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:206: Failure\r\nValue of: bf1 \u0026 bf2\r\n  Actual: \r\nExpected: expBf\r\nWhich is: \r\n"
+    ],
+    [
+      0.000025,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_equal_size (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_non_equal_size\r\n"
+    ],
+    [
+      0.000034,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:225: Failure\r\nValue of: bf1 | bf2\r\n  Actual: \r\nExpected: expBf\r\n"
+    ],
+    [
+      0.000006,
+      "Which is: \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_non_equal_size (0 ms)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_invert_bitfield\r\n"
+    ],
+    [
+      0.000038,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:239: Failure\r\nValue of: negBf\r\n  Actual: \r\nExpected: expNegBf\r\n"
+    ],
+    [
+      0.000006,
+      "Which is: \r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_bitfield (0 ms)\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_invert_large_bitfield\r\n"
+    ],
+    [
+      0.000039,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:253: Failure\r\nValue of: negBf\r\n  Actual: \r\nExpected: expNegBf\r\nWhich is: \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_large_bitfield (0 ms)\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;32m[ RUN      ] \u001b[mTBitField.can_invert_many_random_bits_bitfield\r\n"
+    ],
+    [
+      0.000035,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:279: Failure\r\nValue of: negBf\r\n  Actual: \r\nExpected: expNegBf\r\n"
+    ],
+    [
+      0.000006,
+      "Which is: \r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_many_random_bits_bitfield (0 ms)\r\n\u001b[0;32m[ RUN      ] \u001b[mTBitField.bitfields_with_different_bits_are_not_equal\r\n"
+    ],
+    [
+      0.000033,
+      "/Users/kirill-kornyakov/Work/unn/mp2/mp2-lab1-bitfield/test/test_tbitfield.cpp:293: Failure\r\nExpected: (bf1) != (bf2), actual:  vs \r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.bitfields_with_different_bits_are_not_equal (0 ms)\r\n"
+    ],
+    [
+      0.000014,
+      "\u001b[0;32m[----------] \u001b[m24 tests from TBitField (1 ms total)\r\n\r\n\u001b[0;32m[----------] \u001b[mGlobal test environment tear-down\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[0;32m[==========] \u001b[m24 tests from 1 test case ran. (1 ms total)\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;32m[  PASSED  ] \u001b[m2 tests.\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[0;31m[  FAILED  ] \u001b[m22 tests, listed below:\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_get_length\r\n"
+    ],
+    [
+      0.000007,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_set_bit\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_clear_bit\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_create_bitfield_with_negative_length\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_set_bit_with_negative_index\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_set_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_get_bit_with_negative_index\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_get_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_clear_bit_with_negative_index\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.throws_when_clear_bit_with_too_large_index\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_assign_bitfields_of_equal_size\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.assign_operator_changes_bitfield_size\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_assign_bitfields_of_non_equal_size\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.compare_equal_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_equal_size\r\n\u001b[0;31m[  FAILED  ] \u001b[mTBitField.or_operator_applied_to_bitfields_of_non_equal_size\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_equal_size\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.and_operator_applied_to_bitfields_of_non_equal_size\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_bitfield\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_large_bitfield\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.can_invert_many_random_bits_bitfield\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[0;31m[  FAILED  ] \u001b[mTBitField.bitfields_with_different_bits_are_not_equal\r\n\r\n"
+    ],
+    [
+      0.000005,
+      "22 FAILED TESTS\r\n"
+    ],
+    [
+      0.026473,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.942833,
+      "./bin/test_bitfield "
+    ],
+    [
+      0.742395,
+      "-"
+    ],
+    [
+      0.128743,
+      "-"
+    ],
+    [
+      0.312321,
+      "g"
+    ],
+    [
+      0.175485,
+      "t"
+    ],
+    [
+      0.088288,
+      "e"
+    ],
+    [
+      0.142934,
+      "s"
+    ],
+    [
+      0.111992,
+      "t"
+    ],
+    [
+      0.560775,
+      "-"
+    ],
+    [
+      0.551717,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.368293,
+      "_"
+    ],
+    [
+      0.303643,
+      "f"
+    ],
+    [
+      0.160255,
+      "i"
+    ],
+    [
+      0.167401,
+      "l"
+    ],
+    [
+      0.048838,
+      "t"
+    ],
+    [
+      0.303619,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152085,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143785,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.121268,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.374871,
+      "l"
+    ],
+    [
+      0.664098,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.016129,
+      "l"
+    ],
+    [
+      0.223934,
+      "i"
+    ],
+    [
+      0.160195,
+      "s"
+    ],
+    [
+      0.103507,
+      "t"
+    ],
+    [
+      0.471502,
+      "_"
+    ],
+    [
+      0.328765,
+      "t"
+    ],
+    [
+      0.047944,
+      "e"
+    ],
+    [
+      0.144378,
+      "s"
+    ],
+    [
+      0.096114,
+      "t"
+    ],
+    [
+      0.534714,
+      "s"
+    ],
+    [
+      0.455941,
+      "\r\n"
+    ],
+    [
+      0.004582,
+      "TBitField.\r\n  can_create_bitfield_with_positive_length\r\n  can_get_length\r\n  new_bitfield_is_set_to_zero\r\n  can_set_bit\r\n  can_clear_bit\r\n"
+    ],
+    [
+      0.000014,
+      "  throws_when_create_bitfield_with_negative_length\r\n  throws_when_set_bit_with_negative_index\r\n  throws_when_set_bit_with_too_large_index\r\n  throws_when_get_bit_with_negative_index\r\n  throws_when_get_bit_with_too_large_index\r\n  throws_when_clear_bit_with_negative_index\r\n  throws_when_clear_bit_with_too_large_index\r\n  can_assign_bitfields_of_equal_size\r\n  assign_operator_changes_bitfield_size\r\n  can_assign_bitfields_of_non_equal_size\r\n  compare_equal_bitfields_of_equal_size\r\n  or_operator_applied_to_bitfields_of_equal_size\r\n  or_operator_applied_to_bitfields_of_non_equal_size\r\n  and_operator_applied_to_bitfields_of_equal_size\r\n  and_operator_applied_to_bitfields_of_non_equal_size\r\n  can_invert_bitfield\r\n  can_invert_large_bitfield\r\n  can_invert_many_random_bits_bitfield\r\n"
+    ],
+    [
+      0.000006,
+      "  bitfields_with_different_bits_are_not_equal\r\n"
+    ],
+    [
+      0.021372,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield-build\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield-build\u001b[0;33m\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      7.678524,
+      "c"
+    ],
+    [
+      0.015954,
+      "d"
+    ],
+    [
+      0.056805,
+      " "
+    ],
+    [
+      0.160120,
+      "."
+    ],
+    [
+      0.144324,
+      "."
+    ],
+    [
+      0.127563,
+      "."
+    ],
+    [
+      0.576466,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.343726,
+      "/"
+    ],
+    [
+      0.776151,
+      "m"
+    ],
+    [
+      0.207460,
+      "p"
+    ],
+    [
+      0.104578,
+      "\u0007"
+    ],
+    [
+      0.000039,
+      "2-lab1-bitfield"
+    ],
+    [
+      0.599299,
+      "\r\n"
+    ],
+    [
+      0.049954,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.302341,
+      "r"
+    ],
+    [
+      0.560237,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.294790,
+      "t"
+    ],
+    [
+      0.027200,
+      "r"
+    ],
+    [
+      0.253195,
+      "e"
+    ],
+    [
+      0.549656,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138955,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152003,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.360330,
+      "m"
+    ],
+    [
+      0.078692,
+      "s"
+    ],
+    [
+      0.200436,
+      "\r\n"
+    ],
+    [
+      0.000982,
+      "bash: ms: command not found\r\n"
+    ],
+    [
+      0.119429,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.905313,
+      "m"
+    ],
+    [
+      0.292885,
+      "c"
+    ],
+    [
+      0.192348,
+      "\r\n"
+    ],
+    [
+      0.062974,
+      "\u001b[?1049h\u001b[1;28r\u001b[4l\u001b[28;1H\u001b(B\u001b[m\u001b[37m\u001b[40m\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.000032,
+      "\u001b7\u001b[?47h"
+    ],
+    [
+      0.095304,
+      "\u001b[?1001s\u001b[?1002h\u001b[?1006h\u001b[?2004h"
+    ],
+    [
+      0.004704,
+      "\u001b[?1049h\u001b[1;28r\u001b[4l\u001b[?1h\u001b=\u001b(B\u001b[m\u001b[39m\u001b[49m\u001b[1;28r\u001b[H\u001b[2J\u001b[2;93H\u001b[1K \u001b[37m\u001b[44m┐\u001b[2;94H\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.006892,
+      "\u001b[26;1H\u001b[39m\u001b[49mHint: You can disable all requests for confirmation in Options/Confirmation.\u001b[26;94H"
+    ],
+    [
+      0.036409,
+      "\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.000431,
+      "\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.000825,
+      "\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.000796,
+      "\u001b[1;1H\u001b[30m\u001b[46m  Left     File     Command     Options     Right\u001b[K\r\n\u001b[37m\u001b[44m┌\u003c─\u001b[30m\u001b[47m ~/Work/unn/mp2/mp2-lab1-bitfield \u001b[37m\u001b[44m────.[^]\u003e┐┌\u003c─ ~/Work/unn/mp2/mp2-lab1-bitfield ────.[^]\u003e\r\n│\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m││\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m│\u001b[4;1H│\u001b[30m\u001b[46m/..                     │UP--DIR│Sep 14 10:36\u001b[37m\u001b[44m││\u001b[97m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[5;1H│\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m││\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m│\u001b[6;1H│\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[7;1H│\u001b[97m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/include        "
+    ],
+    [
+      0.000163,
+      "        \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[8;1H│\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[9;1H│\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[10;1H│\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[11;1H│ .gitignore             │    242│Sep 14 10:36││ .gitignore             │    242│Sep 14 10:36│\u001b[12;1H│ .travis.yml            │    226│Sep 14 10:36││ .travis.yml            │    226│Sep 14 10:36│\u001b[13;1H│\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m││\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m│\u001b[14;1H│ README.md   "
+    ],
+    [
+      0.000043,
+      "           │   1558│Sep 14 10:36││ README.md              │   1558│Sep 14 10:36│\u001b[15;1H│                        │       │            ││                        │       │            │\u001b[16;1H│                        │       │            ││                        │       │            │\u001b[17;1H│                        │       │            ││                        │       │            │\u001b[18;1H│                        │       │            ││                        │       │            │\u001b[19;1H│                        │       │            ││                        │       │            │\u001b[20;1H│                        │       │            ││                        │       │            │\u001b[21;1H│                        │       │            ││                        │       │            │\u001b[22;1H│                        │       │            ││                        │       │         "
+    ],
+    [
+      0.000028,
+      "   │\u001b[23;1H├─────────────────────────────────────────────┤├─────────────────────────────────────────────┤\u001b[24;1H│UP--DIR                                      ││UP--DIR                                      │\u001b[25;1H└──────────────────────────── 16G/112G (14%) ─┘└──────────────────────────── 16G/112G (14%) ─┘\u001b[27;91H\u001b[39m\u001b[49m\u001b[1K \u001b[37m\u001b[44m[^]\u001b[28;1H\u001b[97m\u001b[40m 1\u001b[30m\u001b[46mHelp   \u001b[97m\u001b[40m 2\u001b[30m\u001b[46mMenu   \u001b[97m\u001b[40m 3\u001b[30m\u001b[46mView   \u001b[97m\u001b[40m 4\u001b[30m\u001b[46mEdit    \u001b[97m\u001b[40m 5\u001b[30m\u001b[46mCopy    \u001b[97m\u001b[40m 6\u001b[30m\u001b[46mRenMov \u001b[97m\u001b[40m 7\u001b[30m\u001b[46mMkdir  \u001b[97m\u001b[40m 8\u001b[30m\u001b[46mDelete \u001b[97m\u001b[40m 9\u001b[30m\u001b[46mPullDn  \u001b[97m\u001b[40m10\u001b[30m\u001b[46mQuit\u001b[K\u001b[27;1H"
+    ],
+    [
+      0.027253,
+      "\u001b[39m\u001b[49m~/Work/unn/mp2/mp2-lab1-bitfield (master)\u003e\u001b[49C\u001b[27;44H"
+    ],
+    [
+      2.094536,
+      "\u001b[4;2H\u001b[97m\u001b[44m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[5;2H\u001b[30m\u001b[46m/.git                   │    442│Sep 14 10:38\u001b[24;2H\u001b[37m\u001b[44m/.git  \u001b[27;44H"
+    ],
+    [
+      0.163177,
+      "\u001b[5;2H\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[6;2H\u001b[30m\u001b[46m/gtest                  │    170│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44mgtest\u001b[27;44H"
+    ],
+    [
+      0.156503,
+      "\u001b[6;2H\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[7;2H\u001b[30m\u001b[46m/include                │    102│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44minclude\u001b[27;44H"
+    ],
+    [
+      0.150662,
+      "\u001b[7;2H\u001b[97m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[8;2H\u001b[30m\u001b[46m/samples                │    136│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44msamples\u001b[27;44H"
+    ],
+    [
+      0.152160,
+      "\u001b[8;2H\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[9;2H\u001b[30m\u001b[46m/src                    │    136│Sep 14 10:36\u001b[24;4H\u001b[37m\u001b[44mrc    \u001b[27;44H"
+    ],
+    [
+      0.151981,
+      "\u001b[9;2H\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[10;2H\u001b[30m\u001b[46m/test                   │    170│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44mtest\u001b[27;44H"
+    ],
+    [
+      0.144246,
+      "\u001b[10;2H\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[11;2H\u001b[30m\u001b[46m .gitignore             │    242│Sep 14 10:36\u001b[24;2H\u001b[37m\u001b[44m .gitignore\u001b[27;44H"
+    ],
+    [
+      2.776044,
+      "\u001b[39m\u001b[49m.\u001b[47C\u001b[27;45H"
+    ],
+    [
+      2.519982,
+      "\u001b[1;1H\u001b[30m\u001b[46m/Users/kirill-kornyakov/Work/u~/mp2-lab1-bitfield/.gitignore\u001b[8C230/242\u001b[16C95%\u001b[2;1H\u001b[37m\u001b[44m# Compiled Object files\u001b[K\r\n*.slo\u001b[K\r\n*.lo\u001b[K\r\n*.o\u001b[K\r\n*.obj\u001b[K\r\n\u001b[K\n# Precompiled Headers\u001b[K\r\n*.gch\u001b[K\r\n*.pch\u001b[K\r\n\u001b[K\n# Compiled Dynamic libraries\u001b[K\r\n*.so\u001b[K\r\n*.dylib\u001b[K\r\n*.dll\u001b[K\r\n\u001b[K\n# Fortran module files\u001b[K\r\n*.mod\u001b[K\r\n\u001b[K\n# Compiled Static libraries\u001b[K\r\n*.lai\u001b[K\r\n*.la\u001b[K\r\n*.a\u001b[K\r\n*.lib\u001b[K\r\n\u001b[K\n# Executables\u001b[K\r\n*.exe\u001b[K\u001b[28;12H\u001b[30m\u001b[46mUnWrap \u001b[97m\u001b[40m 3\u001b[30m\u001b[46mQuit\u001b[5CHex \u001b[6CGoto\u001b[6C       \u001b[97m\u001b[40m 7\u001b[30m\u001b[46mSearch \u001b[97m\u001b[40m 8\u001b[30m\u001b[46mRaw    \u001b[97m\u001b[40m 9\u001b[30m\u001b[46mFormat\u001b[1;94H"
+    ],
+    [
+      3.508637,
+      "\u001b[26;1H\u001b[39m\u001b[49mHint: Completion works on all input lines in all dialogs. Just press M-Tab.\u001b[K\u001b[26;94H"
+    ],
+    [
+      0.001192,
+      "\u001b[1;1H\u001b[30m\u001b[46m  Left     File     Command     Options     Right\u001b[K\r\n\u001b[37m\u001b[44m┌\u003c─\u001b[30m\u001b[47m ~/Work/unn/mp2/mp2-lab1-bitfield \u001b[37m\u001b[44m────.[^]\u003e┐┌\u003c─ ~/Work/unn/mp2/mp2-lab1-bitfield ────.[^]\u003e┐\u001b[3;1H│\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m││\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m│\u001b[4;1H│\u001b[97m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[5;1H│\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m││\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m│\u001b[6;1H│\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[7;1H│\u001b[97m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97"
+    ],
+    [
+      0.000096,
+      "m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[8;1H│\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[9;1H│\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[10;1H│\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[11;1H│\u001b[30m\u001b[46m .gitignore             │    242│Sep 14 10:36\u001b[37m\u001b[44m││ .gitignore\u001b[13C│    242│Sep 14 10:36│\u001b[12;1H│ .travis.yml            │    226│Sep 14 10:36││ .travis.yml\u001b[12C│    226│Sep 14 10:36│\u001b[13;1H│\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m││\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m│\u001b"
+    ],
+    [
+      0.000131,
+      "[14;1H│ README.md\u001b[14C│   1558│Sep 14 10:36││ README.md\u001b[14C│   1558│Sep 14 10:36│\u001b[15;1H│    \u001b[20C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[16;1H│\u001b[24C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[17;1H│                        │\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[18;1H│    \u001b[20C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[19;1H│\u001b[24C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[20;1H│                        │ \u001b[6C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[21;1H│    \u001b[20C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[22;1H│   \u001b[21C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[23;1H├─────────────────────────────────────────────┤├─────────────────────────────────────────────┤\u001b[24;1H│ .gitignore\u001b[34C││UP--DIR\u001b[38C│\u001b[25;1H└──────────────────"
+    ],
+    [
+      0.000336,
+      "────────── 16G/112G (14%) ─┘└──────────────────────────── 16G/112G (14%) ─┘\u001b[27;1H\u001b[39m\u001b[49m~/Work/unn/mp2/mp2-lab1-bitfield (master)\u003e .                                               \u001b[37m\u001b[44m[^]\u001b[28;12H\u001b[30m\u001b[46mMenu   \u001b[97m\u001b[40m 3\u001b[30m\u001b[46mView\u001b[5CEdit\u001b[6CCopy\u001b[6CRenMov \u001b[97m\u001b[40m 7\u001b[30m\u001b[46mMkdir  \u001b[97m\u001b[40m 8\u001b[30m\u001b[46mDelete \u001b[97m\u001b[40m 9\u001b[30m\u001b[46mPullDn\u001b[27;45H"
+    ],
+    [
+      0.001232,
+      "\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.000275,
+      "\u001b[39m\u001b[49mOR\u001b[45C\u001b[27;47H"
+    ],
+    [
+      1.016064,
+      "\u001b[11;2H\u001b[37m\u001b[44m .gitignore             │    242│Sep 14 10:36\u001b[12;2H\u001b[30m\u001b[46m .travis.yml            │    226│Sep 14 10:36\u001b[24;4H\u001b[37m\u001b[44mtravis.yml\u001b[27;47H"
+    ],
+    [
+      0.679866,
+      "\u001b[12;2H .travis.yml            │    226│Sep 14 10:36\u001b[13;2H\u001b[30m\u001b[46m CMakeLists.txt         │   1084│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44mCMakeLists.txt\u001b[27;47H"
+    ],
+    [
+      0.160975,
+      "\u001b[13;2H\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[14;2H\u001b[30m\u001b[46m README.md              │   1558│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44mREADME.md     \u001b[27;47H"
+    ],
+    [
+      0.633953,
+      "\u001b[1;1H\u001b[30m\u001b[46m/Users/kirill-kornyakov/Work/u~2/mp2-lab1-bitfield/README.md\u001b[8C696/1558\u001b[15C44%\u001b[2;1H\u001b[37m\u001b[44m# \u003c.\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c. \u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c. 2: \u003c.\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c.\u003c\u003c \u003c\u003c\u003c\u003c\u003c\u003c\u003c.1\u003e\u001b[K\r\n\u001b[K\n[![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield.svg)](https://travis\u001b[5;1H-ci.org/UNN-VMK-Software/mp2-lab1-bitfield)\u001b[K\r\n\u001b[K\n\u003c!-- TODO\u001b[K\r\n\u001b[K\n  -\u001b[K\r\n\u001b[K\n  - Optional\u001b[K\r\n    -\u001b[K\r\n\u001b[K\n--\u003e\u001b[K\r\n\u001b[K\n\u003c.\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c.\u003c\u003c \u003c\u003c\u003c\u003c\u003c.\u003c.\u003c.\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c.:\u003e\u001b[K\r\n\u001b[K\n  - \u003c\u003c\u003c\u003c\u003c.\u003c.\u003c\u003c\u003c\u003c\u003c\u003c \u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c.\u003c\u003c\u003c\u003c\u003c. \u003c\u003c\u003c\u003c\u003c.\u003c.\u003c\u003c\u003c\u003c [Git](https://git-scm.com/book/en/v2).\u001b[K\r\n  - [Google Test Framework](https://code.google.com/p/googletest).\u001b[K\r\n  - \u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003c [CMake](http://www.cmake.org) \u003c\u003c\u003c\u003c\u003c. \u003c.\u003c\u003c\u003c\u003c\u003c.\u003c\u003c\u003c\u003c \u003c\u003c\u003c.\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c. \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u001b[21;1H\u003c\u003c.2\u003e\u001b[K\r\n\u001b[K\n## \u003c.\u003c\u003c\u003c.\u003c\u003c\u003c. \u003c.\u003c.\u003c.\u003c.\u003c\u003c\u003c.\u003c.\u003c.\u003c\u003c \u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003cB0\u003e\u001b[K\r\n\u001b[K\n\u003c\u003c\u003c.\u003c.\u003c.\u003c\u003c\u003c.\u003c.\u003c.\u003c\u003c \u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003c:0\u003e\u001b[K\r\n\u001b[K\n  - `3rdparty` - \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c.\u003c\u003c\u003c\u003c\u003c\u003c Google Test.\u001b[K\u001b[28;12H\u001b[30m\u001b[46mUnWrap \u001b[97m\u001b[40m 3\u001b[30m\u001b[46mQuit\u001b[5CHex \u001b[6CGoto\u001b[6C       \u001b[97m\u001b[40m 7\u001b[30m\u001b[46mSearch \u001b["
+    ],
+    [
+      0.000021,
+      "97m\u001b[40m 8\u001b[30m\u001b[46mRaw    \u001b[97m\u001b[40m 9\u001b[30m\u001b[46mFormat\u001b[1;94H"
+    ],
+    [
+      8.571229,
+      "\u001b[26;1H\u001b[39m\u001b[49mHint: To look at the output of a command in the viewer, use M-!\u001b[K\u001b[26;94H"
+    ],
+    [
+      0.000962,
+      "\u001b[1;1H\u001b[30m\u001b[46m  Left     File     Command     Options     Right\u001b[K\r\n\u001b[37m\u001b[44m┌\u003c─\u001b[30m\u001b[47m ~/Work/unn/mp2/mp2-lab1-bitfield \u001b[37m\u001b[44m────.[^]\u003e┐┌\u003c─ ~/Work/unn/mp2/mp2-lab1-bitfield ────.[^]\u003e┐\u001b[3;1H│\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m││\u001b[93m.n        Name          \u001b[37m│\u001b[93m Size  \u001b[37m│\u001b[93mModify time \u001b[37m│\u001b[4;1H│\u001b[97m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/..                     \u001b[37m│\u001b[97mUP--DIR\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[5;1H│\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m││\u001b[97m/.git                   \u001b[37m│\u001b[97m    442\u001b[37m│\u001b[97mSep 14 10:38\u001b[37m│\u001b[6;1H│\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[7;1H│\u001b[97m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97"
+    ],
+    [
+      0.000068,
+      "m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[8;1H│\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[9;1H│\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[10;1H│\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m││\u001b[97m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[37m│\u001b[11;1H│ .gitignore\u001b[13C│    242│Sep 14 10:36││ .gitignore\u001b[13C│    242│Sep 14 10:36│\u001b[12;1H│ .travis.yml\u001b[12C│    226│Sep 14 10:36││ .travis.yml\u001b[12C│    226│Sep 14 10:36│\u001b[13;1H│\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m││\u001b[33m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[37m│\u001b[14;1H│\u001b[30m\u001b[46m README.md      "
+    ],
+    [
+      0.000056,
+      "        │   1558│Sep 14 10:36\u001b[37m\u001b[44m││ README.md\u001b[14C│   1558│Sep 14 10:36│\u001b[15;1H│\u001b[24C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[16;1H│                        │       │            ││ \u001b[23C│\u001b[7C│\u001b[12C│\u001b[17;1H│\u001b[24C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[18;1H│                        │       │            ││                        │       │      \u001b[6C│\u001b[19;1H│                        │       │            ││                  \u001b[6C│\u001b[7C│\u001b[12C│\u001b[20;1H│                        │       │            ││                        │       │            │\u001b[21;1H│    \u001b[20C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[22;1H│\u001b[24C│\u001b[7C│\u001b[12C││\u001b[24C│\u001b[7C│\u001b[12C│\u001b[23;1H├─────────────────────────────────────────────┤├──────────────────────────────────────\ufffd"
+    ],
+    [
+      0.000019,
+      "\ufffd\ufffd──────┤\u001b[24;1H│ README.md\u001b[35C││UP--DIR\u001b[38C│\u001b[25;1H└──────────────────────────── 16G/112G (14%) ─┘└──────────────────────────── 16G/112G (14%) ─┘\u001b[27;1H\u001b[39m\u001b[49m~/Work/unn/mp2/mp2-lab1-bitfield (master)\u003e .OR                                             \u001b[37m\u001b[44m[^]\u001b[28;12H\u001b[30m\u001b[46mMenu   \u001b[97m\u001b[40m 3\u001b[30m\u001b[46mView\u001b[5CEdit\u001b[6CCopy\u001b[6CRenMov \u001b[97m\u001b[40m 7\u001b[30m\u001b[46mMkdir  \u001b[97m\u001b[40m 8\u001b[30m\u001b[46mDelete \u001b[97m\u001b[40m 9\u001b[30m\u001b[46mPullDn\u001b[27;47H"
+    ],
+    [
+      0.001380,
+      "\u001b]0;mc [kirill-kornyakov@kirbook]:~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b\u003e"
+    ],
+    [
+      0.000356,
+      "\u001b[39m\u001b[49mOR\u001b[43C\u001b[27;49H"
+    ],
+    [
+      3.125067,
+      "\u0008 \u001b[43C\u001b[27;48H"
+    ],
+    [
+      0.196697,
+      "\u0008 \u001b[44C\u001b[27;47H"
+    ],
+    [
+      0.159780,
+      "\u0008 \u001b[45C\u001b[27;46H"
+    ],
+    [
+      0.151546,
+      "\u0008 \u001b[46C\u001b[27;45H"
+    ],
+    [
+      0.240682,
+      "\u0008 \u001b[47C\u001b[27;44H"
+    ],
+    [
+      0.943849,
+      "\u001b[13;2H\u001b[30m\u001b[46m CMakeLists.txt         │   1084│Sep 14 10:36\u001b[14;2H\u001b[37m\u001b[44m README.md              │   1558│Sep 14 10:36\u001b[24;3HCMakeLists.txt\u001b[27;44H"
+    ],
+    [
+      0.160995,
+      "\u001b[12;2H\u001b[30m\u001b[46m .travis.yml            │    226│Sep 14 10:36\u001b[13;2H\u001b[33m\u001b[44m CMakeLists.txt         \u001b[37m│\u001b[33m   1084\u001b[37m│\u001b[33mSep 14 10:36\u001b[24;3H\u001b[37m.travis.yml   \u001b[27;44H"
+    ],
+    [
+      0.152001,
+      "\u001b[11;2H\u001b[30m\u001b[46m .gitignore             │    242│Sep 14 10:36\u001b[12;2H\u001b[37m\u001b[44m .travis.yml            │    226│Sep 14 10:36\u001b[24;4Hgitignore \u001b[27;44H"
+    ],
+    [
+      0.151701,
+      "\u001b[10;2H\u001b[30m\u001b[46m/test                   │    170│Sep 14 10:36\u001b[11;2H\u001b[37m\u001b[44m .gitignore             │    242│Sep 14 10:36\u001b[24;2H/test      \u001b[27;44H"
+    ],
+    [
+      2.128217,
+      "\u001b[9;2H\u001b[30m\u001b[46m/src                    │    136│Sep 14 10:36\u001b[10;2H\u001b[97m\u001b[44m/test                   \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[24;3H\u001b[37msrc \u001b[27;44H"
+    ],
+    [
+      0.183917,
+      "\u001b[8;2H\u001b[30m\u001b[46m/samples                │    136│Sep 14 10:36\u001b[9;2H\u001b[97m\u001b[44m/src                    \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[24;4H\u001b[37mamples\u001b[27;44H"
+    ],
+    [
+      0.151840,
+      "\u001b[7;2H\u001b[30m\u001b[46m/include                │    102│Sep 14 10:36\u001b[8;2H\u001b[97m\u001b[44m/samples                \u001b[37m│\u001b[97m    136\u001b[37m│\u001b[97mSep 14 10:36\u001b[24;3H\u001b[37minclude\u001b[27;44H"
+    ],
+    [
+      0.160195,
+      "\u001b[6;2H\u001b[30m\u001b[46m/gtest                  │    170│Sep 14 10:36\u001b[7;2H\u001b[97m\u001b[44m/include                \u001b[37m│\u001b[97m    102\u001b[37m│\u001b[97mSep 14 10:36\u001b[24;3H\u001b[37mgtest  \u001b[27;44H"
+    ],
+    [
+      0.550722,
+      "\u001b[6;2H\u001b[97m/gtest                  \u001b[37m│\u001b[97m    170\u001b[37m│\u001b[97mSep 14 10:36\u001b[7;2H\u001b[30m\u001b[46m/include                │    102│Sep 14 10:36\u001b[24;3H\u001b[37m\u001b[44minclude\u001b[27;44H"
+    ],
+    [
+      1.408391,
+      "\u001b[?1006l\u001b[?1002l\u001b[?1001r\u001b[?2004l"
+    ],
+    [
+      0.000200,
+      "\u001b[1;1H\u001b[39m\u001b[49m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1;94H"
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e\u001b[28;1H\u001b(B\u001b[m\u001b[39;49m\r\u001b[K\r\u001b[?1049l"
+    ],
+    [
+      0.000010,
+      "\u001b[?47l\u001b8\u001b[m"
+    ],
+    [
+      0.000052,
+      "\r\n~/Work/unn/mp2/mp2-lab1-bitfield (master)\u003e "
+    ],
+    [
+      0.000134,
+      " "
+    ],
+    [
+      0.000077,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.855797,
+      "c"
+    ],
+    [
+      0.135557,
+      "a"
+    ],
+    [
+      0.119444,
+      "t"
+    ],
+    [
+      0.072893,
+      " "
+    ],
+    [
+      0.295794,
+      "R"
+    ],
+    [
+      0.176096,
+      "E"
+    ],
+    [
+      0.176531,
+      "ADME.md "
+    ],
+    [
+      0.304276,
+      "\r\n"
+    ],
+    [
+      0.107655,
+      "# Методы программирования 2: Битовые поля\r\n\r\n[![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield.svg)](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield)\r\n\r\n\u003c!-- TODO\r\n\r\n  -\r\n\r\n  - Optional\r\n    -\r\n\r\n--\u003e\r\n\r\nИспользуемые инструменты:\r\n\r\n  - Система контроля версий [Git](https://git-scm.com/book/en/v2).\r\n  - [Google Test Framework](https://code.google.com/p/googletest).\r\n  - Утилита [CMake](http://www.cmake.org) для сборки исходных кодов.\r\n\r\n## Общая структура проекта\r\n\r\nСтрук"
+    ],
+    [
+      0.000019,
+      "тура проекта:\r\n\r\n  - `3rdparty` - библиотека Google Test.\r\n  - `include` - директория для размещения заголовочных файлов.\r\n  - `samples` - директория для размещения демо-приложений.\r\n  - `src` - директория с исходными кодами.\r\n  - `test` - директория с тестами.\r\n  - `.gitignore` - перечень файлов, игнорируемых Git.\r\n  - `.travis.yml` - конфигурационный файл для системы автоматического тестирования Travis-CI.\r\n  - `CMakeLists.txt` - корневой файл для сборки проекта с помощью CMake.\r\n  - `README.md` - информация о проекте, которую вы сейчас читаете.\r\n\r\n## Цели и задачи\r\n\r\n## Инструкция по выполнению работы\r\n"
+    ],
+    [
+      0.024938,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master)\u001b[0;32m\u003e \u001b"
+    ],
+    [
+      0.000010,
+      "[0m"
+    ],
+    [
+      1.546955,
+      "q"
+    ],
+    [
+      0.703397,
+      "\u0008\u001b[K"
+    ],
+    [
+      5.471888,
+      "v"
+    ],
+    [
+      0.015862,
+      "i"
+    ],
+    [
+      0.184487,
+      "m"
+    ],
+    [
+      0.496643,
+      " "
+    ],
+    [
+      0.327191,
+      "R"
+    ],
+    [
+      0.160567,
+      "E"
+    ],
+    [
+      0.191566,
+      "ADME.md "
+    ],
+    [
+      0.360046,
+      "\r\n"
+    ],
+    [
+      0.133788,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.003039,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\"README.md\""
+    ],
+    [
+      0.000330,
+      " 36L, 1558C"
+    ],
+    [
+      0.000662,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001938,
+      "\u001b[1;1H# Методы программирования 2: Битовые поля\r\n\r\n[![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield.svg)](https://traviss\u001b[4;1H-ci.org/UNN-VMK-Software/mp2-lab1-bitfield)\r\n\r\n\u003c!-- TODO\r\n\r\n  -\r\n\r\n  - Optional\r\n    -\r\n\r\n--\u003e\r\n\r\nИспользуемые инструменты:\r\n\r\n  - Система контроля версий [Git](https://git-scm.com/book/en/v2).\r\n  - [Google Test Framework](https://code.google.com/p/googletest).\r\n  - Утилита [CMake](http://www.cmake.org) для сборки исходных кодов.\r\n\r\n## Общая структура проекта\r\n\r\nСтруктура проекта:\r\n\r\n  - `3rdparty` - библиотека Google Test.\r\n  - `include` - директория для размещения заголовочных файлов.\r\n  - `samples` - директория для размещения демо-приложений.\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.420545,
+      "\r\n"
+    ],
+    [
+      3.972289,
+      "\u001b[?25l\r\n\u001b[106m[\u001b[77C]\u001b[m\u001b[14Css\u001b[4;1H-\u001b[3;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096541,
+      "\u001b[?25l[\u001b[77C]\u001b[14Css\u001b[4;1H-\r\n\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142828,
+      "\r\n"
+    ],
+    [
+      0.144824,
+      "\r\n"
+    ],
+    [
+      0.136567,
+      "\r\n"
+    ],
+    [
+      0.255698,
+      " "
+    ],
+    [
+      0.151159,
+      " "
+    ],
+    [
+      0.152260,
+      "\u0007"
+    ],
+    [
+      0.151948,
+      "\u0007"
+    ],
+    [
+      0.488231,
+      "\r\n"
+    ],
+    [
+      0.872216,
+      "\u001b[8;3H"
+    ],
+    [
+      1.144060,
+      "\u001b[?25l\u001b[28;1H\u001b[1m-- INSERT --\u001b[m\u001b[28;13H\u001b[K\u001b[8;3H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.564250,
+      "-"
+    ],
+    [
+      0.467659,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.471104,
+      "\u001b[?25l\u0008 D\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.112878,
+      "\u001b[?25l\u0008Do\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.519929,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144411,
+      "\u001b[?25l\u0008 s\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127839,
+      "\u001b[?25l\u0008so\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192108,
+      "\u001b[?25l\u0008om\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087611,
+      "\u001b[?25l\u0008me\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128903,
+      "\u001b[?25l\u0008et\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095583,
+      "\u001b[?25l\u0008th\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143771,
+      "\u001b[?25l\u0008hi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.214826,
+      "\u001b[?25l\u0008in\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.098106,
+      "\u001b[?25l\u0008ng\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.087262,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.190960,
+      "\u001b[?25l\u0008 1\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.453624,
+      "\u001b[?25l\u001b[9;27r\u001b[9;1H\u001b[L\u001b[1;28r\u001b[9;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.584386,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155025,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150590,
+      "\u001b[?25l\u0008 -\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.364708,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.524021,
+      "\u001b[?25l\u0008 D\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151358,
+      "\u001b[?25l\u0008Do\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180305,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.385608,
+      "\u001b[?25l\u0008 s\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106091,
+      "\u001b[?25l\u0008so\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.217114,
+      "\u001b[?25l\u0008om\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.062947,
+      "\u001b[?25l\u0008me\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178122,
+      "\u001b[?25l\u0008et\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093814,
+      "\u001b[?25l\u0008th\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159777,
+      "\u001b[?25l\u0008hi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.185254,
+      "\u001b[?25l\u0008in\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095125,
+      "\u001b[?25l\u0008ng\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.265006,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158666,
+      "\u001b[?25l\u0008 a\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104863,
+      "\u001b[?25l\u0008ag\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104096,
+      "\u001b[?25l\u0008ga\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151831,
+      "\u001b[?25l\u0008ai\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192099,
+      "\u001b[?25l\u0008in\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.789361,
+      "\u001b[28;1H\u001b[K\u001b[9;22H"
+    ],
+    [
+      1.005281,
+      "\u001b[?25l"
+    ],
+    [
+      0.000430,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.604068,
+      "\u001b[?25l\u001b[28;1H:"
+    ],
+    [
+      0.000009,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.889024,
+      "w"
+    ],
+    [
+      0.183970,
+      "q"
+    ],
+    [
+      0.623923,
+      "!"
+    ],
+    [
+      0.280563,
+      "\r"
+    ],
+    [
+      0.000180,
+      "\u001b[?25l"
+    ],
+    [
+      0.000142,
+      "\"README.md\""
+    ],
+    [
+      0.107054,
+      " 37L, 1596C written"
+    ],
+    [
+      0.007604,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.034193,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.061942,
+      "c"
+    ],
+    [
+      0.124064,
+      "a"
+    ],
+    [
+      0.120173,
+      "t"
+    ],
+    [
+      0.247427,
+      " "
+    ],
+    [
+      0.480312,
+      "R"
+    ],
+    [
+      0.152257,
+      "E"
+    ],
+    [
+      0.208085,
+      "ADME.md "
+    ],
+    [
+      0.271881,
+      "\r\n"
+    ],
+    [
+      0.003978,
+      "# Методы программирования 2: Битовые поля\r\n\r\n[![Build Status](https://travis-ci.org/UNN-VMK-Sof"
+    ],
+    [
+      0.000014,
+      "tware/mp2-lab1-bitfield.svg)](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield)\r\n\r\n\u003c!-- TODO\r\n\r\n  - Do something 1\r\n  - Do something again\r\n\r\n  - Optional\r\n    -\r\n\r\n--\u003e\r\n\r\nИспользуемые инструменты:\r\n\r\n  - Система контроля версий [Git](https://git-scm.com/book/en/v2).\r\n  - [Google Test Framework](https://code.google.com/p/googletest).\r\n  - Утилита [CMake](http://www.cmake.org) для сборки исходных кодов.\r\n\r\n## Общая структура проекта\r\n\r\nСтруктура проекта:\r\n\r\n  - `3rdparty` - библиотека Google Test.\r\n  - `include` - директория для размещения заголовочных файлов.\r\n  - `samples` - директор"
+    ],
+    [
+      0.000016,
+      "ия для размещения демо-приложений.\r\n  - `src` - директория с исходными кода"
+    ],
+    [
+      0.000060,
+      "ми.\r\n  - `test` - директория с тестами.\r\n  - `.gitignore` - перечень файлов, игнорируемых Git.\r\n  - `.travis.yml` - конфигурационный файл для системы автоматического тестирования Travis-CI.\r\n  - `CMakeLists.txt` - корневой файл для сборки проекта с помощью CMake.\r\n  - `README.md` - информация о проекте, которую вы сейчас читаете.\r\n\r\n## Цели и задачи\r\n\r\n## Инструкция по выполнению работы\r\n"
+    ],
+    [
+      0.027423,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.704425,
+      "h"
+    ],
+    [
+      0.063792,
+      "e"
+    ],
+    [
+      0.144267,
+      "a"
+    ],
+    [
+      0.407668,
+      "\u0007"
+    ],
+    [
+      0.920826,
+      "d"
+    ],
+    [
+      0.143398,
+      " "
+    ],
+    [
+      0.295151,
+      "R"
+    ],
+    [
+      0.168034,
+      "E"
+    ],
+    [
+      0.168006,
+      "ADME.md "
+    ],
+    [
+      0.281987,
+      "\r\n"
+    ],
+    [
+      0.006822,
+      "# Методы программирования 2: Битовые поля\r\n\r\n[![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield.svg)](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-bitfield)\r\n\r\n\u003c!-- TODO\r\n\r\n  - Do something 1\r\n  - "
+    ],
+    [
+      0.000011,
+      "Do something again\r\n\r\n  - Optional\r\n"
+    ],
+    [
+      0.024257,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.858228,
+      "\u001b[H\u001b[2J\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b["
+    ],
+    [
+      0.000010,
+      "0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.740351,
+      "l"
+    ],
+    [
+      0.087978,
+      "s"
+    ],
+    [
+      0.159748,
+      "\r\n"
+    ],
+    [
+      0.003274,
+      "CMakeLists.txt\tgtest\t\tsamples\t\ttest\r\nREADME.md\tinclude\t\tsrc\r\n"
+    ],
+    [
+      0.121798,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      5.516537,
+      "t"
+    ],
+    [
+      0.121020,
+      "p"
+    ],
+    [
+      0.007096,
+      "o"
+    ],
+    [
+      0.192589,
+      "u"
+    ],
+    [
+      0.449016,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134919,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112203,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.679874,
+      "o"
+    ],
+    [
+      0.215799,
+      "u"
+    ],
+    [
+      0.619171,
+      "c"
+    ],
+    [
+      0.116378,
+      "h"
+    ],
+    [
+      0.152958,
+      " "
+    ],
+    [
+      0.671597,
+      "m"
+    ],
+    [
+      0.400303,
+      "y"
+    ],
+    [
+      0.415887,
+      "-"
+    ],
+    [
+      0.640260,
+      "f"
+    ],
+    [
+      0.079411,
+      "i"
+    ],
+    [
+      0.168223,
+      "l"
+    ],
+    [
+      0.103732,
+      "e"
+    ],
+    [
+      1.232352,
+      "."
+    ],
+    [
+      0.336429,
+      "t"
+    ],
+    [
+      0.096032,
+      "x"
+    ],
+    [
+      0.056589,
+      "t"
+    ],
+    [
+      0.830848,
+      "\r\n"
+    ],
+    [
+      0.029989,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      2.474099,
+      "v"
+    ],
+    [
+      0.155555,
+      "i"
+    ],
+    [
+      0.220369,
+      "m"
+    ],
+    [
+      0.232467,
+      " "
+    ],
+    [
+      0.455930,
+      "m"
+    ],
+    [
+      0.207864,
+      "y"
+    ],
+    [
+      0.103964,
+      "-file.txt "
+    ],
+    [
+      0.838861,
+      "\r\n"
+    ],
+    [
+      0.007493,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.002198,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\"my-file.txt\""
+    ],
+    [
+      0.000049,
+      " 0L, 0C"
+    ],
+    [
+      0.000412,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000589,
+      "\u001b[2;1H\u001b[94m~                                                                                             \u001b[3;1H~                "
+    ],
+    [
+      0.000013,
+      "                                                                             \u001b[4;1H~                                                                                             \u001b[5;1H~                                                                                             \u001b[6;1H~                                                                                             \u001b[7;1H~                                                                                             \u001b[8;1H~                            "
+    ],
+    [
+      0.000012,
+      "                                                                 \u001b[9;1H~                                                                                             \u001b[10;1H~                                                                                             \u001b[11;1H~                                                                                             \u001b[12;1H~         "
+    ],
+    [
+      0.000294,
+      "                                                                                    \u001b[13;1H~                                                                                             \u001b[14;1H~                                                                                             \u001b[15;1H~                                                                                             \u001b[16;1H~                                                                                             \u001b[17;1H~                                                                                             \u001b[18;1H~                                                                                             \u001b[19;1H~                                                                                             \u001b[20;1H~                                                                                             \u001b[21;1H~                                                                                             \u001b[22;1H~                       "
+    ],
+    [
+      0.000091,
+      "                                                                      \u001b[23;1H~                                                                                             \u001b[24;1H~                                                                                             \u001b[25;1H~                                                                                             \u001b[26;1H~                                                                                             \u001b[27;1H~                                                                                             \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.566116,
+      "\u0007"
+    ],
+    [
+      0.104029,
+      "\u0007"
+    ],
+    [
+      0.156178,
+      "\u0007"
+    ],
+    [
+      0.147980,
+      "\u001b[?25l\u001b[m\u001b[28;1H\u001b[1m-- INSERT --\u001b[m\u001b[28;13H\u001b[K"
+    ],
+    [
+      0.000295,
+      "\u001b[2;1H\u001b[K\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.391642,
+      "\u001b[?25l\u001b[94m~                                                                                             \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.750860,
+      "\u001b[?25l\u001b[mi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.760201,
+      "\u001b[?25l\u001b[1;1H\u001b[K\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.736525,
+      "\u001b[?25lH\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176387,
+      "\u001b[?25l\u0008He\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.503025,
+      "\u001b[?25l\u0008el\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.144105,
+      "\u001b[?25l\u0008ll\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184726,
+      "\u001b[?25l\u0008lo\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.847588,
+      "\u001b[?25l\u0008o,\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063892,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151690,
+      "\u001b[?25l\u0008 t\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080768,
+      "\u001b[?25l\u0008th\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143607,
+      "\u001b[?25l\u0008hi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.080711,
+      "\u001b[?25l\u0008is\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.208046,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167651,
+      "\u001b[?25l\u0008 i\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.063368,
+      "\u001b[?25l\u0008is\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.184391,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.343277,
+      "\u001b[?25l\u0008 m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200765,
+      "\u001b[?25l\u0008my\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132490,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.387457,
+      "\u001b[?25l\u0008 f\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119338,
+      "\u001b[?25l\u0008fi\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161402,
+      "\u001b[?25l\u0008il\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088247,
+      "\u001b[?25l\u0008le\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.622701,
+      "\u001b[?25l\u0008e!\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.560685,
+      "\u001b[?25l\u001b[2;1H\u001b[K\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.851092,
+      "\u001b[28;1H\u001b[K\u001b[2;1H"
+    ],
+    [
+      0.563589,
+      "\u001b[?25l"
+    ],
+    [
+      0.000048,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[28;1H:"
+    ],
+    [
+      0.000024,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.903894,
+      "w"
+    ],
+    [
+      0.079809,
+      "q"
+    ],
+    [
+      0.520593,
+      "!"
+    ],
+    [
+      0.217285,
+      "\r"
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000142,
+      "\"my-file.txt\""
+    ],
+    [
+      0.002650,
+      " 2L, 25C written"
+    ],
+    [
+      0.002003,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.036150,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.670251,
+      "H"
+    ],
+    [
+      0.104074,
+      "E"
+    ],
+    [
+      0.207685,
+      "A"
+    ],
+    [
+      0.316273,
+      "\u0007"
+    ],
+    [
+      1.563801,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176160,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111680,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.480149,
+      "h"
+    ],
+    [
+      0.055720,
+      "e"
+    ],
+    [
+      0.143967,
+      "a"
+    ],
+    [
+      0.143435,
+      "d"
+    ],
+    [
+      0.289179,
+      " "
+    ],
+    [
+      0.247252,
+      "m"
+    ],
+    [
+      0.223807,
+      "y"
+    ],
+    [
+      0.095890,
+      "-file.txt "
+    ],
+    [
+      0.616767,
+      "\r\n"
+    ],
+    [
+      0.003836,
+      "Hello, this is my file!\r\n\r\n"
+    ],
+    [
+      0.125861,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      3.833881,
+      "g"
+    ],
+    [
+      0.032845,
+      "i"
+    ],
+    [
+      0.087736,
+      "t"
+    ],
+    [
+      0.079786,
+      " "
+    ],
+    [
+      0.450685,
+      "s"
+    ],
+    [
+      0.069702,
+      "t"
+    ],
+    [
+      0.104071,
+      "a"
+    ],
+    [
+      0.198990,
+      "t"
+    ],
+    [
+      0.103926,
+      "u"
+    ],
+    [
+      0.096975,
+      "s"
+    ],
+    [
+      0.257210,
+      "\r\n"
+    ],
+    [
+      0.006564,
+      "On branch master\r\n"
+    ],
+    [
+      0.000416,
+      "Your branch is up-to-date with 'origin/master'.\r\nChanges not staged for commit:\r\n"
+    ],
+    [
+      0.000010,
+      "  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\" to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.100128,
+      "\t\u001b[31mmodified:   README.md\u001b[m\r\n\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n\t\u001b[31mmy-file.txt\u001b[m\r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.025521,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      4.218103,
+      "g"
+    ],
+    [
+      0.136478,
+      "i"
+    ],
+    [
+      0.087960,
+      "t"
+    ],
+    [
+      5.029950,
+      " "
+    ],
+    [
+      0.164366,
+      "c"
+    ],
+    [
+      0.196163,
+      "o"
+    ],
+    [
+      0.264142,
+      "m"
+    ],
+    [
+      0.111278,
+      "m"
+    ],
+    [
+      0.184138,
+      "i"
+    ],
+    [
+      0.088922,
+      "t"
+    ],
+    [
+      0.488176,
+      " "
+    ],
+    [
+      0.215590,
+      "-"
+    ],
+    [
+      0.708836,
+      "a"
+    ],
+    [
+      0.426090,
+      "\u0008\u001b[K"
+    ],
+    [
+      2.568496,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.704710,
+      "-"
+    ],
+    [
+      0.360059,
+      "m"
+    ],
+    [
+      0.214923,
+      " "
+    ],
+    [
+      0.872899,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.460491,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138576,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.298781,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      1.077566,
+      "a"
+    ],
+    [
+      0.177074,
+      "d"
+    ],
+    [
+      0.159545,
+      "d"
+    ],
+    [
+      0.182931,
+      " "
+    ],
+    [
+      0.417080,
+      "R"
+    ],
+    [
+      0.152139,
+      "E"
+    ],
+    [
+      0.234823,
+      "ADME.md"
+    ],
+    [
+      0.804360,
+      "\r\n"
+    ],
+    [
+      0.034094,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.688779,
+      "g"
+    ],
+    [
+      0.101270,
+      "i"
+    ],
+    [
+      0.073253,
+      "t"
+    ],
+    [
+      0.094932,
+      " "
+    ],
+    [
+      0.144324,
+      "c"
+    ],
+    [
+      0.086936,
+      "o"
+    ],
+    [
+      0.480541,
+      "m"
+    ],
+    [
+      0.128566,
+      "m"
+    ],
+    [
+      0.223661,
+      "i"
+    ],
+    [
+      0.096625,
+      "t"
+    ],
+    [
+      0.215666,
+      " "
+    ],
+    [
+      1.310762,
+      "-"
+    ],
+    [
+      0.145347,
+      "a"
+    ],
+    [
+      0.120076,
+      " "
+    ],
+    [
+      0.336031,
+      "\""
+    ],
+    [
+      0.158713,
+      "\""
+    ],
+    [
+      0.233009,
+      "\u0008"
+    ],
+    [
+      0.664886,
+      "U\"\u0008"
+    ],
+    [
+      0.191794,
+      "p\"\u0008"
+    ],
+    [
+      0.103128,
+      "d\"\u0008"
+    ],
+    [
+      0.136900,
+      "a\"\u0008"
+    ],
+    [
+      0.120086,
+      "t\"\u0008"
+    ],
+    [
+      0.086533,
+      "e\"\u0008"
+    ],
+    [
+      0.137164,
+      " \"\u0008"
+    ],
+    [
+      0.440420,
+      "R\"\u0008"
+    ],
+    [
+      0.182432,
+      "E\"\u0008"
+    ],
+    [
+      0.121064,
+      "A\"\u0008"
+    ],
+    [
+      0.102866,
+      "D\"\u0008"
+    ],
+    [
+      0.305118,
+      "M\"\u0008"
+    ],
+    [
+      0.104071,
+      "E\"\u0008"
+    ],
+    [
+      0.951302,
+      "\r\n"
+    ],
+    [
+      0.007991,
+      "fatal: Paths with -a does not make sense.\r\n"
+    ],
+    [
+      0.027718,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.091491,
+      "g"
+    ],
+    [
+      0.089021,
+      "i"
+    ],
+    [
+      0.159551,
+      " "
+    ],
+    [
+      0.264461,
+      "s"
+    ],
+    [
+      0.639231,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136247,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.360572,
+      "t"
+    ],
+    [
+      0.175584,
+      " "
+    ],
+    [
+      0.296318,
+      "s"
+    ],
+    [
+      0.184293,
+      "t"
+    ],
+    [
+      0.087264,
+      "a"
+    ],
+    [
+      0.191864,
+      "t"
+    ],
+    [
+      0.120139,
+      "u"
+    ],
+    [
+      0.088350,
+      "s"
+    ],
+    [
+      0.223820,
+      "\r\n"
+    ],
+    [
+      0.006411,
+      "On branch master\r\n"
+    ],
+    [
+      0.000369,
+      "Your branch is up-to-date with 'origin/master'.\r\nChanges to be committed:\r\n  (use \"git reset HEAD \u003cfile\u003e...\" to unstage)\r\n\r\n\t\u001b[32mmodified:   README.md\u001b[m\r\n\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n\t\u001b[31mmy-file.txt\u001b[m\r\n\r\n"
+    ],
+    [
+      0.023016,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      8.503066,
+      "git status"
+    ],
+    [
+      0.161663,
+      "\u0008\u0008\u0008\u0008\u0008\u0008commit -a \"Update README\""
+    ],
+    [
+      0.615117,
+      "\u0008"
+    ],
+    [
+      0.502869,
+      "\u0008"
+    ],
+    [
+      0.017848,
+      "\u0008"
+    ],
+    [
+      0.016083,
+      "\u0008"
+    ],
+    [
+      0.016363,
+      "\u0008"
+    ],
+    [
+      0.032244,
+      "\u0008"
+    ],
+    [
+      0.000909,
+      "\u0008"
+    ],
+    [
+      0.032750,
+      "\u0008"
+    ],
+    [
+      0.028169,
+      "\u0008"
+    ],
+    [
+      0.011868,
+      "\u0008"
+    ],
+    [
+      0.026565,
+      "\u0008"
+    ],
+    [
+      0.016419,
+      "\u0008"
+    ],
+    [
+      0.007884,
+      "\u0008"
+    ],
+    [
+      0.232568,
+      "\u0008"
+    ],
+    [
+      0.136738,
+      "\u0008"
+    ],
+    [
+      0.128062,
+      "\u0008"
+    ],
+    [
+      0.587688,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.098007,
+      "\u001b[1@m"
+    ],
+    [
+      0.287141,
+      "\r\n"
+    ],
+    [
+      0.040427,
+      "[master 7eb6f42] Update README\r\n"
+    ],
+    [
+      0.000092,
+      " 1 file changed, 2 insertions(+), 1 deletion(-)\r\n"
+    ],
+    [
+      0.026306,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      2.913189,
+      "g"
+    ],
+    [
+      0.103551,
+      "i"
+    ],
+    [
+      0.136157,
+      "t"
+    ],
+    [
+      0.479929,
+      " "
+    ],
+    [
+      0.023404,
+      "s"
+    ],
+    [
+      1.000763,
+      "t"
+    ],
+    [
+      0.304081,
+      "a"
+    ],
+    [
+      0.409231,
+      "t"
+    ],
+    [
+      0.142488,
+      "u"
+    ],
+    [
+      0.103429,
+      "s"
+    ],
+    [
+      0.255641,
+      "\r\n"
+    ],
+    [
+      0.007034,
+      "On branch master\r\n"
+    ],
+    [
+      0.000519,
+      "Your branch is ahead of 'origin/master' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\nUntracked files:\r\n  (use \"git add \u003cfile\u003e...\" to include in what will be committed)\r\n\r\n"
+    ],
+    [
+      0.000010,
+      "\t\u001b[31mmy-file.txt\u001b[m\r\n\r\nnothing added to commit but untracked files present (use \"git add\" to track)\r\n"
+    ],
+    [
+      0.032039,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.217803,
+      "g"
+    ],
+    [
+      0.152101,
+      "i"
+    ],
+    [
+      0.057640,
+      "t"
+    ],
+    [
+      0.141270,
+      " "
+    ],
+    [
+      0.137446,
+      "a"
+    ],
+    [
+      0.216286,
+      "d"
+    ],
+    [
+      0.191346,
+      " "
+    ],
+    [
+      0.455871,
+      "m"
+    ],
+    [
+      0.217120,
+      "y"
+    ],
+    [
+      0.073212,
+      "-file.txt"
+    ],
+    [
+      0.540984,
+      "\r\n"
+    ],
+    [
+      0.018235,
+      "git: 'ad' is not a git command. See 'git --help'.\r\n\r\nDid you mean one of these?\r\n\tadd\r\n\tam\r\n"
+    ],
+    [
+      0.024739,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.749245,
+      "git ad my-file.txt"
+    ],
+    [
+      0.223254,
+      "\u0008"
+    ],
+    [
+      0.144984,
+      "\u0008"
+    ],
+    [
+      0.111971,
+      "\u0008"
+    ],
+    [
+      0.500249,
+      "\u0008"
+    ],
+    [
+      0.021173,
+      "\u0008"
+    ],
+    [
+      0.012990,
+      "\u0008"
+    ],
+    [
+      0.018584,
+      "\u0008"
+    ],
+    [
+      0.015166,
+      "\u0008"
+    ],
+    [
+      0.016624,
+      "\u0008"
+    ],
+    [
+      0.016968,
+      "\u0008"
+    ],
+    [
+      0.024449,
+      "\u0008"
+    ],
+    [
+      0.010808,
+      "\u0008"
+    ],
+    [
+      0.022612,
+      "\u0008"
+    ],
+    [
+      0.452659,
+      "\u001b[C"
+    ],
+    [
+      0.151086,
+      "d my-file.txt\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.264552,
+      "\r\n"
+    ],
+    [
+      0.031034,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.065251,
+      "l"
+    ],
+    [
+      0.152158,
+      "d"
+    ],
+    [
+      0.167641,
+      "\r\n"
+    ],
+    [
+      0.011917,
+      "ld: warning: -arch not specified\r\nld: warning: -macosx_version_min not specified, assuming 10.10\r\n"
+    ],
+    [
+      0.000805,
+      "ld: no object files specified for inferred architecture x86_64\r\n"
+    ],
+    [
+      0.025588,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.721505,
+      "l"
+    ],
+    [
+      0.079439,
+      "s"
+    ],
+    [
+      0.128828,
+      "\r\n"
+    ],
+    [
+      0.004781,
+      "CMakeLists.txt\tgtest\t\tmy-file.txt\tsrc\r\nREADME.md\tinclude\t\tsamples\t\ttest\r\n"
+    ],
+    [
+      0.025019,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      12.818006,
+      "g"
+    ],
+    [
+      0.008153,
+      "i"
+    ],
+    [
+      0.068710,
+      "t"
+    ],
+    [
+      0.104603,
+      " "
+    ],
+    [
+      0.104576,
+      "s"
+    ],
+    [
+      0.191286,
+      "t"
+    ],
+    [
+      0.584438,
+      "a"
+    ],
+    [
+      0.224101,
+      "t"
+    ],
+    [
+      0.095970,
+      "u"
+    ],
+    [
+      0.111956,
+      "s"
+    ],
+    [
+      0.174943,
+      "\r\n"
+    ],
+    [
+      0.007140,
+      "On branch master\r\n"
+    ],
+    [
+      0.000395,
+      "Your branch is ahead of 'origin/master' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\nChanges to be committed:\r\n  (use \"git reset HEAD \u003cfile\u003e...\" to unstage)\r\n\r\n"
+    ],
+    [
+      0.000466,
+      "\t\u001b[32mnew file:   my-file.txt\u001b[m\r\n\r\n"
+    ],
+    [
+      0.124734,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      1.020419,
+      "g"
+    ],
+    [
+      0.126930,
+      "i"
+    ],
+    [
+      0.081057,
+      "t"
+    ],
+    [
+      0.199934,
+      " "
+    ],
+    [
+      0.118784,
+      "c"
+    ],
+    [
+      0.145063,
+      "i"
+    ],
+    [
+      0.096810,
+      " "
+    ],
+    [
+      0.575126,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.152008,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.368061,
+      "o"
+    ],
+    [
+      0.208237,
+      "m"
+    ],
+    [
+      0.128563,
+      "m"
+    ],
+    [
+      0.151440,
+      "i"
+    ],
+    [
+      0.079696,
+      "t"
+    ],
+    [
+      0.223025,
+      " "
+    ],
+    [
+      0.176851,
+      "-"
+    ],
+    [
+      1.023940,
+      "m"
+    ],
+    [
+      0.129199,
+      " "
+    ],
+    [
+      0.279147,
+      "\""
+    ],
+    [
+      0.159762,
+      "\""
+    ],
+    [
+      0.239387,
+      "\u0008"
+    ],
+    [
+      0.264941,
+      "A\"\u0008"
+    ],
+    [
+      0.144801,
+      "d\"\u0008"
+    ],
+    [
+      0.128164,
+      "d\"\u0008"
+    ],
+    [
+      0.303830,
+      " \"\u0008"
+    ],
+    [
+      0.375432,
+      "m\"\u0008"
+    ],
+    [
+      0.207134,
+      "y\"\u0008"
+    ],
+    [
+      0.135930,
+      " \"\u0008"
+    ],
+    [
+      0.169687,
+      "f\"\u0008"
+    ],
+    [
+      0.136559,
+      "i\"\u0008"
+    ],
+    [
+      0.183814,
+      "l\"\u0008"
+    ],
+    [
+      0.069889,
+      "e\"\u0008"
+    ],
+    [
+      0.744574,
+      "\r\n"
+    ],
+    [
+      0.130229,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.020732,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      8.503525,
+      "v"
+    ],
+    [
+      0.024078,
+      "i"
+    ],
+    [
+      0.192640,
+      "m"
+    ],
+    [
+      0.536230,
+      " "
+    ],
+    [
+      0.327907,
+      "m"
+    ],
+    [
+      0.207894,
+      "y"
+    ],
+    [
+      0.080219,
+      "-file.txt "
+    ],
+    [
+      0.527934,
+      "\r\n"
+    ],
+    [
+      0.009201,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.002128,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\"my-file.txt\""
+    ],
+    [
+      0.000054,
+      " 2L, 25C"
+    ],
+    [
+      0.000267,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000536,
+      "\u001b[1;1HHello, this is my file!\r\n\r\n\u001b[94m~                                                                                         "
+    ],
+    [
+      0.000009,
+      "    \u001b[4;1H~                                                                                             \u001b[5;1H~                                                                                             \u001b[6;1H~                                                                                             \u001b[7;1H~                                                                         "
+    ],
+    [
+      0.000009,
+      "                    \u001b[8;1H~                                                                                             \u001b[9;1H~                                                                                             \u001b[10;1H~                            "
+    ],
+    [
+      0.000005,
+      "                                                                 \u001b[11;1H~                                                       "
+    ],
+    [
+      0.000004,
+      "                                      \u001b[12;1H~                                                                                  "
+    ],
+    [
+      0.000086,
+      "           \u001b[13;1H~                                                                                             \u001b[14;1H~                                                                                             \u001b[15;1H~                                                                                             \u001b[16;1H~                                                                                             \u001b[17;1H~                                                                                             \u001b[18;1H~                                                                                             \u001b[19;1H~                                                                                             \u001b[20;1H~                                                                                             \u001b[21;1H~                                                                                             \u001b[22;1H~                                                                                             \u001b[2"
+    ],
+    [
+      0.000008,
+      "3;1H~                                                                                             \u001b[24;1H~                                                                                             \u001b[25;1H~                                              "
+    ],
+    [
+      0.000005,
+      "                                               \u001b[26;1H~                                                                         "
+    ],
+    [
+      0.000005,
+      "                    \u001b[27;1H~                                                                                             \u001b[1;1H\u001b"
+    ],
+    [
+      0.000004,
+      "[?12l\u001b[?25h"
+    ],
+    [
+      0.868321,
+      "\r\n"
+    ],
+    [
+      0.349269,
+      "\u001b[1;23H"
+    ],
+    [
+      1.186088,
+      "\u0007"
+    ],
+    [
+      1.016140,
+      "\u001b[?25l\u001b[m\u001b[28;1H\u001b[1m-- INSERT --\u001b[m\u001b[28;13H\u001b[K\u001b[1;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.775932,
+      "!"
+    ],
+    [
+      0.544811,
+      "\u001b[?25l\r\n\u001b[94m~                                                                                             \u001b[1;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.443032,
+      "\u001b[m\u001b[28;1H\u001b[K\u001b[1;23H"
+    ],
+    [
+      0.723763,
+      "\u001b[?25l"
+    ],
+    [
+      0.000339,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[28;1H:"
+    ],
+    [
+      0.000027,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.903809,
+      "w"
+    ],
+    [
+      0.071864,
+      "q"
+    ],
+    [
+      0.600360,
+      "!"
+    ],
+    [
+      0.352499,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\u001b[?25l"
+    ],
+    [
+      0.000197,
+      "\"my-file.txt\""
+    ],
+    [
+      0.002704,
+      " 1L, 24C written"
+    ],
+    [
+      0.001407,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.033311,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.666593,
+      "vim my-file.txt "
+    ],
+    [
+      0.199759,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git commit -m \"Add my file\""
+    ],
+    [
+      0.562750,
+      "\r\n"
+    ],
+    [
+      0.031557,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.027410,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      9.076443,
+      "git commit -m \"Add my file\""
+    ],
+    [
+      0.216119,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[11Pvim my-file.txt "
+    ],
+    [
+      0.511080,
+      "\r\n"
+    ],
+    [
+      0.026311,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.003256,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\"my-file.txt\""
+    ],
+    [
+      0.000286,
+      " 1L, 24C"
+    ],
+    [
+      0.000456,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001876,
+      "\u001b[1;1HHello, this is my file!\r\n\u001b[94m~                                                                                             \u001b[3;1H~                                                                                             \u001b[4;1H~                                                                                             \u001b[5;1H~                                               "
+    ],
+    [
+      0.000016,
+      "                                              \u001b[6;1H~                                                                                             \u001b[7;1H~                                                                                             \u001b[8;1H~                                                                                             \u001b[9;1H~                                                                                             \u001b[10;1H~                                                                                             \u001b[11;1H~                                                                                     "
+    ],
+    [
+      0.000089,
+      "        \u001b[12;1H~                                                                                             \u001b[13;1H~                                                                                             \u001b[14;1H~                                                                                             \u001b[15;1H~                                                                                             \u001b[16;1H~                                                                                             \u001b[17;1H~                                                                                             \u001b[18;1H~                                                                                             \u001b[19;1H~                                                                                             \u001b[20;1H~                                                                                             \u001b[21;1H~                                                                                             "
+    ],
+    [
+      0.000037,
+      "\u001b[22;1H~                                                                                             \u001b[23;1H~                   "
+    ],
+    [
+      0.000011,
+      "                                                                          \u001b[24;1H~                                                                                             \u001b[25;1H~                                                                         "
+    ],
+    [
+      0.000006,
+      "                    \u001b[26;1H~                                                                                             \u001b[27;1H~                                                                                             \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.009263,
+      "\u0007"
+    ],
+    [
+      2.015074,
+      "\u001b[?25l\u001b[m\u001b[28;1H\u001b[1m-- INSERT --\u001b[m\u001b[28;13H\u001b[K"
+    ],
+    [
+      0.000013,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.526918,
+      "\u0007"
+    ],
+    [
+      0.831691,
+      "H"
+    ],
+    [
+      0.500864,
+      "e"
+    ],
+    [
+      0.018360,
+      "l"
+    ],
+    [
+      0.017083,
+      "l"
+    ],
+    [
+      0.016720,
+      "o"
+    ],
+    [
+      0.022389,
+      ","
+    ],
+    [
+      0.017933,
+      " "
+    ],
+    [
+      0.017313,
+      "t"
+    ],
+    [
+      0.019771,
+      "h"
+    ],
+    [
+      0.011838,
+      "i"
+    ],
+    [
+      0.018179,
+      "s"
+    ],
+    [
+      0.015104,
+      " "
+    ],
+    [
+      0.017576,
+      "i"
+    ],
+    [
+      0.017457,
+      "s"
+    ],
+    [
+      0.016789,
+      " "
+    ],
+    [
+      0.017819,
+      "m"
+    ],
+    [
+      0.023151,
+      "y"
+    ],
+    [
+      0.014198,
+      " "
+    ],
+    [
+      0.013506,
+      "f"
+    ],
+    [
+      0.020971,
+      "i"
+    ],
+    [
+      0.014335,
+      "l"
+    ],
+    [
+      0.018442,
+      "e"
+    ],
+    [
+      0.017668,
+      "!"
+    ],
+    [
+      0.014297,
+      "\u0007"
+    ],
+    [
+      0.017088,
+      "\u0007"
+    ],
+    [
+      0.017661,
+      "\u0007"
+    ],
+    [
+      0.016677,
+      "\u0007"
+    ],
+    [
+      0.018466,
+      "\u0007"
+    ],
+    [
+      1.378820,
+      "\u0007"
+    ],
+    [
+      2.581879,
+      "\u0007"
+    ],
+    [
+      0.948151,
+      "\u001b[?25l\u001b[1;23H\u001b[K\u001b[1;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.092210,
+      "\u0007"
+    ],
+    [
+      0.407130,
+      "\u0007"
+    ],
+    [
+      0.906508,
+      "\u001b[?25l\u0008e!\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.541053,
+      "\u001b[28;1H\u001b[K\u001b[1;23H"
+    ],
+    [
+      0.552435,
+      "\u001b[?25l"
+    ],
+    [
+      0.000498,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[28;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.502702,
+      "w"
+    ],
+    [
+      0.065764,
+      "q"
+    ],
+    [
+      0.443113,
+      "!"
+    ],
+    [
+      0.325583,
+      "\r"
+    ],
+    [
+      0.000888,
+      "\u001b[?25l"
+    ],
+    [
+      0.000214,
+      "\"my-file.txt\""
+    ],
+    [
+      0.003270,
+      " 1L, 24C written"
+    ],
+    [
+      0.002159,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.043836,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.996774,
+      "vim my-file.txt "
+    ],
+    [
+      0.192485,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git commit -m \"Add my file\""
+    ],
+    [
+      0.647527,
+      "\r\n"
+    ],
+    [
+      0.038509,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.022143,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      10.604950,
+      "git commit -m \"Add my file\""
+    ],
+    [
+      0.529835,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[11Pvim my-file.txt "
+    ],
+    [
+      0.367197,
+      "\r\n"
+    ],
+    [
+      0.010437,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.001989,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\"my-file.txt\""
+    ],
+    [
+      0.000062,
+      " 1L, 24C"
+    ],
+    [
+      0.000268,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000531,
+      "\u001b[1;1HHello, this is my file!\r\n\u001b[94m~                                                                                           "
+    ],
+    [
+      0.000008,
+      "  \u001b[3;1H~                                                                                             \u001b[4;1H~                                                                                             \u001b[5;1H~                                                                                             \u001b[6;1H~                                                                           "
+    ],
+    [
+      0.000006,
+      "                  \u001b[7;1H~                                                                                             \u001b[8;1H~   "
+    ],
+    [
+      0.000005,
+      "                                                                                          \u001b[9;1H~                               "
+    ],
+    [
+      0.000004,
+      "                                                              \u001b[10;1H~                                                          "
+    ],
+    [
+      0.000004,
+      "                                   \u001b[11;1H~                                                                                     "
+    ],
+    [
+      0.000075,
+      "        \u001b[12;1H~                                                                                             \u001b[13;1H~                                                                                             \u001b[14;1H~                                                                                             \u001b[15;1H~                                                                                             \u001b[16;1H~                                                                                             \u001b[17;1H~                                                                                             \u001b[18;1H~                                                                                             \u001b[19;1H~                                                                                             \u001b[20;1H~                                                                                             \u001b[21;1H~                                                                                             "
+    ],
+    [
+      0.000026,
+      "\u001b[22;1H~                                                                                             \u001b[23;1H~                   "
+    ],
+    [
+      0.000007,
+      "                                                                          \u001b[24;1H~                                                                                             \u001b[25;1H~                                                                         "
+    ],
+    [
+      0.000009,
+      "                    \u001b[26;1H~                                                                                             \u001b[27;1H~                                                                                             \u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.954282,
+      "\u0007"
+    ],
+    [
+      0.480137,
+      "\u0007"
+    ],
+    [
+      0.881098,
+      "\u001b[mH"
+    ],
+    [
+      0.499744,
+      "e"
+    ],
+    [
+      0.016417,
+      "l"
+    ],
+    [
+      0.022690,
+      "l"
+    ],
+    [
+      0.018594,
+      "o"
+    ],
+    [
+      0.016469,
+      ","
+    ],
+    [
+      0.017545,
+      " "
+    ],
+    [
+      0.017003,
+      "t"
+    ],
+    [
+      0.015308,
+      "h"
+    ],
+    [
+      0.017002,
+      "i"
+    ],
+    [
+      0.016636,
+      "s"
+    ],
+    [
+      0.017340,
+      " "
+    ],
+    [
+      0.016204,
+      "i"
+    ],
+    [
+      0.017088,
+      "s"
+    ],
+    [
+      0.016500,
+      " "
+    ],
+    [
+      0.017806,
+      "m"
+    ],
+    [
+      0.015877,
+      "y"
+    ],
+    [
+      0.016874,
+      " "
+    ],
+    [
+      0.016827,
+      "f"
+    ],
+    [
+      0.017025,
+      "i"
+    ],
+    [
+      0.016766,
+      "l"
+    ],
+    [
+      0.017139,
+      "e"
+    ],
+    [
+      0.016231,
+      "\u0007"
+    ],
+    [
+      0.018506,
+      "\u0007"
+    ],
+    [
+      0.017695,
+      "\u0007"
+    ],
+    [
+      0.015672,
+      "\u0007"
+    ],
+    [
+      0.016649,
+      "\u0007"
+    ],
+    [
+      0.863548,
+      "\u001b[?25l\u001b[28;1H\u001b[1m-- INSERT --\u001b[m\u001b[28;13H\u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[1;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.599406,
+      "!"
+    ],
+    [
+      0.858277,
+      "\u001b[?25l\u001b[2;1H\u001b[K\u001b[2;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      4.250684,
+      "\u001b[28;1H\u001b[K\u001b[2;1H"
+    ],
+    [
+      0.253538,
+      "\u001b[?25l"
+    ],
+    [
+      0.000092,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\u001b[28;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.438722,
+      "w"
+    ],
+    [
+      0.080970,
+      "q"
+    ],
+    [
+      0.472534,
+      "!"
+    ],
+    [
+      0.343272,
+      "\r"
+    ],
+    [
+      0.000032,
+      "\u001b[?25l"
+    ],
+    [
+      0.000201,
+      "\"my-file.txt\""
+    ],
+    [
+      0.002508,
+      " 2L, 25C written"
+    ],
+    [
+      0.001293,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.033661,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.834404,
+      "vim my-file.txt "
+    ],
+    [
+      0.551583,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git commit -m \"Add my file\""
+    ],
+    [
+      1.976265,
+      "\r\n"
+    ],
+    [
+      0.034076,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.026217,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      7.810042,
+      "s"
+    ],
+    [
+      0.039735,
+      "u"
+    ],
+    [
+      0.197160,
+      "m"
+    ],
+    [
+      0.275695,
+      "l"
+    ],
+    [
+      0.001227,
+      ";"
+    ],
+    [
+      0.406470,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160498,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.343555,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.263990,
+      "b"
+    ],
+    [
+      0.144363,
+      "l"
+    ],
+    [
+      0.112276,
+      " "
+    ],
+    [
+      1.582618,
+      "m"
+    ],
+    [
+      0.233079,
+      "y"
+    ],
+    [
+      0.104742,
+      "-file.txt "
+    ],
+    [
+      0.502872,
+      "\r\n"
+    ],
+    [
+      0.173804,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      6.377583,
+      "\r\n"
+    ],
+    [
+      0.027398,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.164627,
+      "\r\n"
+    ],
+    [
+      0.027224,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.181541,
+      "subl my-file.txt "
+    ],
+    [
+      0.568537,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git commit -m \"Add my file\""
+    ],
+    [
+      0.958473,
+      "\r\n"
+    ],
+    [
+      0.033594,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.025656,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      5.509000,
+      "\r\n"
+    ],
+    [
+      0.033809,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.125634,
+      "\r\n"
+    ],
+    [
+      0.034861,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.157572,
+      "git commit -m \"Add my file\""
+    ],
+    [
+      0.447923,
+      "\r\n"
+    ],
+    [
+      0.030614,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.024581,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      10.583546,
+      "\r\n"
+    ],
+    [
+      0.026300,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000009,
+      "\u001b[0m"
+    ],
+    [
+      0.124252,
+      "\r\n"
+    ],
+    [
+      0.027683,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000010,
+      "\u001b[0m"
+    ],
+    [
+      0.175306,
+      "git commit -m \"Add my file\""
+    ],
+    [
+      0.342210,
+      "\r\n"
+    ],
+    [
+      0.033681,
+      "my-file.txt:2: new blank line at EOF.\r\n"
+    ],
+    [
+      0.023496,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      6.652992,
+      "v"
+    ],
+    [
+      0.049006,
+      "i"
+    ],
+    [
+      0.208174,
+      "m"
+    ],
+    [
+      0.343919,
+      " "
+    ],
+    [
+      0.367599,
+      "."
+    ],
+    [
+      0.313127,
+      "g"
+    ],
+    [
+      0.129298,
+      "i"
+    ],
+    [
+      0.150010,
+      "t"
+    ],
+    [
+      0.231878,
+      "\u0007"
+    ],
+    [
+      1.239736,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.600194,
+      "\u0007"
+    ],
+    [
+      0.000040,
+      "t"
+    ],
+    [
+      0.191889,
+      "\u0007"
+    ],
+    [
+      0.599660,
+      "/"
+    ],
+    [
+      0.144220,
+      "\u0007"
+    ],
+    [
+      0.160265,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "COMMIT_EDITMSG       git-completion.bash  hooks/               objects/\r\n"
+    ],
+    [
+      0.000227,
+      "HEAD                 gitconfig.symlink    index                packed-refs\r\n"
+    ],
+    [
+      0.000253,
+      "config               gitignore.symlink    logs/                refs/\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000023,
+      "\u001b[0mvim .git/"
+    ],
+    [
+      0.894586,
+      "h"
+    ],
+    [
+      0.097421,
+      "ooks/"
+    ],
+    [
+      0.942093,
+      "pre-commit "
+    ],
+    [
+      0.176944,
+      "\u0007"
+    ],
+    [
+      0.614942,
+      "\r\n"
+    ],
+    [
+      0.119857,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.002213,
+      "\u001b[1;28r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[28;1H\".git/hooks/pre-commit\""
+    ],
+    [
+      0.000153,
+      " 50L, 1704C"
+    ],
+    [
+      0.000385,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.001628,
+      "\u001b[1;1H#!/bin/sh\r\n#\r\n# An example hook script to verify what is about to be committed.\r\n# Called by \"git commit\" with no arguments.  The hook should\r\n# exit with non-zero status after issuing an appropriate message if\r\n# it wants to stop the commit.\r\n#\r\n# To enable this hook, rename this file to \"pre-commit\".\r\n\r\nif git rev-parse --verify HEAD \u003e/dev/null 2\u003e\u00261\r\nthen\u001b[12;8H against=HEAD\r\nelse\u001b[14;8H # Initial commit: diff against an empty tree object\u001b[15;8H against=4b825dc642cb6eb9a060e54bf8d69288fbee4904\r\nfi\r\n\r\n# If you want to allow non-ascii filenames set this variable to true.\r\nallownonascii=$(git config hooks.allownonascii)\r\n\r\n# Redirect output to stderr.\r\nexec 1\u003e\u00262\r\n\r\n# Cross platform projects tend to avoid non-ascii filenames; prevent\r\n# them from being added to the repository. We exploit the fact that the\r\n# printable range starts at the space character and ends with tilde.\r\nif [ \"$allownonascii\" != \"true\" ] \u0026\u0026\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.821201,
+      "\r\n"
+    ],
+    [
+      0.500789,
+      "\r\n"
+    ],
+    [
+      0.020850,
+      "\r\n"
+    ],
+    [
+      0.017504,
+      "\r\n"
+    ],
+    [
+      0.016971,
+      "\r\n"
+    ],
+    [
+      0.016713,
+      "\r\n"
+    ],
+    [
+      0.016504,
+      "\r\n"
+    ],
+    [
+      0.017768,
+      "\r\n"
+    ],
+    [
+      0.015599,
+      "\r\n"
+    ],
+    [
+      0.017631,
+      "\r\n"
+    ],
+    [
+      0.017138,
+      "\u001b[12;8H"
+    ],
+    [
+      0.015860,
+      "\r\n"
+    ],
+    [
+      0.017384,
+      "\u001b[14;8H"
+    ],
+    [
+      0.017513,
+      "\u001b[15;8H"
+    ],
+    [
+      0.016245,
+      "\r\n"
+    ],
+    [
+      0.016887,
+      "\r\n"
+    ],
+    [
+      0.017611,
+      "\r\n"
+    ],
+    [
+      0.017244,
+      "\r\n"
+    ],
+    [
+      0.016400,
+      "\r\n"
+    ],
+    [
+      0.016733,
+      "\r\n"
+    ],
+    [
+      0.017223,
+      "\r\n"
+    ],
+    [
+      0.016328,
+      "\r\n"
+    ],
+    [
+      0.016374,
+      "\r\n"
+    ],
+    [
+      0.021187,
+      "\r\n"
+    ],
+    [
+      0.014341,
+      "\r\n"
+    ],
+    [
+      0.019072,
+      "\r\n"
+    ],
+    [
+      0.018499,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H # Note that the use of brackets around a tr range is ok here, (it's\u001b[28;1H\u001b[K\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014362,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H # even required, for portability to Solaris 10's /usr/bin/tr), since\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036988,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H # the square bracket bytes happen to fall in the designated range.\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036077,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H test $(git diff --cached --name-only --diff-filter=A -z $against |\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.045141,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;10H LC_ALL=C tr -d '[ -~]\\0' | wc -c) != 0\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000237,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1Hthen\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033178,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"Error: Attempt to add a non-ascii file name.\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035769,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo\u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000832,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"This can cause problems if you want to work\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.060056,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"with people on other platforms.\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000306,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo\u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036263,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"To be portable it is advisable to rename the file ...\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031356,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo\u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036355,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"If you know what you are doing you can disable this\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033789,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"check using:\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035917,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo\u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029243,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo \"  git config hooks.allownonascii true\"\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034819,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H echo\u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033772,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;8H exit 1\u001b[27;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033549,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1Hfi\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033472,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032015,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1H# If there are whitespace errors, print the offending file names and fail.\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.030475,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1Hexec git diff-index --check --cached $against --\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033973,
+      "\u0007"
+    ],
+    [
+      0.035059,
+      "\u0007"
+    ],
+    [
+      0.006904,
+      "\u0007"
+    ],
+    [
+      0.017266,
+      "\u0007"
+    ],
+    [
+      0.017210,
+      "\u0007"
+    ],
+    [
+      0.017907,
+      "\u0007"
+    ],
+    [
+      0.016679,
+      "\u0007"
+    ],
+    [
+      0.018261,
+      "\u0007"
+    ],
+    [
+      0.016080,
+      "\u0007"
+    ],
+    [
+      0.017497,
+      "\u0007"
+    ],
+    [
+      0.017398,
+      "\u0007"
+    ],
+    [
+      0.018646,
+      "\u0007"
+    ],
+    [
+      0.017356,
+      "\u0007"
+    ],
+    [
+      0.016628,
+      "\u0007"
+    ],
+    [
+      0.022769,
+      "\u0007"
+    ],
+    [
+      0.012411,
+      "\u0007"
+    ],
+    [
+      0.018049,
+      "\u0007"
+    ],
+    [
+      0.016144,
+      "\u0007"
+    ],
+    [
+      0.018502,
+      "\u0007"
+    ],
+    [
+      0.016718,
+      "\u0007"
+    ],
+    [
+      0.016398,
+      "\u0007"
+    ],
+    [
+      0.018333,
+      "\u0007"
+    ],
+    [
+      0.017705,
+      "\u0007"
+    ],
+    [
+      0.017523,
+      "\u0007"
+    ],
+    [
+      0.018107,
+      "\u0007"
+    ],
+    [
+      0.016060,
+      "\u0007"
+    ],
+    [
+      0.017883,
+      "\u0007"
+    ],
+    [
+      0.019046,
+      "\u0007"
+    ],
+    [
+      0.018540,
+      "\u0007"
+    ],
+    [
+      0.712344,
+      "\u001b[?25l\r\n?\\\u003cexec\\\u003e\r"
+    ],
+    [
+      0.000566,
+      "\u001b[1;27r\u001b[1;1H\u001b[2L\u001b[1;28r\u001b[1;1Hexec 1\u003e\u00262\u001b[28;1H\u001b[K\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.895445,
+      "\u001b[?25l\u001b[28;1H\u001b[1m-- INSERT --"
+    ],
+    [
+      0.000014,
+      "\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.583937,
+      "\r\n"
+    ],
+    [
+      0.500652,
+      "\r\n"
+    ],
+    [
+      0.016088,
+      "\r\n"
+    ],
+    [
+      0.016317,
+      "\r\n"
+    ],
+    [
+      0.020737,
+      "\r\n"
+    ],
+    [
+      0.014844,
+      "\r\n"
+    ],
+    [
+      0.017911,
+      "\r\n"
+    ],
+    [
+      0.017785,
+      "\r\n"
+    ],
+    [
+      0.016742,
+      "\r\n"
+    ],
+    [
+      0.019018,
+      "\r\n"
+    ],
+    [
+      0.016651,
+      "\r\n"
+    ],
+    [
+      0.018524,
+      "\r\n"
+    ],
+    [
+      0.019659,
+      "\r\n"
+    ],
+    [
+      0.016890,
+      "\r\n"
+    ],
+    [
+      0.023498,
+      "\r\n"
+    ],
+    [
+      0.016737,
+      "\r\n"
+    ],
+    [
+      0.018269,
+      "\r\n"
+    ],
+    [
+      0.015977,
+      "\r\n"
+    ],
+    [
+      0.014724,
+      "\r\n"
+    ],
+    [
+      0.012877,
+      "\r\n"
+    ],
+    [
+      0.016767,
+      "\r\n"
+    ],
+    [
+      0.016451,
+      "\r\n"
+    ],
+    [
+      0.017254,
+      "\r\n"
+    ],
+    [
+      0.016571,
+      "\r\n"
+    ],
+    [
+      0.024022,
+      "\r\n"
+    ],
+    [
+      0.010241,
+      "\r\n"
+    ],
+    [
+      0.016852,
+      "\u001b[?25l\u001b[1;27r\u001b[m\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1H# If there are whitespace errors, print the offending file names and fail."
+    ],
+    [
+      0.000011,
+      "\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016489,
+      "\u001b[?25l\u001b[1;27r\u001b[27;1H\r\n\u001b[1;28r\u001b[27;1Hexec git diff-index --check --cached $against --\r\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.042342,
+      "\u0007"
+    ],
+    [
+      0.019232,
+      "\u0007"
+    ],
+    [
+      0.006500,
+      "\u0007"
+    ],
+    [
+      0.019153,
+      "\u0007"
+    ],
+    [
+      0.016176,
+      "\u0007"
+    ],
+    [
+      0.018479,
+      "\u0007"
+    ],
+    [
+      0.017861,
+      "\u0007"
+    ],
+    [
+      0.018001,
+      "\u0007"
+    ],
+    [
+      0.017843,
+      "\u0007"
+    ],
+    [
+      0.017827,
+      "\u0007"
+    ],
+    [
+      0.017678,
+      "\u0007"
+    ],
+    [
+      0.019796,
+      "\u0007"
+    ],
+    [
+      0.020420,
+      "\u0007"
+    ],
+    [
+      0.012581,
+      "\u0007"
+    ],
+    [
+      0.017966,
+      "\u0007"
+    ],
+    [
+      0.017792,
+      "\u0007"
+    ],
+    [
+      0.016629,
+      "\u0007"
+    ],
+    [
+      0.017780,
+      "\u0007"
+    ],
+    [
+      0.017969,
+      "\u0007"
+    ],
+    [
+      0.017692,
+      "\u0007"
+    ],
+    [
+      0.017469,
+      "\u0007"
+    ],
+    [
+      0.017695,
+      "\u0007"
+    ],
+    [
+      0.018033,
+      "\u0007"
+    ],
+    [
+      0.017962,
+      "\u0007"
+    ],
+    [
+      0.017519,
+      "\u0007"
+    ],
+    [
+      0.017644,
+      "\u0007"
+    ],
+    [
+      0.017318,
+      "\u0007"
+    ],
+    [
+      0.017767,
+      "\u0007"
+    ],
+    [
+      0.017659,
+      "\u0007"
+    ],
+    [
+      0.898959,
+      "\u001b[?25l#exec git diff-index --check --cached $against --\r#\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.161071,
+      "\u001b[28;1H\u001b[K\u001b[27;1H"
+    ],
+    [
+      0.358581,
+      "\u001b[?25l"
+    ],
+    [
+      0.000332,
+      "\u001b[?12l\u001b[?25h\u001b[?25l\r\n:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.392108,
+      "w"
+    ],
+    [
+      0.055329,
+      "q"
+    ],
+    [
+      0.542959,
+      "!"
+    ],
+    [
+      0.275962,
+      "\r"
+    ],
+    [
+      0.000097,
+      "\u001b[?25l"
+    ],
+    [
+      0.000126,
+      "\".git/hooks/pre-commit\""
+    ],
+    [
+      0.002043,
+      " 50L, 1705C written"
+    ],
+    [
+      0.001262,
+      "\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.037620,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.275878,
+      "vim .git/hooks/pre-commit "
+    ],
+    [
+      0.193483,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008git commit -m \"Add my file\""
+    ],
+    [
+      1.493295,
+      "\r\n"
+    ],
+    [
+      0.034381,
+      "[master 8d5e8e2] Add my file\r\n"
+    ],
+    [
+      0.000130,
+      " 1 file changed, 2 insertions(+)\r\n"
+    ],
+    [
+      0.000007,
+      " create mode 100644 my-file.txt\r\n"
+    ],
+    [
+      0.026423,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (master*)\u001b[0;32m\u003e "
+    ],
+    [
+      0.000008,
+      "\u001b[0m"
+    ],
+    [
+      17.648721,
+      "g"
+    ],
+    [
+      0.064661,
+      "i"
+    ],
+    [
+      0.072030,
+      "t"
+    ],
+    [
+      0.135889,
+      " "
+    ],
+    [
+      0.303860,
+      "o"
+    ],
+    [
+      0.416068,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128444,
+      "c"
+    ],
+    [
+      1.063911,
+      "h"
+    ],
+    [
+      0.111432,
+      "e"
+    ],
+    [
+      0.280867,
+      "c"
+    ],
+    [
+      0.143743,
+      "k"
+    ],
+    [
+      0.183886,
+      "o"
+    ],
+    [
+      0.208000,
+      "u"
+    ],
+    [
+      0.080397,
+      "t"
+    ],
+    [
+      0.327619,
+      " "
+    ],
+    [
+      0.239227,
+      "-"
+    ],
+    [
+      0.192692,
+      "b"
+    ],
+    [
+      0.128418,
+      " "
+    ],
+    [
+      1.488339,
+      "f"
+    ],
+    [
+      0.121434,
+      "i"
+    ],
+    [
+      0.094239,
+      "r"
+    ],
+    [
+      0.151551,
+      "s"
+    ],
+    [
+      0.056099,
+      "t"
+    ],
+    [
+      0.583877,
+      "-"
+    ],
+    [
+      0.288718,
+      "e"
+    ],
+    [
+      0.310980,
+      "d"
+    ],
+    [
+      0.216679,
+      "i"
+    ],
+    [
+      0.055873,
+      "t"
+    ],
+    [
+      0.184258,
+      "s"
+    ],
+    [
+      0.335204,
+      "\r\n"
+    ],
+    [
+      0.011489,
+      "M\tmy-file.txt\r\n"
+    ],
+    [
+      0.002011,
+      "Switched to a new branch 'first-edits'\r\n"
+    ],
+    [
+      0.028822,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.382184,
+      "g"
+    ],
+    [
+      0.136225,
+      "i"
+    ],
+    [
+      0.079337,
+      "t"
+    ],
+    [
+      0.111395,
+      " "
+    ],
+    [
+      0.480041,
+      "d"
+    ],
+    [
+      0.143952,
+      "i"
+    ],
+    [
+      0.104728,
+      "f"
+    ],
+    [
+      0.136386,
+      "f"
+    ],
+    [
+      0.111986,
+      "\r\n"
+    ],
+    [
+      0.014167,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000069,
+      "\u001b[1;34mdiff --git a/my-file.txt b/my-file.txt\u001b[m\u001b[m\r\n\u001b[1;34mindex f2a8e9d..6b2c1d3 100644\u001b[m\u001b[m\r\n\u001b[1;34m--- a/my-file.txt\u001b[m\u001b[m\r\n\u001b[1;34m+++ b/my-file.txt\u001b[m\u001b[m\r\n\u001b[1;35m@@ -1,2 +1 @@\u001b[m\u001b[m\r\n Hello, this is my file!\u001b[m\u001b[m\r\n\u001b[1;31m-\u001b[m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.026201,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits*)\u001b[0;"
+    ],
+    [
+      0.000010,
+      "32m\u003e \u001b[0m"
+    ],
+    [
+      4.416127,
+      "g"
+    ],
+    [
+      0.088738,
+      "i"
+    ],
+    [
+      0.109808,
+      "t"
+    ],
+    [
+      1.602566,
+      " "
+    ],
+    [
+      0.167993,
+      "s"
+    ],
+    [
+      0.135490,
+      "t"
+    ],
+    [
+      0.064607,
+      "a"
+    ],
+    [
+      0.183866,
+      "t"
+    ],
+    [
+      0.087466,
+      "u"
+    ],
+    [
+      0.104130,
+      "s"
+    ],
+    [
+      0.239920,
+      "\r\n"
+    ],
+    [
+      0.007960,
+      "On branch first-edits\r\n"
+    ],
+    [
+      0.000013,
+      "Changes not staged for commit:\r\n  (use \"git add \u003cfile\u003e...\" to update what will be committed)\r\n  (use \"git checkout -- \u003cfile\u003e...\""
+    ],
+    [
+      0.000006,
+      " to discard changes in working directory)\r\n\r\n"
+    ],
+    [
+      0.000050,
+      "\t\u001b[31mmodified:   my-file.txt\u001b[m\r\n\r\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n"
+    ],
+    [
+      0.030418,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits*)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.129877,
+      "g"
+    ],
+    [
+      0.111575,
+      "i"
+    ],
+    [
+      0.065204,
+      "t"
+    ],
+    [
+      0.231280,
+      "c"
+    ],
+    [
+      0.575731,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151931,
+      " "
+    ],
+    [
+      0.103303,
+      "c"
+    ],
+    [
+      0.080918,
+      "o"
+    ],
+    [
+      0.231796,
+      "m"
+    ],
+    [
+      0.304275,
+      "mit -m \"Add my file\"\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.734904,
+      "\r\n"
+    ],
+    [
+      0.030482,
+      "On branch first-edits\r\n"
+    ],
+    [
+      0.000095,
+      "Changes not staged for commit:\r\n"
+    ],
+    [
+      0.000028,
+      "\t\u001b[31mmodified:   my-file.txt\u001b[m\r\n\r\nno changes added to commit\r\n"
+    ],
+    [
+      0.024431,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits*)\u001b[0;"
+    ],
+    [
+      0.000009,
+      "32m\u003e \u001b[0m"
+    ],
+    [
+      3.321317,
+      "g"
+    ],
+    [
+      0.112705,
+      "i"
+    ],
+    [
+      0.047993,
+      "t"
+    ],
+    [
+      0.103611,
+      " "
+    ],
+    [
+      0.216491,
+      "a"
+    ],
+    [
+      0.183278,
+      "d"
+    ],
+    [
+      0.281021,
+      "d"
+    ],
+    [
+      0.255689,
+      " "
+    ],
+    [
+      0.127877,
+      "m"
+    ],
+    [
+      0.191507,
+      "y"
+    ],
+    [
+      0.110288,
+      "-file.txt"
+    ],
+    [
+      0.545973,
+      "\r\n"
+    ],
+    [
+      0.029986,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits*)\u001b[0;"
+    ],
+    [
+      0.000011,
+      "32m\u003e \u001b[0m"
+    ],
+    [
+      0.617855,
+      "g"
+    ],
+    [
+      0.135279,
+      "i"
+    ],
+    [
+      0.073204,
+      "t"
+    ],
+    [
+      0.127846,
+      " "
+    ],
+    [
+      0.103076,
+      "c"
+    ],
+    [
+      0.592981,
+      "ommit -m \"Add my file\"\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.543377,
+      "\r\n"
+    ],
+    [
+      0.028939,
+      "[first-edits 202a835] Add my file\r\n"
+    ],
+    [
+      0.000207,
+      " 1 file changed, 1 deletion(-)\r\n"
+    ],
+    [
+      0.024016,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;3"
+    ],
+    [
+      0.000011,
+      "2m\u003e \u001b[0m"
+    ],
+    [
+      1.363514,
+      "g"
+    ],
+    [
+      0.120404,
+      "i"
+    ],
+    [
+      0.087048,
+      "t"
+    ],
+    [
+      0.103974,
+      " "
+    ],
+    [
+      0.111980,
+      "p"
+    ],
+    [
+      0.208572,
+      "u"
+    ],
+    [
+      0.103795,
+      "s"
+    ],
+    [
+      0.112273,
+      "h"
+    ],
+    [
+      0.310473,
+      " "
+    ],
+    [
+      0.137315,
+      "o"
+    ],
+    [
+      0.102911,
+      "r"
+    ],
+    [
+      0.112566,
+      "i"
+    ],
+    [
+      0.328583,
+      "g"
+    ],
+    [
+      0.184048,
+      "i"
+    ],
+    [
+      0.647973,
+      "n"
+    ],
+    [
+      0.606827,
+      " "
+    ],
+    [
+      0.392878,
+      "H"
+    ],
+    [
+      0.080286,
+      "E"
+    ],
+    [
+      0.192336,
+      "A"
+    ],
+    [
+      0.223600,
+      "D"
+    ],
+    [
+      0.279407,
+      "\r\n"
+    ],
+    [
+      15.572916,
+      "Counting objects: 9, done.\r\n"
+    ],
+    [
+      0.000913,
+      "Delta compression using up to 4 threads.\r\n"
+    ],
+    [
+      0.000059,
+      "Compressing objects:  14% (1/7)   \r"
+    ],
+    [
+      0.000147,
+      "Compressing objects:  28% (2/7)   \r"
+    ],
+    [
+      0.000112,
+      "Compressing objects:  42% (3/7)   \r"
+    ],
+    [
+      0.000067,
+      "Compressing objects:  57% (4/7)   \r"
+    ],
+    [
+      0.000098,
+      "Compressing objects:  71% (5/7)   \rCompressing objects:  85% (6/7)   \r"
+    ],
+    [
+      0.000125,
+      "Compressing objects: 100% (7/7)   \r"
+    ],
+    [
+      0.000168,
+      "Compressing objects: 100% (7/7), done.\r\n"
+    ],
+    [
+      0.000618,
+      "Writing objects:  11% (1/9)   \r"
+    ],
+    [
+      0.000249,
+      "Writing objects:  22% (2/9)   \r"
+    ],
+    [
+      0.000199,
+      "Writing objects:  33% (3/9)   \r"
+    ],
+    [
+      0.000025,
+      "Writing objects:  44% (4/9)   \r"
+    ],
+    [
+      0.000021,
+      "Writing objects:  55% (5/9)   \r"
+    ],
+    [
+      0.000189,
+      "Writing objects:  66% (6/9)   \r"
+    ],
+    [
+      0.000138,
+      "Writing objects:  77% (7/9)   \r"
+    ],
+    [
+      0.000081,
+      "Writing objects:  88% (8/9)   \r"
+    ],
+    [
+      0.000024,
+      "Writing objects: 100% (9/9)   \r"
+    ],
+    [
+      0.000075,
+      "Writing objects: 100% (9/9), 829 bytes | 0 bytes/s, done.\r\nTotal 9 (delta 4), reused 0 (delta 0)\r\n"
+    ],
+    [
+      0.659068,
+      "To git@github.com:UNN-VMK-Software/mp2-lab1-bitfield.git\r\n * [new branch]      HEAD -\u003e first-edits\r\n"
+    ],
+    [
+      0.021518,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;3"
+    ],
+    [
+      0.000009,
+      "2m\u003e \u001b[0m"
+    ],
+    [
+      1.179841,
+      "g"
+    ],
+    [
+      0.072390,
+      "i"
+    ],
+    [
+      0.062914,
+      "t"
+    ],
+    [
+      0.121009,
+      " "
+    ],
+    [
+      0.159745,
+      "l"
+    ],
+    [
+      0.223570,
+      "o"
+    ],
+    [
+      0.279441,
+      "g"
+    ],
+    [
+      0.264303,
+      "\r\n"
+    ],
+    [
+      0.013975,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000176,
+      "\u001b[33mcommit 202a835de7a768eadf459eb81a3ef64d426e8d6e\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   M"
+    ],
+    [
+      0.000012,
+      "on Sep 14 10:44:53 2015 +0300\u001b[m\r\n\u001b[m\r\n    Add my file\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 8d5e8e2b5057b09883b50e8a3469f02022822d83\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:44:06 2015 +0300\u001b[m\r\n\u001b[m\r\n    Add my file\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 7eb6f42f3ddaebe6a727bf42ca2ea173c05648ab\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:41:03 2015 +0300\u001b[m\r\n\u001b[m\r\n    Update README\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit a20969b257d2f29df2ede1d1354cd396b0f43600\u001b[m\u001b[m\r\nMe"
+    ],
+    [
+      0.000008,
+      "rge: c082476 44b252c\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@gmail.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:31:23 2015 +0300\u001b[m\r\n\u001b[m\r\n    Merge pull request #3 from UNN-VMK-Software/add-new-tests\u001b[m\r\n    \u001b[m\r\n    Add new tests\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      8.100525,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.038056,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;3"
+    ],
+    [
+      0.000010,
+      "2m\u003e \u001b[0m"
+    ],
+    [
+      1.032023,
+      "g"
+    ],
+    [
+      0.143535,
+      "i"
+    ],
+    [
+      0.063509,
+      "t"
+    ],
+    [
+      0.105138,
+      " "
+    ],
+    [
+      0.174926,
+      "s"
+    ],
+    [
+      0.081122,
+      "h"
+    ],
+    [
+      0.207614,
+      "o"
+    ],
+    [
+      0.119774,
+      "w"
+    ],
+    [
+      0.488819,
+      " "
+    ],
+    [
+      0.472595,
+      "-"
+    ],
+    [
+      0.126089,
+      "-"
+    ],
+    [
+      0.440600,
+      "r"
+    ],
+    [
+      0.063233,
+      "a"
+    ],
+    [
+      0.128832,
+      "w"
+    ],
+    [
+      0.280676,
+      " "
+    ],
+    [
+      0.403145,
+      "7"
+    ],
+    [
+      0.000106,
+      "e"
+    ],
+    [
+      0.000057,
+      "b"
+    ],
+    [
+      0.000101,
+      "6"
+    ],
+    [
+      0.000051,
+      "f"
+    ],
+    [
+      0.000071,
+      "4"
+    ],
+    [
+      0.000044,
+      "2"
+    ],
+    [
+      0.000056,
+      "f"
+    ],
+    [
+      0.000061,
+      "3"
+    ],
+    [
+      0.690812,
+      "\r\n"
+    ],
+    [
+      0.009603,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000277,
+      "\u001b[33mcommit 7eb6f42f3ddaebe6a727bf42ca2ea173c05648ab\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:41:03 2015 +0300\u001b[m\r\n\u001b[m\r\n    Update README\u001b[m\r\n\u001b[m\r\n:100644 100644 573bff6... 72dbc79... M  README.md\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.123331,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      4.585186,
+      "git show --raw 7eb6f42f3"
+    ],
+    [
+      0.176687,
+      "\u0008"
+    ],
+    [
+      0.500955,
+      "\u0008"
+    ],
+    [
+      0.017105,
+      "\u0008"
+    ],
+    [
+      0.017742,
+      "\u0008"
+    ],
+    [
+      0.018828,
+      "\u0008"
+    ],
+    [
+      0.017864,
+      "\u0008"
+    ],
+    [
+      0.017774,
+      "\u0008"
+    ],
+    [
+      0.017845,
+      "\u0008"
+    ],
+    [
+      0.020320,
+      "\u0008"
+    ],
+    [
+      0.025111,
+      "\u0008"
+    ],
+    [
+      0.450557,
+      "\u001b[C"
+    ],
+    [
+      0.289048,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[6P7eb6f42f3\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.406793,
+      "\r\n"
+    ],
+    [
+      0.009874,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000125,
+      "\u001b[33mcommit 7eb6f42f3ddaebe6a727bf42ca2ea173c05648ab\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   M"
+    ],
+    [
+      0.000008,
+      "on Sep 14 10:41:03 2015 +0300\u001b[m\r\n\u001b[m\r\n    Update README\u001b[m\r\n\u001b[m\r\n\u001b[1;34mdiff --git a/README.md b/README.md\u001b[m\u001b[m\r\n\u001b[1;34mindex 573bff6..72dbc79 100644\u001b[m\u001b[m\r\n\u001b[1;34m--- a/README.md\u001b[m\u001b[m\r\n\u001b[1;34m+++ b/README.md\u001b[m\u001b[m\r\n\u001b[1;35m@@ -4,7 +4,8 @@\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n \u003c!-- TODO\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[1;31m-  -\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[1;32m  - Do something 1\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[1;32m  - Do something a"
+    ],
+    [
+      0.000006,
+      "gain\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n   - Optional\u001b[m\u001b[m\r\n     -\u001b[m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.119202,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;3"
+    ],
+    [
+      0.000013,
+      "2m\u003e \u001b[0m"
+    ],
+    [
+      4.357077,
+      "g"
+    ],
+    [
+      0.047916,
+      "i"
+    ],
+    [
+      0.088085,
+      "t"
+    ],
+    [
+      0.152244,
+      " "
+    ],
+    [
+      0.135618,
+      "l"
+    ],
+    [
+      0.168965,
+      "o"
+    ],
+    [
+      0.240166,
+      "g"
+    ],
+    [
+      0.174830,
+      "\r\n"
+    ],
+    [
+      0.009777,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000184,
+      "\u001b[33mcommit 202a835de7a768eadf459eb81a3ef64d426e8d6e\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   M"
+    ],
+    [
+      0.000009,
+      "on Sep 14 10:44:53 2015 +0300\u001b[m\r\n\u001b[m\r\n    Add my file\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 8d5e8e2b5057b09883b50e8a3469f02022822d83\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:44:06 2015 +0300\u001b[m\r\n\u001b[m\r\n    Add my file\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit 7eb6f42f3ddaebe6a727bf42ca2ea173c05648ab\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   M"
+    ],
+    [
+      0.000007,
+      "on Sep 14 10:41:03 2015 +0300\u001b[m\r\n\u001b[m\r\n    Update README\u001b[m\r\n\u001b[m\r\n\u001b[33mcommit a20969b257d2f29df2ede1d1354cd396b0f43600\u001b[m\u001b[m\r\nMe"
+    ],
+    [
+      0.000005,
+      "rge: c082476 44b252c\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@gmail.com\u003e\u001b[m\r\nDate:   Mon Sep 14 10:31:23 2015 +0300\u001b[m\r\n\u001b[m\r\n    Merge pull request #3 from UNN-VMK-Software/add-new-tests\u001b[m\r\n    \u001b[m\r\n    Add new tests\u001b[m\r\n\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      3.797383,
+      "\r\u001b[K\u0007\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.625128,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.026740,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      0.644139,
+      "g"
+    ],
+    [
+      0.128940,
+      "i"
+    ],
+    [
+      0.071195,
+      "t"
+    ],
+    [
+      0.160494,
+      " "
+    ],
+    [
+      0.216166,
+      "s"
+    ],
+    [
+      0.071931,
+      "h"
+    ],
+    [
+      0.192724,
+      "o"
+    ],
+    [
+      0.071246,
+      "w"
+    ],
+    [
+      0.112608,
+      " "
+    ],
+    [
+      2.927224,
+      "\r\n"
+    ],
+    [
+      0.027102,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      1.556996,
+      "g"
+    ],
+    [
+      0.168261,
+      "i"
+    ],
+    [
+      0.064820,
+      "t"
+    ],
+    [
+      0.086205,
+      " "
+    ],
+    [
+      0.441375,
+      "s"
+    ],
+    [
+      0.071690,
+      "h"
+    ],
+    [
+      0.175626,
+      "o"
+    ],
+    [
+      0.080104,
+      "w"
+    ],
+    [
+      0.144366,
+      " "
+    ],
+    [
+      0.849684,
+      "8"
+    ],
+    [
+      0.000026,
+      "d"
+    ],
+    [
+      0.000052,
+      "5"
+    ],
+    [
+      0.000024,
+      "e"
+    ],
+    [
+      0.000030,
+      "8"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000031,
+      "2"
+    ],
+    [
+      0.000034,
+      "b"
+    ],
+    [
+      0.000034,
+      "5"
+    ],
+    [
+      0.000034,
+      "0"
+    ],
+    [
+      0.000034,
+      "5"
+    ],
+    [
+      0.000054,
+      "7"
+    ],
+    [
+      1.036734,
+      "\r\n"
+    ],
+    [
+      0.009149,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000104,
+      "\u001b[33mcommit 8d5e8e2b5057b09883b50e8a3469f02022822d83\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   M"
+    ],
+    [
+      0.000008,
+      "on Sep 14 10:44:06 2015 +0300\u001b[m\r\n\u001b[m\r\n    Add my file\u001b[m\r\n\u001b[m\r\n\u001b[1;34mdiff --git a/my-file.txt b/my-file.txt\u001b[m\u001b[m\r\n\u001b[1;34mnew file mode 100644\u001b[m\u001b[m\r\n\u001b[1;34mindex 0000000..f2a8e9d\u001b[m\u001b[m\r\n\u001b[1;34m--- /dev/null\u001b[m\u001b[m\r\n\u001b[1;34m+++ b/my-file.txt\u001b[m\u001b[m\r\n\u001b[1;35m"
+    ],
+    [
+      0.000006,
+      "@@ -0,0 +1,2 @@\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[1;32mHello, this is my file!\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.029313,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      12.509309,
+      "g"
+    ],
+    [
+      0.040936,
+      "i"
+    ],
+    [
+      0.104310,
+      "t"
+    ],
+    [
+      0.135074,
+      " "
+    ],
+    [
+      0.184277,
+      "l"
+    ],
+    [
+      0.167949,
+      "o"
+    ],
+    [
+      0.295514,
+      "g"
+    ],
+    [
+      0.152488,
+      " "
+    ],
+    [
+      0.207169,
+      "-"
+    ],
+    [
+      0.135939,
+      "-"
+    ],
+    [
+      0.648550,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155704,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.140947,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.432038,
+      " "
+    ],
+    [
+      0.455991,
+      "R"
+    ],
+    [
+      0.175722,
+      "E"
+    ],
+    [
+      0.127300,
+      "A"
+    ],
+    [
+      0.302040,
+      "DME.md"
+    ],
+    [
+      0.835262,
+      " "
+    ],
+    [
+      0.158584,
+      "-"
+    ],
+    [
+      0.136917,
+      "-"
+    ],
+    [
+      0.210923,
+      "o"
+    ],
+    [
+      0.197201,
+      "n"
+    ],
+    [
+      0.095888,
+      "e"
+    ],
+    [
+      0.103501,
+      "l"
+    ],
+    [
+      0.176348,
+      "i"
+    ],
+    [
+      0.151268,
+      "n"
+    ],
+    [
+      0.097570,
+      "e"
+    ],
+    [
+      0.231258,
+      "\r\n"
+    ],
+    [
+      0.006033,
+      "fatal: bad flag '--oneline' used after filename\r\n"
+    ],
+    [
+      0.027726,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;3"
+    ],
+    [
+      0.000009,
+      "2m\u003e \u001b[0m"
+    ],
+    [
+      1.718223,
+      "git log README.md --oneline"
+    ],
+    [
+      3.304574,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.351417,
+      "\u0008"
+    ],
+    [
+      0.500164,
+      "\u0008"
+    ],
+    [
+      0.017808,
+      "\u0008"
+    ],
+    [
+      0.018775,
+      "\u0008"
+    ],
+    [
+      0.017727,
+      "\u0008"
+    ],
+    [
+      0.017742,
+      "\u0008"
+    ],
+    [
+      0.021114,
+      "\u0008"
+    ],
+    [
+      0.253897,
+      "\u0008"
+    ],
+    [
+      0.168662,
+      "\u0008"
+    ],
+    [
+      0.151621,
+      "\u0008"
+    ],
+    [
+      0.745441,
+      "\u001b[1@-"
+    ],
+    [
+      0.118764,
+      "\u001b[1@-"
+    ],
+    [
+      0.208701,
+      "\u001b[1@o"
+    ],
+    [
+      0.183920,
+      "\u001b[1@n"
+    ],
+    [
+      0.368384,
+      "\u001b[1@e"
+    ],
+    [
+      0.455788,
+      "\u001b[1@l"
+    ],
+    [
+      0.192983,
+      "\u001b[1@i"
+    ],
+    [
+      0.151042,
+      "\u001b[1@n"
+    ],
+    [
+      0.080114,
+      "\u001b[1@e"
+    ],
+    [
+      0.120739,
+      "\u001b[1@ "
+    ],
+    [
+      0.198567,
+      "\r\n"
+    ],
+    [
+      0.010214,
+      "\u001b[?1h\u001b=\u001b[33m7eb6f42\u001b[m Update README\u001b[m\r\n\u001b[33m001e155\u001b[m Fix Travis build\u001b[m\r\n"
+    ],
+    [
+      0.098371,
+      "\u001b[33m0ebe63f\u001b[m Enable travis button\u001b[m\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b[33mcd2ebc9\u001b[m Initial commit\u001b[m\r\n"
+    ],
+    [
+      0.000209,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.025493,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      7.656369,
+      "g"
+    ],
+    [
+      0.007957,
+      "i"
+    ],
+    [
+      0.104419,
+      "t"
+    ],
+    [
+      0.088615,
+      " "
+    ],
+    [
+      0.343794,
+      "d"
+    ],
+    [
+      0.104020,
+      "h"
+    ],
+    [
+      0.375626,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139181,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.221274,
+      "s"
+    ],
+    [
+      0.135897,
+      "h"
+    ],
+    [
+      0.167998,
+      "o"
+    ],
+    [
+      0.343997,
+      "w"
+    ],
+    [
+      0.215814,
+      " "
+    ],
+    [
+      3.154882,
+      "0"
+    ],
+    [
+      0.000050,
+      "e"
+    ],
+    [
+      0.000069,
+      "b"
+    ],
+    [
+      0.000053,
+      "e"
+    ],
+    [
+      0.000076,
+      "6"
+    ],
+    [
+      0.000044,
+      "3"
+    ],
+    [
+      0.000045,
+      "f"
+    ],
+    [
+      0.467857,
+      "\r\n"
+    ],
+    [
+      0.008966,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000243,
+      "\u001b[33mcommit 0ebe63f754bab2929d03e8fcc161642d3d34ab16\u001b[m\u001b[m\r\nAuthor: Kirill Kornyakov \u003ckirill.kornyakov@itseez.com\u003e\u001b[m\r\nDate:   Wed Aug 19 10:55:12 2015 +0300\u001b[m\r\n\u001b[m\r\n    Enable travis button\u001b[m\r\n\u001b[m\r\n\u001b[1;34mdiff --git a/README.md b/README.md\u001b[m\u001b[m\r\n\u001b[1;34"
+    ],
+    [
+      0.000010,
+      "mindex b339b7c..31a2cbc 100644\u001b[m\u001b[m\r\n\u001b[1;34m--- a/README.md\u001b[m\u001b[m\r\n\u001b[1;34m+++ b/README.md\u001b[m\u001b[m\r\n\u001b[1;35m@@ -1,13 +1,13 @@\u001b[m\u001b[m\r\n # Методы программирования 2\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[1;31m-\u003c!-- [![Build Status](https://travis-ci.org/Itseez-NNSU-SummerSchool2015/practice1-devtools.s\u001b[m\u001b[1;31mvg)](https://travis-ci.org/Itseez-NNSU-SummerSchool2015/practice1-devtools) "
+    ],
+    [
+      0.000005,
+      "--\u003e\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[1;32m[![Build Status](https://travis-ci.org/kirill-kornyakov/mp2-project-template.svg)](https://tr\u001b[m\u001b[1"
+    ],
+    [
+      0.000005,
+      ";32m\u001b[m\u001b[1;32mavis-ci.org/kirill-kornyakov/mp2-project-template)\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n \u003c!-- TODO\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[1;31m-  - tbd\u001b[m\u001b["
+    ],
+    [
+      0.000005,
+      "m\r\n\u001b[1;32m+\u001b[m\u001b[1;32m  -\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n   - Optional\u001b[m\u001b[m\r\n\u001b[1;31m-    - Move gtest up\u001b[m\u001b[m\r\n\u001b[1;32m+\u001b[m\u001b[1;32m    -\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000032,
+      " \u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      4.699854,
+      "\r\u001b[K"
+    ],
+    [
+      0.000035,
+      " --\u003e\u001b[m\u001b[m\r\n \u001b[m\u001b[m\r\n\u001b[7m(END) \u001b[27m\u001b[K"
+    ],
+    [
+      0.976572,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.030719,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      9.094562,
+      "exit\r\n"
+    ],
+    [
+      0.100534,
+      "read (subshell_pty...): Interrupted system call (4)\r\r\n"
+    ],
+    [
+      0.022836,
+      "\u001b]0;kirill-kornyakov@kirbook: ~/Work/unn/mp2/mp2-lab1-bitfield\u0007\u001b[0;32m~/Work/unn/mp2/mp2-lab1-bitfield\u001b[0;33m (first-edits)\u001b[0;32m\u003e \u001b[0m"
+    ],
+    [
+      4.484694,
+      "exit\r\n"
+    ]
+  ]
+}
