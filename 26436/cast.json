@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 24,
+  "duration": 33.282258,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.108263,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.040559,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/tmp/vic\u001b[00m\r\n\u001b[32m➜  \u001b[00m\u001b[K\u001b[58C\u001b[34m±\u001b[32m[\u001b[00m\u001b[01;31m●\u001b[00m\u001b[01;33m●\u001b[00m\u001b[32m]\u001b[00m\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[75D"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.968162,
+      "g"
+    ],
+    [
+      0.209269,
+      "\u0008gc"
+    ],
+    [
+      0.156730,
+      "c"
+    ],
+    [
+      0.129892,
+      " "
+    ],
+    [
+      0.415901,
+      "."
+    ],
+    [
+      0.160057,
+      "/"
+    ],
+    [
+      0.526708,
+      "a"
+    ],
+    [
+      0.257377,
+      "ss0.c\u001b[1m \u001b[0m"
+    ],
+    [
+      0.484062,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000151,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000115,
+      "\r"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.108988,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.024921,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/tmp/vic\u001b[00m\r\n\u001b[32m➜  \u001b[00m\u001b[K\u001b[58C\u001b[34m±\u001b[32m[\u001b[00m\u001b[01;31m●\u001b[00m\u001b[01;33m●\u001b[00m\u001b[32m]\u001b[00m\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[75D"
+    ],
+    [
+      0.000034,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.934014,
+      "."
+    ],
+    [
+      0.110481,
+      "\u0008./"
+    ],
+    [
+      0.099229,
+      "a"
+    ],
+    [
+      0.199278,
+      ".out\u001b[1m \u001b[0m"
+    ],
+    [
+      0.472874,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000104,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000092,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.002339,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Please enter your choice\r\n1. FleaBay Login\r\n2. FleaBay Report\r\n3. Quit"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.968858,
+      "1"
+    ],
+    [
+      0.946899,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "\r\nPlease enter your choice\r\n1. Add a new Account\r\n2. Open an existing Account\r\n3. Return to Main Menu\r\n\r\nPlease enter your choice\r\n1. FleaBay Login\r\n2. FleaBay Report\r\n3. Quit\r\n"
+    ],
+    [
+      0.782026,
+      "2"
+    ],
+    [
+      0.356407,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "**NO ACCOUNTS**\r\nPlease enter your choice\r\n1. FleaBay Login"
+    ],
+    [
+      0.000016,
+      "\r\n2. FleaBay Report\r\n3. Quit\r\n"
+    ],
+    [
+      0.000015,
+      "\r\nPlease enter your choice"
+    ],
+    [
+      0.000017,
+      "\r\n1. FleaBay Login\r\n2. FleaBay Report"
+    ],
+    [
+      0.000013,
+      "\r\n3. Quit\r\n"
+    ],
+    [
+      2.089760,
+      "1"
+    ],
+    [
+      0.189997,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "Please enter your choice"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "1. Add a new Account\r\n2. Open an existing Account"
+    ],
+    [
+      0.000017,
+      "\r\n3. Return to Main Menu\r\n\r\n"
+    ],
+    [
+      0.000020,
+      "Please enter your choice"
+    ],
+    [
+      0.000024,
+      "\r\n1. FleaBay Login"
+    ],
+    [
+      0.000027,
+      "\r\n2. FleaBay Report\r\n"
+    ],
+    [
+      0.000017,
+      "3. Quit\r\n"
+    ],
+    [
+      1.764953,
+      "3"
+    ],
+    [
+      0.239762,
+      "\r\n"
+    ],
+    [
+      0.001065,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.028208,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/tmp/vic\u001b[00m\r\n\u001b[32m➜  \u001b[00m\u001b[K\u001b[58C\u001b[34m±\u001b[32m[\u001b[00m\u001b[01;31m●\u001b[00m\u001b[01;33m●\u001b[00m\u001b[32m]\u001b[00m\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[75D"
+    ],
+    [
+      0.000110,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.095728,
+      "g"
+    ],
+    [
+      0.095394,
+      "\u0008gi"
+    ],
+    [
+      0.090710,
+      "t"
+    ],
+    [
+      0.095289,
+      " "
+    ],
+    [
+      0.159360,
+      "i"
+    ],
+    [
+      0.000019,
+      "d"
+    ],
+    [
+      0.456433,
+      "\u0008 \u0008"
+    ],
+    [
+      0.174817,
+      "\u0008 \u0008"
+    ],
+    [
+      0.030143,
+      "d"
+    ],
+    [
+      0.166043,
+      "i"
+    ],
+    [
+      0.134499,
+      "f"
+    ],
+    [
+      0.151139,
+      "f"
+    ],
+    [
+      0.345734,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.115723,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000206,
+      "\u001b[1mdiff --git a/ass0.c b/ass0.c\u001b[m\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n\u001b[1mindex e429795..1aecf60 100644\u001b[m\u001b[m\r\n\u001b[1m--- a/ass0.c\u001b[m\u001b[m\r\n\u001b[1m+++ b/ass0.c\u001b[m\u001b[m\r\n\u001b[36m@@ -4,7 +4,12 @@\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000017,
+      " #include \u003cstdio.h\u003e\u001b[m\u001b[m\r\n #include \u003cstdlib.h\u003e\u001b[m\u001b[m"
+    ],
+    [
+      0.000006,
+      "\r\n #include \u003cstring.h\u003e\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m#ifdef _WIN32\u001b[m\u001b[m\r\n #include \u003ccrtdbg.h\u003e\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[32m+\u001b[m\u001b[32m#else\u001b[m\u001b[m\r\n\u001b[32m+\u001b[m\u001b[32m#define _CrtSetDbgFlag(x)\u001b[m\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n\u001b[32m+\u001b[m\u001b[32m#endif\u001b[m\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n \u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000006,
+      " /*\u001b[m\u001b[m\r\n  * DO NOT CHANGE ANYTHING BELOW THIS COMMENT\u001b[m\u001b[m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[36m@@ -142,7 +147,8 @@\u001b[m \u001b[mint FleaBayLogin(pFleaBay e) {\u001b[m\u001b[m"
+    ],
+    [
+      0.000004,
+      "\r\n        printf(\"2. Open an existing Account\\n\");\u001b[m\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        printf(\"3. Return to Main Menu\\n\");\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "        fflush(stdin);\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[31m-       user_select = getchar();\u001b[m\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n\u001b[32m+\u001b[m       \u001b[32m//user_select = getchar();\u001b[m\u001b[m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      ":\u001b[K"
+    ],
+    [
+      2.800518,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000025,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000030,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000112,
+      "\u001b[32m+\u001b[m       \u001b[32mscanf(\"%c\", \u0026user_select);\u001b[m\u001b[m"
+    ],
+    [
+      0.000021,
+      "\r\n:\u001b[K"
+    ],
+    [
+      1.057709,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000012,
+      "\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000041,
+      " \u001b[m\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      ":\u001b[K"
+    ],
+    [
+      1.001900,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O"
+    ],
+    [
+      0.000012,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000081,
+      "        switch(user_select) {\u001b[m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.083011,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC"
+    ],
+    [
+      0.000011,
+      "\u001b[KO\u0008O"
+    ],
+    [
+      0.000025,
+      "\u001b[KB\u0008B\r\u001b[K"
+    ],
+    [
+      0.000089,
+      "        case '1':\u001b[m\u001b[m\r\n"
+    ],
+    [
+      0.000023,
+      ":\u001b[K"
+    ],
+    [
+      1.432441,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[3m(END)\u001b[23m\u001b[K"
+    ],
+    [
+      5.117726,
+      "\r\u001b[K\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000779,
+      "\u001b[1m\u001b[3m%\u001b[23m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.038492,
+      "\r\u001b[0m\u001b[23m\u001b[24m\u001b[Jxena@fluttershy (linux) \u001b[01;32m~/tmp/vic\u001b[00m\r\n\u001b[32m➜  \u001b[00m\u001b[K\u001b[58C\u001b[34m±\u001b[32m[\u001b[00m\u001b[01;31m●\u001b[00m\u001b[01;33m●\u001b[00m\u001b[32m]\u001b[00m\u001b[32m[\u001b[00m\u001b[33mmaster\u001b[32m]\u001b[00m [\u001b[22;33m0\u001b[00m]\u001b[75D"
+    ],
+    [
+      0.000081,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.831882,
+      "\r"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ]
+  ]
+}
