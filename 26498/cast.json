@@ -1,0 +1,838 @@
+{
+  "version": 1,
+  "width": 85,
+  "height": 28,
+  "duration": 7.978046,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.131107,
+      "\u001b]0;fish  /home/"
+    ],
+    [
+      0.000008,
+      "auke/projects/doc"
+    ],
+    [
+      0.000003,
+      "ke"
+    ],
+    [
+      0.000004,
+      "r-"
+    ],
+    [
+      0.000002,
+      "s"
+    ],
+    [
+      0.000005,
+      "phi"
+    ],
+    [
+      0.000003,
+      "n"
+    ],
+    [
+      0.000003,
+      "x"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000269,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.002874,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.018574,
+      "\u001b]0;fish  /home/a"
+    ],
+    [
+      0.000007,
+      "uke/projects/d"
+    ],
+    [
+      0.000002,
+      "oc"
+    ],
+    [
+      0.000002,
+      "k"
+    ],
+    [
+      0.000002,
+      "e"
+    ],
+    [
+      0.000002,
+      "r"
+    ],
+    [
+      0.000008,
+      "-sp"
+    ],
+    [
+      0.000002,
+      "hi"
+    ],
+    [
+      0.000002,
+      "n"
+    ],
+    [
+      0.000002,
+      "x"
+    ],
+    [
+      0.000057,
+      "\u0007\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.000417,
+      "\u001b[1m\u001b[32m➜  \u001b[1m\u001b[36mdocker-sphinx\u001b[1m\u001b[34m git:(\u001b[1m\u001b[31mmaster\u001b[1m\u001b[34m)\u001b[1m\u001b[33m ✗\u001b[30m\u001b(B\u001b[m \u001b[K"
+    ],
+    [
+      0.328110,
+      "d"
+    ],
+    [
+      0.000961,
+      "\u0008\u001b[38;5;166md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000542,
+      "\u001b[38;5;242mocker build\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.110583,
+      "\u001b[38;5;166mo\u001b[38;5;242mcker build\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087791,
+      "\u001b[38;5;166mc\u001b[38;5;242mker build\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104214,
+      "\u001b[38;5;166mk\u001b[38;5;242mer build\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111611,
+      "\u001b[38;5;166me\u001b[38;5;242mr build\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.024026,
+      "\u001b[38;5;166mr\u001b[38;5;242m build\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000941,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;247mdocker\u001b[38;5;242m build\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.127324,
+      "\u001b[38;5;247m \u001b[38;5;242mbuild\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;242mbuild\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.311935,
+      "b\u001b[38;5;242muild\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m\u0008\u001b[38;5;246m\u001b[4mb\u001b[38;5;242m\u001b[24muild\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079662,
+      "\u001b[38;5;246m\u001b[4mu\u001b[38;5;242m\u001b[24mild\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.047965,
+      "\u001b[38;5;246m\u001b[4mi\u001b[38;5;242m\u001b[24mld\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.207975,
+      "\u001b[38;5;246m\u001b[4ml\u001b[38;5;242m\u001b[24md\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096057,
+      "\u001b[38;5;246m\u001b[4md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136718,
+      "\u001b[38;5;246m\u001b[4m \u001b[30m\u001b(B\u001b[m\u001b[38;5;242m-t orangetux/sphinx .\u001b[21D\u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;242m-t orangetux/sphinx .\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.888244,
+      "-t orangetux/sphinx .\u001b[27D\u001b[38;5;246mbuild\u001b[30m\u001b(B\u001b[m \u001b[38;5;246m-t\u001b[30m\u001b(B\u001b[m \u001b[38;5;246morangetux/sphinx\u001b[30m\u001b(B\u001b[m \u001b[38;5;246m\u001b[4m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.335961,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;docker  /home/auke/projects/docker-sphinx\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071453,
+      "Sending build context to Docker daemon 557.1 kB\r"
+    ],
+    [
+      0.005572,
+      "Sending build context to Docker daemon 1.114 MB\r"
+    ],
+    [
+      0.005608,
+      "Sending build context to Docker daemon 1.671 MB\r"
+    ],
+    [
+      0.004111,
+      "Sending build context to Docker daemon 2.228 MB\r"
+    ],
+    [
+      0.005408,
+      "Sending build context to Docker daemon 2.785 MB\r"
+    ],
+    [
+      0.006884,
+      "Sending build context to Docker daemon 3.342 MB\r"
+    ],
+    [
+      0.009517,
+      "Sending build context to Docker daemon 3.899 MB\r"
+    ],
+    [
+      0.005718,
+      "Sending build context to Docker daemon 4.456 MB\r"
+    ],
+    [
+      0.003687,
+      "Sending build context to Docker daemon 5.014 MB\r"
+    ],
+    [
+      0.005228,
+      "Sending build context to Docker daemon 5.571 MB\r"
+    ],
+    [
+      0.006140,
+      "Sending build context to Docker daemon 6.128 MB\r"
+    ],
+    [
+      0.007997,
+      "Sending build context to Docker daemon 6.685 MB\r"
+    ],
+    [
+      0.005363,
+      "Sending build context to Docker daemon 7.242 MB\r"
+    ],
+    [
+      0.005507,
+      "Sending build context to Docker daemon 7.799 MB\r"
+    ],
+    [
+      0.004059,
+      "Sending build context to Docker daemon 8.356 MB\r"
+    ],
+    [
+      0.006643,
+      "Sending build context to Docker daemon 8.913 MB\r"
+    ],
+    [
+      0.004366,
+      "Sending build context to Docker daemon  9.47 MB\r"
+    ],
+    [
+      0.005038,
+      "Sending build context to Docker daemon 10.03 MB\r"
+    ],
+    [
+      0.004410,
+      "Sending build context to Docker daemon 10.58 MB\r"
+    ],
+    [
+      0.004636,
+      "Sending build context to Docker daemon 11.14 MB\r"
+    ],
+    [
+      0.005390,
+      "Sending build context to Docker daemon  11.7 MB\r"
+    ],
+    [
+      0.003917,
+      "Sending build context to Docker daemon 12.26 MB\r"
+    ],
+    [
+      0.004228,
+      "Sending build context to Docker daemon 12.81 MB\r"
+    ],
+    [
+      0.004939,
+      "Sending build context to Docker daemon 13.37 MB\r"
+    ],
+    [
+      0.003601,
+      "Sending build context to Docker daemon 13.93 MB\r"
+    ],
+    [
+      0.005332,
+      "Sending build context to Docker daemon 14.48 MB\r"
+    ],
+    [
+      0.003684,
+      "Sending build context to Docker daemon 15.04 MB\r"
+    ],
+    [
+      0.004697,
+      "Sending build context to Docker daemon  15.6 MB\r"
+    ],
+    [
+      0.005318,
+      "Sending build context to Docker daemon 16.15 MB\r"
+    ],
+    [
+      0.004333,
+      "Sending build context to Docker daemon 16.71 MB\r"
+    ],
+    [
+      0.002968,
+      "Sending build context to Docker daemon 17.27 MB\r"
+    ],
+    [
+      0.004062,
+      "Sending build context to Docker daemon 17.83 MB\r"
+    ],
+    [
+      0.003674,
+      "Sending build context to Docker daemon 18.38 MB\r"
+    ],
+    [
+      0.003831,
+      "Sending build context to Docker daemon 18.94 MB\r"
+    ],
+    [
+      0.003864,
+      "Sending build context to Docker daemon  19.5 MB\r"
+    ],
+    [
+      0.003627,
+      "Sending build context to Docker daemon 20.05 MB\r"
+    ],
+    [
+      0.003833,
+      "Sending build context to Docker daemon 20.61 MB\r"
+    ],
+    [
+      0.005149,
+      "Sending build context to Docker daemon 21.17 MB\r"
+    ],
+    [
+      0.003324,
+      "Sending build context to Docker daemon 21.73 MB\r"
+    ],
+    [
+      0.003545,
+      "Sending build context to Docker daemon 22.28 MB\r"
+    ],
+    [
+      0.003190,
+      "Sending build context to Docker daemon 22.84 MB\r"
+    ],
+    [
+      0.003283,
+      "Sending build context to Docker daemon  23.4 MB\r"
+    ],
+    [
+      0.006670,
+      "Sending build context to Docker daemon 23.95 MB\r"
+    ],
+    [
+      0.002950,
+      "Sending build context to Docker daemon 24.51 MB\r"
+    ],
+    [
+      0.004278,
+      "Sending build context to Docker daemon 25.07 MB\r"
+    ],
+    [
+      0.003533,
+      "Sending build context to Docker daemon 25.62 MB\r"
+    ],
+    [
+      0.006315,
+      "Sending build context to Docker daemon 26.18 MB\r"
+    ],
+    [
+      0.007157,
+      "Sending build context to Docker daemon 26.74 MB\r"
+    ],
+    [
+      0.011264,
+      "Sending build context to Docker daemon  27.3 MB\r"
+    ],
+    [
+      0.009252,
+      "Sending build context to Docker daemon 27.85 MB\r"
+    ],
+    [
+      0.004144,
+      "Sending build context to Docker daemon 28.41 MB\r"
+    ],
+    [
+      0.006175,
+      "Sending build context to Docker daemon 28.97 MB\r"
+    ],
+    [
+      0.003779,
+      "Sending build context to Docker daemon 29.52 MB\r"
+    ],
+    [
+      0.006293,
+      "Sending build context to Docker daemon 30.08 MB\r"
+    ],
+    [
+      0.006227,
+      "Sending build context to Docker daemon 30.64 MB\r"
+    ],
+    [
+      0.005271,
+      "Sending build context to Docker daemon  31.2 MB\r"
+    ],
+    [
+      0.005112,
+      "Sending build context to Docker daemon 31.75 MB\r"
+    ],
+    [
+      0.005707,
+      "Sending build context to Docker daemon 32.31 MB\r"
+    ],
+    [
+      0.004337,
+      "Sending build context to Docker daemon 32.87 MB\r"
+    ],
+    [
+      0.006121,
+      "Sending build context to Docker daemon 33.42 MB\r"
+    ],
+    [
+      0.005628,
+      "Sending build context to Docker daemon 33.98 MB\r"
+    ],
+    [
+      0.005374,
+      "Sending build context to Docker daemon 34.54 MB\r"
+    ],
+    [
+      0.003257,
+      "Sending build context to Docker daemon 35.09 MB\r"
+    ],
+    [
+      0.003449,
+      "Sending build context to Docker daemon 35.65 MB\r"
+    ],
+    [
+      0.002941,
+      "Sending build context to Docker daemon 36.21 MB\r"
+    ],
+    [
+      0.006487,
+      "Sending build context to Docker daemon 36.77 MB\r"
+    ],
+    [
+      0.000105,
+      "Sending build context to Docker daemon  36.8 MB\r"
+    ],
+    [
+      0.000002,
+      "\r\r\n"
+    ],
+    [
+      0.000002,
+      "Sending build context to Docker daemon \r"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.003015,
+      "Step 0 : FROM advancedclimatesystems/python:3.4.3\r\n"
+    ],
+    [
+      0.000222,
+      " ---\u003e 0cfac0b468c8"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Step 1 : MAINTAINER Auke Willem Oosterhoff \u003cauke@orangetux.nl\u003e\r\n"
+    ],
+    [
+      0.016877,
+      " ---\u003e Using cache\r\n ---\u003e 08427ad1bc94\r\n"
+    ],
+    [
+      0.000005,
+      "Step 2 : RUN pip install sphinx\r\n"
+    ],
+    [
+      0.018726,
+      " ---\u003e Using cache\r\n ---\u003e 8a2d9ee042ed\r\nStep 3 : WORKDIR /docs\r\n"
+    ],
+    [
+      0.016178,
+      " ---\u003e Using cache\r\n ---\u003e 1dc0d0c19d7d\r\nStep 4 : CMD sphinx-build -b html source/ build/"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.018474,
+      " ---\u003e Using cache\r\n ---\u003e df958232dfc8\r\n"
+    ],
+    [
+      0.000005,
+      "Successfully built df958232dfc8\r\n"
+    ],
+    [
+      0.046366,
+      "\u001b]0;fish  /home/auke/projects/docker-sphinx\u0007\u001b[30m\u001b(B\u001b[m\u001b[38;5;245m⏎\u001b[0m                                                                                    \r \r\u001b[1m\u001b[32m➜  \u001b[1m\u001b[36mdocker-sphinx\u001b[1m\u001b[34m git:(\u001b[1m\u001b[31mmaster\u001b[1m\u001b[34m)\u001b[1m\u001b[33m ✗\u001b[30m\u001b(B\u001b[m \u001b[K"
+    ],
+    [
+      0.762274,
+      "d\u0008\u001b[38;5;166md\u001b[30m\u001b(B\u001b[m\u001b[38;5;242mocker build -t orangetux/sphinx .\u001b[33D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.206235,
+      "\u001b[38;5;166mo\u001b[38;5;242mcker build -t orangetux/sphinx .\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104042,
+      "\u001b[38;5;166mc\u001b[38;5;242mker build -t orangetux/sphinx .\u001b[31D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096142,
+      "\u001b[38;5;166mk\u001b[38;5;242mer build -t orangetux/sphinx .\u001b[30D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103894,
+      "\u001b[38;5;166me\u001b[38;5;242mr build -t orangetux/sphinx .\u001b[29D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.031885,
+      "\u001b[38;5;166mr\u001b[38;5;242m build -t orangetux/sphinx .\u001b[28D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001147,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[38;5;247mdocker\u001b[38;5;242m build -t orangetux/sphinx .\u001b[28D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087030,
+      "\u001b[38;5;247m \u001b[38;5;242mbuild -t orangetux/sphinx .\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001331,
+      "\u0008 \u001b[38;5;242mbuild -t orangetux/sphinx .\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.102407,
+      "r\u001b[K"
+    ],
+    [
+      0.001371,
+      "\u001b[38;5;242mun --rm -ti -v (pwd):/docs orangetux/sphinx\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000826,
+      "\u0008\u001b[38;5;246mr\u001b[38;5;242mun --rm -ti -v (pwd):/docs orangetux/sphinx\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.061910,
+      "\u001b[38;5;246mu\u001b[38;5;242mn --rm -ti -v (pwd):/docs orangetux/sphinx\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071870,
+      "\u001b[38;5;246mn\u001b[38;5;242m --rm -ti -v (pwd):/docs orangetux/sphinx\u001b[41D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.288236,
+      "\u001b[38;5;246m --rm -ti -v (pwd):/docs orangetux/sphinx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000836,
+      "\u001b[41D \u001b[38;5;246m--rm\u001b[30m\u001b(B\u001b[m \u001b[38;5;246m-ti\u001b[30m\u001b(B\u001b[m \u001b[38;5;246m-v\u001b[30m\u001b(B\u001b[m \u001b[36m(\u001b[38;5;247mpwd\u001b[36m)\u001b[38;5;246m:/docs\u001b[30m\u001b(B\u001b[m \u001b[38;5;246morangetux/sphinx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.303075,
+      "\r\n\u001b[30m\u001b(B"
+    ],
+    [
+      0.000007,
+      "\u001b[m"
+    ],
+    [
+      0.000326,
+      "\u001b]0;docker  /"
+    ],
+    [
+      0.000006,
+      "home/auke"
+    ],
+    [
+      0.000004,
+      "/"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000003,
+      "o"
+    ],
+    [
+      0.000003,
+      "j"
+    ],
+    [
+      0.000003,
+      "e"
+    ],
+    [
+      0.000003,
+      "c"
+    ],
+    [
+      0.000004,
+      "t"
+    ],
+    [
+      0.000003,
+      "s"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000003,
+      "d"
+    ],
+    [
+      0.000002,
+      "o"
+    ],
+    [
+      0.000033,
+      "ck"
+    ],
+    [
+      0.000007,
+      "er-s"
+    ],
+    [
+      0.000004,
+      "p"
+    ],
+    [
+      0.000053,
+      "hinx\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b[30"
+    ],
+    [
+      0.000054,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.659504,
+      "\u001b[01mRunning Sphinx v1.3.1\u001b[39;49;00m\r\r\n"
+    ],
+    [
+      0.001177,
+      "\u001b[01mloading pickled environment... \u001b[39;49;00m"
+    ],
+    [
+      0.000591,
+      "done\r\r\n"
+    ],
+    [
+      0.090048,
+      "\u001b[01mbuilding [mo]: \u001b[39;49;00mtargets for 0 po files that are out of date\r\r\n"
+    ],
+    [
+      0.002146,
+      "\u001b[01mbuilding [html]\u001b[39;49;00m: targets for 1 source files that are out of date\r\r\n"
+    ],
+    [
+      0.000925,
+      "\u001b[01mupdating environment: \u001b[39;49;00m"
+    ],
+    [
+      0.000039,
+      "0 added, 0 changed, 0 removed\r\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[01mlooking for now-outdated files... \u001b[39;49;00m"
+    ],
+    [
+      0.000060,
+      "none found\r\r\n\u001b[01mpreparing documents... \u001b[39;49;00m"
+    ],
+    [
+      0.002175,
+      "done\r\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[01mwriting output... \u001b[39;49;00m[100%] \u001b[32mindex\u001b[39;49;00m                                                       \r"
+    ],
+    [
+      0.095718,
+      "\r\r\n\u001b[01mgenerating indices...\u001b[39;49;00m"
+    ],
+    [
+      0.000015,
+      " genindex"
+    ],
+    [
+      0.022217,
+      "\r\r\n\u001b[01mwriting additional pages...\u001b[39;49;00m search"
+    ],
+    [
+      0.010660,
+      "\r\r\n\u001b[01mcopying static files... \u001b[39;49;00m"
+    ],
+    [
+      0.032605,
+      "done\r\r\n\u001b[01mcopying extra files... \u001b[39;49;00mdone\r\r\n"
+    ],
+    [
+      0.000118,
+      "\u001b[01mdumping search index in English (code: en) ... \u001b[39;49;00m"
+    ],
+    [
+      0.000309,
+      "done\r\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[01mdumping object inventory... \u001b[39;49;00m"
+    ],
+    [
+      0.000173,
+      "done\r\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[01mbuild succeeded.\u001b[39;49;00m\r\r\n"
+    ],
+    [
+      0.287464,
+      "\u001b"
+    ],
+    [
+      0.000007,
+      "]0;fish  /ho"
+    ],
+    [
+      0.000011,
+      "me"
+    ],
+    [
+      0.000002,
+      "/"
+    ],
+    [
+      0.000002,
+      "a"
+    ],
+    [
+      0.000023,
+      "uke/"
+    ],
+    [
+      0.000004,
+      "projec"
+    ],
+    [
+      0.000004,
+      "ts"
+    ],
+    [
+      0.000003,
+      "/"
+    ],
+    [
+      0.000007,
+      "do"
+    ],
+    [
+      0.000004,
+      "cke"
+    ],
+    [
+      0.000003,
+      "r"
+    ],
+    [
+      0.000003,
+      "-s"
+    ],
+    [
+      0.000003,
+      "p"
+    ],
+    [
+      0.000003,
+      "hi"
+    ],
+    [
+      0.000004,
+      "n"
+    ],
+    [
+      0.000003,
+      "x"
+    ],
+    [
+      0.000003,
+      "\u0007"
+    ],
+    [
+      0.000065,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000053,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                    \r \r"
+    ],
+    [
+      0.000580,
+      "\u001b[1m\u001b[32m➜  \u001b[1m\u001b[36mdocker-sphinx\u001b[1m\u001b[34m git:(\u001b[1m\u001b[31mmaster\u001b[1m\u001b[34m)\u001b[1m\u001b[33m ✗\u001b[30m\u001b(B\u001b[m \u001b[K"
+    ],
+    [
+      0.872849,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
