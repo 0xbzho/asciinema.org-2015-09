@@ -1,0 +1,1178 @@
+{
+  "version": 1,
+  "width": 203,
+  "height": 56,
+  "duration": 99.401768,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.181651,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.000439,
+      "\u001b]2;foiki@fuckwindows: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.016534,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@fuckwindows\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.490457,
+      "d"
+    ],
+    [
+      0.311238,
+      "\u0008db"
+    ],
+    [
+      0.215919,
+      "w"
+    ],
+    [
+      0.192310,
+      "e"
+    ],
+    [
+      0.487203,
+      "bb\u001b[1m \u001b[0m"
+    ],
+    [
+      0.576493,
+      "\u0008\u001b[0m l"
+    ],
+    [
+      0.160349,
+      "o"
+    ],
+    [
+      0.094065,
+      "g"
+    ],
+    [
+      0.121269,
+      "i"
+    ],
+    [
+      0.120083,
+      "n"
+    ],
+    [
+      1.040874,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;dbwebb login\u0007\u001b]1;dbwebb\u0007"
+    ],
+    [
+      0.026897,
+      "I will now login to the server 'ssh.student.bth.se' as 'jokd13' using ssh-keys if available.\r\nPress enter to continue..."
+    ],
+    [
+      0.748599,
+      "\r\n"
+    ],
+    [
+      0.371907,
+      "Linux seekers 2.6.32-5-686 #1 SMP Fri May 10 08:33:48 UTC 2013 i686\r\n"
+    ],
+    [
+      0.000166,
+      "\r\nThe programs included with the Debian GNU/Linux system are free software;\r\n"
+    ],
+    [
+      0.000835,
+      "the exact distribution terms for each program are described in the\r\n"
+    ],
+    [
+      0.000255,
+      "individual files in /usr/share/doc/*/copyright.\r\n"
+    ],
+    [
+      0.000306,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\n"
+    ],
+    [
+      0.000307,
+      "permitted by applicable law.\r\n"
+    ],
+    [
+      0.000173,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "========================================================================\r\n"
+    ],
+    [
+      0.000059,
+      "\r\nThis is a server for:"
+    ],
+    [
+      0.000386,
+      "\r\n"
+    ],
+    [
+      0.000354,
+      "\r\n"
+    ],
+    [
+      0.000361,
+      "ssh.student.bth.se"
+    ],
+    [
+      0.001030,
+      "\r\n\r\nsftp.student.bth.se\r\n\r\nnodejs1.student.bth.se\r\n\r\nIf you need help or have questions please contact IT Helpdesk.\r\n\r\n        http://www.bth.se/ithelpdesk\r\n\r\n//IT Department\r\n\r\nLast login: Mon Sep 21 17:36:27 2015 from lb-float-sk.net.bth.se\r\r\n"
+    ],
+    [
+      0.041874,
+      "jokd13@seekers: "
+    ],
+    [
+      1.063834,
+      "b"
+    ],
+    [
+      0.191824,
+      "a"
+    ],
+    [
+      0.104473,
+      "s"
+    ],
+    [
+      0.055603,
+      "h"
+    ],
+    [
+      0.675714,
+      "\r\r\n"
+    ],
+    [
+      0.016024,
+      "jokd13@seekers:~$ "
+    ],
+    [
+      1.580668,
+      "c"
+    ],
+    [
+      0.096707,
+      "a"
+    ],
+    [
+      0.143176,
+      "t"
+    ],
+    [
+      0.136451,
+      " "
+    ],
+    [
+      0.608354,
+      "."
+    ],
+    [
+      0.159817,
+      "b"
+    ],
+    [
+      0.153405,
+      "a"
+    ],
+    [
+      0.045864,
+      "s"
+    ],
+    [
+      0.193061,
+      "h"
+    ],
+    [
+      0.194337,
+      "\u0007"
+    ],
+    [
+      0.357581,
+      "r"
+    ],
+    [
+      0.447725,
+      "c "
+    ],
+    [
+      0.769197,
+      "\r\n"
+    ],
+    [
+      0.009842,
+      "alias potatis=\"sudo /usr/local/sbin/setpre-dbwebb-kurser.bash\"\r\n"
+    ],
+    [
+      0.000258,
+      "jokd13@seekers:~$ "
+    ],
+    [
+      1.629319,
+      "p"
+    ],
+    [
+      0.286474,
+      "o"
+    ],
+    [
+      0.128452,
+      "t"
+    ],
+    [
+      0.198657,
+      "a"
+    ],
+    [
+      0.318151,
+      "tis "
+    ],
+    [
+      2.995169,
+      "c"
+    ],
+    [
+      0.240981,
+      "a"
+    ],
+    [
+      0.815348,
+      "g"
+    ],
+    [
+      0.320076,
+      "u"
+    ],
+    [
+      0.432149,
+      "1"
+    ],
+    [
+      1.225034,
+      "5"
+    ],
+    [
+      0.027389,
+      "\r\n"
+    ],
+    [
+      0.016168,
+      "[sudo] password for jokd13: "
+    ],
+    [
+      2.300325,
+      "\r\n"
+    ],
+    [
+      2.217237,
+      "/home/saxon/students/20151/cagu15/dbwebb-kurser\r\n"
+    ],
+    [
+      0.024285,
+      "drwxr-sr-x 5 cagu15 dbwebb-kurser 4096 aug 29 11:44 .\r\ndrwx--x--x 6 cagu15         20151 4096 apr 24 13:14 ..\r\ndrwxr-xr-x 6 cagu15 dbwebb-kurser 4096 apr 17 13:44 javascript1\r\ndrwxrwxr-x 5 cagu15 dbwebb-kurser 4096 aug 29 11:44 linux\r\ndrwxr-xr-x 6 cagu15 dbwebb-kurser 4096 mar  3  2015 python\r\n"
+    ],
+    [
+      0.001267,
+      "jokd13@seekers:~$ "
+    ],
+    [
+      3.452036,
+      "e"
+    ],
+    [
+      0.208550,
+      "x"
+    ],
+    [
+      0.159999,
+      "i"
+    ],
+    [
+      0.095338,
+      "t"
+    ],
+    [
+      0.896229,
+      "\r\nexit\r\n"
+    ],
+    [
+      0.006518,
+      "jokd13@seekers: "
+    ],
+    [
+      1.105650,
+      "e"
+    ],
+    [
+      0.192224,
+      "x"
+    ],
+    [
+      0.111910,
+      "i"
+    ],
+    [
+      0.111948,
+      "t"
+    ],
+    [
+      0.144833,
+      "\r\r\nlogout\r\n"
+    ],
+    [
+      0.003136,
+      "Connection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000670,
+      "\u001b[1;37;40mDONE\u001b[0m to establish the connection.\r\n"
+    ],
+    [
+      0.000860,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                          \r \r\u001b]2;foiki@fuckwindows: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.007242,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@fuckwindows\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.464986,
+      "dbwebb login"
+    ],
+    [
+      0.359969,
+      "\u001b[12Dasciinema rec "
+    ],
+    [
+      0.575837,
+      "\u0008\u0008\u0008\u0008   \u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.431609,
+      "\u0008\u0008\u0008\u0008ema "
+    ],
+    [
+      0.552376,
+      "\u001b[9Ddbwebb inspect linux kmom01 guma15"
+    ],
+    [
+      1.017611,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;dbwebb inspect linux kmom01 guma15\u0007\u001b]1;dbwebb\u0007"
+    ],
+    [
+      0.029970,
+      "I will now inspect 'kmom01' in course 'linux' for user 'guma15'.\r\nPress enter to continue..."
+    ],
+    [
+      1.233007,
+      "\r\n"
+    ],
+    [
+      1.664424,
+      "Archiving, please wait..."
+    ],
+    [
+      0.000351,
+      "creating '/home/saxon/students/dbwebb/archive//guma15/linux'..."
+    ],
+    [
+      0.015847,
+      "install: cannot change permissions of ‘/home/saxon/students/dbwebb/archive//guma15/linux’: No such file or directory\r\n"
+    ],
+    [
+      0.082902,
+      "rsync: mkdir \"/home/saxon/students/dbwebb/archive//guma15/linux\" failed: Permission denied (13)\r\nrsync error: error in file IO (code 11) at main.c(674) [Receiver=3.1.1]\r\n"
+    ],
+    [
+      0.006751,
+      "find: `/home/saxon/students/dbwebb/archive//guma15/linux/'"
+    ],
+    [
+      0.000154,
+      ": No such file or directory\r\n"
+    ],
+    [
+      0.000657,
+      "done.\r\n#\r\n"
+    ],
+    [
+      0.008236,
+      "# mån 21 sep 2015 17:39:01 CEST\r\n"
+    ],
+    [
+      0.155597,
+      "# dbwebb-inspect version v1.9.14x (2015-09-07)\r\n#\r\n# Repo:     /home/saxon/students/20151/guma15/dbwebb-kurser/linux\r\n# Course:   linux\r\n# Kmom:     kmom01\r\n# Student:  guma15\r\n# By:       jokd13\r\n"
+    ],
+    [
+      0.004119,
+      "# Archived: yes\r\n#\r\n\r\nPress enter to continue..."
+    ],
+    [
+      1.052555,
+      "\r\n"
+    ],
+    [
+      0.030564,
+      "\r\n\r\n\r\n-------------------------------------------------------------\r\n-- dbwebb inspect\r\n-------------------------------------------------------------\r\nURL: http://www.student.bth.se/~guma15/dbwebb-kurser/linux/me/"
+    ],
+    [
+      0.025647,
+      "\r\n\r\nOpen files in an editor:\r\n \"/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me\"\r\n\r\ncd \"/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me\"\r\n\r\nPress enter to continue..."
+    ],
+    [
+      0.959682,
+      "\r\n"
+    ],
+    [
+      0.029795,
+      "\r\n\r\n\r\n-------------------------------------------------------------\r\n-- linux kmom01\r\n-- http://dbwebb.se/linux/kmom01\r\n-------------------------------------------------------------"
+    ],
+    [
+      0.054580,
+      "\r\nPublishing a copy of kmom01 to '/home/saxon/students/20132/jokd13/www/dbwebb-kurser/inspect/'"
+    ],
+    [
+      0.250803,
+      "\r\nURL: http://www.student.bth.se/~jokd13/dbwebb-kurser/inspect/\r\n\r\nOpen files in an editor:\r\n \"/home/saxon/students/20132/jokd13/www/dbwebb-kurser/inspect/\"\r\n\r\nChange to directory:\r\ncd \"/home/saxon/students/20132/jokd13/www/dbwebb-kurser/inspect/\"\r\n\r\nView content of directory:\r\n"
+    ],
+    [
+      0.011866,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01\r\n└── [drwxr-xr-x 4.0K]  install\r\n\r\n1 directory, 0 files\r\n"
+    ],
+    [
+      0.000757,
+      "\r\nValidate kmom01 [Yn]? "
+    ],
+    [
+      1.356524,
+      "y"
+    ],
+    [
+      0.520171,
+      "\r\n"
+    ],
+    [
+      0.192428,
+      "Validating '/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01'."
+    ],
+    [
+      0.003052,
+      "\r\n *.html using htmlhint"
+    ],
+    [
+      0.015287,
+      " (0)"
+    ],
+    [
+      0.013137,
+      "\r\n *.css using csslint"
+    ],
+    [
+      0.014767,
+      " (0)"
+    ],
+    [
+      0.002801,
+      "\r\n *.js using jshint"
+    ],
+    [
+      0.014089,
+      " (0)"
+    ],
+    [
+      0.002160,
+      "\r\n *.js using jscs"
+    ],
+    [
+      0.014480,
+      " (0)\r\n\u001b[0;30;42mOK\u001b[0m Asserts: 0 Faults: 0\r\n"
+    ],
+    [
+      0.000244,
+      "\r\nPress enter to continue..."
+    ],
+    [
+      1.359596,
+      "\r\n"
+    ],
+    [
+      0.027361,
+      "\r\n\r\n\r\n-------------------------------------------------------------\r\n-- me-page\r\n-- http://dbwebb.se/linux/kmom01#resultat_redovisning\r\n-------------------------------------------------------------"
+    ],
+    [
+      0.019961,
+      "\r\nView content of directory:\r\n"
+    ],
+    [
+      0.006961,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa\r\n├── [-rw-r--r--  72K]  gustavfoto.jpg\r\n├── [-rw-r--r-- 1.6K]  me.html\r\n├── [-rw-r--r-- 7.7K]  report.html\r\n└── [-rw-r--r--   83]  style.css\r\n\r\n0 directories, 4 files\r\n"
+    ],
+    [
+      0.000796,
+      "\r\nOpen files in an editor:\r\n \"/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa\"\r\n\r\nURL: http://www.student.bth.se/~guma15/dbwebb-kurser/linux/me/redovisa/me.html"
+    ],
+    [
+      0.019795,
+      "\r\n\r\nURL: http://www.student.bth.se/~guma15/dbwebb-kurser/linux/me/redovisa/report.html"
+    ],
+    [
+      0.015997,
+      "\r\n\r\nPress enter to continue..."
+    ],
+    [
+      1.532769,
+      "\r\n"
+    ],
+    [
+      0.031792,
+      "\r\n\r\n\r\n-------------------------------------------------------------\r\n-- install\r\n-- http://dbwebb.se/uppgift/installera-debian-som-server\r\n-------------------------------------------------------------"
+    ],
+    [
+      0.024615,
+      "\r\nView content of directory:\r\n"
+    ],
+    [
+      0.006659,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01/install\r\n\r\n0 directories, 0 files\r\n"
+    ],
+    [
+      0.000468,
+      "\r\nOpen files in an editor:\r\n \"/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01/install\"\r\n"
+    ],
+    [
+      0.021120,
+      "\r\n\r\n\u001b[43mWARNING\u001b[0m The file 'log.txt' is missing or not readable.\r\n\r\nURL: http://www.student.bth.se/~guma15/dbwebb-kurser/linux/me/kmom01/install/ssh.png"
+    ],
+    [
+      0.015105,
+      "\r\n\r\n\u001b[43mWARNING\u001b[0m The file 'ssh.png' is missing or not readable.\r\n\r\n\r\nPress enter to continue..."
+    ],
+    [
+      1.988609,
+      "\r\n"
+    ],
+    [
+      0.028045,
+      "\r\n\r\n\r\n-------------------------------------------------------------\r\n-- dbwebb inspect summary\r\n-------------------------------------------------------------\r\n\r\n\u001b[0;37;41mFAILED\u001b[0m Asserts: 8 Faults: 2\r\n"
+    ],
+    [
+      0.001616,
+      "\u001b[1;37;40mDONE\u001b[0m to inspect the course results.\r\nSaved a log of the output, review it as:\r\nless -R '/home/foiki/.dbwebb-inspect.log'\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                          \r \r"
+    ],
+    [
+      0.000226,
+      "\u001b]2;foiki@fuckwindows: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.007586,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@fuckwindows\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.506602,
+      "dbwebb inspect linux kmom01 guma15"
+    ],
+    [
+      0.224049,
+      "\u001b[27Dlogin                      \u001b[22D"
+    ],
+    [
+      0.673223,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;dbwebb login\u0007\u001b]1;dbwebb\u0007"
+    ],
+    [
+      0.029359,
+      "I will now login to the server 'ssh.student.bth.se' as 'jokd13' using ssh-keys if available.\r\nPress enter to continue..."
+    ],
+    [
+      1.233258,
+      "\r\n"
+    ],
+    [
+      0.365703,
+      "Linux seekers 2.6.32-5-686 #1 SMP Fri May 10 08:33:48 UTC 2013 i686\r\n\r\n"
+    ],
+    [
+      0.000275,
+      "The programs included with the Debian GNU/Linux system are free software;\r\n"
+    ],
+    [
+      0.000351,
+      "the exact distribution terms for each program are described in the"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.000250,
+      "individual files in /usr/share/doc/*/copyright.\r\n\r\n"
+    ],
+    [
+      0.000745,
+      "Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000230,
+      "permitted by applicable law.\r\n\r\n"
+    ],
+    [
+      0.000131,
+      "========================================================================\r\n"
+    ],
+    [
+      0.000390,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "This is a server for:\r\n"
+    ],
+    [
+      0.000302,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "ssh.student.bth.se\r\n\r\nsftp.student.bth.se\r\n\r\nnodejs1.student.bth.se\r\n\r\nIf you need help or have questions please contact IT Helpdesk.\r\n\r\n        http://www.bth.se/ithelpdesk\r\n\r\n//IT Department\r\n\r\nLast login: Mon Sep 21 17:38:27 2015 from lb-float-sk.net.bth.se\r"
+    ],
+    [
+      0.001237,
+      "\r\n"
+    ],
+    [
+      0.038225,
+      "jokd13@seekers: "
+    ],
+    [
+      6.068231,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa\r\r\n"
+    ],
+    [
+      0.010100,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa: Permission denied.\r\n"
+    ],
+    [
+      0.000805,
+      "jokd13@seekers: "
+    ],
+    [
+      1.586624,
+      "c"
+    ],
+    [
+      0.048391,
+      "d"
+    ],
+    [
+      0.104628,
+      " "
+    ],
+    [
+      0.504709,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa\r\r\njokd13@seekers: "
+    ],
+    [
+      3.610095,
+      "p"
+    ],
+    [
+      0.076113,
+      "w"
+    ],
+    [
+      0.089346,
+      "d"
+    ],
+    [
+      0.096282,
+      "\r\r\n"
+    ],
+    [
+      0.002980,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa"
+    ],
+    [
+      0.008364,
+      "\r\n"
+    ],
+    [
+      0.000798,
+      "jokd13@seekers: "
+    ],
+    [
+      1.718248,
+      "pwd"
+    ],
+    [
+      1.199997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.496266,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.032755,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.486386,
+      "cd /home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa"
+    ],
+    [
+      0.191729,
+      "\u001b[17G\u001b[3P\u001b[82G"
+    ],
+    [
+      0.919105,
+      "\u001b[17G\u001b[3@cd \u001b[85G"
+    ],
+    [
+      1.523238,
+      "\r\r\n"
+    ],
+    [
+      0.000960,
+      "jokd13@seekers: "
+    ],
+    [
+      1.210648,
+      "p"
+    ],
+    [
+      0.066037,
+      "w"
+    ],
+    [
+      0.069725,
+      "d"
+    ],
+    [
+      0.106020,
+      "\r\r\n"
+    ],
+    [
+      0.009634,
+      "/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa\r\n"
+    ],
+    [
+      0.000342,
+      "jokd13@seekers: "
+    ],
+    [
+      4.021512,
+      "b"
+    ],
+    [
+      0.142812,
+      "a"
+    ],
+    [
+      0.048518,
+      "s"
+    ],
+    [
+      0.081922,
+      "h"
+    ],
+    [
+      0.185250,
+      "\r\r\n"
+    ],
+    [
+      0.017579,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa$ "
+    ],
+    [
+      1.510797,
+      "\u001b[H\u001b[2Jjokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa$ "
+    ],
+    [
+      0.593165,
+      "l"
+    ],
+    [
+      0.083533,
+      "s"
+    ],
+    [
+      0.079887,
+      "\r\n"
+    ],
+    [
+      0.002336,
+      "gustavfoto.jpg"
+    ],
+    [
+      0.002938,
+      "\u0009"
+    ],
+    [
+      0.000291,
+      "me.html  report.html  style.css"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.001325,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/redovisa$ "
+    ],
+    [
+      1.505215,
+      "c"
+    ],
+    [
+      0.048973,
+      "d"
+    ],
+    [
+      0.070214,
+      " "
+    ],
+    [
+      0.090174,
+      "."
+    ],
+    [
+      0.144636,
+      "."
+    ],
+    [
+      0.081110,
+      "\r\njokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me$ "
+    ],
+    [
+      0.172910,
+      "l"
+    ],
+    [
+      0.207264,
+      "\r\n"
+    ],
+    [
+      0.017678,
+      "bash: l: command not found\r\n"
+    ],
+    [
+      0.000858,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me$ "
+    ],
+    [
+      1.095410,
+      "l"
+    ],
+    [
+      0.057174,
+      "s"
+    ],
+    [
+      0.116734,
+      "\r\n"
+    ],
+    [
+      0.010993,
+      "kmom01"
+    ],
+    [
+      0.003219,
+      "\u0009"
+    ],
+    [
+      0.000035,
+      "kmom02"
+    ],
+    [
+      0.000144,
+      "\u0009kmom03"
+    ],
+    [
+      0.000261,
+      "\u0009"
+    ],
+    [
+      0.000486,
+      "kmom04"
+    ],
+    [
+      0.000073,
+      "\u0009"
+    ],
+    [
+      0.000227,
+      "kmom05\u0009"
+    ],
+    [
+      0.000340,
+      "kmom06\u0009"
+    ],
+    [
+      0.000064,
+      "kmom10\u0009"
+    ],
+    [
+      0.000463,
+      "redovisa"
+    ],
+    [
+      0.000617,
+      "\r\n"
+    ],
+    [
+      0.000505,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me$ "
+    ],
+    [
+      0.315182,
+      "c"
+    ],
+    [
+      0.062684,
+      "d"
+    ],
+    [
+      0.078826,
+      " "
+    ],
+    [
+      0.553883,
+      "k"
+    ],
+    [
+      0.067403,
+      "m"
+    ],
+    [
+      0.102443,
+      "\u0007om"
+    ],
+    [
+      0.595030,
+      "0"
+    ],
+    [
+      0.067012,
+      "1"
+    ],
+    [
+      0.245039,
+      "\r\njokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01$ "
+    ],
+    [
+      0.287596,
+      "l"
+    ],
+    [
+      0.113636,
+      "s"
+    ],
+    [
+      0.070567,
+      "\r\n"
+    ],
+    [
+      0.015263,
+      "install\r\n"
+    ],
+    [
+      0.001779,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01$ "
+    ],
+    [
+      0.631844,
+      "c"
+    ],
+    [
+      0.071499,
+      "d"
+    ],
+    [
+      0.076381,
+      " "
+    ],
+    [
+      0.244445,
+      "i"
+    ],
+    [
+      0.096577,
+      "n"
+    ],
+    [
+      0.105174,
+      "stall/"
+    ],
+    [
+      0.165339,
+      "\r\njokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01/install$ "
+    ],
+    [
+      0.251480,
+      "l"
+    ],
+    [
+      0.180292,
+      "s"
+    ],
+    [
+      0.116370,
+      "\r\n"
+    ],
+    [
+      0.006706,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01/install$ "
+    ],
+    [
+      1.036567,
+      "l"
+    ],
+    [
+      0.072522,
+      "s"
+    ],
+    [
+      0.128172,
+      " "
+    ],
+    [
+      0.062866,
+      "-"
+    ],
+    [
+      0.192272,
+      "l"
+    ],
+    [
+      0.087202,
+      "a"
+    ],
+    [
+      0.328419,
+      "F"
+    ],
+    [
+      0.217209,
+      "\r\n"
+    ],
+    [
+      0.009565,
+      "total 8"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000494,
+      "drwxr-xr-x 2 guma15 dbwebb-kurser 4096 sep  8 12:34 ./\r\n"
+    ],
+    [
+      0.000263,
+      "drwxr-xr-x 3 guma15 dbwebb-kurser 4096 sep  8 12:34 ../\r\n"
+    ],
+    [
+      0.001094,
+      "jokd13@seekers:/home/saxon/students/20151/guma15/dbwebb-kurser/linux/me/kmom01/install$ "
+    ],
+    [
+      3.008732,
+      "e"
+    ],
+    [
+      0.165891,
+      "x"
+    ],
+    [
+      0.054952,
+      "i"
+    ],
+    [
+      0.126340,
+      "t"
+    ],
+    [
+      0.845753,
+      "\r\nexit\r\njokd13@seekers: ex"
+    ],
+    [
+      0.053309,
+      "i"
+    ],
+    [
+      0.089346,
+      "t"
+    ],
+    [
+      1.109777,
+      "\r\r\nlogout\r\nConnection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000606,
+      "\u001b[1;37;40mDONE\u001b[0m to establish the connection.\r\n"
+    ],
+    [
+      0.000884,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                          \r \r\u001b]2;foiki@fuckwindows: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.006573,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@fuckwindows\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.100559,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                          \r \r\u001b]2;foiki@fuckwindows: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.007608,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[1m\u001b[32mfoiki@fuckwindows\u001b[00m \u001b[1m\u001b[34m ~\u001b[00m  \u001b[00m\r\n╰─\u001b[1m$\u001b[0m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.863321,
+      "e"
+    ],
+    [
+      0.167897,
+      "\u0008ex"
+    ],
+    [
+      0.063574,
+      "i"
+    ],
+    [
+      0.096256,
+      "t"
+    ],
+    [
+      0.101452,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
