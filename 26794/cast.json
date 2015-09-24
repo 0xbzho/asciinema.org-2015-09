@@ -1,0 +1,318 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 29.084679,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.173226,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux$\u001b(B\u001b[m "
+    ],
+    [
+      1.103009,
+      "c"
+    ],
+    [
+      0.063967,
+      "d"
+    ],
+    [
+      0.104015,
+      " "
+    ],
+    [
+      0.160000,
+      "e"
+    ],
+    [
+      0.240023,
+      "x"
+    ],
+    [
+      0.466003,
+      "ample/"
+    ],
+    [
+      0.541978,
+      "n"
+    ],
+    [
+      0.401987,
+      "odejs/"
+    ],
+    [
+      2.126094,
+      "c"
+    ],
+    [
+      0.127985,
+      "h"
+    ],
+    [
+      0.170612,
+      "ild_process/"
+    ],
+    [
+      0.653539,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/child_process$\u001b(B\u001b[m "
+    ],
+    [
+      1.127910,
+      "l"
+    ],
+    [
+      0.143959,
+      "s"
+    ],
+    [
+      0.072223,
+      " "
+    ],
+    [
+      0.151735,
+      "-"
+    ],
+    [
+      0.136024,
+      "l"
+    ],
+    [
+      0.136126,
+      "\r\n"
+    ],
+    [
+      0.000885,
+      "total 4.0K\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r-- 1 mos mos 630 Sep 24 17:51 index.js"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/child_process$\u001b(B\u001b[m "
+    ],
+    [
+      1.670794,
+      "m"
+    ],
+    [
+      0.087972,
+      "o"
+    ],
+    [
+      0.159966,
+      "r"
+    ],
+    [
+      0.087980,
+      "e"
+    ],
+    [
+      0.023946,
+      " "
+    ],
+    [
+      0.160002,
+      "i"
+    ],
+    [
+      0.071973,
+      "n"
+    ],
+    [
+      0.248909,
+      "dex.js "
+    ],
+    [
+      0.599343,
+      "\r\n"
+    ],
+    [
+      0.000574,
+      "/**\r\n * Testprogram for child process and taking care of its output.\r\n"
+    ],
+    [
+      0.000005,
+      " * You need a version of Node 0.12 or later to use synchronous exec.\r\n * \r\n */\r\n"
+    ],
+    [
+      0.000028,
+      "var url = \"https://strongloop.com/strongblog/whats-new-in-node-js-v0-12-execsync-a-synchro\r\nnous-api-for-child-processes/\";\r\n\r\nvar child = require('child_process');\r\n \r\nchild.exec('uptime', (error, stdout, stderr) =\u003e {\r\n"
+    ],
+    [
+      0.000003,
+      "  var a = stdout;\r\n"
+    ],
+    [
+      0.000001,
+      "  console.log(\"Async uptime: \" + a);\r\n"
+    ],
+    [
+      0.000021,
+      "});\r\n\r\ntry {\r\n    var b = child.execSync(\"uptime\");\r\n    console.log(b);\r\n} catch (e) {"
+    ],
+    [
+      0.000002,
+      "\r\n    console.log(e);\r\n"
+    ],
+    [
+      0.000028,
+      "    console.log(\"ERROR: Seems like you have no support for synchronous child processes. Re\r\nad more on\\n\" + url);\r\n}\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/child_process$\u001b(B\u001b[m "
+    ],
+    [
+      1.822933,
+      "b"
+    ],
+    [
+      0.088086,
+      "a"
+    ],
+    [
+      0.127842,
+      "b"
+    ],
+    [
+      0.161571,
+      "\u0007el"
+    ],
+    [
+      0.894510,
+      "-"
+    ],
+    [
+      0.296014,
+      "n"
+    ],
+    [
+      0.143930,
+      "o"
+    ],
+    [
+      0.153873,
+      "de "
+    ],
+    [
+      0.414173,
+      "i"
+    ],
+    [
+      0.095960,
+      "n"
+    ],
+    [
+      0.210489,
+      "dex.js "
+    ],
+    [
+      1.917804,
+      "\r\n"
+    ],
+    [
+      0.482572,
+      "[TypeError: Object [object Object] has no method 'execSync']\r\n"
+    ],
+    [
+      0.000194,
+      "ERROR: Seems like you have no support for synchronous child processes. Read more on\r\n"
+    ],
+    [
+      0.000003,
+      "https://strongloop.com/strongblog/whats-new-in-node-js-v0-12-execsync-a-synchronous-api-for-child-processes/\r\n"
+    ],
+    [
+      0.015077,
+      "Async uptime:  17:54:05 up 1 day,  9:55, 10 users,  load average: 0.51, 0.41, 0.35\r\n\r\n"
+    ],
+    [
+      0.010022,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/child_process$\u001b(B\u001b[m "
+    ],
+    [
+      2.371964,
+      "n"
+    ],
+    [
+      0.127939,
+      "o"
+    ],
+    [
+      0.176105,
+      "d"
+    ],
+    [
+      0.087843,
+      "e"
+    ],
+    [
+      1.424049,
+      " "
+    ],
+    [
+      1.287992,
+      "-"
+    ],
+    [
+      0.176018,
+      "-"
+    ],
+    [
+      0.104019,
+      "v"
+    ],
+    [
+      0.151867,
+      "e"
+    ],
+    [
+      0.104572,
+      "r"
+    ],
+    [
+      0.215528,
+      "s"
+    ],
+    [
+      0.079948,
+      "i"
+    ],
+    [
+      0.056004,
+      "o"
+    ],
+    [
+      0.088061,
+      "n"
+    ],
+    [
+      1.680190,
+      "\r\n"
+    ],
+    [
+      0.001403,
+      "v0.10.38\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/child_process$\u001b(B\u001b[m "
+    ],
+    [
+      2.902364,
+      "exit\r\n"
+    ]
+  ]
+}
