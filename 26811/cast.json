@@ -1,0 +1,586 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 25,
+  "duration": 48.449227,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.069521,
+      "\u001b]777;notify;Command completed;ssh root@gprfc080.sbu.lab.eng.bos.redhat.com\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000173,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.681206,
+      "v"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000020,
+      "g"
+    ],
+    [
+      0.000023,
+      "r"
+    ],
+    [
+      0.000052,
+      "a"
+    ],
+    [
+      0.000043,
+      "n"
+    ],
+    [
+      0.000045,
+      "t"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000021,
+      "h"
+    ],
+    [
+      0.000013,
+      " "
+    ],
+    [
+      0.000016,
+      "l"
+    ],
+    [
+      0.000016,
+      "a"
+    ],
+    [
+      0.000017,
+      "b"
+    ],
+    [
+      0.000016,
+      "v"
+    ],
+    [
+      0.000016,
+      "m"
+    ],
+    [
+      0.000024,
+      "-"
+    ],
+    [
+      0.000018,
+      "1"
+    ],
+    [
+      0.498137,
+      "\r\n"
+    ],
+    [
+      2.245003,
+      "Last login: Fri Sep 25 08:54:04 2015 from 10.0.2.2\r\r\n\u001b]0;vagrant@labvm-1:~\u0007[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      1.759085,
+      "s"
+    ],
+    [
+      0.254362,
+      "d"
+    ],
+    [
+      0.512706,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149916,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.110012,
+      "s"
+    ],
+    [
+      0.139857,
+      "u"
+    ],
+    [
+      0.101010,
+      "d"
+    ],
+    [
+      0.175837,
+      "o"
+    ],
+    [
+      0.071976,
+      " "
+    ],
+    [
+      0.412210,
+      "-"
+    ],
+    [
+      0.194996,
+      "s"
+    ],
+    [
+      0.241242,
+      "\r\n"
+    ],
+    [
+      0.027732,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000371,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      5.290582,
+      "ip a\r\n"
+    ],
+    [
+      0.001436,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "    inet 127.0.0.1/8 scope host lo"
+    ],
+    [
+      0.000128,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "    inet6 ::1/128 scope host "
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP group default qlen 1000"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000147,
+      "    link/ether 08:00:27:bc:54:df brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic eth0"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "       valid_lft 84901sec preferred_lft 84901sec"
+    ],
+    [
+      0.000089,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    inet6 fe80::a00:27ff:febc:54df/64 scope link "
+    ],
+    [
+      0.000472,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "3: eth1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP group default qlen 1000"
+    ],
+    [
+      0.000245,
+      "\r\n    link/ether 08:00:27:07:6e:98 brd ff:ff:ff:ff:ff:ff\r\n    inet 192.168.100.23/24 brd 192.168.100.255 scope global eth1\r\n       valid_lft forever preferred_lft forever\r\n    inet6 fe80::a00:27ff:fe07:6e98/64 scope link \r\n       valid_lft forever preferred_lft forever\r\n4: docker0: \u003cNO-CARRIER,BROADCAST,MULTICAST,UP\u003e mtu 1500 qdisc noqueue state DOWN group default \r\n    link/ether 02:42:2a:42:fe:9a brd ff:ff:ff:ff:ff:ff\r\n    inet 172.17.42.1/16 scope global docker0\r\n       valid_lft forever preferred_lft forever\r\n"
+    ],
+    [
+      0.000238,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000191,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      8.380821,
+      "docker run -it  centos bash\r\n"
+    ],
+    [
+      0.419355,
+      "\u001b]0;@ba8060a610ef:/\u0007"
+    ],
+    [
+      0.000788,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000232,
+      "[root@ba8060a610ef /]# "
+    ],
+    [
+      1.651480,
+      "i"
+    ],
+    [
+      0.190327,
+      "p"
+    ],
+    [
+      0.087461,
+      " "
+    ],
+    [
+      0.248976,
+      "a"
+    ],
+    [
+      0.178479,
+      "\r\r\n"
+    ],
+    [
+      0.001742,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN "
+    ],
+    [
+      0.000176,
+      "\r\r\n"
+    ],
+    [
+      0.000172,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000117,
+      "\r\r\n"
+    ],
+    [
+      0.000472,
+      "    inet 127.0.0.1/8 scope host lo"
+    ],
+    [
+      0.000144,
+      "\r\r\n"
+    ],
+    [
+      0.000119,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000109,
+      "\r\r\n"
+    ],
+    [
+      0.000138,
+      "    inet6 ::1/128 scope host "
+    ],
+    [
+      0.000129,
+      "\r\r\n"
+    ],
+    [
+      0.000110,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000120,
+      "\r\r\n"
+    ],
+    [
+      0.000150,
+      "5: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UP "
+    ],
+    [
+      0.000127,
+      "\r\r\n"
+    ],
+    [
+      0.000144,
+      "    link/ether 02:42:ac:11:00:01 brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000151,
+      "\r\r\n"
+    ],
+    [
+      0.000161,
+      "    inet 172.17.0.1/16 scope global eth0"
+    ],
+    [
+      0.000159,
+      "\r\r\n"
+    ],
+    [
+      0.000125,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000134,
+      "\r\r\n"
+    ],
+    [
+      0.000175,
+      "    inet6 fe80::42:acff:fe11:1/64 scope link "
+    ],
+    [
+      0.000158,
+      "\r\r\n"
+    ],
+    [
+      0.000137,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000137,
+      "\r\r\n"
+    ],
+    [
+      0.000341,
+      "\u001b]0;@ba8060a610ef:/\u0007"
+    ],
+    [
+      0.000289,
+      "[root@ba8060a610ef /]# "
+    ],
+    [
+      2.381399,
+      "exit\r\r\n"
+    ],
+    [
+      0.083487,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      0.906665,
+      "docker run -it  centos bash"
+    ],
+    [
+      0.389511,
+      "\u0008"
+    ],
+    [
+      0.500138,
+      "\u0008"
+    ],
+    [
+      0.030371,
+      "\u0008"
+    ],
+    [
+      0.030272,
+      "\u0008"
+    ],
+    [
+      0.030573,
+      "\u0008"
+    ],
+    [
+      0.029427,
+      "\u0008"
+    ],
+    [
+      0.030642,
+      "\u0008"
+    ],
+    [
+      0.030843,
+      "\u0008"
+    ],
+    [
+      0.029850,
+      "\u0008"
+    ],
+    [
+      0.029685,
+      "\u0008"
+    ],
+    [
+      0.030421,
+      "\u0008"
+    ],
+    [
+      1.205902,
+      "\u001b[1@-"
+    ],
+    [
+      0.133914,
+      "\u001b[1@-"
+    ],
+    [
+      0.247010,
+      "\u001b[1@n"
+    ],
+    [
+      0.106251,
+      "\u001b[1@e"
+    ],
+    [
+      0.150505,
+      "\u001b[1@t"
+    ],
+    [
+      0.718855,
+      "\u001b[1@="
+    ],
+    [
+      0.421174,
+      "\u001b[1@h"
+    ],
+    [
+      0.214945,
+      "\u001b[1@o"
+    ],
+    [
+      0.155352,
+      "\u001b[1@s"
+    ],
+    [
+      0.175101,
+      "\u001b[1@t"
+    ],
+    [
+      0.081360,
+      "\u001b[1@ "
+    ],
+    [
+      0.446404,
+      "\r\n"
+    ],
+    [
+      0.166787,
+      "\u001b]0;@labvm-1:/\u0007"
+    ],
+    [
+      0.000465,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000269,
+      "[root@labvm-1 /]# "
+    ],
+    [
+      1.218646,
+      "i"
+    ],
+    [
+      0.206808,
+      "p"
+    ],
+    [
+      0.095561,
+      " "
+    ],
+    [
+      0.200886,
+      "a"
+    ],
+    [
+      0.491635,
+      "\r\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n    inet 127.0.0.1/8 scope host lo\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 ::1/128 scope host \r\r\n       valid_lft forever preferred_lft forever\r\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP qlen 1000\r\r\n    link/ether 08:00:27:bc:54:df brd ff:ff:ff:ff:ff:ff\r\r\n    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic eth0\r\r\n       valid_lft 84879sec preferred_lft 84879sec\r\r\n    inet6 fe80::a00:27ff:febc:54df/64 scope link \r\r\n       valid_lft forever preferred_lft forever\r\r\n3: eth1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP qlen 1000\r\r\n    link/ether 08:00:27:07:6e:98 brd ff:ff:ff:ff:ff:ff\r\r\n    inet 192.168.100.23/24 brd 192.168.100.255 scope global eth1\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 fe80::a00:27ff:fe07:6e98/64 scope link \r\r\n       valid_lft forever preferred_lft forever\r\r\n4: docker0: \u003cNO-CARRIER,BROADCAST,MULTICAST,UP\u003e mtu 1500 qdisc noqueue state DOWN \r\r\n    link/ether 02:42:2a:42:fe:9a brd ff:ff:ff:ff:ff:ff\r\r\n    inet 172.17.42.1/16 scope global docker0\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 fe80::42:2aff:fe42:fe9a/64 scope link \r\r\n       valid_lft forever preferred_lft forever\r\r\n\u001b]0;@labvm-1:/\u0007[root@labvm-1 /]# "
+    ],
+    [
+      5.824656,
+      "exit\r\r\n"
+    ],
+    [
+      0.022535,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      1.001340,
+      "exit\r\n"
+    ],
+    [
+      0.001125,
+      "\u001b]0;vagrant@labvm-1:~\u0007[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      3.961352,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.003987,
+      "\u001b]777;notify;Command completed;vagrant ssh labvm-1\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000082,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      2.557526,
+      "exit\r\n"
+    ]
+  ]
+}
