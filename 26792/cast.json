@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 53.974448,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.174820,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux$\u001b(B\u001b[m "
+    ],
+    [
+      1.295227,
+      "c"
+    ],
+    [
+      0.071851,
+      "d"
+    ],
+    [
+      0.144041,
+      " "
+    ],
+    [
+      0.183952,
+      "e"
+    ],
+    [
+      0.248022,
+      "x"
+    ],
+    [
+      0.256020,
+      "a"
+    ],
+    [
+      0.265972,
+      "mple/"
+    ],
+    [
+      1.342170,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example$\u001b(B\u001b[m "
+    ],
+    [
+      0.295865,
+      "c"
+    ],
+    [
+      0.055925,
+      "d"
+    ],
+    [
+      0.104150,
+      " "
+    ],
+    [
+      0.335867,
+      "n"
+    ],
+    [
+      0.127974,
+      "o"
+    ],
+    [
+      0.186029,
+      "dejs/"
+    ],
+    [
+      0.582192,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs$\u001b(B\u001b[m "
+    ],
+    [
+      0.791852,
+      "l"
+    ],
+    [
+      0.095960,
+      "s"
+    ],
+    [
+      0.104226,
+      "\r\n"
+    ],
+    [
+      0.000684,
+      "README.md      gomoku/\u0009\u0009"
+    ],
+    [
+      0.000003,
+      "     package.json\u0009   serverUptime/      webserver/\r\n"
+    ],
+    [
+      0.000023,
+      "advancedCli/   guess-my-number-cli/  readFromCommandLine/  serverWithRoutes/\r\nfileHandling/  gulpfile.js\u0009     router/\u0009\u0009   simpleJsonServer/\r\nfiveInRow/     maze/\u0009"
+    ],
+    [
+      0.000003,
+      "\u0009     serverReadFile/\u0009   simpleServer/\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs$\u001b(B\u001b[m "
+    ],
+    [
+      0.702850,
+      "c"
+    ],
+    [
+      0.080033,
+      "d"
+    ],
+    [
+      0.199970,
+      " "
+    ],
+    [
+      1.000070,
+      "s"
+    ],
+    [
+      0.224004,
+      "e"
+    ],
+    [
+      0.079955,
+      "r"
+    ],
+    [
+      0.249873,
+      "\u0007ver"
+    ],
+    [
+      0.998156,
+      "U"
+    ],
+    [
+      0.250033,
+      "ptime/"
+    ],
+    [
+      0.646113,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b(B\u001b[m "
+    ],
+    [
+      1.135837,
+      "l"
+    ],
+    [
+      0.231987,
+      "s"
+    ],
+    [
+      0.176207,
+      "\r\n"
+    ],
+    [
+      0.000712,
+      "index.js  serverUptime.js  serverUptime.test.js\r\n"
+    ],
+    [
+      0.000219,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b(B\u001b[m "
+    ],
+    [
+      4.958985,
+      "t"
+    ],
+    [
+      0.231939,
+      "m"
+    ],
+    [
+      0.184009,
+      "u"
+    ],
+    [
+      0.207975,
+      "x"
+    ],
+    [
+      0.648220,
+      "\r\n"
+    ],
+    [
+      0.002642,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[  ][                              \u001b[37m( 0 bash )\u001b[32m                               ][  ][ 17:22 ]\u001b(B\u001b[m\u001b[30;1H\u001b[1;30r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000803,
+      "\u001b[?25l\u001b[30d\u001b[32m\u001b[40m[ desktop ][                          \u001b[37m( 0 bash )\u001b[32m                            ][  ][ 17:22 ]\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000743,
+      "\u001b[?25l\u001b[30d\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.29 0.32 0.36 ][ 17:22 ]\u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194068,
+      "\u001b[1;29r\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[1;30r\u001b[H\u001b[59C"
+    ],
+    [
+      2.322803,
+      "\u001b[15;1H──────────────────────────────────────────────\u001b[32m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.29 0.32 0.36 ][ 17:22 ]\u001b(B\u001b[m\u001b[16;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197035,
+      "\u001b[16;29r\u001b[H\u001b[16d\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[1;30r\u001b[H\u001b[16;60H"
+    ],
+    [
+      1.993828,
+      "\u001b[16;29r\u001b[H\u001b[16;60Hb\u001b[1;30r\u001b[H\u001b[16;61H"
+    ],
+    [
+      0.063947,
+      "\u001b[16;29r\u001b[H\u001b[16;61Ha\u001b[1;30r\u001b[H\u001b[16;62H"
+    ],
+    [
+      0.135950,
+      "\u001b[16;29r\u001b[H\u001b[16;62Hb\u001b[1;30r\u001b[H\u001b[16;63H"
+    ],
+    [
+      0.201528,
+      "\u001b[16;29r\u001b[H\u001b[16;63Hel\u0007\u001b[?25l\u001b[30;1H\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.29 0.32 0.36 ][ 17:23 ]\u001b(B\u001b[m\u001b[30;1H\u001b[1;30r\u001b[H\u001b[16;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.919076,
+      "\u001b[16;29r\u001b[H\u001b[16;65H-\u001b[1;30r\u001b[H\u001b[16;66H"
+    ],
+    [
+      0.319651,
+      "\u001b[16;29r\u001b[H\u001b[16;66Hn\u001b[1;30r\u001b[H\u001b[16;67H"
+    ],
+    [
+      0.128020,
+      "\u001b[16;29r\u001b[H\u001b[16;67Ho\u001b[1;30r\u001b[H\u001b[16;68H"
+    ],
+    [
+      0.185464,
+      "\u001b[16;29r\u001b[H\u001b[16;68Hde \u001b[1;30r\u001b[H\u001b[16;71H"
+    ],
+    [
+      0.790333,
+      "\u001b[16;29r\u001b[H\u001b[16;71Hi\u001b[1;30r\u001b[H\u001b[16;72H"
+    ],
+    [
+      0.080005,
+      "\u001b[16;29r\u001b[H\u001b[16;72Hn\u001b[1;30r\u001b[H\u001b[16;73H"
+    ],
+    [
+      0.120067,
+      "\u001b[16;29r\u001b[H\u001b[16;73Hd\u001b[1;30r\u001b[H\u001b[16;74H"
+    ],
+    [
+      0.095895,
+      "\u001b[16;29r\u001b[H\u001b[16;74He\u001b[1;30r\u001b[H\u001b[16;75H"
+    ],
+    [
+      0.242549,
+      "\u001b[16;29r\u001b[H\u001b[16;75Hx.js \u001b[1;30r\u001b[H\u001b[16;80H"
+    ],
+    [
+      1.061716,
+      "\r\n"
+    ],
+    [
+      0.490688,
+      "\u001b[16;29r\u001b[H\u001b[17dSimple server replying with output of command uptime, listen on port 1337.\u001b[1;30r\u001b[H\u001b[18d"
+    ],
+    [
+      2.037318,
+      "\u001b[32m\u001b[3A──────────────────────────────────────────────\u001b[39m────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m babel-node index.js \u001b[K\r\nSimple server replying with output of command uptime, listen on port 1337.\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[32m\u001b[40m[ desktop ][                   \u001b[37m( 0 bash )\u001b[32m                     ][ 0.29 0.32 0.36 ][ 17:23 ]\u001b(B\u001b[m\u001b[1;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.711776,
+      "\u001b[H\u001b[K\u001b[1;14r\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m c\u001b[1;30r\u001b[H\u001b[60C"
+    ],
+    [
+      0.096014,
+      "\u001b[1;14r\u001b[H\u001b[60Cu\u001b[1;30r\u001b[H\u001b[61C"
+    ],
+    [
+      0.192137,
+      "\u001b[1;14r\u001b[H\u001b[61Cr\u001b[1;30r\u001b[H\u001b[62C"
+    ],
+    [
+      0.111869,
+      "\u001b[1;14r\u001b[H\u001b[62Cl\u001b[1;30r\u001b[H\u001b[63C"
+    ],
+    [
+      0.112060,
+      "\u001b[1;14r\u001b[H\u001b[63C \u001b[1;30r\u001b[H\u001b[64C"
+    ],
+    [
+      1.360048,
+      "\u001b[1;14r\u001b[H\u001b[64Cl\u001b[1;30r\u001b[H\u001b[65C"
+    ],
+    [
+      0.175916,
+      "\u001b[1;14r\u001b[H\u001b[65Co\u001b[1;30r\u001b[H\u001b[66C"
+    ],
+    [
+      0.111918,
+      "\u001b[1;14r\u001b[H\u001b[66Cc\u001b[1;30r\u001b[H\u001b[67C"
+    ],
+    [
+      0.048031,
+      "\u001b[1;14r\u001b[H\u001b[67Ca\u001b[1;30r\u001b[H\u001b[68C"
+    ],
+    [
+      0.095971,
+      "\u001b[1;14r\u001b[H\u001b[68Cl\u001b[1;30r\u001b[H\u001b[69C"
+    ],
+    [
+      0.216067,
+      "\u001b[1;14r\u001b[H\u001b[69Ch\u001b[1;30r\u001b[H\u001b[70C"
+    ],
+    [
+      0.063942,
+      "\u001b[1;14r\u001b[H\u001b[70Co\u001b[1;30r\u001b[H\u001b[71C"
+    ],
+    [
+      0.200019,
+      "\u001b[1;14r\u001b[H\u001b[71Cs\u001b[1;30r\u001b[H\u001b[72C"
+    ],
+    [
+      0.079998,
+      "\u001b[1;14r\u001b[H\u001b[72Ct\u001b[1;30r\u001b[H\u001b[73C"
+    ],
+    [
+      0.432012,
+      "\u001b[1;14r\u001b[H\u001b[73C:\u001b[1;30r\u001b[H\u001b[74C"
+    ],
+    [
+      0.311997,
+      "\u001b[1;14r\u001b[H\u001b[74C1\u001b[1;30r\u001b[H\u001b[75C"
+    ],
+    [
+      0.215984,
+      "\u001b[1;14r\u001b[H\u001b[75C3\u001b[1;30r\u001b[H\u001b[76C"
+    ],
+    [
+      0.168025,
+      "\u001b[1;14r\u001b[H\u001b[76C3\u001b[1;30r\u001b[H\u001b[77C"
+    ],
+    [
+      0.143962,
+      "\u001b[1;14r\u001b[H\u001b[77C7\u001b[1;30r\u001b[H\u001b[78C"
+    ],
+    [
+      1.568244,
+      "\r\n"
+    ],
+    [
+      0.010037,
+      "\u001b[16;29r\u001b[H\u001b[18dIncoming request from ip 127.0.0.1\u001b[1;30r\u001b[H\r\n"
+    ],
+    [
+      0.003732,
+      "\u001b[1;14r\u001b[H\r\n 17:23:14 up 1 day,  9:24, 12 users,  load average: 0.36, 0.33, 0.36\u001b[1;30r\u001b[H\u001b[2B"
+    ],
+    [
+      0.000201,
+      "\u001b[1;14r\u001b[H\u001b[2B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[1;30r\u001b[H\u001b[3;60H"
+    ],
+    [
+      4.425993,
+      "\u001b[1;14r\u001b[H\u001b[3B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[1;30r\u001b[H\u001b[4;60H"
+    ],
+    [
+      0.911861,
+      "\u001b[1;14r\u001b[H\u001b[4;60Hu\u001b[1;30r\u001b[H\u001b[4;61H"
+    ],
+    [
+      0.103991,
+      "\u001b[1;14r\u001b[H\u001b[4;61Hp\u001b[1;30r\u001b[H\u001b[4;62H"
+    ],
+    [
+      0.264013,
+      "\u001b[1;14r\u001b[H\u001b[4;62Ht\u001b[1;30r\u001b[H\u001b[4;63H"
+    ],
+    [
+      0.088020,
+      "\u001b[1;14r\u001b[H\u001b[4;63Hi\u001b[1;30r\u001b[H\u001b[4;64H"
+    ],
+    [
+      0.119985,
+      "\u001b[1;14r\u001b[H\u001b[4;64Hm\u001b[1;30r\u001b[H\u001b[4;65H"
+    ],
+    [
+      0.143906,
+      "\u001b[1;14r\u001b[H\u001b[4;65He\u001b[1;30r\u001b[H\u001b[4;66H"
+    ],
+    [
+      0.608194,
+      "\r\n"
+    ],
+    [
+      0.000783,
+      "\u001b[1;14r\u001b[H\u001b[4B 17:23:21 up 1 day,  9:25, 12 users,  load average: 0.33, 0.33, 0.36\u001b[1;30r\u001b[H\u001b[5B"
+    ],
+    [
+      0.000192,
+      "\u001b[1;14r\u001b[H\u001b[5B\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b[39m \u001b[1;30r\u001b[H\u001b[6;60H"
+    ],
+    [
+      6.727192,
+      "\u001b[1;30r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000127,
+      "[detached (from session 1)]\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/linux/example/nodejs/serverUptime$\u001b(B\u001b[m "
+    ],
+    [
+      2.695628,
+      "exit\r\n"
+    ]
+  ]
+}
