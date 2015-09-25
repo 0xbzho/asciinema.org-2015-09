@@ -1,0 +1,1154 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 43,
+  "duration": 84.604210,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.572840,
+      "osx-docker is not running. Please start this with docker-machine start osx-docker\r\n"
+    ],
+    [
+      1.284528,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.148554,
+      "\u001b[?1034h\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:27:45\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n"
+    ],
+    [
+      0.000011,
+      "[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      0.593403,
+      "f"
+    ],
+    [
+      0.088347,
+      "i"
+    ],
+    [
+      0.063880,
+      "n"
+    ],
+    [
+      0.087892,
+      "d"
+    ],
+    [
+      0.096069,
+      " "
+    ],
+    [
+      0.175984,
+      "."
+    ],
+    [
+      0.120330,
+      " "
+    ],
+    [
+      0.159631,
+      "-"
+    ],
+    [
+      0.111840,
+      "t"
+    ],
+    [
+      0.104169,
+      "y"
+    ],
+    [
+      0.071895,
+      "p"
+    ],
+    [
+      0.088221,
+      "e"
+    ],
+    [
+      0.072383,
+      " "
+    ],
+    [
+      0.383233,
+      "f"
+    ],
+    [
+      0.280334,
+      "\r\n"
+    ],
+    [
+      0.004809,
+      "./index.jsp\r\n"
+    ],
+    [
+      0.000713,
+      "./WEB-INF/classes/com/ibm/ws/liberty/PingServlet.class\r\n"
+    ],
+    [
+      0.000053,
+      "./WEB-INF/web.xml\r\n"
+    ],
+    [
+      0.019707,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.148060,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:27:47\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      0.994419,
+      "c"
+    ],
+    [
+      0.215952,
+      "a"
+    ],
+    [
+      0.056287,
+      "t"
+    ],
+    [
+      0.135795,
+      " "
+    ],
+    [
+      0.191890,
+      "W"
+    ],
+    [
+      0.087954,
+      "E"
+    ],
+    [
+      0.406165,
+      "B-INF/"
+    ],
+    [
+      0.713977,
+      "w"
+    ],
+    [
+      0.087927,
+      "e"
+    ],
+    [
+      0.176199,
+      "b.xml "
+    ],
+    [
+      0.663783,
+      "\r\n"
+    ],
+    [
+      0.003710,
+      "\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\r\n\u003cweb-app id=\"WebApp_ID\" version=\"3.0\" xmlns=\"http://java.sun.com/xml/ns/javaee\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd\"\u003e\r\n\t\u003cdisplay-name\u003eHelloWorld\u003c/display-name\u003e\r\n\t\u003cwelcome-file-list\u003e\r\n\t\t\u003cwelcome-file\u003eindex.html\u003c/welcome-file\u003e\r\n\t\t\u003cwelcome-file\u003eindex.htm\u003c/welcome-file\u003e\r\n\t\t\u003cwelcome-file\u003eindex.jsp\u003c/welcome-file\u003e\r\n\t\t\u003cwelcome-file\u003edefault.html\u003c/welcome-file\u003e\r\n\t\t\u003cwelcome-file\u003edefault.htm\u003c/welcome-file\u003e\r\n\t\t\u003cwelcome-file\u003edefault.jsp\u003c/welcome-file\u003e\r\n        \u003c/welcome-file-list\u003e\r\n        \u003cservlet\u003e\r\n            \u003cservlet-name\u003ePingServlet\u003c/servlet-name\u003e\r\n            \u003cservlet-class\u003ecom.ibm.ws.liberty.PingServlet\u003c/servlet-class\u003e\r\n        \u003c/servlet\u003e\r\n        \u003cservlet-mapping\u003e\r\n            \u003cservlet-name\u003ePingServlet\u003c/servlet-name\u003e\r\n            \u003curl-pattern\u003e/servlet\u003c/url-pattern\u003e\r\n        \u003c/servlet-mapping\u003e\r\n\u003c/web-app\u003e\r\n"
+    ],
+    [
+      0.020857,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.144325,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:27:51\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      0.983459,
+      "c"
+    ],
+    [
+      0.223830,
+      "a"
+    ],
+    [
+      0.072033,
+      "t"
+    ],
+    [
+      0.144214,
+      " "
+    ],
+    [
+      0.255410,
+      "i"
+    ],
+    [
+      0.047926,
+      "n"
+    ],
+    [
+      0.064424,
+      "d"
+    ],
+    [
+      0.165404,
+      "ex.jsp "
+    ],
+    [
+      0.962517,
+      "\r\n"
+    ],
+    [
+      0.004726,
+      "\u003c!DOCTYPE HTML\u003e\u003c%@page language=\"java\"\r\r\n\tcontentType=\"text/html; charset=ISO-8859-1\" pageEncoding=\"ISO-8859-1\"%\u003e\r\r\n\u003chtml\u003e\r\r\n\u003chead\u003e\r\r\n\u003ctitle\u003eindex\u003c/title\u003e\r\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\"\u003e\r\r\n\u003c/head\u003e\r\r\n\u003cbody\u003e\r\r\n\u003cp\u003eHello, World!\u003c/p\u003e\r\r\n\u003c/body\u003e\r\r\n\u003c/html\u003e\r\r\n"
+    ],
+    [
+      0.021117,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.147891,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:27:54\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      2.000000,
+      "c"
+    ],
+    [
+      0.248474,
+      "f"
+    ],
+    [
+      0.223732,
+      " "
+    ],
+    [
+      0.175797,
+      "a"
+    ],
+    [
+      0.112294,
+      "p"
+    ],
+    [
+      0.423643,
+      "i"
+    ],
+    [
+      0.840264,
+      "\r\n"
+    ],
+    [
+      0.168183,
+      "API endpoint: \u001b[1;36mhttps://api.bosh-lite.com\u001b[0m (API version: \u001b[1;36m2.37.0\u001b[0m)\r\n"
+    ],
+    [
+      0.022019,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.143016,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:27:59\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      1.482890,
+      "c"
+    ],
+    [
+      0.288011,
+      "f"
+    ],
+    [
+      0.159985,
+      " "
+    ],
+    [
+      0.151531,
+      "l"
+    ],
+    [
+      0.176475,
+      "o"
+    ],
+    [
+      0.232143,
+      "g"
+    ],
+    [
+      0.255849,
+      "i"
+    ],
+    [
+      0.088059,
+      "n"
+    ],
+    [
+      0.503482,
+      "\r\n"
+    ],
+    [
+      0.061167,
+      "API endpoint: \u001b[1;36mhttps://api.bosh-lite.com\u001b[0m\r\n"
+    ],
+    [
+      0.649961,
+      "\r\nEmail\u001b[1;36m\u003e\u001b[0m "
+    ],
+    [
+      0.649062,
+      "a"
+    ],
+    [
+      0.191863,
+      "d"
+    ],
+    [
+      0.151943,
+      "m"
+    ],
+    [
+      0.160255,
+      "i"
+    ],
+    [
+      0.159988,
+      "n"
+    ],
+    [
+      0.191992,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "Password\u001b[1;36m\u003e\u001b[0m "
+    ],
+    [
+      1.311636,
+      "\r\n"
+    ],
+    [
+      0.002640,
+      "Authenticating...\r\n"
+    ],
+    [
+      0.487856,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.095685,
+      "Select an org (or press enter to skip):\r\n1. o\r\n"
+    ],
+    [
+      0.000005,
+      "2. CATS-persistent-org\r\n\r\nOrg\u001b[1;36m\u003e\u001b[0m "
+    ],
+    [
+      1.525905,
+      "1"
+    ],
+    [
+      0.711722,
+      "\r\n"
+    ],
+    [
+      0.070943,
+      "Targeted org \u001b[1;36mo\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.185817,
+      "Targeted space \u001b[1;36ms\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[1;38m\u001b[0m                \u001b[1;38m\u001b[0m   \r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[1;36mAPI endpoint:\u001b[0m   \u001b[1;36mhttps://api.bosh-lite.com\u001b[0m (API version: \u001b[1;36m2.37.0\u001b[0m)   \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1;36mUser:\u001b[0m           \u001b[1;36madmin\u001b[0m   \r\n\u001b[1;36mOrg:\u001b[0m            \u001b[1;36mo\u001b[0m   \r\n"
+    ],
+    [
+      0.000002,
+      "\u001b[1;36mSpace:\u001b[0m          \u001b[1;36ms\u001b[0m   \r\n"
+    ],
+    [
+      0.021110,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.146606,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:28:09\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      0.831483,
+      "c"
+    ],
+    [
+      0.520216,
+      "f"
+    ],
+    [
+      0.311452,
+      " "
+    ],
+    [
+      0.744535,
+      "a"
+    ],
+    [
+      0.135956,
+      "p"
+    ],
+    [
+      0.135727,
+      "p"
+    ],
+    [
+      0.144097,
+      "s"
+    ],
+    [
+      0.231972,
+      "\r\n"
+    ],
+    [
+      0.060237,
+      "Getting apps in org \u001b[1;36mo\u001b[0m / space \u001b[1;36ms\u001b[0m as \u001b[1;36madmin\u001b[0m...\r\n"
+    ],
+    [
+      0.129130,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000345,
+      "\u001b[1;38mname\u001b[0m   \u001b[1;38mrequested state\u001b[0m   \u001b[1;38minstances\u001b[0m   \u001b[1;38mmemory\u001b[0m   \u001b[1;38mdisk\u001b[0m   \u001b[1;38murls\u001b[0m   \r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;36mdora\u001b[0m   started           1/1         256M     1G     dora.bosh-lite.com   \r\n"
+    ],
+    [
+      0.018960,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.145231,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:28:12\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      0.845903,
+      "c"
+    ],
+    [
+      0.192239,
+      "f"
+    ],
+    [
+      0.128036,
+      " "
+    ],
+    [
+      0.231969,
+      "p"
+    ],
+    [
+      0.144063,
+      "u"
+    ],
+    [
+      0.143636,
+      "s"
+    ],
+    [
+      0.183999,
+      "h"
+    ],
+    [
+      0.240343,
+      " "
+    ],
+    [
+      0.391801,
+      "h"
+    ],
+    [
+      0.071843,
+      "e"
+    ],
+    [
+      0.200268,
+      "l"
+    ],
+    [
+      0.167966,
+      "l"
+    ],
+    [
+      0.168101,
+      "o"
+    ],
+    [
+      0.279620,
+      "-"
+    ],
+    [
+      0.240386,
+      "j"
+    ],
+    [
+      0.103954,
+      "a"
+    ],
+    [
+      0.215967,
+      "v"
+    ],
+    [
+      0.095802,
+      "a"
+    ],
+    [
+      0.200197,
+      " "
+    ],
+    [
+      0.327935,
+      "-"
+    ],
+    [
+      0.568005,
+      "b"
+    ],
+    [
+      0.264010,
+      " "
+    ],
+    [
+      0.215930,
+      "j"
+    ],
+    [
+      0.095765,
+      "a"
+    ],
+    [
+      0.112025,
+      "v"
+    ],
+    [
+      0.104250,
+      "a"
+    ],
+    [
+      0.327707,
+      "_"
+    ],
+    [
+      0.208209,
+      "b"
+    ],
+    [
+      0.104009,
+      "u"
+    ],
+    [
+      0.112231,
+      "i"
+    ],
+    [
+      0.103614,
+      "l"
+    ],
+    [
+      0.087736,
+      "d"
+    ],
+    [
+      0.136426,
+      "p"
+    ],
+    [
+      0.095641,
+      "a"
+    ],
+    [
+      0.144117,
+      "c"
+    ],
+    [
+      0.135826,
+      "k"
+    ],
+    [
+      1.072277,
+      "\r\n"
+    ],
+    [
+      1.161592,
+      "Creating app \u001b[1;36mhello-java\u001b[0m in org \u001b[1;36mo\u001b[0m / space \u001b[1;36ms\u001b[0m as \u001b[1;36madmin\u001b[0m...\r\n"
+    ],
+    [
+      0.317585,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.061746,
+      "Creating route \u001b[1;36mhello-java.bosh-lite.com\u001b[0m...\r\n"
+    ],
+    [
+      0.085587,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000006,
+      "Binding \u001b[1;36mhello-java.bosh-lite.com\u001b[0m to \u001b[1;36mhello-java\u001b[0m...\r\n"
+    ],
+    [
+      0.126219,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000007,
+      "Uploading \u001b[1;36mhello-java\u001b[0m...\r\n"
+    ],
+    [
+      0.026611,
+      "Uploading app files from: /Users/sykesm/hello-java-webapp\r\n"
+    ],
+    [
+      0.000005,
+      "Uploading 5.3K, 11 files\r\n"
+    ],
+    [
+      0.005982,
+      "\r                             \rDone uploading\r\n"
+    ],
+    [
+      2.000000,
+      "\u001b[1;32mOK\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.351807,
+      "Starting app \u001b[1;36mhello-java\u001b[0m in org \u001b[1;36mo\u001b[0m / space \u001b[1;36ms\u001b[0m as \u001b[1;36madmin\u001b[0m...\r\n"
+    ],
+    [
+      2.000000,
+      "-----\u003e Downloaded app package (4.0K)\r\n"
+    ],
+    [
+      2.000000,
+      "\u0000\u0000\u0000\u0000-----\u003e Java Buildpack Version: v3.2 | https://github.com/cloudfoundry/java-buildpack.git#3b68024\r\n"
+    ],
+    [
+      2.000000,
+      "-----\u003e Downloading Open Jdk JRE 1.8.0_60 from https://download.run.pivotal.io/openjdk/trusty/x86_64/openjdk-1.8.0_60.tar.gz (8.1s)\r\n"
+    ],
+    [
+      2.000000,
+      "       Expanding Open Jdk JRE to .java-buildpack/open_jdk_jre (2.1s)\r\n"
+    ],
+    [
+      0.524336,
+      "-----\u003e Downloading Open JDK Like Memory Calculator 2.0.0_RELEASE from https://download.run.pivotal.io/memory-calculator/trusty/x86_64/memory-calculator-2.0.0_RELEASE.tar.gz (0.5s)\r\n"
+    ],
+    [
+      0.043272,
+      "       Memory Settings: -XX:MaxMetaspaceSize=64M -Xss853K -Xms160M -XX:MetaspaceSize=64M -Xmx160M\r\n"
+    ],
+    [
+      1.968932,
+      "-----\u003e Downloading Tomcat Instance 8.0.26 from https://download.run.pivotal.io/tomcat/tomcat-8.0.26.tar.gz (1.9s)\r\n"
+    ],
+    [
+      0.149907,
+      "       Expanding Tomcat to .java-buildpack/tomcat (0.1s)\r\n"
+    ],
+    [
+      0.127960,
+      "-----\u003e Downloading Tomcat Lifecycle Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-lifecycle-support/tomcat-lifecycle-support-2.4.0_RELEASE.jar (0.1s)\r\n"
+    ],
+    [
+      0.073860,
+      "-----\u003e Downloading Tomcat Logging Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-logging-support/tomcat-logging-support-2.4.0_RELEASE.jar (0.0s)\r\n"
+    ],
+    [
+      0.070568,
+      "-----\u003e Downloading Tomcat Access Logging Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-access-logging-support/tomcat-access-logging-support-2.4.0_RELEASE.jar (0.0s)\r\n"
+    ],
+    [
+      2.000000,
+      "\u0000\u0000\u0000\u0000\r\n"
+    ],
+    [
+      2.000000,
+      "-----\u003e Uploading droplet (51M)\r\n"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.307427,
+      "1 of 1 instances running\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;38m\r\nApp started\r\n\u001b[0m\r\n\r\n\u001b[1;32mOK\u001b[0m\r\n"
+    ],
+    [
+      0.024276,
+      "\r\nApp \u001b[1;36mhello-java\u001b[0m was started using this command `CALCULATED_MEMORY=$($PWD/.java-buildpack/open_jdk_jre/bin/java-buildpack-memory-calculator-2.0.0_RELEASE -memorySizes=metaspace:64m.. -memoryWeights=heap:75,metaspace:10,native:10,stack:5 -memoryInitials=heap:100%,metaspace:100% -totMemory=$MEMORY_LIMIT) \u0026\u0026  JAVA_HOME=$PWD/.java-buildpack/open_jdk_jre JAVA_OPTS=\"-Djava.io.tmpdir=$TMPDIR -XX:OnOutOfMemoryError=$PWD/.java-buildpack/open_jdk_jre/bin/killjava.sh $CALCULATED_MEMORY -Daccess.logging.enabled=false -Dhttp.port=$PORT\" $PWD/.java-buildpack/tomcat/bin/catalina.sh run`\r\n\r\n"
+    ],
+    [
+      0.000084,
+      "Showing health and status for app \u001b[1;36mhello-java\u001b[0m in org \u001b[1;36mo\u001b[0m / space \u001b[1;36ms\u001b[0m as \u001b[1;36madmin\u001b[0m...\r\n"
+    ],
+    [
+      0.352915,
+      "\u001b[1;32mOK\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[1;38mrequested state:\u001b[0m started\r\n\u001b[1;38minstances:\u001b[0m 1/1\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;38musage:\u001b[0m 256M x 1 instances\r\n\u001b[1;38murls:\u001b[0m hello-java.bosh-lite.com\r\n"
+    ],
+    [
+      0.000009,
+      "\u001b[1;38mlast uploaded:\u001b[0m Fri Sep 25 19:28:25 UTC 2015\r\n\u001b[1;38mstack:\u001b[0m cflinuxfs2\r\n\u001b[1;38mbuildpack:\u001b[0m java_buildpack\r\n\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[1;38m\u001b[0m     \u001b[1;38mstate\u001b[0m     \u001b[1;38msince\u001b[0m                    \u001b[1;38mcpu\u001b[0m    \u001b[1;38mmemory\u001b[0m           \u001b[1;38mdisk\u001b[0m      \u001b[1;38mdetails\u001b[0m   \r\n"
+    ],
+    [
+      0.000010,
+      "\u001b[1;36m#0\u001b[0m   running   2015-09-25 03:29:08 PM   0.0%   141.2M of 256M   0 of 1G      \r\n"
+    ],
+    [
+      0.021030,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.147269,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:29:14\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      2.000000,
+      "c"
+    ],
+    [
+      0.208287,
+      "u"
+    ],
+    [
+      0.119955,
+      "r"
+    ],
+    [
+      0.160087,
+      "l"
+    ],
+    [
+      0.152035,
+      " "
+    ],
+    [
+      0.239974,
+      "h"
+    ],
+    [
+      0.095868,
+      "t"
+    ],
+    [
+      0.128076,
+      "t"
+    ],
+    [
+      0.087944,
+      "p"
+    ],
+    [
+      0.287719,
+      ":"
+    ],
+    [
+      0.287836,
+      "/"
+    ],
+    [
+      0.168221,
+      "/"
+    ],
+    [
+      1.511720,
+      "h"
+    ],
+    [
+      0.080302,
+      "e"
+    ],
+    [
+      0.143945,
+      "l"
+    ],
+    [
+      0.159868,
+      "l"
+    ],
+    [
+      0.303990,
+      "-"
+    ],
+    [
+      0.376028,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.496028,
+      "o"
+    ],
+    [
+      0.472082,
+      "-"
+    ],
+    [
+      0.240208,
+      "j"
+    ],
+    [
+      0.087513,
+      "a"
+    ],
+    [
+      0.080200,
+      "v"
+    ],
+    [
+      0.103921,
+      "a"
+    ],
+    [
+      0.200211,
+      "."
+    ],
+    [
+      0.479712,
+      "b"
+    ],
+    [
+      0.112539,
+      "o"
+    ],
+    [
+      0.103840,
+      "s"
+    ],
+    [
+      0.071995,
+      "h"
+    ],
+    [
+      0.176018,
+      "-"
+    ],
+    [
+      0.239522,
+      "l"
+    ],
+    [
+      0.024398,
+      "i"
+    ],
+    [
+      0.072032,
+      "t"
+    ],
+    [
+      0.048059,
+      "e"
+    ],
+    [
+      0.159618,
+      "."
+    ],
+    [
+      0.144173,
+      "c"
+    ],
+    [
+      0.120138,
+      "o"
+    ],
+    [
+      0.064080,
+      "m"
+    ],
+    [
+      0.231829,
+      "/"
+    ],
+    [
+      0.351782,
+      "\r\n"
+    ],
+    [
+      2.000000,
+      "\u003c!DOCTYPE HTML\u003e\r\r\n\u003chtml\u003e\r\r\n\u003chead\u003e\r\r\n\u003ctitle\u003eindex\u003c/title\u003e\r\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\"\u003e\r\r\n\u003c/head\u003e\r\r\n"
+    ],
+    [
+      0.000007,
+      "\u003cbody\u003e\r\r\n\u003cp\u003eHello, World!\u003c/p\u003e\r\r\n\u003c/body\u003e\r\r\n\u003c/html\u003e\r\r\n"
+    ],
+    [
+      0.025089,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.215573,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:29:27\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      1.713767,
+      "c"
+    ],
+    [
+      0.152071,
+      "f"
+    ],
+    [
+      0.120004,
+      " "
+    ],
+    [
+      0.143881,
+      "l"
+    ],
+    [
+      0.168025,
+      "o"
+    ],
+    [
+      0.464089,
+      "g"
+    ],
+    [
+      0.495901,
+      "s"
+    ],
+    [
+      0.343620,
+      " "
+    ],
+    [
+      0.695919,
+      "h"
+    ],
+    [
+      0.136175,
+      "e"
+    ],
+    [
+      0.143712,
+      "l"
+    ],
+    [
+      0.160406,
+      "l"
+    ],
+    [
+      0.191677,
+      "o"
+    ],
+    [
+      0.271975,
+      "-"
+    ],
+    [
+      0.240390,
+      "j"
+    ],
+    [
+      0.112070,
+      "a"
+    ],
+    [
+      0.095746,
+      "v"
+    ],
+    [
+      0.095705,
+      "a"
+    ],
+    [
+      0.432586,
+      " "
+    ],
+    [
+      0.103892,
+      "-"
+    ],
+    [
+      0.167740,
+      "-"
+    ],
+    [
+      0.128193,
+      "r"
+    ],
+    [
+      0.087945,
+      "e"
+    ],
+    [
+      0.248107,
+      "c"
+    ],
+    [
+      0.127894,
+      "e"
+    ],
+    [
+      0.112397,
+      "n"
+    ],
+    [
+      0.095569,
+      "t"
+    ],
+    [
+      0.207953,
+      "\r\n"
+    ],
+    [
+      0.546068,
+      "Connected, dumping recent logs for app \u001b[1;36mhello-java\u001b[0m in org \u001b[1;36mo\u001b[0m / space \u001b[1;36ms\u001b[0m as \u001b[1;36madmin\u001b[0m...\r\n\r\n"
+    ],
+    [
+      0.636547,
+      "\u001b[1;36m2015-09-25T15:28:22.81-0400 [API/0]\u001b[0m      \u001b[0;38mOUT Created app with guid 62875756-7e2b-4453-8beb-9578eaae0f98\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;36m2015-09-25T15:28:23.15-0400 [API/0]\u001b[0m      \u001b[0;38mOUT Updated app with guid 62875756-7e2b-4453-8beb-9578eaae0f98 ({\"route\"=\u003e\"bbb8c1de-7a86-41fc-9cf0-6d5c7b4ebbae\"})\u001b[0m\r\n\u001b[1;36m2015-09-25T15:28:28.76-0400 [DEA/0]\u001b[0m      \u001b[0;38mOUT Got staging request for app with id 62875756-7e2b-4453-8beb-9578eaae0f98\u001b[0m\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;36m2015-09-25T15:28:30.91-0400 [API/0]\u001b[0m      \u001b[0;38mOUT Updated app with guid 62875756-7e2b-4453-8beb-9578eaae0f98 ({\"state\"=\u003e\"STARTED\"})\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1;36m2015-09-25T15:28:30.99-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloaded app package (4.0K)\u001b[0m\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[1;36m2015-09-25T15:28:33.29-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT \u0000\u0000\u0000\u0000-----\u003e Java Buildpack Version: v3.2 | https://github.com/cloudfoundry/java-buildpack.git#3b68024\u001b[0m\r\n"
+    ],
+    [
+      0.000012,
+      "\u001b[1;36m2015-09-25T15:28:41.55-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Open Jdk JRE 1.8.0_60 from https://download.run.pivotal.io/openjdk/trusty/x86_64/openjdk-1.8.0_60.tar.gz (8.1s)\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;36m2015-09-25T15:28:43.66-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT        Expanding Open Jdk JRE to .java-buildpack/open_jdk_jre (2.1s)\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[1;36m2015-09-25T15:28:44.19-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Open JDK Like Memory Calculator 2.0.0_RELEASE from https://download.run.pivotal.io/memory-calculator/trusty/x86_64/memory-calculator-2.0.0_RELEASE.tar.gz (0.5s)\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1;36m2015-09-25T15:28:44.23-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT        Memory Settings: -XX:MaxMetaspaceSize=64M -Xss853K -Xms160M -XX:MetaspaceSize=64M -Xmx160M\u001b[0m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[1;36m2015-09-25T15:28:46.20-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Tomcat Instance 8.0.26 from https://download.run.pivotal.io/tomcat/tomcat-8.0.26.tar.gz (1.9s)\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1;36m2015-09-25T15:28:46.35-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT        Expanding Tomcat to .java-buildpack/tomcat (0.1s)\u001b[0m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[1;36m2015-09-25T15:28:46.48-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Tomcat Lifecycle Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-lifecycle-support/tomcat-lifecycle-support-2.4.0_RELEASE.jar (0.1s)\u001b[0m\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[1;36m2015-09-25T15:28:46.56-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Tomcat Logging Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-logging-support/tomcat-logging-support-2.4.0_RELEASE.jar (0.0s)\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;36m2015-09-25T15:28:46.62-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Downloading Tomcat Access Logging Support 2.4.0_RELEASE from https://download.run.pivotal.io/tomcat-access-logging-support/tomcat-access-logging-support-2.4.0_RELEASE.jar (0.0s)\u001b[0m\r\n\u001b[1;36m2015-09-25T15:28:48.64-0400 [STG/0]\u001b[0m      \u001b[0;31mERR \u0000\u0000\u0000\u0000\u001b[0m\r\n\u001b[1;36m2015-09-25T15:28:54.88-0400 [STG/0]\u001b[0m      \u001b[0;38mOUT -----\u003e Uploading droplet (51M)\u001b[0m\r\n\u001b[1;36m2015-09-25T15:29:03.56-0400 [DEA/0]\u001b[0m      \u001b[0;38mOUT Starting app instance (index 0) with guid 62875756-7e2b-4453-8beb-9578eaae0f98\u001b[0m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[1;36m2015-09-25T15:29:06.69-0400 [App/0]\u001b[0m      \u001b[0;38mOUT \u0000\u0000\u0000\u0000[CONTAINER] org.apache.coyote.http11.Http11NioProtocol         INFO    Initializing ProtocolHandler [\"http-nio-61002\"]\u001b[0m\r\n"
+    ],
+    [
+      0.000027,
+      "\u001b[1;36m2015-09-25T15:29:06.70-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.startup.Catalina               INFO    Initialization processed in 317 ms\u001b[0m\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[1;36m2015-09-25T15:29:06.84-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.core.StandardService           INFO    Starting service Catalina\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1;36m2015-09-25T15:29:06.84-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.core.StandardEngine            INFO    Starting Servlet Engine: Apache Tomcat/8.0.26\u001b[0m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[1;36m2015-09-25T15:29:06.89-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.startup.HostConfig             INFO    Deploying web application directory /home/vcap/app/.java-buildpack/tomcat/webapps/ROOT\u001b[0m\r\n"
+    ],
+    [
+      0.000039,
+      "\u001b[1;36m2015-09-25T15:29:07.97-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.jasper.servlet.TldScanner               INFO    At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;36m2015-09-25T15:29:08.13-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.startup.HostConfig             INFO    Deployment of web application directory /home/vcap/app/.java-buildpack/tomcat/webapps/ROOT has finished in 1,275 ms\u001b[0m\r\n"
+    ],
+    [
+      0.000016,
+      "\u001b[1;36m2015-09-25T15:29:08.13-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.coyote.http11.Http11NioProtocol         INFO    Starting ProtocolHandler [\"http-nio-61002\"]\u001b[0m\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[1;36m2015-09-25T15:29:08.14-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.tomcat.util.net.NioSelectorPool         INFO    Using a shared selector for servlet write/read\u001b[0m\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1;36m2015-09-25T15:29:08.14-0400 [App/0]\u001b[0m      \u001b[0;38mOUT [CONTAINER] org.apache.catalina.startup.Catalina               INFO    Server startup in 1442 ms\u001b[0m\r\n"
+    ],
+    [
+      0.000030,
+      "\u001b[1;36m2015-09-25T15:29:27.53-0400 [RTR/0]\u001b[0m      \u001b[0;38mOUT hello-java.bosh-lite.com - [25/09/2015:19:29:26 +0000] \"GET / HTTP/1.1\" 200 0 186 \"-\" \"curl/7.43.0\" 10.244.0.34:50531 x_forwarded_for:\"192.168.50.1, 10.244.0.34\" x_forwarded_proto:\"http\" vcap_request_id:ed2b2fba-78e2-402c-547f-0d9d4ac27a0b response_time:0.533196820 app_id:62875756-7e2b-4453-8beb-9578eaae0f98\u001b[0m\r\n"
+    ],
+    [
+      0.020114,
+      "\u001b]0;sykesm@sykesm-retina:~/hello-java-webapp\u0007"
+    ],
+    [
+      0.146630,
+      "\u001b[0;92m✓\u001b[0m [\u001b[0;37m15:29:36\u001b[0m] (\u001b[1;95m2.1.7\u001b[0m) [\u001b[0;33m~/hello-java-webapp\u001b[0m]\r\r\n[\u001b[0;32msykesm\u001b[0m@\u001b[0;36msykesm-retina\u001b[0m]$ "
+    ],
+    [
+      2.000000,
+      "exit\r\n"
+    ]
+  ]
+}
