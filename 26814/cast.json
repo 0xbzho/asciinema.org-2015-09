@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 25,
+  "duration": 27.249564,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.092683,
+      "\u001b]777;notify;Command completed;vagrant ssh labvm-1\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000308,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.593707,
+      "vagrant ssh labvm-1\r\n"
+    ],
+    [
+      2.180569,
+      "Last login: Fri Sep 25 09:17:30 2015 from 10.0.2.2\r\r\n\u001b]0;vagrant@labvm-1:~\u0007[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      2.160080,
+      "s"
+    ],
+    [
+      0.117971,
+      "u"
+    ],
+    [
+      0.118241,
+      "d"
+    ],
+    [
+      0.120047,
+      "o"
+    ],
+    [
+      0.071999,
+      " "
+    ],
+    [
+      0.732133,
+      "-"
+    ],
+    [
+      0.107095,
+      "s"
+    ],
+    [
+      0.305340,
+      "\r\n"
+    ],
+    [
+      0.026185,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.002887,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      0.653348,
+      "d"
+    ],
+    [
+      0.080079,
+      "o"
+    ],
+    [
+      0.099958,
+      "c"
+    ],
+    [
+      0.213680,
+      "\u0007"
+    ],
+    [
+      0.000120,
+      "ker"
+    ],
+    [
+      0.456751,
+      " "
+    ],
+    [
+      0.483191,
+      "r"
+    ],
+    [
+      0.095361,
+      "u"
+    ],
+    [
+      0.180827,
+      "n"
+    ],
+    [
+      0.072972,
+      " "
+    ],
+    [
+      0.563977,
+      "-"
+    ],
+    [
+      0.252816,
+      "i"
+    ],
+    [
+      0.268693,
+      "t"
+    ],
+    [
+      0.101965,
+      " "
+    ],
+    [
+      0.871618,
+      "-"
+    ],
+    [
+      0.141647,
+      "-"
+    ],
+    [
+      0.204283,
+      "n"
+    ],
+    [
+      0.116902,
+      "e"
+    ],
+    [
+      0.166369,
+      "t"
+    ],
+    [
+      0.638619,
+      "="
+    ],
+    [
+      0.245253,
+      "n"
+    ],
+    [
+      0.150837,
+      "o"
+    ],
+    [
+      0.109887,
+      "n"
+    ],
+    [
+      0.963437,
+      "e"
+    ],
+    [
+      0.089839,
+      " "
+    ],
+    [
+      0.849726,
+      "c"
+    ],
+    [
+      0.197737,
+      "e"
+    ],
+    [
+      0.119136,
+      "n"
+    ],
+    [
+      0.261322,
+      "t"
+    ],
+    [
+      1.215164,
+      "o"
+    ],
+    [
+      0.139432,
+      "s"
+    ],
+    [
+      0.393426,
+      " "
+    ],
+    [
+      0.307448,
+      "b"
+    ],
+    [
+      0.108386,
+      "a"
+    ],
+    [
+      0.198443,
+      "s"
+    ],
+    [
+      0.040323,
+      "h"
+    ],
+    [
+      0.471099,
+      "\r\n"
+    ],
+    [
+      0.180585,
+      "\u001b]0;@0fe95992e6ee:/\u0007"
+    ],
+    [
+      0.000483,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000166,
+      "[root@0fe95992e6ee /]# "
+    ],
+    [
+      0.663357,
+      "i"
+    ],
+    [
+      0.622541,
+      "p"
+    ],
+    [
+      0.158222,
+      " "
+    ],
+    [
+      0.393892,
+      "a"
+    ],
+    [
+      0.835437,
+      "\r\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN \r\r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\r\n    inet 127.0.0.1/8 scope host lo\r\r\n       valid_lft forever preferred_lft forever\r\r\n    inet6 ::1/128 scope host \r\r\n       valid_lft forever preferred_lft forever\r\r\n\u001b]0;@0fe95992e6ee:/\u0007[root@0fe95992e6ee /]# "
+    ],
+    [
+      2.665431,
+      "exit\r\r\n"
+    ],
+    [
+      0.025026,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      0.761083,
+      "exit\r\n\u001b]0;vagrant@labvm-1:~\u0007[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      0.714980,
+      "logout\r\n"
+    ],
+    [
+      0.000663,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.003315,
+      "\u001b]777;notify;Command completed;vagrant ssh labvm-1\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000053,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.070738,
+      "exit\r\n"
+    ]
+  ]
+}
