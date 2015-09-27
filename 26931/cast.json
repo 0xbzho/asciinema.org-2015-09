@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 32.078760,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.077077,
+      "$ "
+    ],
+    [
+      1.064404,
+      "l"
+    ],
+    [
+      0.091459,
+      "e"
+    ],
+    [
+      0.117270,
+      "s"
+    ],
+    [
+      0.175711,
+      "s"
+    ],
+    [
+      0.184091,
+      " "
+    ],
+    [
+      0.271198,
+      "a"
+    ],
+    [
+      0.432963,
+      "i"
+    ],
+    [
+      0.115589,
+      "rports.csv "
+    ],
+    [
+      0.484503,
+      "\r\n"
+    ],
+    [
+      0.005935,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000068,
+      "AIRPORT CODE,AIRPORT"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "ABE,Allentown-Bethlehem-Easton International"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "ABQ,Albuquerque International\r\nAGC,Pittsburgh/Allegheny County\r\nAIY,Atlantic City International\r\nANC,Anchorage International\r\nARN,Arlanda (Stockholm Sweden)"
+    ],
+    [
+      0.000032,
+      "\r\nATL,Atlanta William B. Hartsfield International"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "AUS,Austin Robert Mueller Municipal"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "AVL,Asheville (NC) Regional"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "BDL,Hartford/Springfield Bradley International"
+    ],
+    [
+      0.000217,
+      "\r\nBFI,Seattle Kings County International/Boeing Field\r\nBGR,Bangor International\r\nBHM,Birmingham Municipal\r\n"
+    ],
+    [
+      0.000016,
+      "BIL,Billings Logan International\r\n"
+    ],
+    [
+      0.000200,
+      "BIS,Bismarck Municipal\r\nBKL,Cleveland Lakefront\r\nBNA,Nashville Metro\r\n"
+    ],
+    [
+      0.000039,
+      "BOI,Boise Air Terminal/Gowen Field\r\nBOS,Boston Logan International"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "BTR,Baton Rouge"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "BTV,Burlington International"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "BUF,Buffalo International"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[7mairports.csv\u001b[27m\u001b[K"
+    ],
+    [
+      0.665081,
+      "\r\u001b[KBUR,Burbank/Glendale/Pasadena\r\n:\u001b[K"
+    ],
+    [
+      0.500792,
+      "\r\u001b[KBWI,Baltimore-Washington International\r\n:\u001b[K"
+    ],
+    [
+      0.050095,
+      "\r\u001b[KCAE,Columbia (SC) Metropolitan\r\n:\u001b[K"
+    ],
+    [
+      0.052658,
+      "\r\u001b[KCAK,Akron/Canton Regional\r\n:\u001b[K"
+    ],
+    [
+      0.051672,
+      "\r\u001b[KCDG,Roissy Charles de Gaulle Airport (Paris France)\r\n:\u001b[K"
+    ],
+    [
+      0.051389,
+      "\r\u001b[KCGX,Chicago Merrill C. Meigs Field\r\n:\u001b[K"
+    ],
+    [
+      0.051883,
+      "\r\u001b[KCHS,Charleston (SC) International\r\n:\u001b[K"
+    ],
+    [
+      0.050262,
+      "\r\u001b[KCLE,Cleveland-Hopkins International\r\n:\u001b[K"
+    ],
+    [
+      0.050254,
+      "\r\u001b[KCLT,Charlotte/Douglas International\r\n:\u001b[K"
+    ],
+    [
+      0.051929,
+      "\r\u001b[KCMH,Columbus (OH) International\r\n:\u001b[K"
+    ],
+    [
+      0.050850,
+      "\r\u001b[KCOD,Yellowstone Regional Airport (Cody Wyoming)\r\n:\u001b[K"
+    ],
+    [
+      0.049786,
+      "\r\u001b[KCPR,Casper/Natrone County International\r\n:\u001b[K"
+    ],
+    [
+      0.051246,
+      "\r\u001b[KCRM,Charleston (WV) Yeager\r\n:\u001b[K"
+    ],
+    [
+      0.052874,
+      "\r\u001b[KCRP,Corpus Christi International\r\n:\u001b[K"
+    ],
+    [
+      0.413809,
+      "\r\u001b[KCVG,Cincinnati International\r\n:\u001b[K"
+    ],
+    [
+      0.456635,
+      "\r\u001b[KCYS,Cheyenne\r\n:\u001b[K"
+    ],
+    [
+      0.183734,
+      "\r\u001b[KDAL,Dallas Love Field\r\n:\u001b[K"
+    ],
+    [
+      0.175399,
+      "\r\u001b[KDAY,Dayton James M. Cox International\r\n:\u001b[K"
+    ],
+    [
+      0.171377,
+      "\r\u001b[KDCA,Ronald Reagan Washington National\r\n:\u001b[K"
+    ],
+    [
+      0.134398,
+      "\r\u001b[KDEN,Denver Stapleton International\r\n:\u001b[K"
+    ],
+    [
+      0.166497,
+      "\r\u001b[KDET,Detroit City\r\n:\u001b[K"
+    ],
+    [
+      0.166374,
+      "\r\u001b[KDFW,Dallas-Ft. Worth International\r\n:\u001b[K"
+    ],
+    [
+      0.370524,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000671,
+      "$ "
+    ],
+    [
+      1.567280,
+      "s"
+    ],
+    [
+      0.160189,
+      "e"
+    ],
+    [
+      0.176314,
+      "d"
+    ],
+    [
+      0.120364,
+      " "
+    ],
+    [
+      0.360454,
+      "-"
+    ],
+    [
+      0.287665,
+      "n"
+    ],
+    [
+      0.184567,
+      " "
+    ],
+    [
+      0.143023,
+      "-"
+    ],
+    [
+      0.393170,
+      "e"
+    ],
+    [
+      0.671718,
+      " "
+    ],
+    [
+      0.241235,
+      "'"
+    ],
+    [
+      0.326822,
+      "/"
+    ],
+    [
+      1.016833,
+      "^"
+    ],
+    [
+      1.105196,
+      "S"
+    ],
+    [
+      0.272455,
+      "A"
+    ],
+    [
+      1.312074,
+      "/"
+    ],
+    [
+      0.615838,
+      " "
+    ],
+    [
+      0.312733,
+      "p"
+    ],
+    [
+      0.872355,
+      "'"
+    ],
+    [
+      0.415277,
+      " "
+    ],
+    [
+      0.248423,
+      "-"
+    ],
+    [
+      0.417468,
+      "e"
+    ],
+    [
+      0.727538,
+      " "
+    ],
+    [
+      1.063616,
+      "'"
+    ],
+    [
+      0.240787,
+      "/"
+    ],
+    [
+      1.920567,
+      "^"
+    ],
+    [
+      1.249265,
+      "O"
+    ],
+    [
+      0.128652,
+      "R"
+    ],
+    [
+      0.575713,
+      "/"
+    ],
+    [
+      0.872361,
+      " "
+    ],
+    [
+      1.072023,
+      "p"
+    ],
+    [
+      0.593711,
+      "'"
+    ],
+    [
+      0.311030,
+      " "
+    ],
+    [
+      0.544206,
+      "a"
+    ],
+    [
+      0.247777,
+      "i"
+    ],
+    [
+      0.276484,
+      "rports.csv "
+    ],
+    [
+      1.086143,
+      "\r\n"
+    ],
+    [
+      0.003255,
+      "ORD,Chicago-O'Hare International\r\nORF,Norfolk International\r\n"
+    ],
+    [
+      0.000016,
+      "ORY,Orly Airport (Paris France)\r\n"
+    ],
+    [
+      0.000065,
+      "SAN,San Diego International/Lindbergh Field"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "SAT,San Antonio International\r\nSAV,Savannah International"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000862,
+      "$ "
+    ],
+    [
+      2.901282,
+      "exit\r\n"
+    ]
+  ]
+}
