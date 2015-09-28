@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 30,
+  "duration": 90.138179,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.102008,
+      "\u001b]777;notify;Command completed;screen \u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000163,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.484052,
+      "\r\u001b[10P(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.251867,
+      "\u0008\u0008\u0008\u001b[8@s': screen\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.166047,
+      "\u0008\u0008\u0008s': vagrant ssh labvm-1\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.103418,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@h\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.552171,
+      "\r\u001b[7@[nkhare@dhcp35-118 linuxconeu]$\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\r\n"
+    ],
+    [
+      5.661404,
+      "Last login: Mon Sep 28 09:42:39 2015 from 10.0.2.2\r\r\n"
+    ],
+    [
+      0.026143,
+      "\u001b]0;vagrant@labvm-1:~\u0007"
+    ],
+    [
+      0.002547,
+      "[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      1.174565,
+      "s"
+    ],
+    [
+      0.175430,
+      "u"
+    ],
+    [
+      0.109232,
+      "d"
+    ],
+    [
+      0.143680,
+      "o"
+    ],
+    [
+      0.064094,
+      " "
+    ],
+    [
+      0.180456,
+      "-"
+    ],
+    [
+      0.154958,
+      "s"
+    ],
+    [
+      0.401858,
+      "\r\n"
+    ],
+    [
+      0.048921,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000261,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      3.577663,
+      "docker run -d  -e MYSQL_ROOT_PASSWORD=my-secret-pw  --name=db mysql\r\n"
+    ],
+    [
+      0.264400,
+      "7f33e131e8039a03ed85693f8f11149981bfe64b151b7df7a5eca819359b2ec2\r\n"
+    ],
+    [
+      0.141756,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      5.910440,
+      "docker inspect --format='{{.NetworkSettings.IPAddress}}' db\r\n"
+    ],
+    [
+      0.013715,
+      "172.17.0.6"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000823,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000124,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      6.121293,
+      "docker run -itd --name web --link db:database centos\r\n"
+    ],
+    [
+      0.194835,
+      "645de2fb8672ffb61d896355d77033a200f8ceb022877338bd1d3f67dce3e6b9\r\n"
+    ],
+    [
+      0.124321,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      4.923662,
+      "d"
+    ],
+    [
+      0.133917,
+      "o"
+    ],
+    [
+      0.102013,
+      "c"
+    ],
+    [
+      0.143383,
+      "k"
+    ],
+    [
+      0.085524,
+      "\u0007"
+    ],
+    [
+      0.000094,
+      "er"
+    ],
+    [
+      0.319480,
+      " "
+    ],
+    [
+      0.157459,
+      "p"
+    ],
+    [
+      0.060224,
+      "s"
+    ],
+    [
+      0.186160,
+      "\r\n"
+    ],
+    [
+      0.017108,
+      "CONTAINER ID"
+    ],
+    [
+      0.000240,
+      "        "
+    ],
+    [
+      0.000253,
+      "IMAGE"
+    ],
+    [
+      0.000206,
+      "        "
+    ],
+    [
+      0.000149,
+      "       "
+    ],
+    [
+      0.000150,
+      "COMMAND"
+    ],
+    [
+      0.000186,
+      "        "
+    ],
+    [
+      0.000198,
+      "        "
+    ],
+    [
+      0.000136,
+      "  "
+    ],
+    [
+      0.000177,
+      "CREATED"
+    ],
+    [
+      0.000155,
+      "        "
+    ],
+    [
+      0.000146,
+      "     "
+    ],
+    [
+      0.000169,
+      "STATUS"
+    ],
+    [
+      0.000144,
+      "        "
+    ],
+    [
+      0.000146,
+      "      "
+    ],
+    [
+      0.000157,
+      "PORTS"
+    ],
+    [
+      0.000167,
+      "        "
+    ],
+    [
+      0.000127,
+      "       "
+    ],
+    [
+      0.000134,
+      "NAMES"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "645de2fb8672"
+    ],
+    [
+      0.000174,
+      "        "
+    ],
+    [
+      0.000154,
+      "centos"
+    ],
+    [
+      0.000121,
+      "        "
+    ],
+    [
+      0.000150,
+      "      "
+    ],
+    [
+      0.000120,
+      "\"/bin/bash\""
+    ],
+    [
+      0.000148,
+      "        "
+    ],
+    [
+      0.000139,
+      "      "
+    ],
+    [
+      0.000167,
+      "7 seconds ago"
+    ],
+    [
+      0.000158,
+      "       "
+    ],
+    [
+      0.000129,
+      "Up 6 seconds"
+    ],
+    [
+      0.000128,
+      "        "
+    ],
+    [
+      0.000135,
+      "        "
+    ],
+    [
+      0.000252,
+      "            web\r\n7f33e131e803        mysql               \"/entrypoint.sh mysql\"   19 seconds ago      Up 18 seconds       3306/tcp            db\r\n"
+    ],
+    [
+      0.000769,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000160,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      9.772979,
+      "docker inspect -f \"{{ .HostConfig.Links }}\" web"
+    ],
+    [
+      2.587246,
+      "\r\n"
+    ],
+    [
+      0.011771,
+      "[/db:/web/database]"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000921,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007"
+    ],
+    [
+      0.000141,
+      "[root@labvm-1 vagrant]# "
+    ],
+    [
+      7.729961,
+      "d"
+    ],
+    [
+      0.127838,
+      "o"
+    ],
+    [
+      0.091931,
+      "c"
+    ],
+    [
+      0.110029,
+      "k"
+    ],
+    [
+      0.518700,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.197789,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166044,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.174001,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149939,
+      "\u0007"
+    ],
+    [
+      2.389124,
+      "docker exec -it web bash\r\n"
+    ],
+    [
+      0.043147,
+      "\u001b]0;@645de2fb8672:/\u0007"
+    ],
+    [
+      0.000248,
+      "\u001b[?1034h"
+    ],
+    [
+      0.001067,
+      "[root@645de2fb8672 /]# "
+    ],
+    [
+      2.689125,
+      "i"
+    ],
+    [
+      0.214382,
+      "p"
+    ],
+    [
+      0.126588,
+      " "
+    ],
+    [
+      0.153733,
+      "a"
+    ],
+    [
+      0.298772,
+      "\r\r\n"
+    ],
+    [
+      0.002276,
+      "1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN "
+    ],
+    [
+      0.000211,
+      "\r\r\n"
+    ],
+    [
+      0.000279,
+      "    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00"
+    ],
+    [
+      0.000459,
+      "\r\r\n"
+    ],
+    [
+      0.000325,
+      "    inet 127.0.0.1/8 scope host lo"
+    ],
+    [
+      0.000235,
+      "\r\r\n"
+    ],
+    [
+      0.000255,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000190,
+      "\r\r\n"
+    ],
+    [
+      0.000224,
+      "    inet6 ::1/128 scope host "
+    ],
+    [
+      0.000203,
+      "\r\r\n"
+    ],
+    [
+      0.000218,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000219,
+      "\r\r\n"
+    ],
+    [
+      0.000228,
+      "95: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue state UP "
+    ],
+    [
+      0.000203,
+      "\r\r\n"
+    ],
+    [
+      0.000266,
+      "    link/ether 02:42:ac:11:00:07 brd ff:ff:ff:ff:ff:ff"
+    ],
+    [
+      0.000253,
+      "\r\r\n"
+    ],
+    [
+      0.000175,
+      "    inet 172.17.0.7/16 scope global eth0"
+    ],
+    [
+      0.000232,
+      "\r\r\n"
+    ],
+    [
+      0.000201,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000266,
+      "\r\r\n"
+    ],
+    [
+      0.000235,
+      "    inet6 fe80::42:acff:fe11:7/64 scope link "
+    ],
+    [
+      0.000179,
+      "\r\r\n"
+    ],
+    [
+      0.000221,
+      "       valid_lft forever preferred_lft forever"
+    ],
+    [
+      0.000436,
+      "\r\r\n"
+    ],
+    [
+      0.000267,
+      "\u001b]0;@645de2fb8672:/\u0007"
+    ],
+    [
+      0.000257,
+      "[root@645de2fb8672 /]# "
+    ],
+    [
+      2.480818,
+      "c"
+    ],
+    [
+      0.244758,
+      "a"
+    ],
+    [
+      0.319434,
+      "t"
+    ],
+    [
+      0.152576,
+      " "
+    ],
+    [
+      0.506842,
+      "e"
+    ],
+    [
+      0.304650,
+      "\u0008 \u0008"
+    ],
+    [
+      0.213510,
+      "/"
+    ],
+    [
+      0.102042,
+      "e"
+    ],
+    [
+      0.162497,
+      "tc/"
+    ],
+    [
+      1.127719,
+      "h"
+    ],
+    [
+      0.190903,
+      "o"
+    ],
+    [
+      0.107419,
+      "s"
+    ],
+    [
+      0.198967,
+      "t"
+    ],
+    [
+      0.086149,
+      "s"
+    ],
+    [
+      0.289232,
+      "\r\r\n172.17.0.7\t645de2fb8672\r\r\n127.0.0.1\tlocalhost\r\r\n::1\tlocalhost ip6-localhost ip6-loopback\r\r\nfe00::0\tip6-localnet\r\r\nff00::0\tip6-mcastprefix\r\r\nff02::1\tip6-allnodes\r\r\nff02::2\tip6-allrouters\r\r\n172.17.0.6\tdatabase 7f33e131e803 db\r\r\n172.17.0.7\tweb\r\r\n172.17.0.7\tweb.bridge\r\r\n172.17.0.6\tdb\r\r\n172.17.0.6\tdb.bridge\r\r\n\u001b]0;@645de2fb8672:/\u0007[root@645de2fb8672 /]# "
+    ],
+    [
+      7.719172,
+      "e"
+    ],
+    [
+      0.230847,
+      "n"
+    ],
+    [
+      0.141397,
+      "v"
+    ],
+    [
+      0.592649,
+      "\r\r\n"
+    ],
+    [
+      0.001730,
+      "DATABASE_PORT_3306_TCP_PROTO=tcp\r\r\nHOSTNAME=645de2fb8672\r\r\nTERM=xterm\r\r\nDATABASE_PORT_3306_TCP_ADDR=172.17.0.6\r\r\nLS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:\r\r\nDATABASE_NAME=/web/database\r\r\nDATABASE_PORT=tcp://172.17.0.6:3306\r\r\nPATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\r\r\nPWD=/\r\r\nDATABASE_ENV_MYSQL_MAJOR=5.6\r\r\nDATABASE_PORT_3306_TCP=tcp://172.17.0.6:3306\r\r\nSHLVL=1\r\r\nHOME=/root\r\r\nDATABASE_PORT_3306_TCP_PORT=3306\r\r\nDATABASE_ENV_MYSQL_ROOT_PASSWORD=my-secret-pw\r\r\nLESSOPEN=||/usr/bin/lesspipe.sh %s\r\r\nDATABASE_ENV_MYSQL_VERSION=5.6.26\r\r\n_=/usr/bin/env\r\r\n\u001b]0;@645de2fb8672:/\u0007[root@645de2fb8672 /]# "
+    ],
+    [
+      8.205373,
+      "ping $DATABASE_PORT_3306_TCP_ADDR\r\r\n"
+    ],
+    [
+      0.009381,
+      "PING 172.17.0.6 (172.17.0.6) 56(84) bytes of data.\r\r\n64 bytes from 172.17.0.6: icmp_seq=1 ttl=64 time=0.075 ms\r\r\n"
+    ],
+    [
+      0.999299,
+      "64 bytes from 172.17.0.6: icmp_seq=2 ttl=64 time=0.055 ms\r\r\n"
+    ],
+    [
+      0.999517,
+      "64 bytes from 172.17.0.6: icmp_seq=3 ttl=64 time=0.067 ms\r\r\n"
+    ],
+    [
+      0.999067,
+      "64 bytes from 172.17.0.6: icmp_seq=4 ttl=64 time=0.058 ms\r\r\n"
+    ],
+    [
+      0.317272,
+      "^C\r\r\n--- 172.17.0.6 ping statistics ---\r\r\n4 packets transmitted, 4 received, 0% packet loss, time 2999ms\r\r\nrtt min/avg/max/mdev = 0.055/0.063/0.075/0.012 ms\r\r\n\u001b]0;@645de2fb8672:/\u0007[root@645de2fb8672 /]# "
+    ],
+    [
+      0.795661,
+      "exit\r\r\n"
+    ],
+    [
+      0.002151,
+      "\u001b]0;root@labvm-1:/home/vagrant\u0007[root@labvm-1 vagrant]# "
+    ],
+    [
+      0.633712,
+      "exit\r\n"
+    ],
+    [
+      0.001342,
+      "\u001b]0;vagrant@labvm-1:~\u0007[vagrant@labvm-1 ~]$ "
+    ],
+    [
+      0.507256,
+      "Connection to 127.0.0.1 closed.\r\r\n"
+    ],
+    [
+      0.005052,
+      "\u001b]777;notify;Command completed;vagrant ssh labvm-1\u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.637692,
+      "exit\r\n"
+    ]
+  ]
+}
