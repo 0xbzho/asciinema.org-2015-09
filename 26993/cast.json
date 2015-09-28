@@ -1,0 +1,1290 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 30,
+  "duration": 129.115063,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067503,
+      "\u001b]777;notify;Command completed;screen \u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000282,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.662236,
+      "s"
+    ],
+    [
+      0.222336,
+      "c"
+    ],
+    [
+      0.182353,
+      "r"
+    ],
+    [
+      0.181423,
+      "e"
+    ],
+    [
+      0.542955,
+      "en "
+    ],
+    [
+      0.447600,
+      "\r\n"
+    ],
+    [
+      0.002483,
+      "\u001b[!p\u001b[?3;4l\u001b[4l\u001b\u003e\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;30r"
+    ],
+    [
+      0.002574,
+      "\u001b[H\u001b[2J\u001b]2;[screen -] \u0007\u001b[H\u001b[2J\u001b]2;screen\u0007\u001b]2;[screen 0: bash] \u0007"
+    ],
+    [
+      0.061030,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007"
+    ],
+    [
+      0.000098,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.215241,
+      "\r\u001b[10P(reverse-i-search)`': "
+    ],
+    [
+      0.467739,
+      "\u0008\u0008\u0008\u001b[8@s': screen\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.157904,
+      "\u0008\u0008\u0008s': vagrant ssh labvm-2\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.110071,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@h': vagrant "
+    ],
+    [
+      1.051104,
+      "ssh labvm-1\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.671367,
+      "\r\u001b[7@[nkhare@dhcp35-118 linuxconeu]$ vagrant \r\n"
+    ],
+    [
+      1.568720,
+      "\u001b[H\u001b[2J\u001b]2;screen\u0007\u001b]2;[screen 1: bash] \u0007"
+    ],
+    [
+      0.063782,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007"
+    ],
+    [
+      0.000005,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.225408,
+      "\r\u001b[10P(reverse-i-search)`': "
+    ],
+    [
+      0.299706,
+      "\u0008\u0008\u0008\u001b[8@s': screen\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.165894,
+      "\u0008\u0008\u0008s': vagrant ssh labvm-2\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.159427,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@h': vagrant "
+    ],
+    [
+      0.575763,
+      "\r\u001b[7@[nkhare@dhcp35-118 linuxconeu]$ vagrant \r\n"
+    ],
+    [
+      0.649321,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\u001b]2;screen\u0007\u001b]2;[screen 0: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007\r\n"
+    ],
+    [
+      1.650891,
+      "Last login: Tue Sep 29 08:26:42 2015 from 10.0.2.2\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: vagrant@lab-vm-1:~] \u0007[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      0.822296,
+      "s"
+    ],
+    [
+      0.183413,
+      "u"
+    ],
+    [
+      0.086067,
+      "d"
+    ],
+    [
+      0.158626,
+      "o"
+    ],
+    [
+      0.127060,
+      " "
+    ],
+    [
+      0.197215,
+      "-"
+    ],
+    [
+      0.083082,
+      "s"
+    ],
+    [
+      1.196712,
+      "\r\n"
+    ],
+    [
+      0.022916,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/home/vagrant] \u0007"
+    ],
+    [
+      0.000488,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      0.544442,
+      "c"
+    ],
+    [
+      0.164288,
+      "d"
+    ],
+    [
+      0.090074,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000110,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      0.420576,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-2\r\nLast login: Tue Sep 29 08:41:10 2015 from 10.0.2.2\r\n[vagrant@lab-vm-2 ~]$\u001b]2;screen\u0007\u001b]2;[screen 1: vagrant@lab-vm-2:~] \u0007 "
+    ],
+    [
+      0.614428,
+      "s"
+    ],
+    [
+      0.182526,
+      "u"
+    ],
+    [
+      0.101200,
+      "d"
+    ],
+    [
+      0.135960,
+      "o"
+    ],
+    [
+      0.079624,
+      " "
+    ],
+    [
+      0.220561,
+      "-"
+    ],
+    [
+      0.490709,
+      "s"
+    ],
+    [
+      0.561247,
+      "\r\n"
+    ],
+    [
+      0.027697,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:/home/vagrant] \u0007"
+    ],
+    [
+      0.000446,
+      "[root@lab-vm-2 vagrant]# "
+    ],
+    [
+      0.126529,
+      "c"
+    ],
+    [
+      0.173940,
+      "d"
+    ],
+    [
+      0.137016,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000136,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      1.110187,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\r\nLast login: Tue Sep 29 08:26:42 2015 from 10.0.2.2\r\n[vagrant@lab-vm-1 ~]$ sudo -s\r\n[root@lab-vm-1 vagrant]# cd\r\n[root@lab-vm-1 ~]#\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007 "
+    ],
+    [
+      3.155278,
+      "."
+    ],
+    [
+      0.190490,
+      "/"
+    ],
+    [
+      0.427051,
+      "d"
+    ],
+    [
+      0.080980,
+      "o"
+    ],
+    [
+      0.137999,
+      "cker-latest "
+    ],
+    [
+      0.407527,
+      "n"
+    ],
+    [
+      0.132960,
+      "e"
+    ],
+    [
+      0.214284,
+      "t"
+    ],
+    [
+      0.300812,
+      "w"
+    ],
+    [
+      0.120414,
+      "o"
+    ],
+    [
+      0.148394,
+      "r"
+    ],
+    [
+      0.126963,
+      "k"
+    ],
+    [
+      0.095222,
+      " "
+    ],
+    [
+      0.732672,
+      "l"
+    ],
+    [
+      0.101971,
+      "s"
+    ],
+    [
+      0.794800,
+      "\r\n"
+    ],
+    [
+      0.005678,
+      "NETWORK ID"
+    ],
+    [
+      0.000224,
+      "        "
+    ],
+    [
+      0.000134,
+      "  "
+    ],
+    [
+      0.000091,
+      "NAME"
+    ],
+    [
+      0.000152,
+      "        "
+    ],
+    [
+      0.000134,
+      "        "
+    ],
+    [
+      0.000138,
+      "TYPE"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "67daf1e77d80"
+    ],
+    [
+      0.000146,
+      "        "
+    ],
+    [
+      0.000135,
+      "none"
+    ],
+    [
+      0.000167,
+      "        "
+    ],
+    [
+      0.000141,
+      "        "
+    ],
+    [
+      0.000102,
+      "null"
+    ],
+    [
+      0.000102,
+      "        "
+    ],
+    [
+      0.000078,
+      "        "
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "040aa290c944"
+    ],
+    [
+      0.000123,
+      "        "
+    ],
+    [
+      0.000117,
+      "host"
+    ],
+    [
+      0.000104,
+      "        "
+    ],
+    [
+      0.000099,
+      "        "
+    ],
+    [
+      0.000103,
+      "host"
+    ],
+    [
+      0.000101,
+      "        "
+    ],
+    [
+      0.000099,
+      "        "
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "dc9e9481db58"
+    ],
+    [
+      0.000107,
+      "        "
+    ],
+    [
+      0.000134,
+      "bridge"
+    ],
+    [
+      0.000102,
+      "        "
+    ],
+    [
+      0.000101,
+      "      "
+    ],
+    [
+      0.000104,
+      "bridge"
+    ],
+    [
+      0.000102,
+      "        "
+    ],
+    [
+      0.000098,
+      "      "
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "3aa4e1aa64c8"
+    ],
+    [
+      0.000106,
+      "        "
+    ],
+    [
+      0.000099,
+      "dev"
+    ],
+    [
+      0.000129,
+      "        "
+    ],
+    [
+      0.000117,
+      "        "
+    ],
+    [
+      0.000117,
+      " "
+    ],
+    [
+      0.000106,
+      "overlay"
+    ],
+    [
+      0.000104,
+      "        "
+    ],
+    [
+      0.000101,
+      "     "
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000745,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007[root@lab-vm-1 ~]# "
+    ],
+    [
+      0.946203,
+      "c"
+    ],
+    [
+      0.149638,
+      "d"
+    ],
+    [
+      0.090119,
+      " "
+    ],
+    [
+      0.236170,
+      "/"
+    ],
+    [
+      0.595459,
+      "v"
+    ],
+    [
+      0.061365,
+      "a"
+    ],
+    [
+      0.160869,
+      "r/"
+    ],
+    [
+      1.010733,
+      "r"
+    ],
+    [
+      0.117753,
+      "u"
+    ],
+    [
+      0.166438,
+      "n"
+    ],
+    [
+      0.101797,
+      "/"
+    ],
+    [
+      0.260880,
+      "d"
+    ],
+    [
+      0.065013,
+      "o"
+    ],
+    [
+      0.171737,
+      "cker/"
+    ],
+    [
+      1.614989,
+      "\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker] \u0007[root@lab-vm-1 docker]# "
+    ],
+    [
+      0.492471,
+      "l"
+    ],
+    [
+      0.094107,
+      "s"
+    ],
+    [
+      0.072040,
+      "\r\n"
+    ],
+    [
+      0.000970,
+      "\u001b[1m\u001b[34mexecdriver\u001b[0m  \u001b[1m\u001b[34mnetns\u001b[0m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000391,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker] \u0007[root@lab-vm-1 docker]# "
+    ],
+    [
+      1.317371,
+      "c"
+    ],
+    [
+      0.149798,
+      "d"
+    ],
+    [
+      0.097954,
+      " "
+    ],
+    [
+      0.178803,
+      "n"
+    ],
+    [
+      0.125923,
+      "etns/"
+    ],
+    [
+      0.599569,
+      "\r\n"
+    ],
+    [
+      0.000300,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007"
+    ],
+    [
+      0.000204,
+      "[root@lab-vm-1 netns]# "
+    ],
+    [
+      0.268269,
+      "l"
+    ],
+    [
+      0.092452,
+      "s"
+    ],
+    [
+      0.098666,
+      "\r\n1-3aa4e1aa64  b670f9dd06e8\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007"
+    ],
+    [
+      0.000107,
+      "[root@lab-vm-1 netns]# "
+    ],
+    [
+      15.038372,
+      " nsenter --net=1-3aa4e1aa64 ip link show\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default \r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\n2: br0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue state UP mode DEFAULT group default \r\n    link/ether 4a:f1:cb:ae:9a:cb brd ff:ff:ff:ff:ff:ff\r\n5: vxlan1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue master br0 state UNKNOWN mode DEFAULT group default \r\n    link/ether 82:ee:c7:53:78:6d brd ff:ff:ff:ff:ff:ff\r\n7: veth2: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue master br0 state UP mode DEFAULT group default \r\n    link/ether 4a:f1:cb:ae:9a:cb brd ff:ff:ff:ff:ff:ff\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007"
+    ],
+    [
+      0.000046,
+      "[root@lab-vm-1 netns]# "
+    ],
+    [
+      3.903818,
+      " nsenter --net=1-3aa4e1aa64 ip link show"
+    ],
+    [
+      2.177986,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157362,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.501049,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030773,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030350,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030561,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029361,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.119444,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.189928,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.181770,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.781227,
+      " "
+    ],
+    [
+      0.282777,
+      "e"
+    ],
+    [
+      0.102022,
+      "n"
+    ],
+    [
+      0.464618,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133961,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.227644,
+      "n"
+    ],
+    [
+      0.078128,
+      "e"
+    ],
+    [
+      0.190299,
+      "i"
+    ],
+    [
+      0.900579,
+      "g"
+    ],
+    [
+      0.110237,
+      "h"
+    ],
+    [
+      0.117583,
+      "t"
+    ],
+    [
+      0.120311,
+      " "
+    ],
+    [
+      0.477787,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133688,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111660,
+      " "
+    ],
+    [
+      1.903264,
+      "s"
+    ],
+    [
+      0.101964,
+      "h"
+    ],
+    [
+      0.232326,
+      "o"
+    ],
+    [
+      0.171391,
+      "w"
+    ],
+    [
+      1.081982,
+      "\r\n172.21.0.2 dev vxlan1 lladdr 02:42:ac:15:00:02 PERMANENT\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007[root@lab-vm-1 netns]# "
+    ],
+    [
+      5.371944,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-2\r\nLast login: Tue Sep 29 08:41:10 2015 from 10.0.2.2\r\n[vagrant@lab-vm-2 ~]$ sudo -s\r\n[root@lab-vm-2 vagrant]# cd\r\n[root@lab-vm-2 ~]#\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007 "
+    ],
+    [
+      1.092148,
+      "i"
+    ],
+    [
+      0.222832,
+      "p"
+    ],
+    [
+      0.111398,
+      " "
+    ],
+    [
+      0.400677,
+      "a"
+    ],
+    [
+      0.123216,
+      "\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN group default \r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\n    inet 127.0.0.1/8 scope host lo\r\n       valid_lft forever preferred_lft forever\r\n    inet6 ::1/128 scope host \r\n       valid_lft forever preferred_lft forever\r\n2: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP group default qlen 1000\r\n    link/ether 08:00:27:bc:54:df brd ff:ff:ff:ff:ff:ff\r\n    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic eth0\r\n       valid_lft 83913sec preferred_lft 83913sec\r\n    inet6 fe80::a00:27ff:febc:54df/64 scope link \r\n       valid_lft forever preferred_lft forever\r\n3: eth1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP group default qlen 1000\r\n    link/ether 08:00:27:8a:a5:2c brd ff:ff:ff:ff:ff:ff\r\n    inet 192.168.100.24/24 brd 192.168.100.255 scope global eth1\r\n       valid_lft forever preferred_lft forever\r\n    inet6 fe80::a00:27ff:fe8a:a52c/64 scope link \r\n       valid_lft forever preferred_lft forever\r\n4: docker0: \u003cNO-CARRIER,BROADCAST,MULTICAST,UP\u003e mtu 1500 qdisc noqueue state DOWN group default \r\n    link/ether 02:42:d5:aa:d5:70 brd ff:ff:ff:ff:ff:ff\r\n    inet 172.17.42.1/16 scope global docker0\r\n       valid_lft forever preferred_lft forever\r\n\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      2.745621,
+      "."
+    ],
+    [
+      0.501887,
+      "/"
+    ],
+    [
+      0.323167,
+      "d"
+    ],
+    [
+      0.284852,
+      "ocker-latest "
+    ],
+    [
+      0.600869,
+      "p"
+    ],
+    [
+      0.078095,
+      "s"
+    ],
+    [
+      0.258232,
+      "\r\n"
+    ],
+    [
+      0.007020,
+      "CONTAINER ID"
+    ],
+    [
+      0.000166,
+      "        "
+    ],
+    [
+      0.000190,
+      "IMAGE"
+    ],
+    [
+      0.000154,
+      "        "
+    ],
+    [
+      0.000131,
+      "       "
+    ],
+    [
+      0.000120,
+      "COMMAND"
+    ],
+    [
+      0.000101,
+      "        "
+    ],
+    [
+      0.000119,
+      "     "
+    ],
+    [
+      0.000131,
+      "CREATED"
+    ],
+    [
+      0.000138,
+      "        "
+    ],
+    [
+      0.000133,
+      "     "
+    ],
+    [
+      0.000167,
+      "STATUS"
+    ],
+    [
+      0.000138,
+      "        "
+    ],
+    [
+      0.000137,
+      "      "
+    ],
+    [
+      0.000139,
+      "PORTS"
+    ],
+    [
+      0.000146,
+      "        "
+    ],
+    [
+      0.000125,
+      "       "
+    ],
+    [
+      0.000125,
+      "NAMES"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "29f997fc757f"
+    ],
+    [
+      0.000126,
+      "        "
+    ],
+    [
+      0.000132,
+      "docker.io/ce"
+    ],
+    [
+      0.000124,
+      "        "
+    ],
+    [
+      0.000144,
+      "\"/bin/bash\""
+    ],
+    [
+      0.000126,
+      "        "
+    ],
+    [
+      0.000123,
+      " "
+    ],
+    [
+      0.000132,
+      "39 minutes ago"
+    ],
+    [
+      0.000121,
+      "      "
+    ],
+    [
+      0.000135,
+      "Up 39 minutes"
+    ],
+    [
+      0.000100,
+      "       "
+    ],
+    [
+      0.000111,
+      "        "
+    ],
+    [
+      0.000137,
+      "        "
+    ],
+    [
+      0.000134,
+      "    "
+    ],
+    [
+      0.000594,
+      "container_node2\r\n"
+    ],
+    [
+      0.000277,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      0.924155,
+      "."
+    ],
+    [
+      0.182396,
+      "/"
+    ],
+    [
+      0.131240,
+      "d"
+    ],
+    [
+      0.428769,
+      "ocker-latest "
+    ],
+    [
+      3.324408,
+      "e"
+    ],
+    [
+      0.253269,
+      "x"
+    ],
+    [
+      0.182408,
+      "e"
+    ],
+    [
+      0.197832,
+      "c"
+    ],
+    [
+      0.128964,
+      " "
+    ],
+    [
+      2.235342,
+      "i"
+    ],
+    [
+      0.220418,
+      "u"
+    ],
+    [
+      0.263774,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155334,
+      "t"
+    ],
+    [
+      0.216380,
+      " "
+    ],
+    [
+      0.629415,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141819,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141695,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.436144,
+      "-"
+    ],
+    [
+      0.204852,
+      "i"
+    ],
+    [
+      0.180961,
+      "t"
+    ],
+    [
+      0.136300,
+      " "
+    ],
+    [
+      4.164363,
+      "container_node2"
+    ],
+    [
+      0.274468,
+      " "
+    ],
+    [
+      0.499094,
+      "b"
+    ],
+    [
+      0.078063,
+      "a"
+    ],
+    [
+      0.180814,
+      "s"
+    ],
+    [
+      0.080422,
+      "h"
+    ],
+    [
+      0.419567,
+      "\r\n"
+    ],
+    [
+      0.024654,
+      "\u001b[22;2t\u001b]2;@29f997fc757f:/\u0007\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @29f997fc757f:/\u0007"
+    ],
+    [
+      0.000405,
+      "[root@29f997fc757f /]# "
+    ],
+    [
+      0.446347,
+      "i"
+    ],
+    [
+      0.214730,
+      "p"
+    ],
+    [
+      0.079580,
+      " "
+    ],
+    [
+      0.320717,
+      "a"
+    ],
+    [
+      0.739446,
+      "\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN \r\n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\n    inet 127.0.0.1/8 scope host lo\r\n       valid_lft forever preferred_lft forever\r\n    inet6 ::1/128 scope host \r\n       valid_lft forever preferred_lft forever\r\n6: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue state UP \r\n    link/ether 02:42:ac:15:00:02 brd ff:ff:ff:ff:ff:ff\r\n    inet 172.21.0.2/16 scope global eth0\r\n       valid_lft forever preferred_lft forever\r\n    inet6 fe80::42:acff:fe15:2/64 scope link \r\n       valid_lft forever preferred_lft forever\r\n"
+    ],
+    [
+      0.000120,
+      "[root@29f997fc757f /]# "
+    ],
+    [
+      5.699281,
+      "\u001b[H\u001b[2J\u001b]2;screen\u0007[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\r\nLast login: Tue Sep 29 08:26:42 2015 from 10.0.2.2\r\n[vagrant@lab-vm-1 ~]$ sudo -s\r\n[root@lab-vm-1 vagrant]# cd\r\n[root@lab-vm-1 ~]# ./docker-latest network ls\r\nNETWORK ID\u001b[10CNAME\u001b[16CTYPE\r\n67daf1e77d80\u001b[8Cnone\u001b[16Cnull\r\n040aa290c944\u001b[8Chost\u001b[16Chost\r\ndc9e9481db58\u001b[8Cbridge\u001b[14Cbridge\r\n3aa4e1aa64c8\u001b[8Cdev\u001b[17Coverlay\r\n[root@lab-vm-1 ~]# cd /var/run/docker/\r\n[root@lab-vm-1 docker]# ls\r\n\u001b[1m\u001b[34mexecdriver\u001b[2Cnetns\r\n\u001b[0m[root@lab-vm-1 docker]# cd netns/\r\n[root@lab-vm-1 netns]# ls\r\n1-3aa4e1aa64  b670f9dd06e8\r\n[root@lab-vm-1 netns]#  nsenter --net=1-3aa4e1aa64 ip link show\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default\u001b[90D\nlink/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\r\n2: br0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue state UP mode DEFAULT group default\u001b[96D\nlink/ether 4a:f1:cb:ae:9a:cb brd ff:ff:ff:ff:ff:ff\r\n5: vxlan1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc noqueue master br0 state UNKNOWN mode DEFAULT group default\r5: v\nlink/ether 82:ee:c7:53:78:6d brd ff:ff:ff:ff:ff:ff\r\n7: veth2: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue master br0 state UP mode DEFAULT group default\r7: v\nlink/ether 4a:f1:cb:ae:9a:cb brd ff:ff:ff:ff:ff:ff\r\n[root@lab-vm-1 netns]#  nsenter --net=1-3aa4e1aa64 ip neigh show\r\n172.21.0.2 dev vxlan1 lladdr 02:42:ac:15:00:02 PERMANENT\r\n[root@lab-vm-1 netns]#\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007 "
+    ],
+    [
+      1.773210,
+      " nsenter --net=1-3aa4e1aa64 ip neigh show"
+    ],
+    [
+      1.018918,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.501188,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030798,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030502,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030741,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030720,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030642,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029653,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030081,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.030911,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.029598,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.110218,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141858,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.747009,
+      "b"
+    ],
+    [
+      0.189625,
+      "r"
+    ],
+    [
+      0.758321,
+      "i"
+    ],
+    [
+      0.795984,
+      "d"
+    ],
+    [
+      0.110337,
+      "g"
+    ],
+    [
+      0.125439,
+      "e"
+    ],
+    [
+      0.120894,
+      " "
+    ],
+    [
+      4.240338,
+      "f"
+    ],
+    [
+      0.341019,
+      "d"
+    ],
+    [
+      0.390306,
+      "b"
+    ],
+    [
+      0.089327,
+      " "
+    ],
+    [
+      0.153363,
+      "s"
+    ],
+    [
+      0.111437,
+      "h"
+    ],
+    [
+      0.262915,
+      "o"
+    ],
+    [
+      0.115432,
+      "w"
+    ],
+    [
+      0.458418,
+      "\r\n33:33:00:00:00:01 dev br0 self permanent\r\n01:00:5e:00:00:01 dev br0 self permanent\r\n33:33:ff:38:65:a8 dev br0 self permanent\r\n82:ee:c7:53:78:6d dev vxlan1 master br0 permanent\r\n82:ee:c7:53:78:6d dev vxlan1 vlan 1 master br0 permanent\r\n02:42:ac:15:00:02 dev vxlan1 dst 192.168.100.24 self permanent\r\n4a:f1:cb:ae:9a:cb dev veth2 vlan 1 master br0 permanent\r\n4a:f1:cb:ae:9a:cb dev veth2 master br0 permanent\r\n33:33:00:00:00:01 dev veth2 self permanent\r\n01:00:5e:00:00:01 dev veth2 self permanent\r\n33:33:ff:ae:9a:cb dev veth2 self permanent\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/var/run/docker/netns] \u0007[root@lab-vm-1 netns]# "
+    ],
+    [
+      7.453230,
+      "exit\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: vagrant@lab-vm-1:~] \u0007[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      0.418192,
+      "logout\r\n"
+    ],
+    [
+      0.000732,
+      "Connection to 127.0.0.1 closed.\r\n"
+    ],
+    [
+      0.000786,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.433662,
+      "exit\r\n"
+    ],
+    [
+      0.001196,
+      "\u001b[H\u001b[2J\u001b]2;@29f997fc757f:/\u0007\u001b[4Cinet6 fe80::a00:27ff:febc:54df/64 scope link\u001b[2;8Hvalid_lft forever preferred_lft forever\r\n3: eth1: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1500 qdisc fq_codel state UP group default qlen 1000\u001b[4;5Hlink/ether 08:00:27:8a:a5:2c brd ff:ff:ff:ff:ff:ff\u001b[5;5Hinet 192.168.100.24/24 brd 192.168.100.255 scope global eth1\u001b[6;8Hvalid_lft forever preferred_lft forever\u001b[7;5Hinet6 fe80::a00:27ff:fe8a:a52c/64 scope link\u001b[8;8Hvalid_lft forever preferred_lft forever\r\n4: docker0: \u003cNO-CARRIER,BROADCAST,MULTICAST,UP\u003e mtu 1500 qdisc noqueue state DOWN group default\u001b[91D\nlink/ether 02:42:d5:aa:d5:70 brd ff:ff:ff:ff:ff:ff\u001b[50D\ninet 172.17.42.1/16 scope global docker0\u001b[37D\nvalid_lft forever preferred_lft forever\r\n[root@lab-vm-2 ~]# ./docker-latest ps\r\nCONTAINER ID\u001b[8CIMAGE\u001b[15CCOMMAND\u001b[13CCREATED\u001b[13CSTATUS\u001b[14CPORTS\u001b[15CNAMES\r\n29f997fc757f\u001b[8Cdocker.io/ce\u001b[8C\"/bin/bash\"\u001b[9C39 minutes ago\u001b[6CUp 39 minutes\u001b[27Ccontainer_node2\r\n[root@lab-vm-2 ~]# ./docker-latest exec -it container_node2 bash\r\n[root@29f997fc757f /]# ip a\r\n1: lo: \u003cLOOPBACK,UP,LOWER_UP\u003e mtu 65536 qdisc noqueue state UNKNOWN\u001b[63D\nlink/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\u001b[53D\ninet 127.0.0.1/8 scope host lo\u001b[27D\nvalid_lft forever preferred_lft forever\u001b[42D\ninet6 ::1/128 scope host\u001b[21D\nvalid_lft forever preferred_lft forever\r\n6: eth0: \u003cBROADCAST,MULTICAST,UP,LOWER_UP\u003e mtu 1450 qdisc noqueue state UP\u001b[70D\nlink/ether 02:42:ac:15:00:02 brd ff:ff:ff:ff:ff:ff\u001b[50D\ninet 172.21.0.2/16 scope global eth0\u001b[33D\nvalid_lft forever preferred_lft forever\u001b[42D\ninet6 fe80::42:acff:fe15:2/64 scope link\u001b[37D\nvalid_lft forever preferred_lft forever\r\n[root@29f997fc757f /]#\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @29f997fc757f:/\u0007 "
+    ],
+    [
+      0.579398,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @29f997fc757f:/\u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      0.491850,
+      "exit\r\n\u001b]2;screen\u0007\u001b]2;[screen 1: vagrant@lab-vm-2:~] @29f997fc757f:/\u0007[vagrant@lab-vm-2 ~]$ "
+    ],
+    [
+      0.698280,
+      "logout\r\n"
+    ],
+    [
+      0.000733,
+      "Connection to 127.0.0.1 closed.\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: nkhare@dhcp35-118:/work/presetations/linuxconeu] @29f997fc757f:/\u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.650148,
+      "exit\r\n"
+    ],
+    [
+      0.001729,
+      "\u001b[?1l\u001b\u003e\u001b]2;screen\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[30;1H\r\n\u001b[?1049l[screen is terminating]\r\n"
+    ],
+    [
+      0.005085,
+      "\u001b]777;notify;Command completed;screen \u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000054,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.387388,
+      "exit\r\n"
+    ]
+  ]
+}
