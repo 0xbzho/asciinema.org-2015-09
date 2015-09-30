@@ -1,0 +1,1246 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 11.277968,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "cygwin",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.087465,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000012,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m\u001b[1mvardyh\u001b[0m\u001b[00m \u001b[31m~\u001b[00m $ \u001b[K"
+    ],
+    [
+      0.880163,
+      "c"
+    ],
+    [
+      0.095599,
+      "\u0008co"
+    ],
+    [
+      0.065141,
+      "b"
+    ],
+    [
+      0.164665,
+      "r"
+    ],
+    [
+      0.081381,
+      "a"
+    ],
+    [
+      0.109588,
+      "\r"
+    ],
+    [
+      0.000093,
+      "\r\n"
+    ],
+    [
+      0.004773,
+      "Huorong COBRA Command Line Scanner v1.0 for amd64fre (Wed Sep 30 12:26:20 2015).\r\nCopyright (C) 2011-2015 Huorong Security Lab. All rights reserved.\r\n"
+    ],
+    [
+      0.000016,
+      " * Program: \"/usr/local/bin/cobra\"\r\n * Command line: \"cobra\"\r\n"
+    ],
+    [
+      0.000265,
+      "\r\nUsage: cobra [OPTIONS] \u003cfilename\u003e...\r\nOptions:\r\n    -r, --dbroot \u003cpath\u003e    specify signature database root directory\r\n        --license \u003cpath\u003e   specify alternative license file\r\n    -t, --threads \u003cn\u003e      specify maximum number of scan threads (default: 1)\r\n    -L, --log \u003clogfile\u003e    log detected items to \u003clogfile\u003e\r\n"
+    ],
+    [
+      0.000011,
+      "    -k, --cure             cure malicious files automatically\r\n    -d, --unlink           delete malicious files instead of curing them\r\n    -D, --unlink!          delete malicious files w/o writting back to containers\r\n    -R, --log-kill-result  log kill result to log file\r\n    -v, --verbose          enable verbose mode"
+    ],
+    [
+      0.000004,
+      "\r\n    -h, --help             show this message"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000557,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000328,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m\u001b[1mvardyh\u001b[0m\u001b[00m \u001b[31m~\u001b[00m $ "
+    ],
+    [
+      0.000083,
+      "\u001b[K"
+    ],
+    [
+      0.513605,
+      "c"
+    ],
+    [
+      0.059807,
+      "\u0008cd"
+    ],
+    [
+      0.144218,
+      " "
+    ],
+    [
+      0.356974,
+      "~"
+    ],
+    [
+      0.172545,
+      "/"
+    ],
+    [
+      0.256525,
+      "s"
+    ],
+    [
+      0.079814,
+      "a"
+    ],
+    [
+      0.204970,
+      "mples\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.173547,
+      "\u0008\u001b[0m/u"
+    ],
+    [
+      0.047832,
+      "p"
+    ],
+    [
+      0.093552,
+      "\u0008\u0008Upatre\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.838637,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000097,
+      "\r"
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.003932,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000018,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m\u001b[1mvardyh\u001b[0m\u001b[00m \u001b[31m~/samples/Upatre\u001b[00m $ \u001b[K"
+    ],
+    [
+      0.663837,
+      "c"
+    ],
+    [
+      0.083131,
+      "\u0008co"
+    ],
+    [
+      0.054205,
+      "b"
+    ],
+    [
+      0.166592,
+      "r"
+    ],
+    [
+      0.070571,
+      "a"
+    ],
+    [
+      0.304879,
+      " "
+    ],
+    [
+      0.189231,
+      "-"
+    ],
+    [
+      0.108506,
+      "t"
+    ],
+    [
+      0.123930,
+      "-"
+    ],
+    [
+      0.092977,
+      "1"
+    ],
+    [
+      0.145015,
+      " "
+    ],
+    [
+      0.177846,
+      "."
+    ],
+    [
+      0.457349,
+      "\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.003417,
+      "Huorong COBRA Command Line Scanner v1.0 for amd64fre (Wed Sep 30 12:26:20 2015).\r\nCopyright (C) 2011-2015 Huorong Security Lab. All rights reserved.\r\n * Program: \"/usr/local/bin/cobra\"\r\n * Command line: \"cobra -t-1 .\"\r\n * Setting number of scan threads to: 4\r\n * Adding target to scan: \".\"\r\n\r\n\r- Initializing COBRA Engine..."
+    ],
+    [
+      0.050225,
+      "\r\\ Initializing COBRA Engine..."
+    ],
+    [
+      0.051320,
+      "\r| Initializing COBRA Engine..."
+    ],
+    [
+      0.051728,
+      "\r/ Initializing COBRA Engine..."
+    ],
+    [
+      0.052715,
+      "\r- Initializing COBRA Engine..."
+    ],
+    [
+      0.052794,
+      "\r\\ Initializing COBRA Engine..."
+    ],
+    [
+      0.052793,
+      "\r| Initializing COBRA Engine..."
+    ],
+    [
+      0.050695,
+      "\r/ Initializing COBRA Engine..."
+    ],
+    [
+      0.050780,
+      "\r                                                                               \rScan engine version: v1.0.1.0"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "Signature database fingerprint: 7bc46d3:61e285f:61e285f:61e285f"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000163,
+      "Signature database timestamp: Wed Sep 30 12:11:44 2015"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Scan engine load time: 383 ms"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "Scan started at:   Wed Sep 30 12:55:16 2015"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.037120,
+      "\r- [\u001b[44m./\u001b[m0191fc2ac816f0d338d0cea8a6041644576011cc                            ]   4%"
+    ],
+    [
+      0.000047,
+      "\r\\ [\u001b[44m./\u001b[m0c7f28c9620a8017c5b2724762a689a664fb6a34                            ]   4%"
+    ],
+    [
+      0.000831,
+      "\r| [\u001b[44m./\u001b[m04217d0390ea0625ae6cbd5ea3c8eb79ab48c0e5                            ]   4%"
+    ],
+    [
+      0.000044,
+      "\r/ [\u001b[44m./\u001b[m0271f95eab81a0a782ca353c7ad8dd65443d401d                            ]   4%"
+    ],
+    [
+      0.054225,
+      "\r                                                                               \r./0191fc2ac816f0d338d0cea8a6041644576011cc: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.028048,
+      "\r- [\u001b[44m./\u001b[m0271f95eab81a0a782ca353c7ad8dd65443d401d                            ]   4%\r                                                                               \r./04217d0390ea0625ae6cbd5ea3c8eb79ab48c0e5: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.005581,
+      "\r\\ [\u001b[44m./\u001b[m0271f95eab81a0a782ca353c7ad8dd65443d401d                            ]   4%\r| [\u001b[44m./0\u001b[md06aff180a4867bbf307392a7a000213b14d3ca                            ]   5%"
+    ],
+    [
+      0.007875,
+      "\r                                                                               \r./0271f95eab81a0a782ca353c7ad8dd65443d401d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.017939,
+      "\r/ [\u001b[44m./0\u001b[md06aff180a4867bbf307392a7a000213b14d3ca                            ]   5%\r- [\u001b[44m./0d\u001b[m27fe469f7ce5b9a8eff2ec630dac849c8f00bd                            ]   6%"
+    ],
+    [
+      0.003024,
+      "\r\\ [\u001b[44m./0dc\u001b[mcf5f2e5c83acda2c38b20273c2af62e2916b4                            ]   7%"
+    ],
+    [
+      0.003421,
+      "\r                                                                               \r./0c7f28c9620a8017c5b2724762a689a664fb6a34: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.022537,
+      "\r| [\u001b[44m./0dc\u001b[mcf5f2e5c83acda2c38b20273c2af62e2916b4                            ]   7%\r/ [\u001b[44m./0de\u001b[m502298551a0664f8cd97b66beb5f89d15c63c                            ]   8%"
+    ],
+    [
+      0.019665,
+      "\r                                                                               \r./0d06aff180a4867bbf307392a7a000213b14d3ca: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.018496,
+      "\r- [\u001b[44m./0de\u001b[m502298551a0664f8cd97b66beb5f89d15c63c                            ]   8%\r\\ [\u001b[44m./0f9e\u001b[m8c6c7d4ebe556e24771b592123c4259c7560                            ]   9%"
+    ],
+    [
+      0.011470,
+      "\r                                                                               \r./0d27fe469f7ce5b9a8eff2ec630dac849c8f00bd: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.002081,
+      "\r| [\u001b[44m./0f9e\u001b[m8c6c7d4ebe556e24771b592123c4259c7560                            ]   9%\r                                                                               \r./0dccf5f2e5c83acda2c38b20273c2af62e2916b4: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.017010,
+      "\r/ [\u001b[44m./0f9e\u001b[m8c6c7d4ebe556e24771b592123c4259c7560                            ]   9%\r- [\u001b[44m./0fa76\u001b[m78d44c7de6efd3e74dcc4c45ff37caeb7c2                            ]  10%"
+    ],
+    [
+      0.002703,
+      "\r\\ [\u001b[44m./1324d\u001b[m6ef7e9bf84d0d9151555243159b1ccc2a9d                            ]  11%"
+    ],
+    [
+      0.025247,
+      "\r                                                                               \r./0de502298551a0664f8cd97b66beb5f89d15c63c: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.016014,
+      "\r| [\u001b[44m./1324d\u001b[m6ef7e9bf84d0d9151555243159b1ccc2a9d                            ]  11%\r/ [\u001b[44m./139da7\u001b[m84d65038e4fa9dfa873c4828c54a3b8181                            ]  12%"
+    ],
+    [
+      0.004598,
+      "\r                                                                               \r./0f9e8c6c7d4ebe556e24771b592123c4259c7560: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.021815,
+      "\r- [\u001b[44m./139da7\u001b[m84d65038e4fa9dfa873c4828c54a3b8181                            ]  12%\r\\ [\u001b[44m./15b7a69\u001b[mefb615cb33d15648a80ac92b4922e5397                            ]  13%"
+    ],
+    [
+      0.008410,
+      "\r                                                                               \r./1324d6ef7e9bf84d0d9151555243159b1ccc2a9d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.009739,
+      "\r| [\u001b[44m./15b7a69\u001b[mefb615cb33d15648a80ac92b4922e5397                            ]  13%\r/ [\u001b[44m./17030dcc\u001b[mdad4d500b8b756e499db8f3e1a6deb92                            ]  14%"
+    ],
+    [
+      0.005472,
+      "\r                                                                               \r./0fa7678d44c7de6efd3e74dcc4c45ff37caeb7c2: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.008148,
+      "\r- [\u001b[44m./17030dcc\u001b[mdad4d500b8b756e499db8f3e1a6deb92                            ]  14%\r\\ [\u001b[44m./199c1f95\u001b[m3b2984833ab2739f856ea68a30efb0da                            ]  15%"
+    ],
+    [
+      0.027292,
+      "\r                                                                               \r./139da784d65038e4fa9dfa873c4828c54a3b8181: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.000683,
+      "\r| [\u001b[44m./199c1f95\u001b[m3b2984833ab2739f856ea68a30efb0da                            ]  15%\r                                                                               \r./15b7a69efb615cb33d15648a80ac92b4922e5397: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.015536,
+      "\r/ [\u001b[44m./199c1f95\u001b[m3b2984833ab2739f856ea68a30efb0da                            ]  15%\r- [\u001b[44m./1cfe7163f\u001b[m61dd774e41902a562e8f32642d9d71c                            ]  16%"
+    ],
+    [
+      0.001599,
+      "\r\\ [\u001b[44m./1e2b7e4784\u001b[mc0559fe7527b01c2e9109707bbfdbe                            ]  17%"
+    ],
+    [
+      0.042918,
+      "\r                                                                               \r./199c1f953b2984833ab2739f856ea68a30efb0da: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.015774,
+      "\r| [\u001b[44m./1e2b7e4784\u001b[mc0559fe7527b01c2e9109707bbfdbe                            ]  17%\r/ [\u001b[44m./1fc16f128e\u001b[m47d5fdacbdc7d56506e5a98dfedd5f                            ]  18%"
+    ],
+    [
+      0.005736,
+      "\r                                                                               \r./17030dccdad4d500b8b756e499db8f3e1a6deb92: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.003011,
+      "\r\n"
+    ],
+    [
+      0.009931,
+      "\r- [\u001b[44m./1fc16f128e\u001b[m47d5fdacbdc7d56506e5a98dfedd5f                            ]  18%\r                                                                               \r./1e2b7e4784c0559fe7527b01c2e9109707bbfdbe: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.007307,
+      "\r\\ [\u001b[44m./1fc16f128e\u001b[m47d5fdacbdc7d56506e5a98dfedd5f                            ]  18%\r| [\u001b[44m./205f314f603\u001b[mfb286b49a163cd18172bd6242f973                            ]  19%"
+    ],
+    [
+      0.019637,
+      "\r/ [\u001b[44m./240b31ab064d\u001b[ma69db29530499ff293f8721fe273                            ]  20%"
+    ],
+    [
+      0.000223,
+      "\r                                                                               \r./1cfe7163f61dd774e41902a562e8f32642d9d71c: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019283,
+      "\r- [\u001b[44m./240b31ab064d\u001b[ma69db29530499ff293f8721fe273                            ]  20%\r\\ [\u001b[44m./2483413aefbe0\u001b[me6219d500105ef6803b5853541f                            ]  21%"
+    ],
+    [
+      0.022965,
+      "\r                                                                               \r./205f314f603fb286b49a163cd18172bd6242f973: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.000019,
+      "\r| [\u001b[44m./2483413aefbe0\u001b[me6219d500105ef6803b5853541f                            ]  21%\r                                                                               \r./240b31ab064da69db29530499ff293f8721fe273: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.013837,
+      "\r/ [\u001b[44m./2483413aefbe0\u001b[me6219d500105ef6803b5853541f                            ]  21%\r- [\u001b[44m./292f2cbfc6d1e\u001b[mecee49abb924f4bca1bac02713c                            ]  22%"
+    ],
+    [
+      0.008715,
+      "\r                                                                               \r./1fc16f128e47d5fdacbdc7d56506e5a98dfedd5f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000258,
+      "\r\n"
+    ],
+    [
+      0.001614,
+      "\r\\ [\u001b[44m./292f2cbfc6d1ee\u001b[mcee49abb924f4bca1bac02713c                            ]  23%\r| [\u001b[44m./2ce87eefefaa33\u001b[mec6a16271bfd0ec69317d88598                            ]  23%"
+    ],
+    [
+      0.021220,
+      "\r/ [\u001b[44m./2f0b8249e35b752\u001b[m77b8bc8991e663bf2a9ae4fa0                            ]  24%"
+    ],
+    [
+      0.004655,
+      "\r                                                                               \r./2483413aefbe0e6219d500105ef6803b5853541f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019451,
+      "\r- [\u001b[44m./2f0b8249e35b752\u001b[m77b8bc8991e663bf2a9ae4fa0                            ]  24%\r\\ [\u001b[44m./302431adb98a1ac\u001b[m566dfa2234cf895b4e023f0bb                            ]  25%"
+    ],
+    [
+      0.023326,
+      "\r                                                                               \r./292f2cbfc6d1eecee49abb924f4bca1bac02713c: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.014694,
+      "\r| [\u001b[44m./302431adb98a1ac\u001b[m566dfa2234cf895b4e023f0bb                            ]  25%\r                                                                               \r./2f0b8249e35b75277b8bc8991e663bf2a9ae4fa0: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.005076,
+      "\r/ [\u001b[44m./302431adb98a1ac\u001b[m566dfa2234cf895b4e023f0bb                            ]  25%\r- [\u001b[44m./35ddda37f02d0bbc\u001b[m3910914406b4c3a88d9c1de8                            ]  26%"
+    ],
+    [
+      0.005178,
+      "\r                                                                               \r./2ce87eefefaa33ec6a16271bfd0ec69317d88598: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.018672,
+      "\r\\ [\u001b[44m./35ddda37f02d0bbc\u001b[m3910914406b4c3a88d9c1de8                            ]  26%\r| [\u001b[44m./35f4057fe5bbda0c9\u001b[me0fc2f86f6e5004f96e86dd                            ]  27%"
+    ],
+    [
+      0.007117,
+      "\r/ [\u001b[44m./37eab3a8f8dea54da\u001b[mcb033f7868ea028e19b574f                            ]  28%"
+    ],
+    [
+      0.009253,
+      "\r                                                                               \r./302431adb98a1ac566dfa2234cf895b4e023f0bb: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.017854,
+      "\r- [\u001b[44m./37eab3a8f8dea54da\u001b[mcb033f7868ea028e19b574f                            ]  28%\r\\ [\u001b[44m./395c9ba596337bc30c\u001b[m9fe5bf1e41fff8c8247040                            ]  29%"
+    ],
+    [
+      0.008355,
+      "\r                                                                               \r./35ddda37f02d0bbc3910914406b4c3a88d9c1de8: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.018219,
+      "\r| [\u001b[44m./395c9ba596337bc30c\u001b[m9fe5bf1e41fff8c8247040                            ]  29%\r/ [\u001b[44m./3a7a4d3c217bf44b931\u001b[m629dea13e0664ffdbf681                            ]  30%"
+    ],
+    [
+      0.017029,
+      "\r                                                                               \r./35f4057fe5bbda0c9e0fc2f86f6e5004f96e86dd: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019972,
+      "\r- [\u001b[44m./3a7a4d3c217bf44b931\u001b[m629dea13e0664ffdbf681                            ]  30%\r\\ [\u001b[44m./3a7c8b8b56cb8778d6f1\u001b[m6a26410370086e38fe71                            ]  31%"
+    ],
+    [
+      0.003281,
+      "\r                                                                               \r./37eab3a8f8dea54dacb033f7868ea028e19b574f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.021295,
+      "\r| [\u001b[44m./3a7c8b8b56cb8778d6f1\u001b[m6a26410370086e38fe71                            ]  31%\r/ [\u001b[44m./3b6b8d2ccddbaf92a717\u001b[mb228169c833231df13a9                            ]  32%"
+    ],
+    [
+      0.000452,
+      "\r                                                                               \r./395c9ba596337bc30c9fe5bf1e41fff8c8247040: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.016062,
+      "\r- [\u001b[44m./3b6b8d2ccddbaf92a717\u001b[mb228169c833231df13a9                            ]  32%\r\\ [\u001b[44m./43c59b202589f1b25bcb0\u001b[mdfb290368bf97156016                            ]  33%"
+    ],
+    [
+      0.010851,
+      "\r                                                                               \r./3a7a4d3c217bf44b931629dea13e0664ffdbf681: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019077,
+      "\r| [\u001b[44m./43c59b202589f1b25bcb0\u001b[mdfb290368bf97156016                            ]  33%\r/ [\u001b[44m./475f4c4e73e9ca4d608a60\u001b[mbf9cf98d446085c005                            ]  34%"
+    ],
+    [
+      0.005235,
+      "\r                                                                               \r./3a7c8b8b56cb8778d6f16a26410370086e38fe71: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.023588,
+      "\r- [\u001b[44m./475f4c4e73e9ca4d608a60\u001b[mbf9cf98d446085c005                            ]  34%\r\\ [\u001b[44m./4d8cc4663c05540428d6d4\u001b[m2b4ad3812929809979                            ]  35%"
+    ],
+    [
+      0.009246,
+      "\r                                                                               \r./3b6b8d2ccddbaf92a717b228169c833231df13a9: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.025906,
+      "\r| [\u001b[44m./4d8cc4663c05540428d6d4\u001b[m2b4ad3812929809979                            ]  35%\r                                                                               \r./43c59b202589f1b25bcb0dfb290368bf97156016: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.000844,
+      "\r/ [\u001b[44m./4d8cc4663c05540428d6d42\u001b[mb4ad3812929809979                            ]  36%\r- [\u001b[44m./4f268f4b2eb8600ec8a1ce0\u001b[m226f85fa3c424890f                            ]  36%"
+    ],
+    [
+      0.026297,
+      "\r\\ [\u001b[44m./517da7eea538b97aa13a085d\u001b[m3c3b6fbed5867612                            ]  37%"
+    ],
+    [
+      0.001813,
+      "\r                                                                               \r./475f4c4e73e9ca4d608a60bf9cf98d446085c005: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.026480,
+      "\r| [\u001b[44m./517da7eea538b97aa13a085d\u001b[m3c3b6fbed5867612                            ]  37%\r/ [\u001b[44m./51d17236fbf0236ccd2571e25\u001b[m2a9f173f37702a4                            ]  38%"
+    ],
+    [
+      0.006576,
+      "\r                                                                               \r./4d8cc4663c05540428d6d42b4ad3812929809979: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.025328,
+      "\r- [\u001b[44m./51d17236fbf0236ccd2571e25\u001b[m2a9f173f37702a4                            ]  38%\r\\ [\u001b[44m./525aa8e36b3caaa619bec5d08\u001b[mb45e5e1d371f22a                            ]  39%"
+    ],
+    [
+      0.008588,
+      "\r                                                                               \r./517da7eea538b97aa13a085d3c3b6fbed5867612: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.001903,
+      "\r| [\u001b[44m./525aa8e36b3caaa619bec5d08\u001b[mb45e5e1d371f22a                            ]  39%\r                                                                               \r./4f268f4b2eb8600ec8a1ce0226f85fa3c424890f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.016341,
+      "\r/ [\u001b[44m./525aa8e36b3caaa619bec5d08\u001b[mb45e5e1d371f22a                            ]  39%\r- [\u001b[44m./56dfd52948ab940e4af534cef3\u001b[m490603dea21039                            ]  40%"
+    ],
+    [
+      0.009919,
+      "\r\\ [\u001b[44m./5ab9423abfe0c70b14001d028bd\u001b[mf073608bb2704                            ]  41%"
+    ],
+    [
+      0.006891,
+      "\r                                                                               \r./51d17236fbf0236ccd2571e252a9f173f37702a4: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.020095,
+      "\r| [\u001b[44m./5ab9423abfe0c70b14001d028bd\u001b[mf073608bb2704                            ]  41%\r/ [\u001b[44m./5c2b190db144af77babf03bb3d9c\u001b[m695d505883d6                            ]  42%"
+    ],
+    [
+      0.013439,
+      "\r                                                                               \r./525aa8e36b3caaa619bec5d08b45e5e1d371f22a: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019758,
+      "\r- [\u001b[44m./5c2b190db144af77babf03bb3d9c\u001b[m695d505883d6                            ]  42%\r\\ [\u001b[44m./618cfd4aaa14c812c4103328e589\u001b[m7f04ba20b307                            ]  43%"
+    ],
+    [
+      0.007584,
+      "\r                                                                               \r./5ab9423abfe0c70b14001d028bdf073608bb2704: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.002402,
+      "\r| [\u001b[44m./618cfd4aaa14c812c4103328e589\u001b[m7f04ba20b307                            ]  43%\r                                                                               \r./56dfd52948ab940e4af534cef3490603dea21039: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.016985,
+      "\r/ [\u001b[44m./618cfd4aaa14c812c4103328e589\u001b[m7f04ba20b307                            ]  43%\r- [\u001b[44m./61f83eb983ac35268cc29eb2f79ca\u001b[meb6962532d9                            ]  44%"
+    ],
+    [
+      0.006811,
+      "\r\\ [\u001b[44m./63e9d72ca865e5a1fd3f2acfa81596\u001b[mf0f2c40533                            ]  45%"
+    ],
+    [
+      0.017909,
+      "\r                                                                               \r./5c2b190db144af77babf03bb3d9c695d505883d6: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.017887,
+      "\r| [\u001b[44m./63e9d72ca865e5a1fd3f2acfa81596\u001b[mf0f2c40533                            ]  45%\r/ [\u001b[44m./65cac0f60137dcfc9cd217f35b4b7f\u001b[m88005fb6b9                            ]  46%"
+    ],
+    [
+      0.008449,
+      "\r                                                                               \r./618cfd4aaa14c812c4103328e5897f04ba20b307: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.024535,
+      "\r- [\u001b[44m./65cac0f60137dcfc9cd217f35b4b7f\u001b[m88005fb6b9                            ]  46%\r\\ [\u001b[44m./6674f3f91f5d3bdd235998b4330c4e8\u001b[m97abab651                            ]  47%"
+    ],
+    [
+      0.008019,
+      "\r                                                                               \r./61f83eb983ac35268cc29eb2f79caeb6962532d9: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.019057,
+      "\r| [\u001b[44m./6674f3f91f5d3bdd235998b4330c4e8\u001b[m97abab651                            ]  47%\r/ [\u001b[44m./66cea75ef3f2c8e763aea4aa786e6aba\u001b[me6795b5e                            ]  48%"
+    ],
+    [
+      0.003912,
+      "\r                                                                               \r./63e9d72ca865e5a1fd3f2acfa81596f0f2c40533: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.011408,
+      "\r- [\u001b[44m./66cea75ef3f2c8e763aea4aa786e6aba\u001b[me6795b5e                            ]  48%\r                                                                               \r./65cac0f60137dcfc9cd217f35b4b7f88005fb6b9: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.011715,
+      "\r\\ [\u001b[44m./66cea75ef3f2c8e763aea4aa786e6aba\u001b[me6795b5e                            ]  48%\r| [\u001b[44m./66f76bd343c1cfab1696b9d5e6f04747d\u001b[m8bd274f                            ]  50%"
+    ],
+    [
+      0.010689,
+      "\r/ [\u001b[44m./6b1661ad521016eac47f5fe0d534e1499\u001b[mdedbf44                            ]  51%"
+    ],
+    [
+      0.013956,
+      "\r                                                                               \r./6674f3f91f5d3bdd235998b4330c4e897abab651: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.014640,
+      "\r- [\u001b[44m./6b1661ad521016eac47f5fe0d534e1499\u001b[mdedbf44                            ]  51%\r\\ [\u001b[44m./6e5bc3774579a0b5d3aa68ca00ede469e3\u001b[mfd5b2d                            ]  52%"
+    ],
+    [
+      0.004132,
+      "\r                                                                               \r./66cea75ef3f2c8e763aea4aa786e6abae6795b5e: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.016384,
+      "\r| [\u001b[44m./6e5bc3774579a0b5d3aa68ca00ede469e3\u001b[mfd5b2d                            ]  52%\r/ [\u001b[44m./6f833a7398dbe21ab20132bc0e2cf0cda5f\u001b[m39d8a                            ]  53%"
+    ],
+    [
+      0.012458,
+      "\r                                                                               \r./66f76bd343c1cfab1696b9d5e6f04747d8bd274f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.022189,
+      "\r- [\u001b[44m./6f833a7398dbe21ab20132bc0e2cf0cda5f\u001b[m39d8a                            ]  53%\r\\ [\u001b[44m./73dcdfee54cbe09f8d14a94b40ddb8dc848\u001b[mc4791                            ]  54%"
+    ],
+    [
+      0.003352,
+      "\r                                                                               \r./6b1661ad521016eac47f5fe0d534e1499dedbf44: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.023054,
+      "\r| [\u001b[44m./73dcdfee54cbe09f8d14a94b40ddb8dc848\u001b[mc4791                            ]  54%\r/ [\u001b[44m./77f53f0a0860b2b894c963bb0e678b80d273\u001b[mac97                            ]  55%"
+    ],
+    [
+      0.002641,
+      "\r                                                                               \r./6e5bc3774579a0b5d3aa68ca00ede469e3fd5b2d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.022934,
+      "\r- [\u001b[44m./77f53f0a0860b2b894c963bb0e678b80d273\u001b[mac97                            ]  55%\r\\ [\u001b[44m./79d0cedd8d1fd7a4f3319c56a5543e2c13693\u001b[me77                            ]  56%"
+    ],
+    [
+      0.009842,
+      "\r                                                                               \r./6f833a7398dbe21ab20132bc0e2cf0cda5f39d8a: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.021087,
+      "\r| [\u001b[44m./79d0cedd8d1fd7a4f3319c56a5543e2c13693\u001b[me77                            ]  56%\r                                                                               \r./73dcdfee54cbe09f8d14a94b40ddb8dc848c4791: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000329,
+      "\r/ [\u001b[44m./79d0cedd8d1fd7a4f3319c56a5543e2c13693e\u001b[m77                            ]  57%\r- [\u001b[44m./7e565c371d2a145f60295db5d631466f3126bb\u001b[m37                            ]  57%"
+    ],
+    [
+      0.023561,
+      "\r\\ [\u001b[44m./7e7ef147f3a1b6ed7b08920ac613f4885bf1cf\u001b[m52                            ]  58%"
+    ],
+    [
+      0.004414,
+      "\r                                                                               \r./77f53f0a0860b2b894c963bb0e678b80d273ac97: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.026905,
+      "\r| [\u001b[44m./7e7ef147f3a1b6ed7b08920ac613f4885bf1cf\u001b[m52                            ]  58%\r/ [\u001b[44m./810be983c284b4d078679e1941d14cf31d0a522\u001b[m4                            ]  59%"
+    ],
+    [
+      0.007542,
+      "\r                                                                               \r./79d0cedd8d1fd7a4f3319c56a5543e2c13693e77: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.013792,
+      "\r- [\u001b[44m./810be983c284b4d078679e1941d14cf31d0a522\u001b[m4                            ]  59%\r                                                                               \r./7e565c371d2a145f60295db5d631466f3126bb37: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.008062,
+      "\r\\ [\u001b[44m./810be983c284b4d078679e1941d14cf31d0a522\u001b[m4                            ]  59%\r| [\u001b[44m./82c67dd7a41ea8f50af64305ea15d9acf4bd137a\u001b[m                            ]  60%"
+    ],
+    [
+      0.014514,
+      "\r/ [\u001b[44m./89be519c0b3c5ec103b2f74283981f0bf981f2ad\u001b[m                            ]  61%"
+    ],
+    [
+      0.006407,
+      "\r                                                                               \r./7e7ef147f3a1b6ed7b08920ac613f4885bf1cf52: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.022678,
+      "\r- [\u001b[44m./89be519c0b3c5ec103b2f74283981f0bf981f2ad\u001b[m                            ]  61%\r\\ [\u001b[44m./8b7fc23c397f67f515ef66f8f808a3c3609040d7 \u001b[m                           ]  62%"
+    ],
+    [
+      0.010532,
+      "\r                                                                               \r./810be983c284b4d078679e1941d14cf31d0a5224: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.022827,
+      "\r| [\u001b[44m./8b7fc23c397f67f515ef66f8f808a3c3609040d7 \u001b[m                           ]  62%\r/ [\u001b[44m./8fd022e8b340bfd939a14c0945dbef62a3835860  \u001b[m                          ]  63%"
+    ],
+    [
+      0.006862,
+      "\r                                                                               \r./82c67dd7a41ea8f50af64305ea15d9acf4bd137a: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.001498,
+      "\r\n"
+    ],
+    [
+      0.012082,
+      "\r- [\u001b[44m./8fd022e8b340bfd939a14c0945dbef62a3835860  \u001b[m                          ]  63%\r\\ [\u001b[44m./968a373e851727848b7e0c747c44993f6dccd5ff   \u001b[m                         ]  64%"
+    ],
+    [
+      0.002794,
+      "\r                                                                               \r./89be519c0b3c5ec103b2f74283981f0bf981f2ad: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.040958,
+      "\r| [\u001b[44m./968a373e851727848b7e0c747c44993f6dccd5ff   \u001b[m                         ]  64%\r/ [\u001b[44m./97764d774a3bb49a00d17815decd2695837de9cd   \u001b[m                         ]  65%"
+    ],
+    [
+      0.008006,
+      "\r                                                                               \r./8b7fc23c397f67f515ef66f8f808a3c3609040d7: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.026548,
+      "\r- [\u001b[44m./97764d774a3bb49a00d17815decd2695837de9cd   \u001b[m                         ]  65%\r\\ [\u001b[44m./982d7f1e4c585d3120577b0adf3ba8f35446aa78    \u001b[m                        ]  66%"
+    ],
+    [
+      0.016601,
+      "\r                                                                               \r./8fd022e8b340bfd939a14c0945dbef62a3835860: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.009058,
+      "\r| [\u001b[44m./982d7f1e4c585d3120577b0adf3ba8f35446aa78    \u001b[m                        ]  66%\r                                                                               \r./968a373e851727848b7e0c747c44993f6dccd5ff: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.005172,
+      "\r/ [\u001b[44m./982d7f1e4c585d3120577b0adf3ba8f35446aa78    \u001b[m                        ]  66%\r- [\u001b[44m./a3c20b864669b19407d56e240281d88ca10c1c7f     \u001b[m                       ]  67%"
+    ],
+    [
+      0.007722,
+      "\r\\ [\u001b[44m./a5883d6050d7577ed23e6a71d81aa3d4d94bd533     \u001b[m                       ]  68%"
+    ],
+    [
+      0.022419,
+      "\r                                                                               \r./97764d774a3bb49a00d17815decd2695837de9cd: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.007552,
+      "\r| [\u001b[44m./a5883d6050d7577ed23e6a71d81aa3d4d94bd533     \u001b[m                       ]  68%\r/ [\u001b[44m./ac544b46c7fc2e7bf9590ced9a7bbd26beefb314      \u001b[m                      ]  69%"
+    ],
+    [
+      0.025210,
+      "\r                                                                               \r./a3c20b864669b19407d56e240281d88ca10c1c7f: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.005481,
+      "\r- [\u001b[44m./ac544b46c7fc2e7bf9590ced9a7bbd26beefb314      \u001b[m                      ]  69%\r                                                                               \r./982d7f1e4c585d3120577b0adf3ba8f35446aa78: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.003528,
+      "\r\\ [\u001b[44m./ac544b46c7fc2e7bf9590ced9a7bbd26beefb314      \u001b[m                      ]  69%\r| [\u001b[44m./ad0c190f7403e31470b0a30e816bbefda97cb402       \u001b[m                     ]  70%"
+    ],
+    [
+      0.014248,
+      "\r                                                                               \r./a5883d6050d7577ed23e6a71d81aa3d4d94bd533: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.006714,
+      "\r/ [\u001b[44m./ad0c190f7403e31470b0a30e816bbefda97cb402       \u001b[m                     ]  70%\r- [\u001b[44m./aea8520f7a1bf658f3e9025158eaabe23a16941c        \u001b[m                    ]  71%"
+    ],
+    [
+      0.008830,
+      "\r\\ [\u001b[44m./b011944f783ecc6090614ab80ad4f3b719eb34a6        \u001b[m                    ]  72%"
+    ],
+    [
+      0.043422,
+      "\r                                                                               \r./ac544b46c7fc2e7bf9590ced9a7bbd26beefb314: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.004454,
+      "\r| [\u001b[44m./b011944f783ecc6090614ab80ad4f3b719eb34a6        \u001b[m                    ]  72%\r/ [\u001b[44m./b2c915b6e36660ec46aceb115bc2486959f0ad01         \u001b[m                   ]  73%"
+    ],
+    [
+      0.037187,
+      "\r                                                                               \r./ad0c190f7403e31470b0a30e816bbefda97cb402: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.004352,
+      "\r- [\u001b[44m./b2c915b6e36660ec46aceb115bc2486959f0ad01         \u001b[m                   ]  73%\r\\ [\u001b[44m./b8c0d137b9de6b4edfef33b43654d131b3814e4d          \u001b[m                  ]  74%"
+    ],
+    [
+      0.008661,
+      "\r                                                                               \r./b011944f783ecc6090614ab80ad4f3b719eb34a6: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.008536,
+      "\r| [\u001b[44m./b8c0d137b9de6b4edfef33b43654d131b3814e4d          \u001b[m                  ]  74%\r/ [\u001b[44m./bf11275d68f4693ac6f8f41ddacb55127af88960          \u001b[m                  ]  75%"
+    ],
+    [
+      0.003314,
+      "\r                                                                               \r./aea8520f7a1bf658f3e9025158eaabe23a16941c: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.014114,
+      "\r- [\u001b[44m./bf11275d68f4693ac6f8f41ddacb55127af88960          \u001b[m                  ]  75%\r\\ [\u001b[44m./bfa4da95adc03f207ecbc51465186dbf197fadd6           \u001b[m                 ]  76%"
+    ],
+    [
+      0.028055,
+      "\r                                                                               \r./b2c915b6e36660ec46aceb115bc2486959f0ad01: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.005148,
+      "\r| [\u001b[44m./bfa4da95adc03f207ecbc51465186dbf197fadd6           \u001b[m                 ]  76%\r/ [\u001b[44m./c64f7ca75b75b556eaf19ce1f1772b0145400ae6            \u001b[m                ]  77%"
+    ],
+    [
+      0.020977,
+      "\r                                                                               \r./b8c0d137b9de6b4edfef33b43654d131b3814e4d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.004752,
+      "\r- [\u001b[44m./c64f7ca75b75b556eaf19ce1f1772b0145400ae6            \u001b[m                ]  77%\r\\ [\u001b[44m./c656b9a2ab02ef72b781888c9387936d78fa4983             \u001b[m               ]  78%"
+    ],
+    [
+      0.014882,
+      "\r                                                                               \r./bfa4da95adc03f207ecbc51465186dbf197fadd6: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.014341,
+      "\r| [\u001b[44m./c656b9a2ab02ef72b781888c9387936d78fa4983             \u001b[m               ]  78%\r                                                                               \r./bf11275d68f4693ac6f8f41ddacb55127af88960: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.003449,
+      "\r/ [\u001b[44m./c656b9a2ab02ef72b781888c9387936d78fa4983             \u001b[m               ]  78%\r- [\u001b[44m./ca3aaa7fb414cbc56549950a7bcb38b0cfd1a7c8             \u001b[m               ]  79%"
+    ],
+    [
+      0.012793,
+      "\r\\ [\u001b[44m./cb0c60c0d0fae11f9df73d71e3d6aae932b75ebe              \u001b[m              ]  80%"
+    ],
+    [
+      0.017739,
+      "\r                                                                               \r./c64f7ca75b75b556eaf19ce1f1772b0145400ae6: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.011589,
+      "\r| [\u001b[44m./cb0c60c0d0fae11f9df73d71e3d6aae932b75ebe              \u001b[m              ]  80%\r/ [\u001b[44m./ccff7d106be4899db2cabd31f6af8d9b33d9c875               \u001b[m             ]  81%"
+    ],
+    [
+      0.022778,
+      "\r                                                                               \r./ca3aaa7fb414cbc56549950a7bcb38b0cfd1a7c8: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.005450,
+      "\r- [\u001b[44m./ccff7d106be4899db2cabd31f6af8d9b33d9c875               \u001b[m             ]  81%\r                                                                               \r./cb0c60c0d0fae11f9df73d71e3d6aae932b75ebe: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.002851,
+      "\r\\ [\u001b[44m./ccff7d106be4899db2cabd31f6af8d9b33d9c875               \u001b[m             ]  81%\r                                                                               \r./c656b9a2ab02ef72b781888c9387936d78fa4983: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.010873,
+      "\r| [\u001b[44m./ccff7d106be4899db2cabd31f6af8d9b33d9c875               \u001b[m             ]  81%\r/ [\u001b[44m./d0b179e28a037750715c95457c37e36170ef015d               \u001b[m             ]  82%"
+    ],
+    [
+      0.003141,
+      "\r- [\u001b[44m./d13e574bcda3c97e5f47e09bb71b65f6535e8d76                \u001b[m            ]  83%"
+    ],
+    [
+      0.002408,
+      "\r\\ [\u001b[44m./dc4209104660c740b146fd6468b8cb9e070ce6da                 \u001b[m           ]  84%"
+    ],
+    [
+      0.040586,
+      "\r                                                                               \r./ccff7d106be4899db2cabd31f6af8d9b33d9c875: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.004320,
+      "\r| [\u001b[44m./dc4209104660c740b146fd6468b8cb9e070ce6da                 \u001b[m           ]  84%\r/ [\u001b[44m./deb49ac97172d55a8b311ee83af086732fefb410                 \u001b[m           ]  85%"
+    ],
+    [
+      0.013555,
+      "\r                                                                               \r./d13e574bcda3c97e5f47e09bb71b65f6535e8d76: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.016782,
+      "\r- [\u001b[44m./deb49ac97172d55a8b311ee83af086732fefb410                 \u001b[m           ]  85%\r\\ [\u001b[44m./e09e564b26ec96d98f139c7a8143995da70001db                  \u001b[m          ]  86%"
+    ],
+    [
+      0.003780,
+      "\r                                                                               \r./d0b179e28a037750715c95457c37e36170ef015d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.021142,
+      "\r| [\u001b[44m./e09e564b26ec96d98f139c7a8143995da70001db                  \u001b[m          ]  86%\r/ [\u001b[44m./e460baed23103637f00666de80f9133f3bb9449b                   \u001b[m         ]  87%"
+    ],
+    [
+      0.001147,
+      "\r                                                                               \r./dc4209104660c740b146fd6468b8cb9e070ce6da: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.025964,
+      "\r- [\u001b[44m./e460baed23103637f00666de80f9133f3bb9449b                   \u001b[m         ]  87%\r\\ [\u001b[44m./ea1b8867f8d51f3cef363f1a2d213e8a49f8dc4e                    \u001b[m        ]  88%"
+    ],
+    [
+      0.031943,
+      "\r                                                                               \r./deb49ac97172d55a8b311ee83af086732fefb410: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.007295,
+      "\r| [\u001b[44m./ea1b8867f8d51f3cef363f1a2d213e8a49f8dc4e                    \u001b[m        ]  88%\r/ [\u001b[44m./ee74d7dc5619ca78d87d1658830e89d4fa2b1f24                    \u001b[m        ]  89%"
+    ],
+    [
+      0.005398,
+      "\r                                                                               \r./e09e564b26ec96d98f139c7a8143995da70001db: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.000011,
+      "\r- [\u001b[44m./ee74d7dc5619ca78d87d1658830e89d4fa2b1f24                    \u001b[m        ]  89%\r                                                                               \r./e460baed23103637f00666de80f9133f3bb9449b: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000553,
+      "\r\n"
+    ],
+    [
+      0.007779,
+      "\r\\ [\u001b[44m./ee74d7dc5619ca78d87d1658830e89d4fa2b1f24                    \u001b[m        ]  89%\r| [\u001b[44m./eeb03efc3c2d4050d796fc2f1503a9ed37ee0b90                     \u001b[m       ]  90%"
+    ],
+    [
+      0.011504,
+      "\r/ [\u001b[44m./ef0b044de51c9270df3a311b9409934d0e1b62e8                      \u001b[m      ]  91%"
+    ],
+    [
+      0.025337,
+      "\r                                                                               \r./ea1b8867f8d51f3cef363f1a2d213e8a49f8dc4e: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.004715,
+      "\r- [\u001b[44m./ef0b044de51c9270df3a311b9409934d0e1b62e8                      \u001b[m      ]  91%\r\\ [\u001b[44m./ef4e9225aa73b92adb215f9014084e47c4781e6d                      \u001b[m      ]  92%"
+    ],
+    [
+      0.021656,
+      "\r                                                                               \r./ee74d7dc5619ca78d87d1658830e89d4fa2b1f24: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.017259,
+      "\r| [\u001b[44m./ef4e9225aa73b92adb215f9014084e47c4781e6d                      \u001b[m      ]  92%\r/ [\u001b[44m./f2192d76d699db4ed58b8ce98ac5328cf71eb463                       \u001b[m     ]  93%"
+    ],
+    [
+      0.021010,
+      "\r                                                                               \r./eeb03efc3c2d4050d796fc2f1503a9ed37ee0b90: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.005204,
+      "\r- [\u001b[44m./f2192d76d699db4ed58b8ce98ac5328cf71eb463                       \u001b[m     ]  93%\r\\ [\u001b[44m./f52e823b8c1ac7bfc6857756ecb6c859080da225                        \u001b[m    ]  94%"
+    ],
+    [
+      0.008301,
+      "\r                                                                               \r./ef0b044de51c9270df3a311b9409934d0e1b62e8: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.012538,
+      "\r| [\u001b[44m./f52e823b8c1ac7bfc6857756ecb6c859080da225                        \u001b[m    ]  94%\r/ [\u001b[44m./f5e92733dcdd40c0d7004e0d230b85eee3e64139                         \u001b[m   ]  95%"
+    ],
+    [
+      0.030324,
+      "\r                                                                               \r./f2192d76d699db4ed58b8ce98ac5328cf71eb463: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.004596,
+      "\r- [\u001b[44m./f5e92733dcdd40c0d7004e0d230b85eee3e64139                         \u001b[m   ]  95%\r\\ [\u001b[44m./fa9e054a94c278b32c2ba01e2769310bc0748a13                         \u001b[m   ]  96%"
+    ],
+    [
+      0.008464,
+      "\r                                                                               \r./ef4e9225aa73b92adb215f9014084e47c4781e6d: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.010537,
+      "\r| [\u001b[44m./fa9e054a94c278b32c2ba01e2769310bc0748a13                         \u001b[m   ]  96%\r/ [\u001b[44m./fd2c325e8f23dfc974a7a2bc5a1b2d0373c64607                          \u001b[m  ]  97%"
+    ],
+    [
+      0.020739,
+      "\r                                                                               \r./f52e823b8c1ac7bfc6857756ecb6c859080da225: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.005253,
+      "\r- [\u001b[44m./fd2c325e8f23dfc974a7a2bc5a1b2d0373c64607                          \u001b[m  ]  97%\r\\ [\u001b[44m./fd7446ca5124600ffc27f00943194847fce14084                           \u001b[m ]  98%"
+    ],
+    [
+      0.015804,
+      "\r                                                                               \r./f5e92733dcdd40c0d7004e0d230b85eee3e64139: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.015323,
+      "\r| [\u001b[44m./fd7446ca5124600ffc27f00943194847fce14084                           \u001b[m ]  98%\r/ [\u001b[44m./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe                           \u001b[m ]  99%"
+    ],
+    [
+      0.029834,
+      "\r                                                                               \r./fd2c325e8f23dfc974a7a2bc5a1b2d0373c64607: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.009053,
+      "\r- [\u001b[44m./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe                           \u001b[m ]  99%\r                                                                               \r./fd7446ca5124600ffc27f00943194847fce14084: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.004872,
+      "\r\\ [\u001b[44m./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe                           \u001b[m ]  99%\r                                                                               \r./fa9e054a94c278b32c2ba01e2769310bc0748a13: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.019581,
+      "\r| [\u001b[44m./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe                           \u001b[m ]  99%\r                                                                               \r./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe: \u001b[1;31mHVM:TrojanDownloader/Upatre.gen\u001b[m\u001b[1;31m [636160086CC78BE7]\u001b[m\r\n"
+    ],
+    [
+      0.002575,
+      "\r/ [\u001b[44m./ff84a01ecbfc3a6a8371a1bd5b22528792c132fe                           \u001b[m ]  99%\r                                                                                \r\nScan completed at: Wed Sep 30 12:55:19 2015\r\n\r\n"
+    ],
+    [
+      0.000058,
+      "Total:             98 file(s), 98 object(s)\r\nInfected:          98 file(s), 98 object(s)"
+    ],
+    [
+      0.000018,
+      "\r\nDeleted:           0 file(s), 0 failure(s)\r\nDisinfected:       0 file(s), 0 failure(s)\r\nDuration:          00:00:02.616 (2,616 ms)"
+    ],
+    [
+      0.000075,
+      "\r\nRatio:             37 objs/s (1,159 KB/s, 1,159 phys.KB/s)"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.015844,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                      \r \r"
+    ],
+    [
+      0.000167,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m\u001b[1mvardyh\u001b[0m\u001b[00m \u001b[31m~/samples/Upatre\u001b[00m $ "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      1.147539,
+      "\r"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ]
+  ]
+}
