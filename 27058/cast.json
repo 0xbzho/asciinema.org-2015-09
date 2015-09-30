@@ -1,0 +1,1486 @@
+{
+  "version": 1,
+  "width": 146,
+  "height": 30,
+  "duration": 142.904792,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.067695,
+      "\u001b]777;notify;Command completed;screen \u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007"
+    ],
+    [
+      0.000158,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.284224,
+      "s"
+    ],
+    [
+      0.320014,
+      "c"
+    ],
+    [
+      0.208035,
+      "r"
+    ],
+    [
+      0.191968,
+      "e"
+    ],
+    [
+      0.186445,
+      "en "
+    ],
+    [
+      0.429785,
+      "\r\n"
+    ],
+    [
+      0.002535,
+      "\u001b[!p\u001b[?3;4l\u001b[4l\u001b\u003e\u001b[?1049h\u001b[4l\u001b[?1h\u001b=\u001b[0m\u001b(B\u001b[1;30r"
+    ],
+    [
+      0.002510,
+      "\u001b[H\u001b[2J\u001b]2;[screen -] \u0007\u001b[H\u001b[2J\u001b]2;screen\u0007\u001b]2;[screen 0: bash] \u0007"
+    ],
+    [
+      0.080081,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007"
+    ],
+    [
+      0.000110,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.106651,
+      "\r\u001b[10P(reverse-i-search)`': "
+    ],
+    [
+      0.375856,
+      "\u0008\u0008\u0008v': vagrant ssh labvm-1\\\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112154,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@a': "
+    ],
+    [
+      0.135784,
+      "\u0008\u0008\u0008\u001b[1@g': "
+    ],
+    [
+      0.976883,
+      "\r\u001b[7@[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.543417,
+      "vagrant ssh labvm-1\\"
+    ],
+    [
+      0.327846,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224279,
+      "\r\n"
+    ],
+    [
+      2.909836,
+      "Last login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n"
+    ],
+    [
+      0.004188,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: vagrant@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000549,
+      "[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      0.581753,
+      "s"
+    ],
+    [
+      0.143768,
+      "u"
+    ],
+    [
+      0.088138,
+      "d"
+    ],
+    [
+      0.176093,
+      "o"
+    ],
+    [
+      0.111929,
+      " "
+    ],
+    [
+      0.255949,
+      "-"
+    ],
+    [
+      0.168016,
+      "s"
+    ],
+    [
+      0.572572,
+      "\r\n"
+    ],
+    [
+      0.031423,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:/home/vagrant] \u0007"
+    ],
+    [
+      0.000283,
+      "[root@lab-vm-1 vagrant]# "
+    ],
+    [
+      0.755846,
+      "c"
+    ],
+    [
+      0.167901,
+      "d"
+    ],
+    [
+      0.047827,
+      "\r\n"
+    ],
+    [
+      0.000251,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000172,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      3.463992,
+      "i"
+    ],
+    [
+      0.000148,
+      "p"
+    ],
+    [
+      0.000144,
+      "t"
+    ],
+    [
+      0.000162,
+      "a"
+    ],
+    [
+      0.000124,
+      "b"
+    ],
+    [
+      0.000117,
+      "l"
+    ],
+    [
+      0.000127,
+      "e"
+    ],
+    [
+      0.000148,
+      "s"
+    ],
+    [
+      0.000134,
+      " "
+    ],
+    [
+      0.000144,
+      "-"
+    ],
+    [
+      0.000129,
+      "F"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.001547,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000169,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      2.860892,
+      "s"
+    ],
+    [
+      0.000138,
+      "y"
+    ],
+    [
+      0.000187,
+      "s"
+    ],
+    [
+      0.000126,
+      "t"
+    ],
+    [
+      0.000086,
+      "e"
+    ],
+    [
+      0.000101,
+      "m"
+    ],
+    [
+      0.000095,
+      "c"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000098,
+      "l"
+    ],
+    [
+      0.000097,
+      " "
+    ],
+    [
+      0.000105,
+      "s"
+    ],
+    [
+      0.000094,
+      "t"
+    ],
+    [
+      0.000099,
+      "a"
+    ],
+    [
+      0.000098,
+      "r"
+    ],
+    [
+      0.000097,
+      "t"
+    ],
+    [
+      0.000097,
+      " "
+    ],
+    [
+      0.000140,
+      "g"
+    ],
+    [
+      0.000140,
+      "l"
+    ],
+    [
+      0.000110,
+      "u"
+    ],
+    [
+      0.000095,
+      "s"
+    ],
+    [
+      0.000101,
+      "t"
+    ],
+    [
+      0.000095,
+      "e"
+    ],
+    [
+      0.000092,
+      "r"
+    ],
+    [
+      0.000098,
+      "d"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.071803,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007[root@lab-vm-1 ~]# "
+    ],
+    [
+      3.358687,
+      "mkdir -p /mnt/brick\r\n"
+    ],
+    [
+      0.004219,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000107,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      3.675319,
+      "gluster volume create dockervol 192.168.100.23:/mnt/brick force\r\n"
+    ],
+    [
+      0.061802,
+      "volume create: dockervol: success: please start the volume to access data\r\n"
+    ],
+    [
+      0.008951,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000130,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      5.154858,
+      "gluster volume start dockervol \r\n"
+    ],
+    [
+      0.148094,
+      "volume start: dockervol: success\r\n"
+    ],
+    [
+      0.000714,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007[root@lab-vm-1 ~]# "
+    ],
+    [
+      2.073926,
+      "\u001b[H\u001b[2J\u001b]2;screen\u0007\u001b]2;[screen 1: bash] \u0007"
+    ],
+    [
+      0.062085,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007"
+    ],
+    [
+      0.000100,
+      "[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.143717,
+      "\r\u001b[10P(reverse-i-search)`': "
+    ],
+    [
+      1.504076,
+      "\u0008\u0008\u0008v': vagrant ssh labvm-1\\\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.112036,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1@a': "
+    ],
+    [
+      0.728702,
+      "\r\u001b[8@[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.717242,
+      "\u001b[?5h\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b[?5l"
+    ],
+    [
+      0.000182,
+      "\u001b[1@[\u001b[1@4"
+    ],
+    [
+      0.000056,
+      "\u001b[1@~"
+    ],
+    [
+      0.601760,
+      "\u0008\u001b[P"
+    ],
+    [
+      0.135981,
+      "\u0008\u001b[P"
+    ],
+    [
+      0.136078,
+      "\u0008\u001b[P"
+    ],
+    [
+      0.383908,
+      "vagrant ssh labvm-1\\"
+    ],
+    [
+      0.344021,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135980,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.199931,
+      "2"
+    ],
+    [
+      0.168429,
+      "\r\n"
+    ],
+    [
+      3.003815,
+      "Last login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n"
+    ],
+    [
+      0.006161,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: vagrant@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000356,
+      "[vagrant@lab-vm-2 ~]$ "
+    ],
+    [
+      1.005891,
+      "s"
+    ],
+    [
+      0.183971,
+      "u"
+    ],
+    [
+      0.104038,
+      "d"
+    ],
+    [
+      0.127805,
+      "o"
+    ],
+    [
+      0.096111,
+      " "
+    ],
+    [
+      0.143875,
+      "-"
+    ],
+    [
+      0.184143,
+      "s"
+    ],
+    [
+      0.223953,
+      "\r\n"
+    ],
+    [
+      0.033184,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:/home/vagrant] \u0007"
+    ],
+    [
+      0.000349,
+      "[root@lab-vm-2 vagrant]# "
+    ],
+    [
+      0.126543,
+      "c"
+    ],
+    [
+      0.175946,
+      "d"
+    ],
+    [
+      0.159853,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000161,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      0.424067,
+      "i"
+    ],
+    [
+      0.000115,
+      "p"
+    ],
+    [
+      0.000142,
+      "t"
+    ],
+    [
+      0.000134,
+      "a"
+    ],
+    [
+      0.000129,
+      "b"
+    ],
+    [
+      0.000125,
+      "l"
+    ],
+    [
+      0.000144,
+      "e"
+    ],
+    [
+      0.000125,
+      "s"
+    ],
+    [
+      0.000129,
+      " "
+    ],
+    [
+      0.000122,
+      "-"
+    ],
+    [
+      0.000137,
+      "F"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.001439,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000125,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      3.421199,
+      "m"
+    ],
+    [
+      0.000130,
+      "k"
+    ],
+    [
+      0.000128,
+      "d"
+    ],
+    [
+      0.000109,
+      "i"
+    ],
+    [
+      0.000125,
+      "r"
+    ],
+    [
+      0.000159,
+      " "
+    ],
+    [
+      0.000093,
+      "/"
+    ],
+    [
+      0.000120,
+      "t"
+    ],
+    [
+      0.000144,
+      "m"
+    ],
+    [
+      0.000118,
+      "p"
+    ],
+    [
+      0.000123,
+      "/"
+    ],
+    [
+      0.000127,
+      "v"
+    ],
+    [
+      0.000113,
+      "o"
+    ],
+    [
+      0.000146,
+      "l"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.001263,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000158,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      3.925176,
+      "mount -t glusterfs 192.168.100.23:/dockervol /tmp/vol\r\n"
+    ],
+    [
+      0.085317,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      4.730088,
+      "t"
+    ],
+    [
+      0.111725,
+      "o"
+    ],
+    [
+      0.240028,
+      "u"
+    ],
+    [
+      0.079913,
+      "c"
+    ],
+    [
+      0.176955,
+      "h "
+    ],
+    [
+      0.271018,
+      " "
+    ],
+    [
+      0.224034,
+      "/"
+    ],
+    [
+      0.168129,
+      "t"
+    ],
+    [
+      0.095887,
+      "m"
+    ],
+    [
+      0.210428,
+      "p/"
+    ],
+    [
+      1.509713,
+      "v"
+    ],
+    [
+      0.243067,
+      "ol/"
+    ],
+    [
+      0.900863,
+      "f"
+    ],
+    [
+      0.063933,
+      "i"
+    ],
+    [
+      0.176062,
+      "l"
+    ],
+    [
+      0.087968,
+      "e"
+    ],
+    [
+      0.439917,
+      "\r\n"
+    ],
+    [
+      0.006282,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000127,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      0.697467,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\r\nLast login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n[vagrant@lab-vm-1 ~]$ sudo -s\r\n[root@lab-vm-1 vagrant]# cd\r\n[root@lab-vm-1 ~]# iptables -F\r\n[root@lab-vm-1 ~]# systemctl start glusterd\r\n[root@lab-vm-1 ~]# mkdir -p /mnt/brick\r\n[root@lab-vm-1 ~]# gluster volume create dockervol 192.168.100.23:/mnt/brick force\r\nvolume create: dockervol: success: please start the volume to access data\r\n[root@lab-vm-1 ~]# gluster volume start dockervol\r\nvolume start: dockervol: success\r\n[root@lab-vm-1 ~]#\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007 "
+    ],
+    [
+      0.584310,
+      "l"
+    ],
+    [
+      0.127934,
+      "s"
+    ],
+    [
+      0.071866,
+      " "
+    ],
+    [
+      0.200118,
+      "."
+    ],
+    [
+      0.568106,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.319852,
+      "/"
+    ],
+    [
+      0.351939,
+      "m"
+    ],
+    [
+      0.168140,
+      "n"
+    ],
+    [
+      0.090485,
+      "t/"
+    ],
+    [
+      0.309397,
+      "b"
+    ],
+    [
+      0.130481,
+      "rick/"
+    ],
+    [
+      0.493657,
+      "\r\n"
+    ],
+    [
+      0.001453,
+      "file"
+    ],
+    [
+      0.000374,
+      "\r\n"
+    ],
+    [
+      0.000401,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.000180,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      1.677121,
+      "\u001b[H\u001b[2J[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-2\r\nLast login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n[vagrant@lab-vm-2 ~]$ sudo -s\r\n[root@lab-vm-2 vagrant]# cd\r\n[root@lab-vm-2 ~]# iptables -F\r\n[root@lab-vm-2 ~]# mkdir /tmp/vol\r\n[root@lab-vm-2 ~]# mount -t glusterfs 192.168.100.23:/dockervol /tmp/vol\r\n[root@lab-vm-2 ~]# touch  /tmp/vol/file\r\n[root@lab-vm-2 ~]#\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007 "
+    ],
+    [
+      3.489336,
+      "export GOPATH=/root/code\r\n\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      3.680431,
+      "/root/code/bin/docker-volume-glusterfs -servers 192.168.100.23 \u0026\r\n[1] 2585\r\n\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      4.983777,
+      "systemctl stop docker\r\n"
+    ],
+    [
+      0.032293,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000476,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      6.887398,
+      "./docker-latest daemon  \u003e /dev/null 2\u003e\u00261  \u0026\r\n[2] 2601\r\n\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007[root@lab-vm-2 ~]# "
+    ],
+    [
+      1.214642,
+      "\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000190,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      0.543649,
+      "p"
+    ],
+    [
+      0.208010,
+      " "
+    ],
+    [
+      0.143900,
+      "a"
+    ],
+    [
+      0.248090,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127893,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168082,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.768051,
+      "s"
+    ],
+    [
+      0.287872,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.184023,
+      "p"
+    ],
+    [
+      0.112072,
+      "s"
+    ],
+    [
+      0.120084,
+      " "
+    ],
+    [
+      0.087983,
+      "a"
+    ],
+    [
+      0.208010,
+      "u"
+    ],
+    [
+      0.183999,
+      "x"
+    ],
+    [
+      0.112012,
+      " "
+    ],
+    [
+      0.447780,
+      "|"
+    ],
+    [
+      0.464121,
+      " "
+    ],
+    [
+      0.352135,
+      "g"
+    ],
+    [
+      0.207779,
+      "r"
+    ],
+    [
+      0.168102,
+      "e"
+    ],
+    [
+      0.056014,
+      "p"
+    ],
+    [
+      0.488033,
+      " "
+    ],
+    [
+      0.360028,
+      "d"
+    ],
+    [
+      0.295797,
+      "o"
+    ],
+    [
+      0.112022,
+      "c"
+    ],
+    [
+      0.112165,
+      "k"
+    ],
+    [
+      0.087871,
+      "e"
+    ],
+    [
+      0.224122,
+      "r"
+    ],
+    [
+      0.194068,
+      "\r\n"
+    ],
+    [
+      0.003456,
+      "root      2567  0.0  2.6 391464 26744 ?        Ssl  16:17   0:00 /usr/sbin/glusterfs --volfile-server=192.168.100.23 --volfile-id=/\u001b[1m\u001b[31m\u001b[0m\u001b[K\u001b[1m\u001b[31mdocker\u001b[0m\u001b[Kvol /tmp/vol\r\n"
+    ],
+    [
+      0.000166,
+      "root      2585  0.0  0.4   7612  4360 pts/0    Sl   16:18   0:00 /root/code/bin/\u001b[1m\u001b[31m\u001b[0m\u001b[K\u001b[1m\u001b[31mdocker\u001b[0m\u001b[K-volume-glusterfs -servers 192.168.100.23"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "root      2601  0.7  2.1 193992 21876 pts/0    Sl   16:18   0:00 ./\u001b[1m\u001b[31m\u001b[0m\u001b[K\u001b[1m\u001b[31mdocker\u001b[0m\u001b[K-latest daemon"
+    ],
+    [
+      0.000108,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "root      2663  0.0  0.2 114328  2288 pts/0    S+   16:18   0:00 grep --color=auto \u001b[1m\u001b[31m\u001b[0m\u001b[K\u001b[1m\u001b[31mdocker\u001b[0m\u001b[K"
+    ],
+    [
+      0.000098,
+      "\r\n"
+    ],
+    [
+      0.000636,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] \u0007"
+    ],
+    [
+      0.000170,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      5.122475,
+      "./docker-latest  run -it  --volume-driver glusterfs --volume dockervol:/data centos\r\n"
+    ],
+    [
+      0.013451,
+      "Unable to find image 'centos:latest' locally"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      6.868253,
+      "latest: "
+    ],
+    [
+      0.000144,
+      "Pulling from library/centos"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\n"
+    ],
+    [
+      0.001394,
+      "\n"
+    ],
+    [
+      0.000096,
+      "\u001b[A"
+    ],
+    [
+      0.000166,
+      "\u001b[K"
+    ],
+    [
+      0.000134,
+      "47d44cb6f252: "
+    ],
+    [
+      0.000141,
+      "Already exists \r"
+    ],
+    [
+      0.000123,
+      "\n"
+    ],
+    [
+      0.001450,
+      "\n"
+    ],
+    [
+      0.000175,
+      "\u001b[A"
+    ],
+    [
+      0.000172,
+      "\u001b[K"
+    ],
+    [
+      0.000148,
+      "f6f39725d938: "
+    ],
+    [
+      0.000131,
+      "Already exists \r"
+    ],
+    [
+      0.000115,
+      "\n"
+    ],
+    [
+      0.001365,
+      "\n"
+    ],
+    [
+      0.000154,
+      "\u001b[A"
+    ],
+    [
+      0.000140,
+      "\u001b[K"
+    ],
+    [
+      0.000203,
+      "f9a8cbc8dd13: "
+    ],
+    [
+      0.000135,
+      "Already exists \r"
+    ],
+    [
+      0.000152,
+      "\n"
+    ],
+    [
+      0.001363,
+      "\n"
+    ],
+    [
+      0.000113,
+      "\u001b[A"
+    ],
+    [
+      0.000087,
+      "\u001b[K"
+    ],
+    [
+      0.000103,
+      "f37e6a610a37: "
+    ],
+    [
+      0.000123,
+      "Already exists \r"
+    ],
+    [
+      0.000120,
+      "\n"
+    ],
+    [
+      0.001999,
+      "\n"
+    ],
+    [
+      0.000180,
+      "\u001b[A"
+    ],
+    [
+      0.000094,
+      "\u001b[K"
+    ],
+    [
+      0.000169,
+      "0f73ae75014f: "
+    ],
+    [
+      0.000165,
+      "Already exists \r"
+    ],
+    [
+      0.000116,
+      "\n"
+    ],
+    [
+      0.000220,
+      "Digest: sha256:2d9573acf37315cb8fe2a1420769c3b83f59d8f286fd8898a580578c0d5e66c6"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "Status: Downloaded newer image for centos:latest"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.133074,
+      "2015/09/30 16:18:44 Creating volume dockervol"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.046072,
+      "2015/09/30 16:18:44 Mounting volume dockervol on /var/lib/docker-volumes/_glusterfs/dockervol"
+    ],
+    [
+      0.002806,
+      "\r\n"
+    ],
+    [
+      0.317785,
+      "\u001b[22;2t\u001b]2;@09c84a7929a1:/\u0007\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @09c84a7929a1:/\u0007"
+    ],
+    [
+      0.001213,
+      "[root@09c84a7929a1 /]# "
+    ],
+    [
+      2.339493,
+      "l"
+    ],
+    [
+      0.176010,
+      " "
+    ],
+    [
+      0.328045,
+      "\u0008 \u0008"
+    ],
+    [
+      0.055891,
+      "s"
+    ],
+    [
+      0.176103,
+      " "
+    ],
+    [
+      0.344002,
+      "/"
+    ],
+    [
+      0.624038,
+      "d"
+    ],
+    [
+      0.039850,
+      "a"
+    ],
+    [
+      0.144818,
+      "ta/"
+    ],
+    [
+      0.431812,
+      "\r\n"
+    ],
+    [
+      0.040255,
+      "file"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.001770,
+      "[root@09c84a7929a1 /]# "
+    ],
+    [
+      1.381253,
+      "t"
+    ],
+    [
+      0.415906,
+      "\u0008 \u0008"
+    ],
+    [
+      0.152214,
+      "\u001b[?5h\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001b[?5l"
+    ],
+    [
+      0.352063,
+      "d"
+    ],
+    [
+      0.087821,
+      "a"
+    ],
+    [
+      0.087860,
+      "t"
+    ],
+    [
+      0.136169,
+      "e"
+    ],
+    [
+      0.559949,
+      " "
+    ],
+    [
+      0.616004,
+      "\u003e"
+    ],
+    [
+      0.128269,
+      " "
+    ],
+    [
+      0.159646,
+      "/"
+    ],
+    [
+      0.944295,
+      "d"
+    ],
+    [
+      0.047760,
+      "a"
+    ],
+    [
+      0.128640,
+      "ta/"
+    ],
+    [
+      0.743464,
+      "d"
+    ],
+    [
+      0.583944,
+      "a"
+    ],
+    [
+      0.192014,
+      "t"
+    ],
+    [
+      0.104015,
+      "e"
+    ],
+    [
+      0.408667,
+      "\r\n"
+    ],
+    [
+      0.007533,
+      "[root@09c84a7929a1 /]# "
+    ],
+    [
+      1.391854,
+      "c"
+    ],
+    [
+      0.215898,
+      "a"
+    ],
+    [
+      0.031843,
+      "t"
+    ],
+    [
+      0.128163,
+      " "
+    ],
+    [
+      0.376174,
+      "/data/date"
+    ],
+    [
+      0.641509,
+      "\r\n"
+    ],
+    [
+      0.001424,
+      "Wed Sep 30 07:18:56 UTC 2015"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.000830,
+      "[root@09c84a7929a1 /]# "
+    ],
+    [
+      1.495735,
+      "exit\r\n"
+    ],
+    [
+      0.073598,
+      "2015/09/30 16:19:01 Unmounting volume dockervol from /var/lib/docker-volumes/_glusterfs/dockervol\r\n"
+    ],
+    [
+      0.019461,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @09c84a7929a1:/\u0007"
+    ],
+    [
+      0.000406,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      1.782405,
+      "l"
+    ],
+    [
+      0.152234,
+      "s"
+    ],
+    [
+      0.079903,
+      " "
+    ],
+    [
+      0.167813,
+      "/"
+    ],
+    [
+      0.928187,
+      "t"
+    ],
+    [
+      0.250268,
+      "mp/"
+    ],
+    [
+      1.221640,
+      "v"
+    ],
+    [
+      0.072143,
+      "o"
+    ],
+    [
+      0.154988,
+      "l/"
+    ],
+    [
+      0.261072,
+      "\r\n"
+    ],
+    [
+      0.003127,
+      "date  file\r\n"
+    ],
+    [
+      0.000382,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @09c84a7929a1:/\u0007"
+    ],
+    [
+      0.000130,
+      "[root@lab-vm-2 ~]# "
+    ],
+    [
+      1.587688,
+      "\u001b[H\u001b[2J\u001b]2;screen\u0007[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\r\nLast login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n[vagrant@lab-vm-1 ~]$ sudo -s\r\n[root@lab-vm-1 vagrant]# cd\r\n[root@lab-vm-1 ~]# iptables -F\r\n[root@lab-vm-1 ~]# systemctl start glusterd\r\n[root@lab-vm-1 ~]# mkdir -p /mnt/brick\r\n[root@lab-vm-1 ~]# gluster volume create dockervol 192.168.100.23:/mnt/brick force\r\nvolume create: dockervol: success: please start the volume to access data\r\n[root@lab-vm-1 ~]# gluster volume start dockervol\r\nvolume start: dockervol: success\r\n[root@lab-vm-1 ~]# ls /mnt/brick/\r\nfile\r\n[root@lab-vm-1 ~]#\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007 "
+    ],
+    [
+      0.816544,
+      "l"
+    ],
+    [
+      0.127973,
+      "s"
+    ],
+    [
+      0.216030,
+      " /mnt/brick/"
+    ],
+    [
+      0.441415,
+      "\r\ndate  file\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007"
+    ],
+    [
+      0.001891,
+      "[root@lab-vm-1 ~]# "
+    ],
+    [
+      0.860454,
+      "\u001b[H\u001b[2J\u001b]2;@09c84a7929a1:/\u0007[root@lab-vm-2 ~]#\r\n[root@lab-vm-2 ~]# ps aux | grep docker\r\nroot\u001b[6C2567  0.0  2.6 391464 26744 ?\u001b[8CSsl  16:17   0:00 /usr/sbin/glusterfs --volfile-server=192.168.100.23 --volfile-id=/\u001b[1m\u001b[31mdocker\u001b[0mvol /tmp/vol\r\nroot\u001b[6C2585  0.0  0.4   7612  4360 pts/0\u001b[4CSl   16:18   0:00 /root/code/bin/\u001b[1m\u001b[31mdocker\u001b[0m-volume-glusterfs -servers 192.168.100.23\r\nroot\u001b[6C2601  0.7  2.1 193992 21876 pts/0\u001b[4CSl   16:18   0:00 ./\u001b[1m\u001b[31mdocker\u001b[0m-latest daemon\r\nroot\u001b[6C2663  0.0  0.2 114328  2288 pts/0\u001b[4CS+   16:18   0:00 grep --color=auto \u001b[1m\u001b[31mdocker\r\n\u001b[0m[root@lab-vm-2 ~]# ./docker-latest  run -it  --volume-driver glusterfs --volume dockervol:/data centos\r\nUnable to find image 'centos:latest' locally\r\nlatest: Pulling from library/centos\r\n\n47d44cb6f252: Already exists\r\nf6f39725d938: Already exists\r\nf9a8cbc8dd13: Already exists\r\nf37e6a610a37: Already exists\r\n0f73ae75014f: Already exists\r\nDigest: sha256:2d9573acf37315cb8fe2a1420769c3b83f59d8f286fd8898a580578c0d5e66c6\r\nStatus: Downloaded newer image for centos:latest\r\n2015/09/30 16:18:44 Creating volume dockervol\r\n2015/09/30 16:18:44 Mounting volume dockervol on /var/lib/docker-volumes/_glusterfs/dockervol\r\n[root@09c84a7929a1 /]# ls /data/\r\nfile\r\n[root@09c84a7929a1 /]# date \u003e /data/date\r\n[root@09c84a7929a1 /]# cat /data/date\r\nWed Sep 30 07:18:56 UTC 2015\r\n[root@09c84a7929a1 /]# exit\r\n2015/09/30 16:19:01 Unmounting volume dockervol from /var/lib/docker-volumes/_glusterfs/dockervol\r\n[root@lab-vm-2 ~]# ls /tmp/vol/\r\ndate  file\r\n[root@lab-vm-2 ~]#\u001b]2;screen\u0007\u001b]2;[screen 1: root@lab-vm-2:~] @09c84a7929a1:/\u0007 "
+    ],
+    [
+      5.561563,
+      "exit\r\n"
+    ],
+    [
+      0.000493,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: vagrant@lab-vm-2:~] @09c84a7929a1:/\u0007[vagrant@lab-vm-2 ~]$ "
+    ],
+    [
+      0.447781,
+      "logout\r\nConnection to 127.0.0.1 closed.\r\n"
+    ],
+    [
+      0.000529,
+      "\u001b]2;screen\u0007\u001b]2;[screen 1: nkhare@dhcp35-118:/work/presetations/linuxconeu] @09c84a7929a1:/\u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.406369,
+      "exit\r\n"
+    ],
+    [
+      0.001198,
+      "\u001b[H\u001b[2J\u001b]2;screen\u0007[nkhare@dhcp35-118 linuxconeu]$ vagrant ssh labvm-1\r\nLast login: Wed Sep 30 16:01:11 2015 from 10.0.2.2\r\n[vagrant@lab-vm-1 ~]$ sudo -s\r\n[root@lab-vm-1 vagrant]# cd\r\n[root@lab-vm-1 ~]# iptables -F\r\n[root@lab-vm-1 ~]# systemctl start glusterd\r\n[root@lab-vm-1 ~]# mkdir -p /mnt/brick\r\n[root@lab-vm-1 ~]# gluster volume create dockervol 192.168.100.23:/mnt/brick force\r\nvolume create: dockervol: success: please start the volume to access data\r\n[root@lab-vm-1 ~]# gluster volume start dockervol\r\nvolume start: dockervol: success\r\n[root@lab-vm-1 ~]# ls /mnt/brick/\r\nfile\r\n[root@lab-vm-1 ~]# ls /mnt/brick/\r\ndate  file\r\n[root@lab-vm-1 ~]#\u001b]2;screen\u0007\u001b]2;[screen 0: root@lab-vm-1:~] \u0007 "
+    ],
+    [
+      0.711932,
+      "exit\r\n\u001b]2;screen\u0007\u001b]2;[screen 0: vagrant@lab-vm-1:~] \u0007[vagrant@lab-vm-1 ~]$ "
+    ],
+    [
+      0.575139,
+      "logout\r\n"
+    ],
+    [
+      0.000683,
+      "Connection to 127.0.0.1 closed.\r\n"
+    ],
+    [
+      0.003207,
+      "\u001b]2;screen\u0007\u001b]2;[screen 0: nkhare@dhcp35-118:/work/presetations/linuxconeu] \u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      0.763507,
+      "exit\r\n"
+    ],
+    [
+      0.001115,
+      "\u001b[?1l\u001b\u003e\u001b]2;screen\u0007\u001b]2;screen\u0007\u001b[23;2t\u001b[30;1H\r\n\u001b[?1049l[screen is terminating]\r\n"
+    ],
+    [
+      0.008449,
+      "\u001b]777;notify;Command completed;screen \u0007\u001b]0;nkhare@dhcp35-118:/work/presetations/linuxconeu\u0007\u001b]7;file://dhcp35-118.lab.eng.blr.redhat.com/work/presetations/linuxconeu\u0007[nkhare@dhcp35-118 linuxconeu]$ "
+    ],
+    [
+      1.270196,
+      "exit\r\n"
+    ]
+  ]
+}
